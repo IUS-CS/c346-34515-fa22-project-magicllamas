@@ -8,6 +8,18 @@ There are basic tools to get familiar with:
 * [Discord Wrappers/Libraries such as Discord4J](https://discord4j.com/)
 ## Usage
 The Discord Bot is a useful assitant on a Discord server. It is really cool that discord bots can be configured because *not all Discord servers are made equal.* Having a personalized Discord bot can make group chats, group meetings, and more that much more easier. 
+
+##Features
+1. Weather, Local or of User choosing
+2. Change User name in the server 
+3. Current time, local or User choosing
+4. Show Random Cat photo to server
+5. Send photo of cat to someone that is in the server
+6. Insult Generator (School Appropriate)
+7. Photo Spam person of user choosing 
+8. Ping Spam person of user choosing
+9. Pull up default browser and rick roll user
+
 ## Contributing
 The Discord Bot is built by AUTHORS. 
 ## License
