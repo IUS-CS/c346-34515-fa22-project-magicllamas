@@ -1,1 +1,1 @@
-![Planning](architecture.md.jpg)
+![Planning](architecture1.md.jpg)
