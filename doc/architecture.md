@@ -1,1 +1,0 @@
-![Planning](architecture.md.jpg)
