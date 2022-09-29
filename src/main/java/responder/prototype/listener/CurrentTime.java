@@ -8,8 +8,9 @@ import java.util.Date;
 import java.util.TimeZone;
 
 public class CurrentTime extends ListenerAdapter {
+    //CurrentTime will find the current time and date for the timezone you ask for, but it is limited
     public static String CurrentTime(String location){
-        //Pulls date library to get proper date of GMT
+        //Pulls date library to get proper date of Location
         Date date = new Date();
         //Formats the Date Formatter to the String in the parentheses of SimpleDateFormat
         DateFormat df = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
