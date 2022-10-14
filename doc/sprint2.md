@@ -7,7 +7,7 @@ Members present:
 * Brandon Mora
 * Jack Copenhaver
 * Christianne 
-
+* Louis Wiley
   
   ## Demo
   
