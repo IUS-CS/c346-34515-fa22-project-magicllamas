@@ -30,6 +30,18 @@ public class InsultGenerator extends ListenerAdapter {
             MessageChannel channel = event.getChannel();//get whatever you say
             //respond well
             channel.sendMessage("Pull harder, You Silly Wiener Wizard!").queue(); // Important to call .queue() on the RestAction returned by sendMessage(...)
+        } else if(content.contains("meet")) {
+            MessageChannel channel = event.getChannel();//get whatever you say
+            //respond well
+            channel.sendMessage("Come quickly, You slow turtle!").queue(); // Important to call .queue() on the RestAction returned by sendMessage(...)
+        }else if(content.contains("insult")) {
+            MessageChannel channel = event.getChannel();//get whatever you say
+            //respond well
+            channel.sendMessage("Do you care for more, You silly child").queue(); // Important to call .queue() on the RestAction returned by sendMessage(...)
+        }else if(content.contains("yes")) {
+            MessageChannel channel = event.getChannel();//get whatever you say
+            //respond well
+            channel.sendMessage("Always accepting everything, prove you have some brains snail!").queue(); // Important to call .queue() on the RestAction returned by sendMessage(...)
         }
     }
 }

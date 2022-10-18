@@ -1,18 +1,33 @@
 package responder.prototype.listener;
-
+import net.dv8tion.jda.api.entities.channel.middleman.MessageChannel;
+import net.dv8tion.jda.api.events.message.MessageReceivedEvent;
+import net.dv8tion.jda.api.hooks.ListenerAdapter;
 import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.extension.ExtendWith;
+import org.mockito.Mock;
+import org.mockito.junit.jupiter.MockitoExtension;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+@ExtendWith(MockitoExtension.class)
+class InsultGeneratorTest{
 
-import static org.junit.jupiter.api.Assertions.*;
+    @Mock
+    MessageReceivedEvent eventMock;
 
-class InsultGeneratorTest {
     @Test
+    public void botIgnoredTest() { //wait until a message is sent on discord
 
-    void test() {
-
-        System.out.println("Bot is currently tested on Discord channel");
+        try {
+            wait(80000);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
+        //ignore bot messages?
+        //do not respond to other bots
+        MessageChannel channel = eventMock.getChannel();//get whatever you say
+        if (eventMock.getAuthor().isBot()) {
+            assertTrue(eventMock.getAuthor().isBot());
+        }
     }
-
 }
