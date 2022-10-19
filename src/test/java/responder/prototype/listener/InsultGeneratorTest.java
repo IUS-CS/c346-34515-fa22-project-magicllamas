@@ -22,6 +22,7 @@ class InsultGeneratorTest{
         //do not respond to other bots
         if (event.getAuthor().isBot()) {
             assertTrue(event.getAuthor().isBot());
+            //
         }
     }
 }
