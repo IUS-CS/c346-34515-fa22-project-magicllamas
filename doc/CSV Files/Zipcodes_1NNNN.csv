@@ -1,0 +1,3727 @@
+zip,lat,lng,city,timezone
+10001,40.75064,-73.99728,New York,America/New_York
+10002,40.71597,-73.98692,New York,America/New_York
+10003,40.73184,-73.98915,New York,America/New_York
+10004,40.69431,-74.01835,New York,America/New_York
+10005,40.70614,-74.00862,New York,America/New_York
+10006,40.70949,-74.01306,New York,America/New_York
+10007,40.71387,-74.00792,New York,America/New_York
+10009,40.72639,-73.97865,New York,America/New_York
+10010,40.73899,-73.98243,New York,America/New_York
+10011,40.74173,-74.00037,New York,America/New_York
+10012,40.7256,-73.99794,New York,America/New_York
+10013,40.72001,-74.00472,New York,America/New_York
+10014,40.73407,-74.00601,New York,America/New_York
+10016,40.74515,-73.97807,New York,America/New_York
+10017,40.75235,-73.9726,New York,America/New_York
+10018,40.75536,-73.99265,New York,America/New_York
+10019,40.76586,-73.9853,New York,America/New_York
+10020,40.75917,-73.98071,New York,America/New_York
+10021,40.76963,-73.95899,New York,America/New_York
+10022,40.75856,-73.96787,New York,America/New_York
+10023,40.77464,-73.97836,New York,America/New_York
+10024,40.78534,-73.97138,New York,America/New_York
+10025,40.79825,-73.96831,New York,America/New_York
+10026,40.80302,-73.95348,New York,America/New_York
+10027,40.81187,-73.95459,New York,America/New_York
+10028,40.77643,-73.95339,New York,America/New_York
+10029,40.79265,-73.94788,New York,America/New_York
+10030,40.81826,-73.94283,New York,America/New_York
+10031,40.82485,-73.95023,New York,America/New_York
+10032,40.839,-73.94282,New York,America/New_York
+10033,40.84744,-73.93549,New York,America/New_York
+10034,40.86749,-73.92358,New York,America/New_York
+10035,40.79538,-73.92965,New York,America/New_York
+10036,40.75976,-73.99064,New York,America/New_York
+10037,40.81302,-73.93776,New York,America/New_York
+10038,40.70914,-74.00298,New York,America/New_York
+10039,40.82631,-73.93752,New York,America/New_York
+10040,40.85807,-73.9296,New York,America/New_York
+10044,40.76209,-73.94981,New York,America/New_York
+10065,40.76472,-73.96332,New York,America/New_York
+10069,40.77752,-73.98875,New York,America/New_York
+10075,40.77342,-73.95642,New York,America/New_York
+10103,40.76078,-73.97767,New York,America/New_York
+10110,40.7545,-73.98226,New York,America/New_York
+10111,40.75953,-73.97858,New York,America/New_York
+10112,40.75891,-73.97904,New York,America/New_York
+10115,40.81085,-73.96374,New York,America/New_York
+10119,40.75064,-73.99273,New York,America/New_York
+10128,40.78151,-73.95018,New York,America/New_York
+10152,40.75872,-73.9718,New York,America/New_York
+10153,40.76362,-73.97244,New York,America/New_York
+10154,40.75778,-73.97249,New York,America/New_York
+10162,40.76936,-73.94986,New York,America/New_York
+10165,40.75213,-73.97872,New York,America/New_York
+10167,40.75465,-73.97477,New York,America/New_York
+10168,40.75145,-73.9771,New York,America/New_York
+10169,40.75467,-73.97643,New York,America/New_York
+10170,40.75263,-73.97588,New York,America/New_York
+10171,40.7559,-73.97386,New York,America/New_York
+10172,40.75527,-73.97431,New York,America/New_York
+10173,40.75379,-73.97961,New York,America/New_York
+10174,40.75144,-73.975,New York,America/New_York
+10177,40.75498,-73.97589,New York,America/New_York
+10199,40.75138,-73.99715,New York,America/New_York
+10271,40.70844,-74.01033,New York,America/New_York
+10278,40.71513,-74.00373,New York,America/New_York
+10279,40.71263,-74.00867,New York,America/New_York
+10280,40.70985,-74.01651,New York,America/New_York
+10282,40.71655,-74.01495,New York,America/New_York
+10301,40.62803,-74.09564,Staten Island,America/New_York
+10302,40.63055,-74.13776,Staten Island,America/New_York
+10303,40.63223,-74.16903,Staten Island,America/New_York
+10304,40.60671,-74.0931,Staten Island,America/New_York
+10305,40.59592,-74.07539,Staten Island,America/New_York
+10306,40.57149,-74.1243,Staten Island,America/New_York
+10307,40.50817,-74.24254,Staten Island,America/New_York
+10308,40.55213,-74.15029,Staten Island,America/New_York
+10309,40.53001,-74.21912,Staten Island,America/New_York
+10310,40.63243,-74.11653,Staten Island,America/New_York
+10311,40.60523,-74.17956,Staten Island,America/New_York
+10312,40.54489,-74.18084,Staten Island,America/New_York
+10314,40.60086,-74.16306,Staten Island,America/New_York
+10451,40.82097,-73.92383,Bronx,America/New_York
+10452,40.8378,-73.92333,Bronx,America/New_York
+10453,40.85248,-73.9133,Bronx,America/New_York
+10454,40.8056,-73.91664,Bronx,America/New_York
+10455,40.8148,-73.90862,Bronx,America/New_York
+10456,40.83064,-73.90812,Bronx,America/New_York
+10457,40.84571,-73.89794,Bronx,America/New_York
+10458,40.86249,-73.88643,Bronx,America/New_York
+10459,40.82572,-73.89295,Bronx,America/New_York
+10460,40.84273,-73.87891,Bronx,America/New_York
+10461,40.84671,-73.84079,Bronx,America/New_York
+10462,40.84297,-73.85873,Bronx,America/New_York
+10463,40.88841,-73.89905,Bronx,America/New_York
+10464,40.86821,-73.80044,Bronx,America/New_York
+10465,40.8286,-73.82179,Bronx,America/New_York
+10466,40.89104,-73.8461,Bronx,America/New_York
+10467,40.87522,-73.872,Bronx,America/New_York
+10468,40.8681,-73.89985,Bronx,America/New_York
+10469,40.86851,-73.84666,Bronx,America/New_York
+10470,40.89598,-73.86805,Bronx,America/New_York
+10471,40.90002,-73.9067,Bronx,America/New_York
+10472,40.82968,-73.86942,Bronx,America/New_York
+10473,40.81817,-73.85889,Bronx,America/New_York
+10474,40.81061,-73.8846,Bronx,America/New_York
+10475,40.87528,-73.82702,Bronx,America/New_York
+10501,41.2954,-73.76006,Amawalk,America/New_York
+10502,41.01126,-73.8409,Ardsley,America/New_York
+10503,41.02654,-73.8753,Ardsley On Hudson,America/New_York
+10504,41.13065,-73.70629,Armonk,America/New_York
+10505,41.34207,-73.74791,Baldwin Place,America/New_York
+10506,41.1889,-73.63411,Bedford,America/New_York
+10507,41.22879,-73.6878,Bedford Hills,America/New_York
+10509,41.41205,-73.5937,Brewster,America/New_York
+10510,41.14152,-73.83411,Briarcliff Manor,America/New_York
+10511,41.26302,-73.94391,Buchanan,America/New_York
+10512,41.4483,-73.71054,Carmel,America/New_York
+10514,41.17331,-73.77071,Chappaqua,America/New_York
+10516,41.45342,-73.90233,Cold Spring,America/New_York
+10517,41.29837,-73.86013,Crompond,America/New_York
+10518,41.26787,-73.60073,Cross River,America/New_York
+10519,41.34701,-73.66196,Croton Falls,America/New_York
+10520,41.22183,-73.87348,Croton On Hudson,America/New_York
+10522,41.01221,-73.8646,Dobbs Ferry,America/New_York
+10523,41.06005,-73.81859,Elmsford,America/New_York
+10524,41.37076,-73.92201,Garrison,America/New_York
+10526,41.29388,-73.66171,Goldens Bridge,America/New_York
+10527,41.3195,-73.76502,Granite Springs,America/New_York
+10528,40.97819,-73.72306,Harrison,America/New_York
+10530,41.02304,-73.80764,Hartsdale,America/New_York
+10532,41.09873,-73.80066,Hawthorne,America/New_York
+10533,41.03826,-73.8556,Irvington,America/New_York
+10535,41.33536,-73.79965,Jefferson Valley,America/New_York
+10536,41.26971,-73.68943,Katonah,America/New_York
+10537,41.33784,-73.88528,Lake Peekskill,America/New_York
+10538,40.9376,-73.75707,Larchmont,America/New_York
+10540,41.32575,-73.72745,Lincolndale,America/New_York
+10541,41.37855,-73.75122,Mahopac,America/New_York
+10542,41.37115,-73.76436,Mahopac Falls,America/New_York
+10543,40.95274,-73.73645,Mamaroneck,America/New_York
+10545,41.17861,-73.83547,Maryknoll,America/New_York
+10546,41.19472,-73.8002,Millwood,America/New_York
+10547,41.31178,-73.84637,Mohegan Lake,America/New_York
+10548,41.24599,-73.93643,Montrose,America/New_York
+10549,41.19981,-73.72028,Mount Kisco,America/New_York
+10550,40.90627,-73.8351,Mount Vernon,America/New_York
+10552,40.92376,-73.82497,Mount Vernon,America/New_York
+10553,40.90858,-73.82161,Mount Vernon,America/New_York
+10560,41.33303,-73.60264,North Salem,America/New_York
+10562,41.19295,-73.8305,Ossining,America/New_York
+10566,41.28924,-73.91837,Peekskill,America/New_York
+10567,41.28922,-73.89633,Cortlandt Manor,America/New_York
+10570,41.12854,-73.78917,Pleasantville,America/New_York
+10573,41.01676,-73.67735,Port Chester,America/New_York
+10576,41.21323,-73.57289,Pound Ridge,America/New_York
+10577,41.03755,-73.71349,Purchase,America/New_York
+10578,41.31815,-73.673,Purdys,America/New_York
+10579,41.39651,-73.83384,Putnam Valley,America/New_York
+10580,40.97854,-73.69258,Rye,America/New_York
+10583,40.98916,-73.79443,Scarsdale,America/New_York
+10588,41.33222,-73.82624,Shrub Oak,America/New_York
+10589,41.33178,-73.6933,Somers,America/New_York
+10590,41.25421,-73.53719,South Salem,America/New_York
+10591,41.08436,-73.84653,Tarrytown,America/New_York
+10594,41.11579,-73.771,Thornwood,America/New_York
+10595,41.08626,-73.78097,Valhalla,America/New_York
+10596,41.25552,-73.95854,Verplanck,America/New_York
+10597,41.29423,-73.59703,Waccabuc,America/New_York
+10598,41.28309,-73.79516,Yorktown Heights,America/New_York
+10601,41.03288,-73.7648,White Plains,America/New_York
+10603,41.05364,-73.78014,White Plains,America/New_York
+10604,41.06013,-73.73955,West Harrison,America/New_York
+10605,41.0095,-73.74518,White Plains,America/New_York
+10606,41.02065,-73.77588,White Plains,America/New_York
+10607,41.03949,-73.81214,White Plains,America/New_York
+10701,40.94702,-73.88034,Yonkers,America/New_York
+10703,40.95765,-73.88114,Yonkers,America/New_York
+10704,40.91911,-73.86187,Yonkers,America/New_York
+10705,40.91929,-73.88928,Yonkers,America/New_York
+10706,40.99047,-73.86951,Hastings On Hudson,America/New_York
+10707,40.95961,-73.82291,Tuckahoe,America/New_York
+10708,40.9379,-73.83167,Bronxville,America/New_York
+10709,40.95337,-73.80885,Eastchester,America/New_York
+10710,40.96732,-73.84739,Yonkers,America/New_York
+10801,40.91751,-73.78396,New Rochelle,America/New_York
+10803,40.89978,-73.80619,Pelham,America/New_York
+10804,40.94914,-73.78629,New Rochelle,America/New_York
+10805,40.89593,-73.78028,New Rochelle,America/New_York
+10901,41.14554,-74.12504,Suffern,America/New_York
+10910,41.2773,-74.13625,Arden,America/New_York
+10911,41.30798,-73.99243,Bear Mountain,America/New_York
+10913,41.06845,-73.95574,Blauvelt,America/New_York
+10914,41.41671,-74.20087,Blooming Grove,America/New_York
+10915,41.54022,-74.35714,Bullville,America/New_York
+10916,41.44881,-74.24311,Campbell Hall,America/New_York
+10917,41.31851,-74.11094,Central Valley,America/New_York
+10918,41.34816,-74.25828,Chester,America/New_York
+10919,41.52836,-74.38327,Circleville,America/New_York
+10920,41.15477,-73.9393,Congers,America/New_York
+10921,41.3292,-74.3651,Florida,America/New_York
+10922,41.32794,-73.99604,Fort Montgomery,America/New_York
+10923,41.20265,-74.00031,Garnerville,America/New_York
+10924,41.3788,-74.3512,Goshen,America/New_York
+10925,41.20076,-74.29535,Greenwood Lake,America/New_York
+10926,41.25856,-74.1307,Harriman,America/New_York
+10927,41.19263,-73.96735,Haverstraw,America/New_York
+10928,41.3457,-74.00265,Highland Falls,America/New_York
+10930,41.3667,-74.11035,Highland Mills,America/New_York
+10931,41.12769,-74.17012,Hillburn,America/New_York
+10932,41.482,-74.46352,Howells,America/New_York
+10933,41.36527,-74.51106,Johnson,America/New_York
+10940,41.45149,-74.46997,Middletown,America/New_York
+10941,41.48923,-74.34556,Middletown,America/New_York
+10950,41.31919,-74.19825,Monroe,America/New_York
+10952,41.11385,-74.07975,Monsey,America/New_York
+10953,41.40581,-74.07783,Mountainville,America/New_York
+10954,41.09969,-74.01269,Nanuet,America/New_York
+10956,41.15562,-73.99314,New City,America/New_York
+10958,41.3764,-74.42881,New Hampton,America/New_York
+10960,41.08892,-73.92642,Nyack,America/New_York
+10962,41.04857,-73.96057,Orangeburg,America/New_York
+10963,41.4669,-74.54121,Otisville,America/New_York
+10964,41.01642,-73.91431,Palisades,America/New_York
+10965,41.06176,-74.01286,Pearl River,America/New_York
+10968,41.03976,-73.91804,Piermont,America/New_York
+10969,41.292,-74.48879,Pine Island,America/New_York
+10970,41.1852,-74.06568,Pomona,America/New_York
+10973,41.38442,-74.47566,Slate Hill,America/New_York
+10974,41.15826,-74.18993,Sloatsburg,America/New_York
+10975,41.25951,-74.17042,Southfields,America/New_York
+10976,41.02871,-73.92594,Sparkill,America/New_York
+10977,41.11749,-74.04825,Spring Valley,America/New_York
+10979,41.18237,-74.31877,Sterling Forest,America/New_York
+10980,41.23157,-74.05709,Stony Point,America/New_York
+10983,41.02747,-73.94826,Tappan,America/New_York
+10984,41.20928,-74.02008,Thiells,America/New_York
+10985,41.57697,-74.35782,Thompson Ridge,America/New_York
+10986,41.27917,-73.99445,Tomkins Cove,America/New_York
+10987,41.20737,-74.22284,Tuxedo Park,America/New_York
+10988,41.30133,-74.56218,Unionville,America/New_York
+10989,41.12479,-73.93632,Valley Cottage,America/New_York
+10990,41.2651,-74.3663,Warwick,America/New_York
+10992,41.42648,-74.16567,Washingtonville,America/New_York
+10993,41.21011,-73.97565,West Haverstraw,America/New_York
+10994,41.09702,-73.97322,West Nyack,America/New_York
+10996,41.38996,-73.97257,West Point,America/New_York
+10998,41.33118,-74.53989,Westtown,America/New_York
+11001,40.72356,-73.70451,Floral Park,America/New_York
+11003,40.70143,-73.7078,Elmont,America/New_York
+11004,40.74621,-73.71147,Glen Oaks,America/New_York
+11005,40.75661,-73.71424,Floral Park,America/New_York
+11010,40.70066,-73.67514,Franklin Square,America/New_York
+11020,40.77098,-73.71293,Great Neck,America/New_York
+11021,40.78644,-73.7289,Great Neck,America/New_York
+11023,40.7994,-73.73282,Great Neck,America/New_York
+11024,40.81642,-73.74205,Great Neck,America/New_York
+11030,40.79293,-73.68868,Manhasset,America/New_York
+11040,40.74572,-73.67979,New Hyde Park,America/New_York
+11042,40.75854,-73.6975,New Hyde Park,America/New_York
+11050,40.83815,-73.69113,Port Washington,America/New_York
+11096,40.62143,-73.75292,Inwood,America/New_York
+11101,40.74679,-73.93916,Long Island City,America/New_York
+11102,40.77161,-73.92619,Astoria,America/New_York
+11103,40.76261,-73.91334,Astoria,America/New_York
+11104,40.74484,-73.92049,Sunnyside,America/New_York
+11105,40.779,-73.90652,Astoria,America/New_York
+11106,40.76191,-73.93169,Astoria,America/New_York
+11109,40.7463,-73.95699,Long Island City,America/New_York
+11201,40.69477,-73.99031,Brooklyn,America/New_York
+11203,40.64958,-73.93431,Brooklyn,America/New_York
+11204,40.61883,-73.98496,Brooklyn,America/New_York
+11205,40.69654,-73.96807,Brooklyn,America/New_York
+11206,40.7019,-73.94254,Brooklyn,America/New_York
+11207,40.67016,-73.89383,Brooklyn,America/New_York
+11208,40.67481,-73.87243,Brooklyn,America/New_York
+11209,40.62175,-74.03013,Brooklyn,America/New_York
+11210,40.62801,-73.94631,Brooklyn,America/New_York
+11211,40.71428,-73.94602,Brooklyn,America/New_York
+11212,40.6629,-73.91308,Brooklyn,America/New_York
+11213,40.67117,-73.93632,Brooklyn,America/New_York
+11214,40.59928,-73.99644,Brooklyn,America/New_York
+11215,40.66255,-73.98687,Brooklyn,America/New_York
+11216,40.68085,-73.94929,Brooklyn,America/New_York
+11217,40.68242,-73.97943,Brooklyn,America/New_York
+11218,40.64315,-73.97645,Brooklyn,America/New_York
+11219,40.63267,-73.99672,Brooklyn,America/New_York
+11220,40.64142,-74.01741,Brooklyn,America/New_York
+11221,40.6914,-73.92764,Brooklyn,America/New_York
+11222,40.72862,-73.94764,Brooklyn,America/New_York
+11223,40.59711,-73.97344,Brooklyn,America/New_York
+11224,40.57652,-73.9891,Brooklyn,America/New_York
+11225,40.6631,-73.95392,Brooklyn,America/New_York
+11226,40.64636,-73.95666,Brooklyn,America/New_York
+11228,40.61678,-74.01337,Brooklyn,America/New_York
+11229,40.60047,-73.94453,Brooklyn,America/New_York
+11230,40.6221,-73.96525,Brooklyn,America/New_York
+11231,40.67603,-74.00644,Brooklyn,America/New_York
+11232,40.65692,-74.00727,Brooklyn,America/New_York
+11233,40.67827,-73.91994,Brooklyn,America/New_York
+11234,40.6072,-73.91107,Brooklyn,America/New_York
+11235,40.58411,-73.94331,Brooklyn,America/New_York
+11236,40.63951,-73.90098,Brooklyn,America/New_York
+11237,40.70427,-73.92108,Brooklyn,America/New_York
+11238,40.67105,-73.96636,Brooklyn,America/New_York
+11239,40.64733,-73.87136,Brooklyn,America/New_York
+11249,40.71121,-73.96318,Brooklyn,America/New_York
+11354,40.7686,-73.82743,Flushing,America/New_York
+11355,40.75143,-73.82125,Flushing,America/New_York
+11356,40.78492,-73.84149,College Point,America/New_York
+11357,40.78636,-73.81094,Whitestone,America/New_York
+11358,40.76038,-73.79648,Flushing,America/New_York
+11359,40.79147,-73.77662,Bayside,America/New_York
+11360,40.7805,-73.78159,Bayside,America/New_York
+11361,40.76393,-73.77294,Bayside,America/New_York
+11362,40.75899,-73.73583,Little Neck,America/New_York
+11363,40.77251,-73.74708,Little Neck,America/New_York
+11364,40.74625,-73.75598,Oakland Gardens,America/New_York
+11365,40.73983,-73.79499,Fresh Meadows,America/New_York
+11366,40.73112,-73.7804,Fresh Meadows,America/New_York
+11367,40.73044,-73.82274,Flushing,America/New_York
+11368,40.74962,-73.85264,Corona,America/New_York
+11369,40.76345,-73.87222,East Elmhurst,America/New_York
+11370,40.77554,-73.88766,East Elmhurst,America/New_York
+11371,40.77445,-73.87316,Flushing,America/New_York
+11372,40.75172,-73.88367,Jackson Heights,America/New_York
+11373,40.73892,-73.87854,Elmhurst,America/New_York
+11374,40.72647,-73.86144,Rego Park,America/New_York
+11375,40.72315,-73.84373,Forest Hills,America/New_York
+11377,40.74483,-73.90516,Woodside,America/New_York
+11378,40.72493,-73.91034,Maspeth,America/New_York
+11379,40.71709,-73.88056,Middle Village,America/New_York
+11385,40.70103,-73.89011,Ridgewood,America/New_York
+11411,40.69406,-73.73623,Cambria Heights,America/New_York
+11412,40.69804,-73.759,Saint Albans,America/New_York
+11413,40.67002,-73.75116,Springfield Gardens,America/New_York
+11414,40.65818,-73.8448,Howard Beach,America/New_York
+11415,40.70808,-73.82801,Kew Gardens,America/New_York
+11416,40.68458,-73.84967,Ozone Park,America/New_York
+11417,40.67641,-73.84455,Ozone Park,America/New_York
+11418,40.70032,-73.83603,Richmond Hill,America/New_York
+11419,40.68863,-73.82302,South Richmond Hill,America/New_York
+11420,40.67352,-73.8177,South Ozone Park,America/New_York
+11421,40.69403,-73.85865,Woodhaven,America/New_York
+11422,40.66053,-73.73658,Rosedale,America/New_York
+11423,40.71564,-73.76826,Hollis,America/New_York
+11424,40.71397,-73.82809,Jamaica,America/New_York
+11426,40.73641,-73.7223,Bellerose,America/New_York
+11427,40.73094,-73.74569,Queens Village,America/New_York
+11428,40.72099,-73.74222,Queens Village,America/New_York
+11429,40.70958,-73.73843,Queens Village,America/New_York
+11430,40.64703,-73.78717,Jamaica,America/New_York
+11432,40.71491,-73.79295,Jamaica,America/New_York
+11433,40.69805,-73.78675,Jamaica,America/New_York
+11434,40.67683,-73.77623,Jamaica,America/New_York
+11435,40.70111,-73.80968,Jamaica,America/New_York
+11436,40.67587,-73.79664,Jamaica,America/New_York
+11439,40.72195,-73.79455,Jamaica,America/New_York
+11451,40.7012,-73.79579,Jamaica,America/New_York
+11501,40.74629,-73.63921,Mineola,America/New_York
+11507,40.77082,-73.6521,Albertson,America/New_York
+11509,40.58872,-73.7286,Atlantic Beach,America/New_York
+11510,40.65027,-73.60809,Baldwin,America/New_York
+11514,40.74979,-73.61298,Carle Place,America/New_York
+11516,40.6258,-73.7263,Cedarhurst,America/New_York
+11518,40.63772,-73.66691,East Rockaway,America/New_York
+11520,40.65007,-73.58305,Freeport,America/New_York
+11530,40.72716,-73.63654,Garden City,America/New_York
+11542,40.87073,-73.62879,Glen Cove,America/New_York
+11545,40.82685,-73.58853,Glen Head,America/New_York
+11547,40.82881,-73.64505,Glenwood Landing,America/New_York
+11548,40.81414,-73.6097,Greenvale,America/New_York
+11549,40.71896,-73.59973,Hempstead,America/New_York
+11550,40.70158,-73.62039,Hempstead,America/New_York
+11552,40.6916,-73.65073,West Hempstead,America/New_York
+11553,40.70529,-73.5923,Uniondale,America/New_York
+11554,40.71974,-73.56044,East Meadow,America/New_York
+11556,40.71997,-73.58327,Uniondale,America/New_York
+11557,40.63723,-73.6921,Hewlett,America/New_York
+11558,40.60539,-73.64952,Island Park,America/New_York
+11559,40.60615,-73.71688,Lawrence,America/New_York
+11560,40.88068,-73.59057,Locust Valley,America/New_York
+11561,40.58969,-73.64455,Long Beach,America/New_York
+11563,40.65746,-73.67408,Lynbrook,America/New_York
+11565,40.67505,-73.67177,Malverne,America/New_York
+11566,40.66307,-73.55407,Merrick,America/New_York
+11568,40.78659,-73.59719,Old Westbury,America/New_York
+11569,40.5903,-73.58046,Point Lookout,America/New_York
+11570,40.66504,-73.63882,Rockville Centre,America/New_York
+11572,40.63231,-73.63686,Oceanside,America/New_York
+11575,40.68044,-73.58525,Roosevelt,America/New_York
+11576,40.79791,-73.64711,Roslyn,America/New_York
+11577,40.78288,-73.6391,Roslyn Heights,America/New_York
+11579,40.84406,-73.64426,Sea Cliff,America/New_York
+11580,40.67491,-73.70374,Valley Stream,America/New_York
+11581,40.65153,-73.71653,Valley Stream,America/New_York
+11590,40.75541,-73.57463,Westbury,America/New_York
+11596,40.75968,-73.6422,Williston Park,America/New_York
+11598,40.63109,-73.71188,Woodmere,America/New_York
+11691,40.60152,-73.76173,Far Rockaway,America/New_York
+11692,40.59373,-73.79201,Arverne,America/New_York
+11693,40.59649,-73.81663,Far Rockaway,America/New_York
+11694,40.57532,-73.85099,Rockaway Park,America/New_York
+11697,40.55749,-73.91361,Breezy Point,America/New_York
+11701,40.6817,-73.41289,Amityville,America/New_York
+11702,40.65155,-73.33824,Babylon,America/New_York
+11703,40.73325,-73.32533,North Babylon,America/New_York
+11704,40.71623,-73.35908,West Babylon,America/New_York
+11705,40.74514,-73.05461,Bayport,America/New_York
+11706,40.706,-73.24208,Bay Shore,America/New_York
+11709,40.90665,-73.56005,Bayville,America/New_York
+11710,40.67217,-73.53293,Bellmore,America/New_York
+11713,40.77774,-72.94253,Bellport,America/New_York
+11714,40.74267,-73.48615,Bethpage,America/New_York
+11715,40.75005,-73.03531,Blue Point,America/New_York
+11716,40.77131,-73.12729,Bohemia,America/New_York
+11717,40.78405,-73.25223,Brentwood,America/New_York
+11718,40.71891,-73.26391,Brightwaters,America/New_York
+11719,40.77935,-72.91175,Brookhaven,America/New_York
+11720,40.87025,-73.08202,Centereach,America/New_York
+11721,40.89362,-73.37009,Centerport,America/New_York
+11722,40.78358,-73.19657,Central Islip,America/New_York
+11724,40.86522,-73.45288,Cold Spring Harbor,America/New_York
+11725,40.84056,-73.28085,Commack,America/New_York
+11726,40.67891,-73.39564,Copiague,America/New_York
+11727,40.88019,-73.00368,Coram,America/New_York
+11729,40.76249,-73.32161,Deer Park,America/New_York
+11730,40.72701,-73.18456,East Islip,America/New_York
+11731,40.86262,-73.31703,East Northport,America/New_York
+11732,40.84245,-73.53916,East Norwich,America/New_York
+11733,40.93742,-73.10544,East Setauket,America/New_York
+11735,40.73177,-73.43284,Farmingdale,America/New_York
+11738,40.83779,-73.03761,Farmingville,America/New_York
+11739,40.71058,-73.16275,Great River,America/New_York
+11740,40.86536,-73.36118,Greenlawn,America/New_York
+11741,40.79473,-73.07043,Holbrook,America/New_York
+11742,40.81034,-73.0419,Holtsville,America/New_York
+11743,40.88018,-73.4266,Huntington,America/New_York
+11746,40.81421,-73.3608,Huntington Station,America/New_York
+11747,40.78372,-73.40931,Melville,America/New_York
+11749,40.80674,-73.1708,Islandia,America/New_York
+11751,40.72999,-73.21424,Islip,America/New_York
+11752,40.75791,-73.17359,Islip Terrace,America/New_York
+11753,40.78976,-73.5411,Jericho,America/New_York
+11754,40.88771,-73.24738,Kings Park,America/New_York
+11755,40.8583,-73.11748,Lake Grove,America/New_York
+11756,40.72545,-73.51656,Levittown,America/New_York
+11757,40.68892,-73.37356,Lindenhurst,America/New_York
+11758,40.65361,-73.45626,Massapequa,America/New_York
+11762,40.68283,-73.44707,Massapequa Park,America/New_York
+11763,40.82529,-72.98245,Medford,America/New_York
+11764,40.93585,-72.97544,Miller Place,America/New_York
+11765,40.88249,-73.55862,Mill Neck,America/New_York
+11766,40.93602,-73.01645,Mount Sinai,America/New_York
+11767,40.84438,-73.14535,Nesconset,America/New_York
+11768,40.91052,-73.32611,Northport,America/New_York
+11769,40.73703,-73.12929,Oakdale,America/New_York
+11770,40.64945,-73.14123,Ocean Beach,America/New_York
+11771,40.8674,-73.52651,Oyster Bay,America/New_York
+11772,40.76118,-72.9875,Patchogue,America/New_York
+11776,40.91345,-73.04567,Port Jefferson Station,America/New_York
+11777,40.95171,-73.0645,Port Jefferson,America/New_York
+11778,40.94312,-72.93073,Rocky Point,America/New_York
+11779,40.8127,-73.1156,Ronkonkoma,America/New_York
+11780,40.89249,-73.16973,Saint James,America/New_York
+11782,40.73727,-73.08024,Sayville,America/New_York
+11783,40.67766,-73.49068,Seaford,America/New_York
+11784,40.86855,-73.0422,Selden,America/New_York
+11786,40.94711,-72.88939,Shoreham,America/New_York
+11787,40.85338,-73.21089,Smithtown,America/New_York
+11788,40.81808,-73.21318,Hauppauge,America/New_York
+11789,40.95759,-72.97214,Sound Beach,America/New_York
+11790,40.90719,-73.12777,Stony Brook,America/New_York
+11791,40.82819,-73.50282,Syosset,America/New_York
+11792,40.94832,-72.8302,Wading River,America/New_York
+11793,40.6462,-73.51024,Wantagh,America/New_York
+11794,40.91915,-73.12475,Stony Brook,America/New_York
+11795,40.70803,-73.29827,West Islip,America/New_York
+11796,40.72958,-73.09986,West Sayville,America/New_York
+11797,40.81739,-73.47004,Woodbury,America/New_York
+11798,40.752,-73.37497,Wyandanch,America/New_York
+11801,40.76256,-73.52383,Hicksville,America/New_York
+11803,40.78177,-73.4733,Plainview,America/New_York
+11804,40.75829,-73.45706,Old Bethpage,America/New_York
+11901,40.92424,-72.64697,Riverhead,America/New_York
+11930,40.98877,-72.10482,Amagansett,America/New_York
+11931,40.93347,-72.62195,Aquebogue,America/New_York
+11932,40.93322,-72.30603,Bridgehampton,America/New_York
+11933,40.92449,-72.75453,Calverton,America/New_York
+11934,40.80201,-72.79428,Center Moriches,America/New_York
+11935,41.01795,-72.48933,Cutchogue,America/New_York
+11937,40.99714,-72.20253,East Hampton,America/New_York
+11939,41.12627,-72.34223,East Marion,America/New_York
+11940,40.80819,-72.75664,East Moriches,America/New_York
+11941,40.83311,-72.72315,Eastport,America/New_York
+11942,40.84901,-72.57764,East Quogue,America/New_York
+11944,41.09888,-72.37223,Greenport,America/New_York
+11946,40.87033,-72.52294,Hampton Bays,America/New_York
+11947,40.94302,-72.58189,Jamesport,America/New_York
+11948,40.9662,-72.55797,Laurel,America/New_York
+11949,40.86496,-72.80097,Manorville,America/New_York
+11950,40.80627,-72.84734,Mastic,America/New_York
+11951,40.76624,-72.83655,Mastic Beach,America/New_York
+11952,40.99716,-72.54369,Mattituck,America/New_York
+11953,40.88585,-72.95054,Middle Island,America/New_York
+11954,41.04458,-71.9518,Montauk,America/New_York
+11955,40.80777,-72.82289,Moriches,America/New_York
+11956,40.98067,-72.46868,New Suffolk,America/New_York
+11957,41.1492,-72.26181,Orient,America/New_York
+11958,41.03688,-72.4613,Peconic,America/New_York
+11959,40.82903,-72.60977,Quogue,America/New_York
+11960,40.80894,-72.70615,Remsenburg,America/New_York
+11961,40.90458,-72.88488,Ridge,America/New_York
+11962,40.93715,-72.27379,Sagaponack,America/New_York
+11963,40.99921,-72.32271,Sag Harbor,America/New_York
+11964,41.05743,-72.31492,Shelter Island,America/New_York
+11965,41.07727,-72.34244,Shelter Island Heights,America/New_York
+11967,40.80092,-72.87611,Shirley,America/New_York
+11968,40.90035,-72.42081,Southampton,America/New_York
+11970,40.94029,-72.57403,South Jamesport,America/New_York
+11971,41.05949,-72.42617,Southold,America/New_York
+11972,40.82362,-72.70045,Speonk,America/New_York
+11973,40.86583,-72.88718,Upton,America/New_York
+11975,40.95146,-72.25093,Wainscott,America/New_York
+11976,40.92986,-72.34721,Water Mill,America/New_York
+11977,40.82769,-72.67947,Westhampton,America/New_York
+11978,40.82878,-72.64669,Westhampton Beach,America/New_York
+11980,40.8321,-72.92198,Yaphank,America/New_York
+12007,42.48889,-73.93159,Alcove,America/New_York
+12008,42.85367,-73.9063,Alplaus,America/New_York
+12009,42.69824,-74.03398,Altamont,America/New_York
+12010,42.93752,-74.17287,Amsterdam,America/New_York
+12015,42.28315,-73.82543,Athens,America/New_York
+12017,42.31453,-73.45682,Austerlitz,America/New_York
+12018,42.62926,-73.52662,Averill Park,America/New_York
+12019,42.92993,-73.88245,Ballston Lake,America/New_York
+12020,43.00208,-73.87401,Ballston Spa,America/New_York
+12022,42.66653,-73.33401,Berlin,America/New_York
+12023,42.60656,-74.16573,Berne,America/New_York
+12024,42.48134,-73.53419,Brainard,America/New_York
+12025,43.09142,-74.11924,Broadalbin,America/New_York
+12027,42.92122,-73.90872,Burnt Hills,America/New_York
+12028,42.94545,-73.44213,Buskirk,America/New_York
+12029,42.40397,-73.42466,Canaan,America/New_York
+12031,42.76579,-74.46617,Carlisle,America/New_York
+12032,43.24042,-74.55666,Caroga Lake,America/New_York
+12033,42.53665,-73.70558,Castleton On Hudson,America/New_York
+12035,42.73453,-74.37534,Central Bridge,America/New_York
+12036,42.53564,-74.68468,Charlotteville,America/New_York
+12037,42.33506,-73.55714,Chatham,America/New_York
+12040,42.63047,-73.35916,Cherry Plain,America/New_York
+12041,42.55893,-73.97028,Clarksville,America/New_York
+12042,42.38185,-73.89162,Climax,America/New_York
+12043,42.70357,-74.5267,Cobleskill,America/New_York
+12045,42.47974,-73.79682,Coeymans,America/New_York
+12046,42.48864,-73.92119,Coeymans Hollow,America/New_York
+12047,42.78396,-73.72655,Cohoes,America/New_York
+12051,42.34493,-73.83938,Coxsackie,America/New_York
+12052,42.75767,-73.47847,Cropseyville,America/New_York
+12053,42.75283,-74.18791,Delanson,America/New_York
+12054,42.60764,-73.86864,Delmar,America/New_York
+12056,42.76761,-74.0905,Duanesburg,America/New_York
+12057,42.97316,-73.34335,Eagle Bridge,America/New_York
+12058,42.3498,-73.923,Earlton,America/New_York
+12059,42.61403,-74.05811,East Berne,America/New_York
+12060,42.41325,-73.49284,East Chatham,America/New_York
+12061,42.59915,-73.65658,East Greenbush,America/New_York
+12062,42.52871,-73.501,East Nassau,America/New_York
+12063,42.56442,-73.63826,East Schodack,America/New_York
+12064,42.60711,-74.65887,East Worcester,America/New_York
+12065,42.85402,-73.78654,Clifton Park,America/New_York
+12066,42.78011,-74.30291,Esperance,America/New_York
+12067,42.56083,-73.91663,Feura Bush,America/New_York
+12068,42.95701,-74.40467,Fonda,America/New_York
+12069,42.94336,-74.28193,Fort Hunter,America/New_York
+12070,42.98513,-74.25441,Fort Johnson,America/New_York
+12071,42.56971,-74.41521,Fultonham,America/New_York
+12072,42.88102,-74.36164,Fultonville,America/New_York
+12074,43.05219,-74.04709,Galway,America/New_York
+12075,42.30145,-73.64046,Ghent,America/New_York
+12076,42.40868,-74.38506,Gilboa,America/New_York
+12077,42.59426,-73.7841,Glenmont,America/New_York
+12078,43.12338,-74.36255,Gloversville,America/New_York
+12082,42.76998,-73.44672,Grafton,America/New_York
+12083,42.43151,-74.03155,Greenville,America/New_York
+12084,42.70411,-73.90182,Guilderland,America/New_York
+12085,42.70043,-73.96659,Guilderland Center,America/New_York
+12086,42.99684,-74.10508,Hagaman,America/New_York
+12087,42.42794,-73.8931,Hannacroix,America/New_York
+12090,42.88073,-73.35624,Hoosick Falls,America/New_York
+12092,42.70396,-74.38456,Howes Cave,America/New_York
+12093,42.49599,-74.6262,Jefferson,America/New_York
+12094,42.89091,-73.48737,Johnsonville,America/New_York
+12095,43.03151,-74.41553,Johnstown,America/New_York
+12106,42.38871,-73.71228,Kinderhook,America/New_York
+12108,43.47045,-74.42768,Lake Pleasant,America/New_York
+12110,42.75349,-73.77671,Latham,America/New_York
+12115,42.46747,-73.59338,Malden Bridge,America/New_York
+12116,42.53849,-74.91278,Maryland,America/New_York
+12117,43.16894,-74.25557,Mayfield,America/New_York
+12118,42.92096,-73.72049,Mechanicville,America/New_York
+12120,42.45781,-74.1409,Medusa,America/New_York
+12121,42.84368,-73.60398,Melrose,America/New_York
+12122,42.54341,-74.31138,Middleburgh,America/New_York
+12123,42.52239,-73.60636,Nassau,America/New_York
+12124,42.44652,-73.78494,New Baltimore,America/New_York
+12125,42.47633,-73.40394,New Lebanon,America/New_York
+12130,42.44156,-73.65835,Niverville,America/New_York
+12131,42.46573,-74.46249,North Blenheim,America/New_York
+12132,42.47102,-73.63362,North Chatham,America/New_York
+12134,43.26533,-74.23059,Northville,America/New_York
+12136,42.43249,-73.56016,Old Chatham,America/New_York
+12137,42.85727,-74.12922,Pattersonville,America/New_York
+12138,42.73735,-73.37128,Petersburg,America/New_York
+12139,43.52096,-74.56552,Piseco,America/New_York
+12140,42.689,-73.56689,Poestenkill,America/New_York
+12143,42.48525,-73.85218,Ravena,America/New_York
+12144,42.63106,-73.71801,Rensselaer,America/New_York
+12147,42.51365,-74.15147,Rensselaerville,America/New_York
+12148,42.83361,-73.84652,Rexford,America/New_York
+12149,42.62011,-74.56692,Richmondville,America/New_York
+12150,42.87613,-74.04923,Rotterdam Junction,America/New_York
+12151,42.92553,-73.78874,Round Lake,America/New_York
+12153,42.63606,-73.46692,Sand Lake,America/New_York
+12154,42.93713,-73.60124,Schaghticoke,America/New_York
+12155,42.59229,-74.82337,Schenevus,America/New_York
+12156,42.47764,-73.74354,Schodack Landing,America/New_York
+12157,42.66742,-74.29892,Schoharie,America/New_York
+12158,42.53927,-73.81903,Selkirk,America/New_York
+12159,42.64328,-73.88503,Slingerlands,America/New_York
+12160,42.76325,-74.36619,Sloansville,America/New_York
+12161,42.53369,-73.84606,South Bethlehem,America/New_York
+12164,43.62883,-74.42717,Speculator,America/New_York
+12165,42.31518,-73.50756,Spencertown,America/New_York
+12166,42.83846,-74.45644,Sprakers,America/New_York
+12167,42.42101,-74.59011,Stamford,America/New_York
+12168,42.5614,-73.3751,Stephentown,America/New_York
+12169,42.58249,-73.43559,Stephentown,America/New_York
+12170,42.99936,-73.66234,Stillwater,America/New_York
+12172,42.28915,-73.73895,Stottville,America/New_York
+12173,42.39042,-73.76196,Stuyvesant,America/New_York
+12174,42.35314,-73.72802,Stuyvesant Falls,America/New_York
+12175,42.55489,-74.56161,Summit,America/New_York
+12176,42.38839,-73.96787,Surprise,America/New_York
+12177,42.95184,-74.28459,Tribes Hill,America/New_York
+12180,42.7516,-73.59997,Troy,America/New_York
+12182,42.80044,-73.63519,Troy,America/New_York
+12183,42.74742,-73.69259,Troy,America/New_York
+12184,42.42272,-73.65387,Valatie,America/New_York
+12185,42.90102,-73.53507,Valley Falls,America/New_York
+12186,42.62502,-73.9737,Voorheesville,America/New_York
+12187,42.62632,-74.46537,Warnerville,America/New_York
+12188,42.8199,-73.69589,Waterford,America/New_York
+12189,42.73618,-73.71688,Watervliet,America/New_York
+12190,43.47359,-74.2733,Wells,America/New_York
+12192,42.40428,-73.82136,West Coxsackie,America/New_York
+12193,42.51713,-74.04327,Westerlo,America/New_York
+12194,42.53839,-74.45431,West Fulton,America/New_York
+12195,42.47876,-73.46505,West Lebanon,America/New_York
+12196,42.63149,-73.61708,West Sand Lake,America/New_York
+12197,42.6094,-74.72587,Worcester,America/New_York
+12198,42.67819,-73.63285,Wynantskill,America/New_York
+12202,42.63355,-73.763,Albany,America/New_York
+12203,42.68138,-73.85099,Albany,America/New_York
+12204,42.68723,-73.72869,Albany,America/New_York
+12205,42.71719,-73.83006,Albany,America/New_York
+12206,42.67415,-73.78196,Albany,America/New_York
+12207,42.65657,-73.74749,Albany,America/New_York
+12208,42.65293,-73.80835,Albany,America/New_York
+12209,42.6382,-73.78976,Albany,America/New_York
+12210,42.66399,-73.75985,Albany,America/New_York
+12211,42.7083,-73.76393,Albany,America/New_York
+12222,42.68637,-73.82656,Albany,America/New_York
+12226,42.67931,-73.80987,Albany,America/New_York
+12302,42.88188,-73.98323,Schenectady,America/New_York
+12303,42.74938,-73.92562,Schenectady,America/New_York
+12304,42.77375,-73.89742,Schenectady,America/New_York
+12305,42.81219,-73.95036,Schenectady,America/New_York
+12306,42.80686,-74.03344,Schenectady,America/New_York
+12307,42.80507,-73.93341,Schenectady,America/New_York
+12308,42.82152,-73.92006,Schenectady,America/New_York
+12309,42.79693,-73.86785,Schenectady,America/New_York
+12401,41.93504,-74.05446,Kingston,America/New_York
+12404,41.81602,-74.23632,Accord,America/New_York
+12405,42.31585,-74.0989,Acra,America/New_York
+12406,42.09647,-74.56502,Arkville,America/New_York
+12407,42.30075,-74.35343,Ashland,America/New_York
+12409,42.05662,-74.16655,Bearsville,America/New_York
+12410,42.0706,-74.45212,Big Indian,America/New_York
+12411,41.87975,-74.04094,Bloomington,America/New_York
+12412,42.01218,-74.27698,Boiceville,America/New_York
+12413,42.31338,-74.02628,Cairo,America/New_York
+12414,42.2211,-73.92356,Catskill,America/New_York
+12416,42.09554,-74.28592,Chichester,America/New_York
+12417,41.9073,-73.98943,Connelly,America/New_York
+12418,42.35863,-74.1609,Cornwallville,America/New_York
+12419,41.85948,-74.10265,Cottekill,America/New_York
+12420,41.6743,-74.37769,Cragsmoor,America/New_York
+12421,42.2512,-74.5336,Denver,America/New_York
+12422,42.39205,-74.20232,Durham,America/New_York
+12423,42.37968,-74.11136,East Durham,America/New_York
+12424,42.24689,-74.14358,East Jewett,America/New_York
+12427,42.14771,-74.11921,Elka Park,America/New_York
+12428,41.73817,-74.44615,Ellenville,America/New_York
+12429,41.83323,-73.961,Esopus,America/New_York
+12430,42.20306,-74.49933,Fleischmanns,America/New_York
+12431,42.35877,-74.01843,Freehold,America/New_York
+12432,42.04702,-73.94403,Glasco,America/New_York
+12433,42.00533,-74.15526,Glenford,America/New_York
+12434,42.36491,-74.50793,Grand Gorge,America/New_York
+12435,41.72715,-74.51148,Greenfield Park,America/New_York
+12436,42.20447,-74.0746,Haines Falls,America/New_York
+12438,42.21251,-74.59667,Halcottsville,America/New_York
+12439,42.29674,-74.18789,Hensonville,America/New_York
+12440,41.78665,-74.16338,High Falls,America/New_York
+12441,42.1502,-74.50625,Highmount,America/New_York
+12442,42.22275,-74.23545,Hunter,America/New_York
+12443,41.93388,-74.08536,Hurley,America/New_York
+12444,42.24942,-74.28993,Jewett,America/New_York
+12446,41.79063,-74.31655,Kerhonkson,America/New_York
+12448,42.07955,-74.20067,Lake Hill,America/New_York
+12449,41.99377,-73.99338,Lake Katrine,America/New_York
+12450,42.13804,-74.22176,Lanesville,America/New_York
+12451,42.30337,-73.94802,Leeds,America/New_York
+12452,42.23891,-74.34986,Lexington,America/New_York
+12453,42.0929,-73.93629,Malden On Hudson,America/New_York
+12454,42.2869,-74.15038,Maplecrest,America/New_York
+12455,42.14871,-74.66334,Margaretville,America/New_York
+12456,42.03308,-73.99703,Mount Marion,America/New_York
+12457,42.03997,-74.24659,Mount Tremper,America/New_York
+12458,41.82273,-74.41666,Napanoch,America/New_York
+12459,42.23976,-74.6805,New Kingston,America/New_York
+12460,42.42357,-74.16676,Oak Hill,America/New_York
+12461,41.90531,-74.25246,Olivebridge,America/New_York
+12463,42.1895,-74.01573,Palenville,America/New_York
+12464,42.04071,-74.34452,Phoenicia,America/New_York
+12465,42.15278,-74.46725,Pine Hill,America/New_York
+12466,41.90671,-73.97826,Port Ewen,America/New_York
+12468,42.29998,-74.41375,Prattsville,America/New_York
+12469,42.44521,-74.2421,Preston Hollow,America/New_York
+12470,42.26932,-74.05515,Purling,America/New_York
+12471,41.83799,-74.04195,Rifton,America/New_York
+12472,41.84732,-74.07447,Rosendale,America/New_York
+12473,42.26157,-74.02827,Round Top,America/New_York
+12474,42.29378,-74.58117,Roxbury,America/New_York
+12475,42.01397,-74.01332,Ruby,America/New_York
+12477,42.08528,-74.00028,Saugerties,America/New_York
+12480,42.13803,-74.37683,Shandaken,America/New_York
+12481,41.97519,-74.22718,Shokan,America/New_York
+12482,42.26841,-73.95587,South Cairo,America/New_York
+12483,41.66796,-74.44184,Spring Glen,America/New_York
+12484,41.87024,-74.17338,Stone Ridge,America/New_York
+12485,42.20507,-74.15288,Tannersville,America/New_York
+12486,41.83438,-74.06235,Tillson,America/New_York
+12487,41.86095,-73.99555,Ulster Park,America/New_York
+12489,41.75597,-74.35462,Wawarsing,America/New_York
+12490,42.12355,-73.9251,West Camp,America/New_York
+12491,41.96957,-74.13311,West Hurley,America/New_York
+12492,42.18758,-74.33453,West Kill,America/New_York
+12493,41.79316,-73.97283,West Park,America/New_York
+12494,41.94857,-74.30169,West Shokan,America/New_York
+12495,42.08264,-74.24563,Willow,America/New_York
+12496,42.32669,-74.27256,Windham,America/New_York
+12498,42.04772,-74.11007,Woodstock,America/New_York
+12501,41.85664,-73.55953,Amenia,America/New_York
+12502,42.08324,-73.65409,Ancram,America/New_York
+12503,42.03615,-73.58139,Ancramdale,America/New_York
+12504,42.02342,-73.9094,Annandale On Hudson,America/New_York
+12507,42.00735,-73.92126,Barrytown,America/New_York
+12508,41.49637,-73.95351,Beacon,America/New_York
+12512,41.5542,-73.96471,Chelsea,America/New_York
+12513,42.21661,-73.71639,Claverack,America/New_York
+12514,41.87137,-73.76274,Clinton Corners,America/New_York
+12515,41.68008,-74.06451,Clintondale,America/New_York
+12516,42.10722,-73.55343,Copake,America/New_York
+12517,42.13392,-73.51103,Copake Falls,America/New_York
+12518,41.41847,-74.03571,Cornwall,America/New_York
+12520,41.43362,-74.00693,Cornwall On Hudson,America/New_York
+12521,42.17071,-73.65164,Craryville,America/New_York
+12522,41.72693,-73.58893,Dover Plains,America/New_York
+12523,42.08627,-73.75311,Elizaville,America/New_York
+12524,41.53092,-73.89245,Fishkill,America/New_York
+12525,41.68115,-74.17751,Gardiner,America/New_York
+12526,42.12236,-73.85938,Germantown,America/New_York
+12527,41.51931,-73.93703,Glenham,America/New_York
+12528,41.72273,-74.00477,Highland,America/New_York
+12529,42.21335,-73.53802,Hillsdale,America/New_York
+12530,42.20692,-73.68413,Hollowville,America/New_York
+12531,41.53689,-73.66917,Holmes,America/New_York
+12533,41.55925,-73.79401,Hopewell Junction,America/New_York
+12534,42.22434,-73.75427,Hudson,America/New_York
+12538,41.79246,-73.89336,Hyde Park,America/New_York
+12540,41.67073,-73.72524,Lagrangeville,America/New_York
+12542,41.60772,-73.99666,Marlboro,America/New_York
+12543,41.48602,-74.22354,Maybrook,America/New_York
+12544,42.26129,-73.66822,Mellenville,America/New_York
+12545,41.7914,-73.67251,Millbrook,America/New_York
+12546,41.96627,-73.53313,Millerton,America/New_York
+12547,41.65463,-73.98322,Milton,America/New_York
+12548,41.66307,-74.10157,Modena,America/New_York
+12549,41.52957,-74.25843,Montgomery,America/New_York
+12550,41.53671,-74.05196,Newburgh,America/New_York
+12553,41.46146,-74.07311,New Windsor,America/New_York
+12561,41.75602,-74.0958,New Paltz,America/New_York
+12563,41.49417,-73.5891,Patterson,America/New_York
+12564,41.57827,-73.5862,Pawling,America/New_York
+12565,42.24849,-73.64584,Philmont,America/New_York
+12566,41.62223,-74.33256,Pine Bush,America/New_York
+12567,41.98206,-73.65211,Pine Plains,America/New_York
+12569,41.7346,-73.79731,Pleasant Valley,America/New_York
+12570,41.62377,-73.66983,Poughquag,America/New_York
+12571,42.00663,-73.81152,Red Hook,America/New_York
+12572,41.92548,-73.8717,Rhinebeck,America/New_York
+12574,41.91764,-73.94566,Rhinecliff,America/New_York
+12575,41.48514,-74.15714,Rock Tavern,America/New_York
+12577,41.42048,-74.11678,Salisbury Mills,America/New_York
+12578,41.80629,-73.79673,Salt Point,America/New_York
+12580,41.85348,-73.87302,Staatsburg,America/New_York
+12581,41.90625,-73.69374,Stanfordville,America/New_York
+12582,41.54693,-73.72919,Stormville,America/New_York
+12583,42.05625,-73.88014,Tivoli,America/New_York
+12585,41.72396,-73.7025,Verbank,America/New_York
+12586,41.5657,-74.17289,Walden,America/New_York
+12589,41.6278,-74.15875,Wallkill,America/New_York
+12590,41.59559,-73.88774,Wappingers Falls,America/New_York
+12592,41.78601,-73.5528,Wassaic,America/New_York
+12594,41.66049,-73.56004,Wingdale,America/New_York
+12601,41.70602,-73.91119,Poughkeepsie,America/New_York
+12603,41.67816,-73.86744,Poughkeepsie,America/New_York
+12604,41.68844,-73.89448,Poughkeepsie,America/New_York
+12701,41.65125,-74.6982,Monticello,America/New_York
+12719,41.48431,-74.90543,Barryville,America/New_York
+12720,41.65794,-74.90029,Bethel,America/New_York
+12721,41.56741,-74.42832,Bloomingburg,America/New_York
+12722,41.59042,-74.3748,Burlingham,America/New_York
+12723,41.77809,-75.02751,Callicoon,America/New_York
+12724,41.85195,-74.93535,Callicoon Center,America/New_York
+12725,41.95679,-74.54794,Claryville,America/New_York
+12726,41.69269,-74.96902,Cochecton,America/New_York
+12729,41.49411,-74.61582,Cuddebackville,America/New_York
+12732,41.56075,-74.87353,Eldred,America/New_York
+12733,41.73378,-74.6102,Fallsburg,America/New_York
+12734,41.7354,-74.7531,Ferndale,America/New_York
+12736,41.85327,-75.01917,Fremont Center,America/New_York
+12737,41.50529,-74.79941,Glen Spey,America/New_York
+12738,41.66009,-74.59119,Glen Wild,America/New_York
+12740,41.89499,-74.46616,Grahamsville,America/New_York
+12741,41.84368,-75.07816,Hankins,America/New_York
+12742,41.71796,-74.72108,Harris,America/New_York
+12743,41.54065,-74.84687,Highland Lake,America/New_York
+12745,41.78503,-75.02633,Hortonville,America/New_York
+12746,41.44929,-74.65582,Huguenot,America/New_York
+12747,41.76596,-74.65934,Hurleyville,America/New_York
+12748,41.77604,-74.91845,Jeffersonville,America/New_York
+12749,41.69149,-74.82768,Kauneonga Lake,America/New_York
+12750,41.73595,-74.96382,Kenoza Lake,America/New_York
+12751,41.69209,-74.66119,Kiamesha Lake,America/New_York
+12752,41.68278,-74.9905,Lake Huntington,America/New_York
+12754,41.80004,-74.73643,Liberty,America/New_York
+12758,41.9428,-74.74942,Livingston Manor,America/New_York
+12759,41.78399,-74.65758,Loch Sheldrake,America/New_York
+12760,41.90063,-75.10559,Long Eddy,America/New_York
+12762,41.65582,-74.79462,Mongaup Valley,America/New_York
+12763,41.68221,-74.52205,Mountain Dale,America/New_York
+12764,41.59639,-74.98515,Narrowsburg,America/New_York
+12765,41.85265,-74.6281,Neversink,America/New_York
+12766,41.81408,-74.97923,North Branch,America/New_York
+12767,41.83504,-75.00284,Obernburg,America/New_York
+12768,41.87157,-74.71507,Parksville,America/New_York
+12769,41.65925,-74.47071,Phillipsport,America/New_York
+12770,41.44681,-74.85028,Pond Eddy,America/New_York
+12771,41.37394,-74.62429,Port Jervis,America/New_York
+12775,41.62266,-74.58232,Rock Hill,America/New_York
+12776,41.96486,-74.93197,Roscoe,America/New_York
+12777,41.55172,-74.71067,Forestburgh,America/New_York
+12778,41.66174,-74.8138,Smallwood,America/New_York
+12779,41.69804,-74.62703,South Fallsburg,America/New_York
+12780,41.44514,-74.71989,Sparrow Bush,America/New_York
+12781,41.61448,-74.47208,Summitville,America/New_York
+12783,41.74026,-74.83502,Swan Lake,America/New_York
+12784,41.66907,-74.61485,Thompsonville,America/New_York
+12785,41.52429,-74.58051,Westbrookville,America/New_York
+12786,41.64306,-74.85393,White Lake,America/New_York
+12787,41.7931,-74.8365,White Sulphur Springs,America/New_York
+12788,41.79552,-74.58846,Woodbourne,America/New_York
+12789,41.71374,-74.57233,Woodridge,America/New_York
+12790,41.5863,-74.51705,Wurtsboro,America/New_York
+12791,41.81126,-74.88692,Youngsville,America/New_York
+12792,41.51447,-74.95172,Yulan,America/New_York
+12801,43.31097,-73.64545,Glens Falls,America/New_York
+12803,43.28891,-73.63024,South Glens Falls,America/New_York
+12804,43.3375,-73.68307,Queensbury,America/New_York
+12808,43.74782,-73.75393,Adirondack,America/New_York
+12809,43.24097,-73.4624,Argyle,America/New_York
+12810,43.49862,-73.95217,Athol,America/New_York
+12811,43.57502,-74.07508,Bakers Mills,America/New_York
+12812,43.85731,-74.41213,Blue Mountain Lake,America/New_York
+12814,43.6004,-73.63678,Bolton Landing,America/New_York
+12815,43.70161,-73.69459,Brant Lake,America/New_York
+12816,43.05085,-73.37829,Cambridge,America/New_York
+12817,43.63697,-73.82614,Chestertown,America/New_York
+12819,43.61144,-73.46315,Clemons,America/New_York
+12820,43.46022,-73.64067,Cleverdale,America/New_York
+12821,43.45866,-73.41332,Comstock,America/New_York
+12822,43.2407,-73.88959,Corinth,America/New_York
+12823,43.17945,-73.40628,Cossayuna,America/New_York
+12824,43.5279,-73.71386,Diamond Point,America/New_York
+12827,43.44917,-73.51241,Fort Ann,America/New_York
+12828,43.25534,-73.56841,Fort Edward,America/New_York
+12831,43.19533,-73.68791,Gansevoort,America/New_York
+12832,43.36813,-73.31716,Granville,America/New_York
+12833,43.13866,-73.84355,Greenfield Center,America/New_York
+12834,43.09706,-73.50423,Greenwich,America/New_York
+12835,43.32496,-74.00589,Hadley,America/New_York
+12836,43.74994,-73.56816,Hague,America/New_York
+12837,43.50842,-73.26651,Hampton,America/New_York
+12838,43.34354,-73.40756,Hartford,America/New_York
+12839,43.34496,-73.55058,Hudson Falls,America/New_York
+12841,43.59919,-73.5165,Huletts Landing,America/New_York
+12842,43.75058,-74.2746,Indian Lake,America/New_York
+12843,43.5849,-73.97771,Johnsburg,America/New_York
+12844,43.49423,-73.64081,Kattskill Bay,America/New_York
+12845,43.42757,-73.70703,Lake George,America/New_York
+12846,43.34022,-73.80592,Lake Luzerne,America/New_York
+12847,43.98698,-74.59024,Long Lake,America/New_York
+12849,43.44812,-73.2985,Middle Granville,America/New_York
+12850,43.09886,-73.97941,Middle Grove,America/New_York
+12851,43.85171,-74.06211,Minerva,America/New_York
+12852,43.99293,-74.13598,Newcomb,America/New_York
+12853,43.68816,-73.99804,North Creek,America/New_York
+12854,43.45019,-73.32767,North Granville,America/New_York
+12855,44.00121,-73.79762,North Hudson,America/New_York
+12856,43.65531,-74.14625,North River,America/New_York
+12857,43.84033,-73.93354,Olmstedville,America/New_York
+12858,43.88899,-73.6703,Paradox,America/New_York
+12859,43.16587,-73.90569,Porter Corners,America/New_York
+12860,43.72843,-73.80942,Pottersville,America/New_York
+12861,43.74982,-73.41502,Putnam Station,America/New_York
+12862,43.67419,-73.91878,Riparius,America/New_York
+12863,43.06031,-73.93162,Rock City Falls,America/New_York
+12864,43.72733,-74.3054,Sabael,America/New_York
+12865,43.21225,-73.34191,Salem,America/New_York
+12866,43.07537,-73.7401,Saratoga Springs,America/New_York
+12870,43.83931,-73.7625,Schroon Lake,America/New_York
+12871,43.09249,-73.61196,Schuylerville,America/New_York
+12872,43.8839,-73.72309,Severance,America/New_York
+12873,43.1185,-73.30682,Shushan,America/New_York
+12874,43.69035,-73.54836,Silver Bay,America/New_York
+12878,43.44217,-74.0479,Stony Creek,America/New_York
+12883,43.85291,-73.50786,Ticonderoga,America/New_York
+12884,43.08855,-73.5921,Victory Mills,America/New_York
+12885,43.52929,-73.83161,Warrensburg,America/New_York
+12886,43.63689,-73.92654,Wevertown,America/New_York
+12887,43.54504,-73.37471,Whitehall,America/New_York
+12901,44.70842,-73.47465,Plattsburgh,America/New_York
+12903,44.65698,-73.46306,Plattsburgh,America/New_York
+12910,44.8546,-73.64593,Altona,America/New_York
+12911,44.53464,-73.46687,Keeseville,America/New_York
+12912,44.46233,-73.74201,Au Sable Forks,America/New_York
+12913,44.42627,-74.01562,Bloomingdale,America/New_York
+12914,44.93289,-74.6018,Bombay,America/New_York
+12915,44.8535,-74.035,Brainardsville,America/New_York
+12916,44.83572,-74.5145,Brushton,America/New_York
+12917,44.92468,-74.17387,Burke,America/New_York
+12918,44.68975,-73.67863,Cadyville,America/New_York
+12919,44.96793,-73.45072,Champlain,America/New_York
+12920,44.89332,-74.06016,Chateaugay,America/New_York
+12921,44.89188,-73.43574,Chazy,America/New_York
+12922,44.33381,-74.7827,Childwold,America/New_York
+12923,44.94546,-73.95802,Churubusco,America/New_York
+12924,44.47589,-73.58751,Keeseville,America/New_York
+12926,44.95223,-74.32214,Constable,America/New_York
+12927,44.2005,-74.81818,Cranberry Lake,America/New_York
+12928,43.9539,-73.52898,Crown Point,America/New_York
+12929,44.71971,-73.71909,Dannemora,America/New_York
+12930,44.72349,-74.5437,Dickinson Center,America/New_York
+12932,44.21222,-73.6082,Elizabethtown,America/New_York
+12933,44.89118,-73.84512,Ellenburg,America/New_York
+12934,44.84603,-73.87659,Ellenburg Center,America/New_York
+12935,44.85709,-73.79461,Ellenburg Depot,America/New_York
+12936,44.26869,-73.4029,Essex,America/New_York
+12937,44.96176,-74.47807,Fort Covington,America/New_York
+12939,44.43859,-74.16541,Gabriels,America/New_York
+12941,44.35147,-73.7126,Jay,America/New_York
+12942,44.26023,-73.79523,Keene,America/New_York
+12943,44.13934,-73.82075,Keene Valley,America/New_York
+12944,44.44585,-73.51193,Keeseville,America/New_York
+12945,44.33451,-74.23829,Lake Clear,America/New_York
+12946,44.23162,-73.98903,Lake Placid,America/New_York
+12950,44.32685,-73.57675,Lewis,America/New_York
+12952,44.71181,-73.91362,Lyon Mountain,America/New_York
+12953,44.74198,-74.26347,Malone,America/New_York
+12955,44.78934,-73.95855,Lyon Mountain,America/New_York
+12956,44.09301,-73.49628,Mineville,America/New_York
+12957,44.85353,-74.57706,Moira,America/New_York
+12958,44.95661,-73.57419,Mooers,America/New_York
+12959,44.96073,-73.7014,Mooers Forks,America/New_York
+12960,44.02226,-73.54123,Moriah,America/New_York
+12961,44.06103,-73.57972,Moriah Center,America/New_York
+12962,44.70642,-73.60141,Morrisonville,America/New_York
+12964,44.13224,-73.63625,New Russia,America/New_York
+12965,44.70587,-74.684,Nicholville,America/New_York
+12966,44.79226,-74.41915,North Bangor,America/New_York
+12967,44.76864,-74.65897,North Lawrence,America/New_York
+12969,44.71102,-74.0812,Owls Head,America/New_York
+12970,44.44949,-74.33222,Paul Smiths,America/New_York
+12972,44.559,-73.56516,Peru,America/New_York
+12973,44.30279,-74.59187,Piercefield,America/New_York
+12974,44.05582,-73.46931,Port Henry,America/New_York
+12975,44.52977,-73.431,Port Kent,America/New_York
+12976,44.50469,-74.20498,Rainbow Lake,America/New_York
+12977,44.29484,-74.09673,Ray Brook,America/New_York
+12978,44.6181,-73.79589,Redford,America/New_York
+12979,44.98926,-73.37213,Rouses Point,America/New_York
+12980,44.57254,-74.50875,Saint Regis Falls,America/New_York
+12981,44.62235,-73.84035,Saranac,America/New_York
+12983,44.34627,-74.14243,Saranac Lake,America/New_York
+12985,44.56413,-73.73395,Schuyler Falls,America/New_York
+12986,44.22279,-74.44056,Tupper Lake,America/New_York
+12987,44.33948,-73.76386,Upper Jay,America/New_York
+12989,44.53935,-74.06439,Vermontville,America/New_York
+12992,44.81822,-73.51582,West Chazy,America/New_York
+12993,44.19711,-73.48097,Westport,America/New_York
+12996,44.36129,-73.42129,Willsboro,America/New_York
+12997,44.3755,-73.84314,Wilmington,America/New_York
+12998,44.0879,-73.57584,Witherbee,America/New_York
+13020,42.81646,-76.07458,Apulia Station,America/New_York
+13021,42.91713,-76.5542,Auburn,America/New_York
+13024,42.93453,-76.57424,Auburn,America/New_York
+13026,42.75044,-76.65968,Aurora,America/New_York
+13027,43.16741,-76.36258,Baldwinsville,America/New_York
+13028,43.29226,-75.93107,Bernhards Bay,America/New_York
+13029,43.2236,-76.14993,Brewerton,America/New_York
+13030,43.15962,-75.96052,Bridgeport,America/New_York
+13031,43.0448,-76.30775,Camillus,America/New_York
+13032,43.07793,-75.76275,Canastota,America/New_York
+13033,43.1852,-76.57044,Cato,America/New_York
+13034,42.91366,-76.69502,Cayuga,America/New_York
+13035,42.93828,-75.82551,Cazenovia,America/New_York
+13036,43.32268,-76.17402,Central Square,America/New_York
+13037,43.06046,-75.86521,Chittenango,America/New_York
+13039,43.16678,-76.0654,Cicero,America/New_York
+13040,42.56033,-75.93029,Cincinnatus,America/New_York
+13041,43.19079,-76.19711,Clay,America/New_York
+13042,43.26565,-75.85154,Cleveland,America/New_York
+13044,43.2977,-75.99595,Constantia,America/New_York
+13045,42.58692,-76.19029,Cortland,America/New_York
+13051,42.88339,-75.91021,Delphi Falls,America/New_York
+13052,42.72838,-75.86957,De Ruyter,America/New_York
+13053,42.47513,-76.26471,Dryden,America/New_York
+13054,43.16947,-75.66923,Durhamville,America/New_York
+13057,43.09543,-76.04014,East Syracuse,America/New_York
+13060,43.02381,-76.41926,Elbridge,America/New_York
+13061,42.86493,-75.75173,Erieville,America/New_York
+13062,42.48121,-76.38694,Etna,America/New_York
+13063,42.84429,-75.98023,Fabius,America/New_York
+13065,42.81884,-76.81577,Fayette,America/New_York
+13066,43.03297,-76.00259,Fayetteville,America/New_York
+13068,42.49905,-76.35555,Freeville,America/New_York
+13069,43.33081,-76.37867,Fulton,America/New_York
+13071,42.67584,-76.54252,Genoa,America/New_York
+13072,42.76243,-75.76296,Georgetown,America/New_York
+13073,42.58514,-76.39832,Groton,America/New_York
+13074,43.31035,-76.54786,Hannibal,America/New_York
+13076,43.35364,-76.15182,Hastings,America/New_York
+13077,42.71557,-76.20089,Homer,America/New_York
+13078,42.96206,-76.06171,Jamesville,America/New_York
+13080,43.08338,-76.47776,Jordan,America/New_York
+13081,42.67364,-76.62527,King Ferry,America/New_York
+13082,43.10148,-75.95253,Kirkville,America/New_York
+13083,43.64853,-75.98091,Lacona,America/New_York
+13084,42.88938,-76.11314,La Fayette,America/New_York
+13087,42.69634,-76.16493,Little York,America/New_York
+13088,43.10787,-76.19096,Liverpool,America/New_York
+13090,43.15162,-76.21344,Liverpool,America/New_York
+13092,42.65145,-76.42502,Locke,America/New_York
+13101,42.60211,-76.06665,McGraw,America/New_York
+13102,42.55276,-76.29253,McLean,America/New_York
+13103,43.32652,-76.10507,Mallory,America/New_York
+13104,42.96378,-75.95523,Manlius,America/New_York
+13108,42.97349,-76.33069,Marcellus,America/New_York
+13110,42.89019,-76.28507,Marietta,America/New_York
+13111,43.25988,-76.61858,Martville,America/New_York
+13112,43.10306,-76.41926,Memphis,America/New_York
+13113,43.16425,-76.53488,Meridian,America/New_York
+13114,43.46386,-76.24328,Mexico,America/New_York
+13115,43.3937,-76.47462,Minetto,America/New_York
+13116,43.07449,-76.00796,Minoa,America/New_York
+13117,43.01007,-76.70838,Montezuma,America/New_York
+13118,42.75226,-76.39522,Moravia,America/New_York
+13119,42.97655,-76.44488,Mottville,America/New_York
+13120,42.94233,-76.1695,Nedrow,America/New_York
+13121,43.48491,-76.30966,New Haven,America/New_York
+13122,42.83857,-75.85919,New Woodstock,America/New_York
+13123,43.22796,-75.75325,North Bay,America/New_York
+13124,42.64578,-75.81718,North Pitcher,America/New_York
+13126,43.43469,-76.46331,Oswego,America/New_York
+13131,43.41964,-76.09539,Parish,America/New_York
+13132,43.26547,-76.24446,Pennellville,America/New_York
+13134,42.96731,-75.68476,Peterboro,America/New_York
+13135,43.25801,-76.31676,Phoenix,America/New_York
+13136,42.60368,-75.84582,Pitcher,America/New_York
+13138,42.89915,-76.01461,Pompey,America/New_York
+13140,43.05891,-76.65841,Port Byron,America/New_York
+13141,42.76684,-76.18616,Preble,America/New_York
+13142,43.55189,-76.12959,Pulaski,America/New_York
+13143,43.23325,-76.71545,Red Creek,America/New_York
+13144,43.57034,-75.97464,Richland,America/New_York
+13145,43.65188,-76.1232,Sandy Creek,America/New_York
+13146,43.09711,-76.76031,Savannah,America/New_York
+13147,42.77336,-76.56603,Scipio Center,America/New_York
+13148,42.9208,-76.78106,Seneca Falls,America/New_York
+13152,42.89323,-76.38518,Skaneateles,America/New_York
+13153,42.9945,-76.45476,Skaneateles Falls,America/New_York
+13154,43.13378,-76.76192,South Butler,America/New_York
+13155,42.65945,-75.77136,South Otselic,America/New_York
+13156,43.33355,-76.66249,Sterling,America/New_York
+13157,43.20288,-75.7254,Sylvan Beach,America/New_York
+13158,42.71603,-75.97626,Truxton,America/New_York
+13159,42.80321,-76.11545,Tully,America/New_York
+13160,42.82613,-76.65157,Union Springs,America/New_York
+13162,43.18833,-75.71823,Verona Beach,America/New_York
+13163,43.08194,-75.70841,Wampsville,America/New_York
+13164,43.09377,-76.31626,Warners,America/New_York
+13165,42.91185,-76.87601,Waterloo,America/New_York
+13166,43.07219,-76.5568,Weedsport,America/New_York
+13167,43.3171,-76.0571,West Monroe,America/New_York
+13202,43.04356,-76.15065,Syracuse,America/New_York
+13203,43.061,-76.13486,Syracuse,America/New_York
+13204,43.05204,-76.17666,Syracuse,America/New_York
+13205,43.00474,-76.14163,Syracuse,America/New_York
+13206,43.07354,-76.10584,Syracuse,America/New_York
+13207,43.01221,-76.16354,Syracuse,America/New_York
+13208,43.07878,-76.14521,Syracuse,America/New_York
+13209,43.08581,-76.24355,Syracuse,America/New_York
+13210,43.03186,-76.12653,Syracuse,America/New_York
+13211,43.10333,-76.11954,Syracuse,America/New_York
+13212,43.12839,-76.12889,Syracuse,America/New_York
+13214,43.03865,-76.0741,Syracuse,America/New_York
+13215,42.97852,-76.22979,Syracuse,America/New_York
+13219,43.03969,-76.22277,Syracuse,America/New_York
+13224,43.03892,-76.10264,Syracuse,America/New_York
+13244,43.02318,-76.12329,Syracuse,America/New_York
+13290,43.07132,-76.17368,Syracuse,America/New_York
+13301,43.42225,-75.21546,Alder Creek,America/New_York
+13302,43.50261,-75.95044,Altmar,America/New_York
+13303,43.36992,-75.46636,Ava,America/New_York
+13304,43.23954,-75.1589,Barneveld,America/New_York
+13305,43.89329,-75.43144,Beaver Falls,America/New_York
+13308,43.24865,-75.66686,Blossvale,America/New_York
+13309,43.47398,-75.34103,Boonville,America/New_York
+13310,42.89055,-75.57065,Bouckville,America/New_York
+13312,43.70247,-75.20758,Brantingham,America/New_York
+13313,42.88715,-75.26228,Bridgewater,America/New_York
+13314,42.82476,-75.31568,Brookfield,America/New_York
+13315,42.7438,-75.1385,Burlington Flats,America/New_York
+13316,43.41492,-75.73963,Camden,America/New_York
+13317,42.85638,-74.58844,Canajoharie,America/New_York
+13318,42.92366,-75.25958,Cassville,America/New_York
+13319,43.02705,-75.26593,Chadwicks,America/New_York
+13320,42.77353,-74.74325,Cherry Valley,America/New_York
+13321,43.08901,-75.37259,Clark Mills,America/New_York
+13322,42.96661,-75.20445,Clayville,America/New_York
+13323,43.04198,-75.38144,Clinton,America/New_York
+13324,43.3165,-74.93325,Cold Brook,America/New_York
+13325,43.58398,-75.54091,Constableville,America/New_York
+13326,42.71865,-74.90374,Cooperstown,America/New_York
+13327,43.96047,-75.28474,Croghan,America/New_York
+13328,42.98247,-75.42836,Deansboro,America/New_York
+13329,43.11094,-74.70017,Dolgeville,America/New_York
+13331,43.81706,-74.97284,Eagle Bay,America/New_York
+13332,42.75831,-75.57452,Earlville,America/New_York
+13333,42.83091,-74.82207,East Springfield,America/New_York
+13334,42.83445,-75.65986,Eaton,America/New_York
+13335,42.70193,-75.24847,Edmeston,America/New_York
+13337,42.75114,-74.9816,Fly Creek,America/New_York
+13338,43.49706,-74.97833,Forestport,America/New_York
+13339,42.93995,-74.66631,Fort Plain,America/New_York
+13340,43.04814,-75.11502,Frankfort,America/New_York
+13342,42.64766,-75.18918,Garrattsville,America/New_York
+13343,43.75271,-75.31062,Glenfield,America/New_York
+13345,43.6889,-75.33153,Greig,America/New_York
+13346,42.82093,-75.54453,Hamilton,America/New_York
+13348,42.70202,-75.06398,Hartwick,America/New_York
+13350,43.06352,-74.98817,Herkimer,America/New_York
+13352,43.31122,-75.12058,Hinckley,America/New_York
+13353,43.47123,-74.72732,Hoffmeister,America/New_York
+13354,43.26612,-75.27199,Holland Patent,America/New_York
+13355,42.80971,-75.42401,Hubbardsville,America/New_York
+13357,42.96952,-75.08037,Ilion,America/New_York
+13360,43.72457,-74.73577,Inlet,America/New_York
+13361,42.89807,-74.86256,Jordanville,America/New_York
+13363,43.33127,-75.50984,Lee Center,America/New_York
+13364,42.80501,-75.26105,Leonardsville,America/New_York
+13365,43.09804,-74.84937,Little Falls,America/New_York
+13367,43.85563,-75.31772,Lowville,America/New_York
+13368,43.6446,-75.33209,Lyons Falls,America/New_York
+13402,42.90209,-75.50728,Madison,America/New_York
+13403,43.17041,-75.27188,Marcy,America/New_York
+13404,43.73842,-75.48089,Martinsburg,America/New_York
+13406,43.14326,-74.92257,Middleville,America/New_York
+13407,42.9677,-74.94087,Mohawk,America/New_York
+13408,42.92205,-75.66722,Morrisville,America/New_York
+13409,42.97602,-75.59131,Munnsville,America/New_York
+13410,42.92908,-74.60922,Nelliston,America/New_York
+13411,42.63723,-75.30981,New Berlin,America/New_York
+13413,43.0576,-75.27495,New Hartford,America/New_York
+13415,42.59714,-75.19729,New Lisbon,America/New_York
+13416,43.18768,-74.9571,Newport,America/New_York
+13417,43.10002,-75.29399,New York Mills,America/New_York
+13418,42.84519,-75.38213,North Brookfield,America/New_York
+13420,43.65069,-74.9619,Old Forge,America/New_York
+13421,43.06293,-75.64654,Oneida,America/New_York
+13424,43.15228,-75.36291,Oriskany,America/New_York
+13425,42.9635,-75.48675,Oriskany Falls,America/New_York
+13428,42.92096,-74.53311,Palatine Bridge,America/New_York
+13431,43.20691,-75.07608,Poland,America/New_York
+13433,43.59914,-75.24765,Port Leyden,America/New_York
+13435,43.30255,-75.15134,Prospect,America/New_York
+13436,43.80501,-74.67034,Raquette Lake,America/New_York
+13437,43.59677,-75.80383,Redfield,America/New_York
+13438,43.35171,-75.15527,Remsen,America/New_York
+13439,42.85491,-74.99724,Richfield Springs,America/New_York
+13440,43.21807,-75.45941,Rome,America/New_York
+13441,43.22711,-75.40758,Rome,America/New_York
+13450,42.7026,-74.81263,Roseboom,America/New_York
+13452,43.03718,-74.63001,Saint Johnsville,America/New_York
+13454,43.16885,-74.75719,Salisbury Center,America/New_York
+13455,42.91791,-75.37655,Sangerfield,America/New_York
+13456,43.00145,-75.25855,Sauquoit,America/New_York
+13457,42.77527,-75.03691,Schuyler Lake,America/New_York
+13459,42.77721,-74.59315,Sharon Springs,America/New_York
+13460,42.68492,-75.45572,Sherburne,America/New_York
+13461,43.07115,-75.59866,Sherrill,America/New_York
+13464,42.68632,-75.61998,Smyrna,America/New_York
+13468,42.84696,-74.86448,Springfield Center,America/New_York
+13469,43.22028,-75.29853,Stittville,America/New_York
+13470,43.21075,-74.66825,Stratford,America/New_York
+13471,43.37606,-75.6122,Taberg,America/New_York
+13472,43.69491,-75.06072,Thendara,America/New_York
+13473,43.64414,-75.44517,Turin,America/New_York
+13475,42.88789,-74.81196,Van Hornesville,America/New_York
+13476,43.08728,-75.51219,Vernon,America/New_York
+13477,43.03633,-75.51441,Vernon Center,America/New_York
+13478,43.14916,-75.58009,Verona,America/New_York
+13480,42.91424,-75.36699,Waterville,America/New_York
+13482,42.69661,-75.17695,West Burlington,America/New_York
+13483,43.40075,-75.81995,Westdale,America/New_York
+13484,42.85426,-75.65549,West Eaton,America/New_York
+13485,42.7865,-75.3165,West Edmeston,America/New_York
+13486,43.35707,-75.34088,Westernville,America/New_York
+13488,42.67447,-74.76796,Westford,America/New_York
+13489,43.46698,-75.52928,West Leyden,America/New_York
+13490,43.10612,-75.42991,Westmoreland,America/New_York
+13491,42.85957,-75.17698,West Winfield,America/New_York
+13492,43.1172,-75.33023,Whitesboro,America/New_York
+13493,43.43162,-75.90102,Williamstown,America/New_York
+13494,43.53136,-75.14198,Woodgate,America/New_York
+13495,43.11087,-75.27744,Yorkville,America/New_York
+13501,43.08138,-75.22611,Utica,America/New_York
+13502,43.14121,-75.16584,Utica,America/New_York
+13601,43.96949,-75.90965,Watertown,America/New_York
+13602,44.04877,-75.75747,Fort Drum,America/New_York
+13603,44.03826,-75.79765,Watertown,America/New_York
+13605,43.80641,-76.05195,Adams,America/New_York
+13606,43.87007,-76.01601,Adams Center,America/New_York
+13607,44.33233,-75.91187,Alexandria Bay,America/New_York
+13608,44.23879,-75.62508,Antwerp,America/New_York
+13611,43.77726,-76.12374,Belleville,America/New_York
+13612,43.98571,-75.76911,Black River,America/New_York
+13613,44.85884,-74.73879,Brasher Falls,America/New_York
+13614,44.53081,-75.69194,Brier Hill,America/Toronto
+13615,44.00569,-75.98328,Brownville,America/New_York
+13616,44.02538,-75.85896,Calcium,America/New_York
+13617,44.5789,-75.14668,Canton,America/New_York
+13618,44.11641,-76.27851,Cape Vincent,America/New_York
+13619,43.97705,-75.59432,Carthage,America/New_York
+13620,43.89989,-75.45265,Castorland,America/New_York
+13621,44.8452,-75.06596,Chase Mills,America/New_York
+13622,44.09654,-76.115,Chaumont,America/New_York
+13623,44.44877,-75.75299,Chippewa Bay,America/New_York
+13624,44.22284,-76.09736,Clayton,America/New_York
+13625,44.5384,-74.92135,Colton,America/New_York
+13626,43.85143,-75.7202,Copenhagen,America/New_York
+13628,44.03764,-75.68307,Deferiet,America/New_York
+13630,44.49742,-75.31756,De Kalb Junction,America/New_York
+13632,44.12698,-76.06826,Depauville,America/New_York
+13633,44.48259,-75.48825,De Peyster,America/New_York
+13634,44.01197,-76.07034,Dexter,America/New_York
+13635,44.29915,-75.26188,Edwards,America/New_York
+13636,43.74107,-76.12762,Ellisburg,America/New_York
+13637,44.09751,-75.83346,Evans Mills,America/New_York
+13638,44.02077,-75.75443,Felts Mills,America/New_York
+13639,44.2594,-75.14324,Fine,America/New_York
+13640,44.3198,-75.99937,Wellesley Island,America/New_York
+13641,44.27341,-76.00573,Fishers Landing,America/New_York
+13642,44.3263,-75.46742,Gouverneur,America/New_York
+13643,44.03207,-75.71738,Great Bend,America/New_York
+13645,44.30878,-75.44655,Hailesboro,America/New_York
+13646,44.44144,-75.69379,Hammond,America/New_York
+13647,44.6017,-74.99264,Hannawa Falls,America/New_York
+13648,44.14977,-75.29908,Harrisville,America/New_York
+13649,44.91246,-74.69983,Helena,America/New_York
+13650,43.80742,-76.20629,Henderson,America/New_York
+13651,43.86513,-76.18125,Henderson Harbor,America/New_York
+13652,44.43579,-75.21338,Hermon,America/New_York
+13654,44.56654,-75.46067,Heuvelton,America/New_York
+13655,44.97865,-74.64781,Hogansburg,America/New_York
+13656,44.19141,-75.95058,La Fargeville,America/New_York
+13658,44.73979,-75.27756,Lisbon,America/New_York
+13659,43.73783,-75.8707,Lorraine,America/New_York
+13660,44.77727,-75.15764,Madrid,America/New_York
+13661,43.70924,-76.1054,Mannsville,America/New_York
+13662,44.9378,-74.89383,Massena,America/New_York
+13664,44.58423,-75.64537,Morristown,America/Toronto
+13665,44.05227,-75.44933,Natural Bridge,America/New_York
+13666,44.21404,-74.95557,Newton Falls,America/New_York
+13667,44.83768,-74.96149,Norfolk,America/New_York
+13668,44.75432,-74.98764,Norwood,America/New_York
+13669,44.65004,-75.49861,Ogdensburg,America/New_York
+13670,44.18264,-75.11635,Oswegatchie,America/New_York
+13672,44.48166,-74.67987,Parishville,America/New_York
+13673,44.17105,-75.72133,Philadelphia,America/New_York
+13674,43.73763,-76.05192,Pierrepont Manor,America/New_York
+13675,44.28227,-75.83872,Plessis,America/New_York
+13676,44.65178,-74.91377,Potsdam,America/New_York
+13678,44.83165,-74.96775,Raymondville,America/New_York
+13679,44.32664,-75.76554,Redwood,America/New_York
+13680,44.59416,-75.32814,Rensselaer Falls,America/New_York
+13681,44.42933,-75.37142,Richville,America/New_York
+13682,43.84024,-75.88924,Rodman,America/New_York
+13683,44.97395,-74.73543,Rooseveltown,America/New_York
+13684,44.36577,-75.0464,Russell,America/New_York
+13685,43.93343,-76.09399,Sackets Harbor,America/New_York
+13687,44.44744,-74.82516,South Colton,America/New_York
+13690,44.12612,-75.02319,Star Lake,America/New_York
+13691,44.22747,-75.78208,Theresa,America/New_York
+13692,44.28861,-76.0258,Thousand Island Park,America/New_York
+13693,44.03237,-76.24824,Three Mile Bay,America/New_York
+13694,44.8575,-75.1645,Waddington,America/New_York
+13695,44.10505,-74.92872,Wanakena,America/New_York
+13696,44.70425,-74.88971,West Stockholm,America/New_York
+13697,44.74841,-74.80656,Winthrop,America/New_York
+13699,44.66372,-74.99851,Potsdam,America/New_York
+13730,42.23201,-75.53127,Afton,America/New_York
+13731,42.13059,-74.7882,Andes,America/New_York
+13732,42.04396,-76.16772,Apalachin,America/New_York
+13733,42.30459,-75.4793,Bainbridge,America/New_York
+13734,42.07752,-76.40864,Barton,America/New_York
+13736,42.31722,-76.19389,Berkshire,America/New_York
+13738,42.56236,-76.11986,Blodgett Mills,America/New_York
+13739,42.36614,-74.78982,Bloomville,America/New_York
+13740,42.27535,-74.74498,Bovina Center,America/New_York
+13743,42.21706,-76.33898,Candor,America/New_York
+13744,42.24078,-75.90629,Castle Creek,America/New_York
+13746,42.26868,-75.82085,Chenango Forks,America/New_York
+13747,42.49003,-74.98209,Colliersville,America/New_York
+13748,42.03428,-75.81727,Conklin,America/New_York
+13750,42.47739,-74.83904,Davenport,America/New_York
+13751,42.45745,-74.88363,Davenport Center,America/New_York
+13752,42.17257,-74.90379,Delancey,America/New_York
+13753,42.30873,-74.92538,Delhi,America/New_York
+13754,42.09387,-75.43625,Deposit,America/New_York
+13755,42.05976,-75.01524,Downsville,America/New_York
+13756,42.01025,-75.10394,East Branch,America/New_York
+13757,42.40915,-74.89321,East Meredith,America/New_York
+13760,42.13425,-76.08354,Endicott,America/New_York
+13774,41.96192,-75.17283,Fishs Eddy,America/New_York
+13775,42.33706,-75.14728,Franklin,America/New_York
+13776,42.47023,-75.33458,Gilbertsville,America/New_York
+13777,42.25894,-75.9866,Glen Aubrey,America/New_York
+13778,42.34795,-75.75977,Greene,America/New_York
+13780,42.42496,-75.48128,Guilford,America/New_York
+13782,42.17304,-74.9836,Hamden,America/New_York
+13783,41.99037,-75.26764,Hancock,America/New_York
+13784,42.43542,-76.2177,Harford,America/New_York
+13786,42.4485,-74.69563,Harpersfield,America/New_York
+13787,42.20606,-75.66334,Harpursville,America/New_York
+13788,42.34914,-74.65658,Hobart,America/New_York
+13790,42.16937,-75.99796,Johnson City,America/New_York
+13795,42.05844,-75.77419,Kirkwood,America/New_York
+13796,42.5513,-75.13644,Laurens,America/New_York
+13797,42.32765,-76.04389,Lisle,America/New_York
+13801,42.50327,-75.78028,McDonough,America/New_York
+13802,42.25164,-76.04207,Maine,America/New_York
+13803,42.45787,-76.06028,Marathon,America/New_York
+13804,42.20708,-75.37562,Masonville,America/New_York
+13806,42.37894,-74.97315,Meridale,America/New_York
+13807,42.61718,-74.98612,Milford,America/New_York
+13808,42.52797,-75.25657,Morris,America/New_York
+13809,42.40849,-75.3914,Mount Upton,America/New_York
+13810,42.61188,-75.11157,Mount Vision,America/New_York
+13811,42.23099,-76.17481,Newark Valley,America/New_York
+13812,42.02993,-76.35461,Nichols,America/New_York
+13813,42.16808,-75.54266,Nineveh,America/New_York
+13814,42.61655,-75.52584,North Norwich,America/New_York
+13815,42.54712,-75.53413,Norwich,America/New_York
+13820,42.47204,-75.03893,Oneonta,America/New_York
+13825,42.44329,-75.20154,Otego,America/New_York
+13826,42.10517,-75.63701,Ouaquaga,America/New_York
+13827,42.11178,-76.25216,Owego,America/New_York
+13830,42.43868,-75.6295,Oxford,America/New_York
+13832,42.6531,-75.66286,Plymouth,America/New_York
+13833,42.19829,-75.76432,Port Crane,America/New_York
+13834,42.54903,-74.96727,Portlandville,America/New_York
+13835,42.38906,-76.16939,Richford,America/New_York
+13838,42.28423,-75.39595,Sidney,America/New_York
+13839,42.24824,-75.26007,Sidney Center,America/New_York
+13841,42.41408,-75.84171,Smithville Flats,America/New_York
+13842,42.37922,-74.72302,South Kortright,America/New_York
+13843,42.53468,-75.37584,South New Berlin,America/New_York
+13844,42.60927,-75.68083,South Plymouth,America/New_York
+13846,42.36037,-75.05465,Treadwell,America/New_York
+13847,42.20443,-75.27777,Trout Creek,America/New_York
+13849,42.33785,-75.31392,Unadilla,America/New_York
+13850,42.04873,-76.02663,Vestal,America/New_York
+13856,42.16666,-75.16633,Walton,America/New_York
+13859,42.37123,-75.24916,Wells Bridge,America/New_York
+13860,42.45573,-74.94989,West Davenport,America/New_York
+13861,42.5048,-75.14156,West Oneonta,America/New_York
+13862,42.3369,-75.9372,Whitney Point,America/New_York
+13863,42.44164,-75.904,Willet,America/New_York
+13864,42.29095,-76.39225,Willseyville,America/New_York
+13865,42.06282,-75.62879,Windsor,America/New_York
+13901,42.18253,-75.88048,Binghamton,America/New_York
+13902,42.08895,-75.96891,Binghamton,America/New_York
+13903,42.04749,-75.89573,Binghamton,America/New_York
+13904,42.13072,-75.81587,Binghamton,America/New_York
+13905,42.18086,-75.94476,Binghamton,America/New_York
+14001,43.03149,-78.51154,Akron,America/New_York
+14004,42.89487,-78.51008,Alden,America/New_York
+14005,42.91788,-78.24703,Alexander,America/New_York
+14006,42.63366,-79.02056,Angola,America/New_York
+14008,43.30792,-78.62728,Appleton,America/New_York
+14009,42.57542,-78.39241,Arcade,America/New_York
+14011,42.83158,-78.29784,Attica,America/New_York
+14012,43.33431,-78.52572,Barker,America/New_York
+14013,43.07639,-78.39704,Basom,America/New_York
+14020,42.99513,-78.21508,Batavia,America/New_York
+14024,42.58111,-78.24431,Bliss,America/New_York
+14025,42.6232,-78.72609,Boston,America/New_York
+14026,42.94212,-78.68794,Bowmansville,America/New_York
+14027,42.59408,-79.02067,Brant,America/New_York
+14028,43.31498,-78.71664,Burt,America/New_York
+14029,42.47293,-78.26346,Centerville,America/New_York
+14030,42.56518,-78.50052,Chaffee,America/New_York
+14031,42.98661,-78.60908,Clarence,America/New_York
+14032,43.04587,-78.63189,Clarence Center,America/New_York
+14033,42.65865,-78.68436,Colden,America/New_York
+14034,42.4985,-78.86238,Collins,America/New_York
+14035,42.49099,-78.85936,Collins Center,America/New_York
+14036,42.97447,-78.38712,Corfu,America/New_York
+14037,42.80637,-78.45448,Cowlesville,America/New_York
+14039,42.83593,-78.17101,Dale,America/New_York
+14040,42.88809,-78.37847,Darien Center,America/New_York
+14041,42.4059,-78.97699,Dayton,America/New_York
+14042,42.46882,-78.48377,Delevan,America/New_York
+14043,42.90142,-78.70431,Depew,America/New_York
+14047,42.68579,-78.99328,Derby,America/New_York
+14048,42.48087,-79.31128,Dunkirk,America/New_York
+14051,43.04168,-78.69927,East Amherst,America/New_York
+14052,42.77054,-78.58084,East Aurora,America/New_York
+14054,42.90606,-78.1312,East Bethany,America/New_York
+14055,42.5536,-78.60121,East Concord,America/New_York
+14056,42.99183,-78.30663,East Pembroke,America/New_York
+14057,42.64587,-78.87542,Eden,America/New_York
+14058,43.10167,-78.16211,Elba,America/New_York
+14059,42.83241,-78.63678,Elma,America/New_York
+14060,42.43986,-78.30884,Farmersville Station,America/New_York
+14061,42.59111,-79.08949,Farnham,America/New_York
+14062,42.44364,-79.14897,Forestville,America/New_York
+14063,42.41451,-79.32518,Fredonia,America/New_York
+14065,42.48741,-78.31158,Freedom,America/New_York
+14066,42.62381,-78.18051,Gainesville,America/New_York
+14067,43.21565,-78.56644,Gasport,America/New_York
+14068,43.02696,-78.75808,Getzville,America/New_York
+14069,42.59984,-78.62984,Glenwood,America/New_York
+14070,42.43673,-78.92798,Gowanda,America/New_York
+14072,43.01673,-78.96308,Grand Island,America/Toronto
+14075,42.71297,-78.82985,Hamburg,America/New_York
+14080,42.64289,-78.54886,Holland,America/New_York
+14081,42.56332,-79.06528,Irving,America/New_York
+14082,42.65689,-78.38435,Java Center,America/New_York
+14083,42.67921,-78.43446,Java Village,America/New_York
+14085,42.71494,-78.92691,Lake View,America/New_York
+14086,42.90661,-78.6291,Lancaster,America/New_York
+14091,42.54224,-78.88868,Lawtons,America/New_York
+14092,43.17314,-78.99521,Lewiston,America/New_York
+14094,43.15989,-78.70032,Lockport,America/New_York
+14098,43.33464,-78.37827,Lyndonville,America/New_York
+14101,42.3863,-78.54292,Machias,America/New_York
+14102,42.84272,-78.55481,Marilla,America/New_York
+14103,43.2125,-78.37696,Medina,America/New_York
+14105,43.19043,-78.4813,Middleport,America/New_York
+14108,43.26365,-78.7274,Newfane,America/New_York
+14109,43.13718,-79.03516,Niagara University,America/Toronto
+14111,42.58206,-78.89803,North Collins,America/New_York
+14112,42.6981,-78.9395,North Evans,America/New_York
+14113,42.66813,-78.33624,North Java,America/New_York
+14120,43.07337,-78.83585,North Tonawanda,America/New_York
+14125,43.08773,-78.28207,Oakfield,America/New_York
+14126,43.33529,-78.72335,Olcott,America/New_York
+14127,42.75204,-78.74402,Orchard Park,America/New_York
+14129,42.4805,-79.0092,Perrysburg,America/New_York
+14130,42.55318,-78.14959,Pike,America/New_York
+14131,43.23556,-78.89935,Ransomville,America/New_York
+14132,43.14787,-78.87856,Sanborn,America/New_York
+14134,42.53057,-78.51738,Sardinia,America/New_York
+14135,42.48489,-79.2437,Sheridan,America/New_York
+14136,42.52387,-79.16935,Silver Creek,America/New_York
+14138,42.37497,-79.05376,South Dayton,America/New_York
+14139,42.71723,-78.53606,South Wales,America/New_York
+14141,42.52366,-78.7109,Springville,America/New_York
+14143,42.97547,-78.0759,Stafford,America/New_York
+14145,42.73154,-78.43205,Strykersville,America/New_York
+14150,42.99794,-78.87815,Tonawanda,America/New_York
+14166,42.45088,-79.41592,Van Buren Point,America/New_York
+14167,42.74327,-78.32629,Varysburg,America/New_York
+14168,42.51187,-78.98745,Versailles,America/New_York
+14169,42.76446,-78.52938,Wales Center,America/New_York
+14170,42.70115,-78.67294,West Falls,America/New_York
+14171,42.42491,-78.64286,West Valley,America/New_York
+14172,43.28201,-78.81757,Wilson,America/New_York
+14173,42.52594,-78.47306,Yorkshire,America/New_York
+14174,43.24178,-79.00548,Youngstown,America/New_York
+14201,42.89706,-78.88752,Buffalo,America/New_York
+14202,42.88798,-78.88358,Buffalo,America/New_York
+14203,42.86244,-78.86507,Buffalo,America/New_York
+14204,42.882,-78.8614,Buffalo,America/New_York
+14206,42.88078,-78.81018,Buffalo,America/New_York
+14207,42.95201,-78.89824,Buffalo,America/New_York
+14208,42.9146,-78.85146,Buffalo,America/New_York
+14209,42.91365,-78.86622,Buffalo,America/New_York
+14210,42.86407,-78.82811,Buffalo,America/New_York
+14211,42.90813,-78.81883,Buffalo,America/New_York
+14212,42.89438,-78.81957,Buffalo,America/New_York
+14213,42.91762,-78.89099,Buffalo,America/New_York
+14214,42.93936,-78.84101,Buffalo,America/New_York
+14215,42.93451,-78.81023,Buffalo,America/New_York
+14216,42.94855,-78.862,Buffalo,America/New_York
+14217,42.97189,-78.87674,Buffalo,America/New_York
+14218,42.81921,-78.82772,Buffalo,America/New_York
+14219,42.78903,-78.82694,Buffalo,America/New_York
+14220,42.84571,-78.82264,Buffalo,America/New_York
+14221,42.97918,-78.72158,Buffalo,America/New_York
+14222,42.92002,-78.8771,Buffalo,America/New_York
+14223,42.97348,-78.84612,Buffalo,America/New_York
+14224,42.83767,-78.74771,Buffalo,America/New_York
+14225,42.92879,-78.752,Buffalo,America/New_York
+14226,42.97078,-78.79844,Buffalo,America/New_York
+14227,42.88402,-78.74665,Buffalo,America/New_York
+14228,43.04214,-78.7798,Buffalo,America/New_York
+14260,43.00165,-78.79066,Buffalo,America/New_York
+14261,43.00188,-78.7848,Buffalo,America/New_York
+14301,43.09701,-79.03726,Niagara Falls,America/Toronto
+14302,43.0939,-79.04919,Niagara Falls,America/Toronto
+14303,43.08428,-79.03908,Niagara Falls,America/Toronto
+14304,43.10197,-78.95282,Niagara Falls,America/New_York
+14305,43.1199,-79.02265,Niagara Falls,America/Toronto
+14411,43.23456,-78.21349,Albion,America/New_York
+14413,43.2229,-76.97067,Alton,America/New_York
+14414,42.89358,-77.73501,Avon,America/New_York
+14415,42.7559,-77.01643,Bellona,America/New_York
+14416,43.08003,-77.97849,Bergen,America/New_York
+14418,42.60717,-77.21681,Branchport,America/New_York
+14420,43.21385,-77.93305,Brockport,America/New_York
+14422,43.08357,-78.06704,Byron,America/New_York
+14423,42.94382,-77.82788,Caledonia,America/New_York
+14424,42.84649,-77.3104,Canandaigua,America/New_York
+14425,42.98962,-77.33734,Farmington,America/New_York
+14427,42.61828,-78.05442,Castile,America/New_York
+14428,43.08029,-77.85963,Churchville,America/New_York
+14432,42.95696,-77.14333,Clifton Springs,America/New_York
+14433,43.07939,-76.87779,Clyde,America/New_York
+14435,42.71496,-77.66721,Conesus,America/New_York
+14437,42.57072,-77.73435,Dansville,America/New_York
+14441,42.68608,-76.95756,Dresden,America/New_York
+14445,43.11312,-77.48978,East Rochester,America/New_York
+14450,43.0921,-77.41623,Fairport,America/New_York
+14453,43.01602,-77.47338,Fishers,America/New_York
+14454,42.79731,-77.76879,Geneseo,America/New_York
+14456,42.84584,-77.00012,Geneva,America/New_York
+14462,42.68652,-77.75112,Groveland,America/New_York
+14463,42.79539,-77.0689,Hall,America/New_York
+14464,43.32659,-77.9374,Hamlin,America/New_York
+14466,42.77773,-77.5842,Hemlock,America/New_York
+14467,43.04119,-77.60996,Henrietta,America/New_York
+14468,43.29242,-77.80542,Hilton,America/New_York
+14469,42.87778,-77.46735,Bloomfield,America/New_York
+14470,43.21099,-78.05456,Holley,America/New_York
+14471,42.75308,-77.49425,Honeoye,America/New_York
+14472,42.96589,-77.58173,Honeoye Falls,America/New_York
+14475,42.93683,-77.49787,Ionia,America/New_York
+14476,43.32946,-78.04226,Kendall,America/New_York
+14477,43.33353,-78.13415,Kent,America/New_York
+14478,42.58011,-77.12791,Keuka Park,America/New_York
+14479,43.23768,-78.31008,Knowlesville,America/New_York
+14480,42.83809,-77.70736,Lakeville,America/New_York
+14481,42.77173,-77.91643,Leicester,America/New_York
+14482,42.97457,-77.97014,Le Roy,America/New_York
+14485,42.88016,-77.60131,Lima,America/New_York
+14486,42.89293,-77.92295,Linwood,America/New_York
+14487,42.81174,-77.63873,Livonia,America/New_York
+14489,43.09008,-76.99238,Lyons,America/New_York
+14502,43.09532,-77.33598,Macedon,America/New_York
+14504,42.96839,-77.2327,Manchester,America/New_York
+14505,43.15846,-77.17503,Marion,America/New_York
+14506,43.0012,-77.50508,Mendon,America/New_York
+14507,42.69635,-77.27373,Middlesex,America/New_York
+14510,42.69485,-77.87167,Mount Morris,America/New_York
+14511,42.99603,-77.87762,Mumford,America/New_York
+14512,42.64411,-77.39296,Naples,America/New_York
+14513,43.07204,-77.0961,Newark,America/New_York
+14514,43.08597,-77.80303,North Chili,America/New_York
+14515,43.25287,-77.73175,North Greece,America/New_York
+14516,43.19855,-76.91153,North Rose,America/New_York
+14517,42.59217,-77.8971,Nunda,America/New_York
+14519,43.23184,-77.31389,Ontario,America/New_York
+14521,42.67639,-76.80876,Ovid,America/New_York
+14522,43.05911,-77.22152,Palmyra,America/New_York
+14525,42.87242,-78.01471,Pavilion,America/New_York
+14526,43.15129,-77.44806,Penfield,America/New_York
+14527,42.66764,-77.06473,Penn Yan,America/New_York
+14529,42.53748,-77.64418,Perkinsville,America/New_York
+14530,42.73446,-78.00276,Perry,America/New_York
+14532,42.96462,-77.02601,Phelps,America/New_York
+14533,42.84632,-77.88468,Piffard,America/New_York
+14534,43.0564,-77.52083,Pittsford,America/New_York
+14536,42.53958,-78.08358,Portageville,America/New_York
+14537,43.03539,-77.15604,Port Gibson,America/New_York
+14539,42.83418,-77.87521,Retsof,America/New_York
+14541,42.75704,-76.84403,Romulus,America/New_York
+14542,43.15306,-76.87595,Rose,America/New_York
+14543,42.98777,-77.67747,Rush,America/New_York
+14544,42.75562,-77.23958,Rushville,America/New_York
+14545,42.66166,-77.71056,Scottsburg,America/New_York
+14546,43.0296,-77.77372,Scottsville,America/New_York
+14548,42.97538,-77.24341,Shortsville,America/New_York
+14549,42.69667,-78.02212,Silver Lake,America/New_York
+14550,42.67757,-78.09166,Silver Springs,America/New_York
+14551,43.21886,-77.04596,Sodus,America/New_York
+14555,43.25946,-76.98665,Sodus Point,America/New_York
+14556,42.67906,-77.83222,Sonyea,America/New_York
+14557,43.04807,-78.06126,South Byron,America/New_York
+14559,43.18823,-77.81778,Spencerport,America/New_York
+14560,42.68716,-77.57691,Springwater,America/New_York
+14561,42.82218,-77.13131,Stanley,America/New_York
+14564,42.98329,-77.42417,Victor,America/New_York
+14568,43.14657,-77.28365,Walworth,America/New_York
+14569,42.74012,-78.17269,Warsaw,America/New_York
+14571,43.34397,-78.24894,Waterport,America/New_York
+14572,42.5669,-77.57017,Wayland,America/New_York
+14580,43.21883,-77.44561,Webster,America/New_York
+14585,42.90587,-77.55301,West Bloomfield,America/New_York
+14586,43.04151,-77.68693,West Henrietta,America/New_York
+14588,42.67973,-76.87047,Willard,America/New_York
+14589,43.23997,-77.17224,Williamson,America/New_York
+14590,43.24533,-76.83099,Wolcott,America/New_York
+14591,42.82865,-78.09364,Wyoming,America/New_York
+14592,42.86875,-77.89066,York,America/New_York
+14604,43.1569,-77.60536,Rochester,America/New_York
+14605,43.16838,-77.60177,Rochester,America/New_York
+14606,43.17069,-77.69933,Rochester,America/New_York
+14607,43.15099,-77.58682,Rochester,America/New_York
+14608,43.15335,-77.62362,Rochester,America/New_York
+14609,43.17731,-77.55234,Rochester,America/New_York
+14610,43.14196,-77.5463,Rochester,America/New_York
+14611,43.14756,-77.64731,Rochester,America/New_York
+14612,43.26513,-77.67654,Rochester,America/New_York
+14613,43.1822,-77.64068,Rochester,America/New_York
+14614,43.1574,-77.61473,Rochester,America/New_York
+14615,43.20337,-77.65637,Rochester,America/New_York
+14616,43.23431,-77.65822,Rochester,America/New_York
+14617,43.22488,-77.59323,Rochester,America/New_York
+14618,43.11305,-77.55547,Rochester,America/New_York
+14619,43.1361,-77.649,Rochester,America/New_York
+14620,43.12878,-77.60463,Rochester,America/New_York
+14621,43.18911,-77.60408,Rochester,America/New_York
+14622,43.21389,-77.55359,Rochester,America/New_York
+14623,43.08798,-77.64314,Rochester,America/New_York
+14624,43.12765,-77.7317,Rochester,America/New_York
+14625,43.14891,-77.50551,Rochester,America/New_York
+14626,43.21348,-77.71272,Rochester,America/New_York
+14627,43.12931,-77.62912,Rochester,America/New_York
+14642,43.12281,-77.62508,Rochester,America/New_York
+14701,42.08091,-79.25502,Jamestown,America/New_York
+14706,42.10663,-78.52795,Allegany,America/New_York
+14707,42.08256,-78.06196,Allentown,America/New_York
+14708,42.01424,-78.06988,Alma,America/New_York
+14709,42.35279,-77.98267,Angelica,America/New_York
+14710,42.08957,-79.42306,Ashville,America/New_York
+14711,42.32088,-78.12625,Belfast,America/New_York
+14712,42.18163,-79.36812,Bemus Point,America/New_York
+14714,42.28368,-78.23493,Black Creek,America/New_York
+14715,42.07323,-78.14832,Bolivar,America/New_York
+14716,42.38056,-79.43406,Brocton,America/New_York
+14717,42.36258,-78.18235,Caneadea,America/New_York
+14718,42.34417,-79.28813,Cassadaga,America/New_York
+14719,42.34323,-78.87198,Cattaraugus,America/New_York
+14720,42.10857,-79.27997,Celoron,America/New_York
+14721,42.01645,-78.26801,Ceres,America/New_York
+14722,42.20961,-79.46882,Chautauqua,America/New_York
+14723,42.3101,-79.13489,Cherry Creek,America/New_York
+14724,42.05272,-79.67031,Clymer,America/New_York
+14726,42.25255,-79.02221,Conewango Valley,America/New_York
+14727,42.2129,-78.29358,Cuba,America/New_York
+14728,42.2648,-79.41689,Dewittville,America/New_York
+14729,42.40404,-78.73628,East Otto,America/New_York
+14731,42.30063,-78.65092,Ellicottville,America/New_York
+14732,42.2188,-79.10696,Ellington,America/New_York
+14733,42.14996,-79.17499,Falconer,America/New_York
+14735,42.45027,-78.09681,Fillmore,America/New_York
+14736,42.13715,-79.74644,Findley Lake,America/New_York
+14737,42.33524,-78.42926,Franklinville,America/New_York
+14738,42.04539,-79.05926,Frewsburg,America/New_York
+14739,42.1925,-78.14932,Friendship,America/New_York
+14740,42.21962,-79.18053,Gerry,America/New_York
+14741,42.21868,-78.5963,Great Valley,America/New_York
+14742,42.11934,-79.30878,Greenhurst,America/New_York
+14743,42.20532,-78.40631,Hinsdale,America/New_York
+14744,42.4219,-78.21516,Houghton,America/New_York
+14747,42.15346,-79.09061,Kennedy,America/New_York
+14748,42.1392,-78.63636,Kill Buck,America/New_York
+14750,42.07939,-79.32752,Lakewood,America/New_York
+14752,42.3517,-79.31965,Lily Dale,America/New_York
+14753,42.03899,-78.63516,Limestone,America/New_York
+14754,42.02385,-78.19799,Little Genesee,America/New_York
+14755,42.23477,-78.81398,Little Valley,America/New_York
+14756,42.19708,-79.42373,Maple Springs,America/New_York
+14757,42.23944,-79.50457,Mayville,America/New_York
+14760,42.07098,-78.41421,Olean,America/New_York
+14767,42.05344,-79.51583,Panama,America/New_York
+14769,42.36885,-79.47413,Portland,America/New_York
+14770,42.0468,-78.29963,Portville,America/New_York
+14772,42.15383,-78.95086,Randolph,America/New_York
+14774,42.08875,-78.14658,Richburg,America/New_York
+14775,42.23198,-79.69532,Ripley,America/New_York
+14777,42.38999,-78.26167,Rushford,America/New_York
+14778,42.07759,-78.4827,Saint Bonaventure,America/New_York
+14779,42.10703,-78.76977,Salamanca,America/New_York
+14781,42.16402,-79.604,Sherman,America/New_York
+14782,42.2665,-79.2559,Sinclairville,America/New_York
+14783,42.06014,-78.91816,Steamburg,America/New_York
+14784,42.31445,-79.38028,Stockton,America/New_York
+14785,42.15572,-79.40337,Stow,America/New_York
+14787,42.31342,-79.5675,Westfield,America/New_York
+14788,42.06012,-78.37661,Westons Mills,America/New_York
+14801,42.09718,-77.28461,Addison,America/New_York
+14802,42.2537,-77.78989,Alfred,America/New_York
+14803,42.25135,-77.78808,Alfred Station,America/New_York
+14804,42.31587,-77.8476,Almond,America/New_York
+14805,42.3563,-76.72618,Alpine,America/New_York
+14806,42.15543,-77.78662,Andover,America/New_York
+14807,42.41821,-77.71949,Arkport,America/New_York
+14808,42.55817,-77.46882,Atlanta,America/New_York
+14809,42.41961,-77.44355,Avoca,America/New_York
+14810,42.34678,-77.34599,Bath,America/New_York
+14812,42.29199,-76.99413,Beaver Dams,America/New_York
+14813,42.24638,-77.99209,Belmont,America/New_York
+14814,42.15525,-76.95148,Big Flats,America/New_York
+14815,42.37335,-77.09463,Bradford,America/New_York
+14816,42.19728,-76.73161,Breesport,America/New_York
+14817,42.36295,-76.34548,Brooktondale,America/New_York
+14818,42.44878,-76.81688,Burdett,America/New_York
+14819,42.21924,-77.43466,Cameron,America/New_York
+14820,42.18629,-77.36258,Cameron Mills,America/New_York
+14821,42.23541,-77.21623,Campbell,America/New_York
+14822,42.43522,-77.84702,Canaseraga,America/New_York
+14823,42.23984,-77.5722,Canisteo,America/New_York
+14824,42.26875,-76.70881,Cayuta,America/New_York
+14825,42.05564,-76.62116,Chemung,America/New_York
+14826,42.49354,-77.49335,Cohocton,America/New_York
+14827,42.18069,-77.14292,Coopers Plains,America/New_York
+14830,42.12927,-77.02783,Corning,America/New_York
+14836,42.51526,-77.91526,Dalton,America/New_York
+14837,42.49919,-77.01668,Dundee,America/New_York
+14838,42.18951,-76.66635,Erin,America/New_York
+14839,42.13961,-77.64331,Greenwood,America/New_York
+14840,42.44119,-77.18758,Hammondsport,America/New_York
+14841,42.52699,-76.84249,Hector,America/New_York
+14842,42.59666,-76.963,Himrod,America/New_York
+14843,42.32819,-77.64371,Hornell,America/New_York
+14845,42.20225,-76.8334,Horseheads,America/New_York
+14846,42.5301,-78.00319,Hunt,America/New_York
+14847,42.6031,-76.74047,Interlaken,America/New_York
+14850,42.43249,-76.49891,Ithaca,America/New_York
+14853,42.44727,-76.48149,Ithaca,America/New_York
+14854,42.51138,-76.60874,Jacksonville,America/New_York
+14855,42.13978,-77.50112,Jasper,America/New_York
+14856,42.37737,-77.36944,Kanona,America/New_York
+14858,42.02909,-77.13315,Lindley,America/New_York
+14859,42.12118,-76.53985,Lockwood,America/New_York
+14860,42.59099,-76.84201,Lodi,America/New_York
+14861,42.0914,-76.6888,Lowman,America/New_York
+14864,42.2804,-76.84205,Millport,America/New_York
+14865,42.35091,-76.83178,Montour Falls,America/New_York
+14867,42.34243,-76.61461,Newfield,America/New_York
+14869,42.36403,-76.77052,Odessa,America/New_York
+14870,42.16816,-77.13234,Painted Post,America/New_York
+14871,42.03838,-76.91093,Pine City,America/New_York
+14872,42.24141,-76.86473,Pine Valley,America/New_York
+14873,42.52181,-77.29814,Prattsburgh,America/New_York
+14874,42.53231,-77.17234,Pulteney,America/New_York
+14877,42.06181,-77.68384,Rexville,America/New_York
+14878,42.44946,-76.94401,Rock Stream,America/New_York
+14879,42.31521,-77.19323,Savona,America/New_York
+14880,42.17363,-77.97334,Scio,America/New_York
+14881,42.4017,-76.35795,Slaterville Springs,America/New_York
+14882,42.5801,-76.56576,Lansing,America/New_York
+14883,42.24056,-76.482,Spencer,America/New_York
+14884,42.47613,-77.88724,Swain,America/New_York
+14885,42.048,-77.57117,Troupsburg,America/New_York
+14886,42.50408,-76.68836,Trumansburg,America/New_York
+14889,42.21605,-76.58138,Van Etten,America/New_York
+14891,42.37823,-76.95035,Watkins Glen,America/New_York
+14892,42.0478,-76.52804,Waverly,America/New_York
+14893,42.46952,-77.11182,Wayne,America/New_York
+14894,42.02442,-76.77185,Wellsburg,America/New_York
+14895,42.07772,-77.93387,Wellsville,America/New_York
+14897,42.02949,-77.79076,Whitesville,America/New_York
+14898,42.05729,-77.43482,Woodhull,America/New_York
+14901,42.07363,-76.74137,Elmira,America/New_York
+14903,42.12372,-76.87771,Elmira,America/New_York
+14904,42.07007,-76.80798,Elmira,America/New_York
+14905,42.08692,-76.84284,Elmira,America/New_York
+15001,40.59161,-80.32078,Aliquippa,America/New_York
+15003,40.60153,-80.21415,Ambridge,America/New_York
+15004,40.34216,-80.38289,Atlasburg,America/New_York
+15005,40.64431,-80.17607,Baden,America/New_York
+15006,40.63351,-79.87678,Bairdford,America/New_York
+15007,40.65128,-79.93173,Bakerstown,America/New_York
+15009,40.69933,-80.36464,Beaver,America/New_York
+15010,40.76829,-80.35873,Beaver Falls,America/New_York
+15012,40.15871,-79.81188,Belle Vernon,America/New_York
+15014,40.60859,-79.74149,Brackenridge,America/New_York
+15015,40.63622,-80.08164,Bradfordwoods,America/New_York
+15017,40.34348,-80.12865,Bridgeville,America/New_York
+15018,40.26924,-79.79805,Buena Vista,America/New_York
+15019,40.40805,-80.33053,Bulger,America/New_York
+15020,40.2283,-79.9479,Bunola,America/New_York
+15021,40.39373,-80.43583,Burgettstown,America/New_York
+15022,40.13329,-79.93661,Charleroi,America/New_York
+15024,40.57649,-79.84649,Cheswick,America/New_York
+15025,40.29887,-79.9213,Clairton,America/New_York
+15026,40.51043,-80.35662,Clinton,America/New_York
+15027,40.66706,-80.23988,Conway,America/New_York
+15028,40.30194,-79.79891,Coulters,America/New_York
+15030,40.58492,-79.78074,Creighton,America/New_York
+15031,40.34802,-80.16235,Cuddy,America/New_York
+15033,40.18011,-79.86501,Donora,America/New_York
+15034,40.35083,-79.89067,Dravosburg,America/New_York
+15035,40.38488,-79.80726,East McKeesport,America/New_York
+15037,40.25649,-79.85017,Elizabeth,America/New_York
+15038,40.2499,-79.92379,Elrama,America/New_York
+15042,40.68786,-80.20411,Freedom,America/New_York
+15043,40.55585,-80.48994,Georgetown,America/New_York
+15044,40.64009,-79.9492,Gibsonia,America/New_York
+15045,40.32613,-79.88614,Glassport,America/New_York
+15046,40.55618,-80.22868,Crescent,America/New_York
+15047,40.3123,-79.79513,Greenock,America/New_York
+15049,40.55545,-79.80366,Harwick,America/New_York
+15050,40.5617,-80.44038,Hookstown,America/New_York
+15051,40.56812,-79.86076,Indianola,America/New_York
+15052,40.6669,-80.43318,Industry,America/New_York
+15053,40.38056,-80.35975,Joffre,America/New_York
+15054,40.36353,-80.4008,Langeloth,America/New_York
+15055,40.30642,-80.12296,Lawrence,America/New_York
+15056,40.56512,-80.21407,Leetsdale,America/New_York
+15057,40.35571,-80.24713,McDonald,America/New_York
+15059,40.68056,-80.49182,Midland,America/New_York
+15060,40.37695,-80.29113,Midway,America/New_York
+15061,40.66013,-80.31082,Monaca,America/New_York
+15062,40.15184,-79.88277,Monessen,America/New_York
+15063,40.19487,-79.92228,Monongahela,America/New_York
+15064,40.35538,-80.14849,Morgan,America/New_York
+15065,40.64192,-79.72766,Natrona Heights,America/New_York
+15066,40.75119,-80.25269,New Brighton,America/New_York
+15067,40.20823,-79.96106,New Eagle,America/New_York
+15068,40.56241,-79.7124,New Kensington,America/New_York
+15071,40.41486,-80.18981,Oakdale,America/New_York
+15072,40.13922,-79.85605,Pricedale,America/New_York
+15074,40.72837,-80.21937,Rochester,America/New_York
+15075,40.58665,-79.82693,Rural Ridge,America/New_York
+15076,40.60949,-79.8374,Russellton,America/New_York
+15077,40.62517,-80.4173,Shippingport,America/New_York
+15078,40.35949,-80.38501,Slovan,America/New_York
+15081,40.57471,-80.23614,South Heights,America/New_York
+15082,40.38031,-80.21061,Sturgeon,America/New_York
+15083,40.24802,-79.79041,Sutersville,America/New_York
+15084,40.6282,-79.8028,Tarentum,America/New_York
+15085,40.38497,-79.72539,Trafford,America/New_York
+15086,40.664,-80.09593,Warrendale,America/New_York
+15087,40.19504,-79.84948,Webster,America/New_York
+15088,40.27159,-79.89607,West Elizabeth,America/New_York
+15089,40.22063,-79.73719,West Newton,America/New_York
+15090,40.62587,-80.06766,Wexford,America/New_York
+15101,40.58139,-79.95531,Allison Park,America/New_York
+15102,40.32125,-80.03707,Bethel Park,America/New_York
+15104,40.40379,-79.86249,Braddock,America/New_York
+15106,40.40882,-80.10863,Carnegie,America/New_York
+15108,40.50006,-80.20031,Coraopolis,America/New_York
+15110,40.37321,-79.85024,Duquesne,America/New_York
+15112,40.40453,-79.83734,East Pittsburgh,America/New_York
+15116,40.5384,-79.95211,Glenshaw,America/New_York
+15120,40.39597,-79.90689,Homestead,America/New_York
+15122,40.35976,-79.90628,West Mifflin,America/New_York
+15123,40.34817,-79.93471,West Mifflin,America/New_York
+15126,40.46019,-80.28727,Imperial,America/New_York
+15129,40.29348,-79.99515,South Park,America/New_York
+15131,40.33477,-79.80132,Mckeesport,America/New_York
+15132,40.33982,-79.84299,Mckeesport,America/New_York
+15133,40.3257,-79.86127,Mckeesport,America/New_York
+15135,40.29959,-79.81153,Mckeesport,America/New_York
+15136,40.46872,-80.10233,McKees Rocks,America/New_York
+15137,40.37762,-79.80902,North Versailles,America/New_York
+15139,40.52192,-79.83479,Oakmont,America/New_York
+15140,40.4073,-79.7783,Pitcairn,America/New_York
+15142,40.38474,-80.12231,Presto,America/New_York
+15143,40.57298,-80.14725,Sewickley,America/New_York
+15144,40.54759,-79.78317,Springdale,America/New_York
+15145,40.41451,-79.82352,Turtle Creek,America/New_York
+15146,40.4264,-79.76005,Monroeville,America/New_York
+15147,40.49704,-79.82858,Verona,America/New_York
+15148,40.39351,-79.79525,Wilmerding,America/New_York
+15201,40.47565,-79.95389,Pittsburgh,America/New_York
+15202,40.50566,-80.06902,Pittsburgh,America/New_York
+15203,40.4257,-79.97491,Pittsburgh,America/New_York
+15204,40.45597,-80.06051,Pittsburgh,America/New_York
+15205,40.4381,-80.10552,Pittsburgh,America/New_York
+15206,40.47244,-79.91324,Pittsburgh,America/New_York
+15207,40.39813,-79.9334,Pittsburgh,America/New_York
+15208,40.45387,-79.89883,Pittsburgh,America/New_York
+15209,40.50007,-79.97463,Pittsburgh,America/New_York
+15210,40.40679,-79.98411,Pittsburgh,America/New_York
+15211,40.4302,-80.01533,Pittsburgh,America/New_York
+15212,40.47106,-80.00844,Pittsburgh,America/New_York
+15213,40.44293,-79.95345,Pittsburgh,America/New_York
+15214,40.48541,-80.01455,Pittsburgh,America/New_York
+15215,40.50457,-79.91338,Pittsburgh,America/New_York
+15216,40.40268,-80.0348,Pittsburgh,America/New_York
+15217,40.43083,-79.91999,Pittsburgh,America/New_York
+15218,40.42366,-79.88924,Pittsburgh,America/New_York
+15219,40.44304,-79.98443,Pittsburgh,America/New_York
+15220,40.41875,-80.04894,Pittsburgh,America/New_York
+15221,40.43457,-79.86631,Pittsburgh,America/New_York
+15222,40.44998,-79.9912,Pittsburgh,America/New_York
+15223,40.50431,-79.95199,Pittsburgh,America/New_York
+15224,40.46737,-79.94623,Pittsburgh,America/New_York
+15225,40.50636,-80.1116,Pittsburgh,America/New_York
+15226,40.39527,-80.01374,Pittsburgh,America/New_York
+15227,40.375,-79.97077,Pittsburgh,America/New_York
+15228,40.37075,-80.04395,Pittsburgh,America/New_York
+15229,40.51995,-80.03866,Pittsburgh,America/New_York
+15232,40.45246,-79.93193,Pittsburgh,America/New_York
+15233,40.45985,-80.03387,Pittsburgh,America/New_York
+15234,40.36808,-80.01782,Pittsburgh,America/New_York
+15235,40.45968,-79.82194,Pittsburgh,America/New_York
+15236,40.34756,-79.97652,Pittsburgh,America/New_York
+15237,40.54834,-80.04682,Pittsburgh,America/New_York
+15238,40.53405,-79.88115,Pittsburgh,America/New_York
+15239,40.48437,-79.73753,Pittsburgh,America/New_York
+15241,40.33293,-80.08291,Pittsburgh,America/New_York
+15243,40.37474,-80.07305,Pittsburgh,America/New_York
+15260,40.4432,-79.95306,Pittsburgh,America/New_York
+15275,40.45246,-80.18405,Pittsburgh,America/New_York
+15282,40.43602,-79.99042,Pittsburgh,America/New_York
+15290,40.45735,-80.01932,Pittsburgh,America/New_York
+15301,40.16411,-80.25304,Washington,America/New_York
+15310,39.79255,-80.48108,Aleppo,America/New_York
+15311,40.04608,-80.18592,Amity,America/New_York
+15312,40.25404,-80.43757,Avella,America/New_York
+15313,40.06318,-80.02937,Beallsville,America/New_York
+15314,40.14555,-80.01775,Bentleyville,America/New_York
+15315,39.75741,-79.98319,Bobtown,America/New_York
+15316,39.76514,-80.26185,Brave,America/New_York
+15317,40.27105,-80.16535,Canonsburg,America/New_York
+15320,39.87386,-79.99768,Carmichaels,America/New_York
+15321,40.32167,-80.18716,Cecil,America/New_York
+15322,39.97655,-80.0488,Clarksville,America/New_York
+15323,40.10845,-80.40926,Claysville,America/New_York
+15324,40.10074,-80.0654,Cokeburg,America/New_York
+15325,39.94893,-79.96331,Crucible,America/New_York
+15327,39.75088,-79.96293,Dilliner,America/New_York
+15329,40.02813,-80.27205,Prosperity,America/New_York
+15330,40.18227,-80.09492,Eighty Four,America/New_York
+15331,40.10754,-80.02214,Ellsworth,America/New_York
+15332,40.24226,-79.99134,Finleyville,America/New_York
+15333,40.02693,-80.01429,Fredericktown,America/New_York
+15334,39.81292,-79.9673,Garards Fort,America/New_York
+15337,39.9505,-80.37521,Graysville,America/New_York
+15338,39.81654,-79.96206,Greensboro,America/New_York
+15340,40.28654,-80.32258,Hickory,America/New_York
+15341,39.82381,-80.34728,Holbrook,America/New_York
+15342,40.24533,-80.22061,Houston,America/New_York
+15344,39.92289,-80.05068,Jefferson,America/New_York
+15345,40.02173,-80.10743,Marianna,America/New_York
+15346,39.93545,-80.07536,Mather,America/New_York
+15347,40.21807,-80.22469,Meadow Lands,America/New_York
+15348,39.98748,-79.99624,Millsboro,America/New_York
+15349,39.75885,-80.07795,Mount Morris,America/New_York
+15350,40.29377,-80.20056,Muse,America/New_York
+15351,39.87827,-79.93068,Nemacolin,America/New_York
+15352,39.75418,-80.40253,New Freeport,America/New_York
+15353,39.96223,-80.31107,Nineveh,America/New_York
+15357,39.93721,-79.98153,Rices Landing,America/New_York
+15358,40.055,-80.00309,Richeyville,America/New_York
+15359,39.87667,-80.27555,Rogersville,America/New_York
+15360,40.08846,-80.08144,Scenery Hill,America/New_York
+15361,40.33277,-80.2623,Southview,America/New_York
+15362,39.75821,-80.21301,Spraggs,America/New_York
+15363,40.25159,-80.19761,Strabane,America/New_York
+15364,39.94557,-80.2849,Sycamore,America/New_York
+15365,40.15564,-80.38548,Taylorstown,America/New_York
+15366,40.1598,-79.974,Van Voorhis,America/New_York
+15367,40.26321,-80.05474,Venetia,America/New_York
+15368,40.0145,-79.9892,Vestaburg,America/New_York
+15370,39.8734,-80.17991,Waynesburg,America/New_York
+15376,40.10493,-80.48744,West Alexander,America/New_York
+15377,39.97973,-80.45083,West Finley,America/New_York
+15378,40.27771,-80.27433,Westland,America/New_York
+15379,40.2432,-80.42519,West Middletown,America/New_York
+15380,39.8725,-80.4692,Wind Ridge,America/New_York
+15401,39.89914,-79.74965,Uniontown,America/New_York
+15410,39.91246,-79.90352,Adah,America/New_York
+15411,39.74724,-79.34344,Addison,America/New_York
+15412,40.09496,-79.85218,Allenport,America/New_York
+15413,39.98493,-79.87141,Allison,America/New_York
+15416,39.85903,-79.72286,Brownfield,America/New_York
+15417,40.01466,-79.91464,Brownsville,America/New_York
+15419,40.05861,-79.89408,California,America/New_York
+15420,39.95981,-79.86537,Cardale,America/New_York
+15421,39.84527,-79.59743,Chalk Hill,America/New_York
+15422,39.9781,-79.80927,Chestnut Ridge,America/New_York
+15423,40.08804,-79.92538,Coal Center,America/New_York
+15424,39.829,-79.35377,Confluence,America/New_York
+15425,40.02702,-79.55411,Connellsville,America/New_York
+15427,40.06742,-79.97065,Daisytown,America/New_York
+15428,40.0811,-79.68184,Dawson,America/New_York
+15429,40.00678,-79.94021,Denbo,America/New_York
+15430,40.04025,-79.65534,Dickerson Run,America/New_York
+15431,39.94066,-79.58075,Dunbar,America/New_York
+15432,40.11301,-79.85913,Dunlevy,America/New_York
+15433,39.97413,-79.95799,East Millsboro,America/New_York
+15434,40.08013,-79.88037,Elco,America/New_York
+15435,39.94314,-79.84731,Fairbank,America/New_York
+15436,39.81844,-79.72543,Fairchance,America/New_York
+15437,39.79202,-79.59846,Farmington,America/New_York
+15438,40.07485,-79.84431,Fayette City,America/New_York
+15440,39.73775,-79.64347,Gibbon Glade,America/New_York
+15442,40.01542,-79.84019,Grindstone,America/New_York
+15443,39.91924,-79.88448,Hibbs,America/New_York
+15444,40.0134,-79.90836,Hiller,America/New_York
+15445,39.87343,-79.65766,Hopwood,America/New_York
+15446,40.03172,-79.39433,Indian Head,America/New_York
+15447,39.9445,-79.93257,Isabella,America/New_York
+15448,40.13572,-79.73394,Jacobs Creek,America/New_York
+15449,39.97267,-79.78055,Keisterville,America/New_York
+15450,40.00289,-79.97616,La Belle,America/New_York
+15451,39.74018,-79.84005,Lake Lynn,America/New_York
+15454,39.86386,-79.87286,Leckrone,America/New_York
+15455,40.00614,-79.64609,Leisenring,America/New_York
+15456,39.92919,-79.6532,Lemont Furnace,America/New_York
+15458,39.88715,-79.85099,McClellandtown,America/New_York
+15459,39.76483,-79.4648,Markleysburg,America/New_York
+15460,39.80712,-79.90756,Martin,America/New_York
+15461,39.83978,-79.89843,Masontown,America/New_York
+15462,40.06136,-79.38113,Melcroft,America/New_York
+15463,39.9629,-79.89916,Merrittstown,America/New_York
+15464,39.92463,-79.43695,Mill Run,America/New_York
+15465,39.93883,-79.64126,Mount Braddock,America/New_York
+15466,40.07562,-79.89199,Newell,America/New_York
+15467,39.78931,-79.90526,New Geneva,America/New_York
+15468,39.94872,-79.83761,New Salem,America/New_York
+15469,40.01366,-79.41861,Normalville,America/New_York
+15470,39.85321,-79.53078,Ohiopyle,America/New_York
+15472,39.91933,-79.71679,Oliver,America/New_York
+15473,40.07256,-79.77352,Perryopolis,America/New_York
+15474,39.75201,-79.90145,Point Marion,America/New_York
+15475,39.95812,-79.88057,Republic,America/New_York
+15476,39.86888,-79.92228,Ronco,America/New_York
+15477,40.07856,-79.86243,Roscoe,America/New_York
+15478,39.78601,-79.80099,Smithfield,America/New_York
+15479,40.15224,-79.71329,Smithton,America/New_York
+15480,39.98644,-79.76962,Smock,America/New_York
+15482,40.06073,-79.76645,Star Junction,America/New_York
+15483,40.08352,-79.85036,Stockdale,America/New_York
+15484,39.89242,-79.77842,Uledi,America/New_York
+15486,40.02762,-79.70981,Vanderbilt,America/New_York
+15488,39.97749,-79.75974,Waltersburg,America/New_York
+15489,39.96323,-79.69531,West Leisenring,America/New_York
+15490,40.06782,-79.45327,White,America/New_York
+15492,40.11974,-79.76306,Wickhaven,America/New_York
+15501,40.03582,-79.13024,Somerset,America/New_York
+15502,40.03641,-79.25176,Hidden Valley,America/New_York
+15510,39.96435,-79.04009,Somerset,America/New_York
+15520,40.10626,-79.06017,Acosta,America/New_York
+15521,40.19972,-78.63176,Alum Bank,America/New_York
+15522,39.94931,-78.55173,Bedford,America/New_York
+15530,39.94531,-78.91253,Berlin,America/New_York
+15531,40.18537,-79.0794,Boswell,America/New_York
+15532,39.76232,-79.06084,Boynton,America/New_York
+15533,39.98585,-78.24566,Breezewood,America/New_York
+15534,39.89712,-78.69589,Buffalo Mills,America/New_York
+15535,39.826,-78.45001,Clearville,America/New_York
+15536,39.94956,-78.2109,Crystal Spring,America/New_York
+15537,39.9981,-78.36506,Everett,America/New_York
+15538,39.86644,-78.83233,Fairhope,America/New_York
+15539,40.12835,-78.59341,Fishertown,America/New_York
+15540,39.79549,-79.23712,Fort Hill,America/New_York
+15541,40.04905,-78.98076,Friedens,America/New_York
+15542,39.86742,-79.07851,Garrett,America/New_York
+15544,40.13254,-79.09656,Gray,America/New_York
+15545,39.77943,-78.776,Hyndman,America/New_York
+15546,40.13717,-79.04758,Jenners,America/New_York
+15547,40.1629,-79.07019,Jennerstown,America/New_York
+15550,39.99025,-78.64493,Manns Choice,America/New_York
+15551,39.88413,-79.26761,Markleton,America/New_York
+15552,39.79629,-78.98232,Meyersdale,America/New_York
+15554,40.12525,-78.61575,New Paris,America/New_York
+15555,40.09758,-79.08132,Quecreek,America/New_York
+15557,39.92757,-79.20945,Rockwood,America/New_York
+15558,39.7494,-79.09755,Salisbury,America/New_York
+15559,40.05914,-78.68241,Schellsburg,America/New_York
+15560,40.01687,-78.90664,Shanksville,America/New_York
+15561,40.09379,-79.0907,Sipesville,America/New_York
+15562,39.74165,-79.1219,Springs,America/New_York
+15563,40.0962,-78.93618,Stoystown,America/New_York
+15564,39.72967,-78.84542,Wellersburg,America/New_York
+15565,39.75907,-79.11552,West Salisbury,America/New_York
+15601,40.31397,-79.53643,Greensburg,America/New_York
+15610,40.13699,-79.41613,Acme,America/New_York
+15611,40.30656,-79.65266,Adamsburg,America/New_York
+15612,40.13793,-79.59938,Alverton,America/New_York
+15613,40.55355,-79.56577,Apollo,America/New_York
+15615,40.36133,-79.73397,Ardara,America/New_York
+15616,40.23502,-79.55093,Armbrust,America/New_York
+15617,40.26856,-79.65805,Arona,America/New_York
+15618,40.56229,-79.44628,Avonmore,America/New_York
+15619,40.32051,-79.49719,Bovard,America/New_York
+15620,40.32336,-79.33882,Bradenville,America/New_York
+15622,40.0356,-79.31724,Champion,America/New_York
+15623,40.3689,-79.62263,Claridge,America/New_York
+15624,40.36638,-79.47124,Crabtree,America/New_York
+15625,40.27048,-79.67925,Darragh,America/New_York
+15626,40.40868,-79.57592,Delmont,America/New_York
+15627,40.35064,-79.30667,Derry,America/New_York
+15628,40.10009,-79.37008,Donegal,America/New_York
+15629,40.59731,-79.56304,East Vandergrift,America/New_York
+15631,40.08968,-79.58527,Everson,America/New_York
+15632,40.43803,-79.60668,Export,America/New_York
+15633,40.35941,-79.51699,Forbes Road,America/New_York
+15634,40.32533,-79.60596,Grapeville,America/New_York
+15635,40.34891,-79.49877,Hannastown,America/New_York
+15636,40.36459,-79.65619,Harrison City,America/New_York
+15637,40.26125,-79.71203,Herminie,America/New_York
+15638,40.26466,-79.4017,Hostetter,America/New_York
+15639,40.20927,-79.59379,Hunker,America/New_York
+15640,40.22315,-79.73243,Hutchinson,America/New_York
+15641,40.63151,-79.58909,Hyde Park,America/New_York
+15642,40.32045,-79.72119,Irwin,America/New_York
+15644,40.34681,-79.61278,Jeannette,America/New_York
+15646,40.09517,-79.34448,Jones Mills,America/New_York
+15647,40.34262,-79.72009,Larimer,America/New_York
+15650,40.27527,-79.39213,Latrobe,America/New_York
+15655,40.19739,-79.18141,Laughlintown,America/New_York
+15656,40.64114,-79.61981,Leechburg,America/New_York
+15658,40.25467,-79.22217,Ligonier,America/New_York
+15660,40.24669,-79.77293,Lowber,America/New_York
+15661,40.32192,-79.36007,Loyalhanna,America/New_York
+15662,40.33892,-79.47972,Luxor,America/New_York
+15663,40.25233,-79.67958,Madison,America/New_York
+15665,40.33925,-79.66338,Manor,America/New_York
+15666,40.15858,-79.51398,Mount Pleasant,America/New_York
+15668,40.46352,-79.67168,Murrysville,America/New_York
+15670,40.40783,-79.4321,New Alexandria,America/New_York
+15671,40.36038,-79.32146,New Derry,America/New_York
+15672,40.24428,-79.63069,New Stanton,America/New_York
+15673,40.59383,-79.55634,North Apollo,America/New_York
+15674,40.20672,-79.49636,Norvelt,America/New_York
+15675,40.33363,-79.63867,Penn,America/New_York
+15676,40.24303,-79.45913,Pleasant Unity,America/New_York
+15677,40.15048,-79.23113,Rector,America/New_York
+15678,40.28447,-79.72579,Rillton,America/New_York
+15679,40.18126,-79.64982,Ruffs Dale,America/New_York
+15680,40.52104,-79.49638,Salina,America/New_York
+15681,40.5023,-79.43873,Saltsburg,America/New_York
+15682,40.68301,-79.63696,Schenley,America/New_York
+15683,40.10926,-79.60492,Scottdale,America/New_York
+15684,40.4629,-79.50629,Slickville,America/New_York
+15686,40.61802,-79.43635,Spring Church,America/New_York
+15687,40.13149,-79.31977,Stahlstown,America/New_York
+15688,40.1734,-79.58602,Tarrs,America/New_York
+15689,40.2253,-79.49164,United,America/New_York
+15690,40.6455,-79.54243,Vandergrift,America/New_York
+15691,40.29668,-79.68411,Wendel,America/New_York
+15692,40.33086,-79.67861,Westmoreland City,America/New_York
+15693,40.24939,-79.40592,Whitney,America/New_York
+15695,40.19707,-79.69284,Wyano,America/New_York
+15696,40.2798,-79.36587,Youngstown,America/New_York
+15697,40.24054,-79.5803,Youngwood,America/New_York
+15698,40.2167,-79.68894,Yukon,America/New_York
+15701,40.62935,-79.15056,Indiana,America/New_York
+15705,40.61588,-79.15983,Indiana,America/New_York
+15710,40.64019,-78.87193,Alverda,America/New_York
+15711,41.00926,-78.96235,Anita,America/New_York
+15712,40.79323,-78.84692,Arcadia,America/New_York
+15713,40.5698,-79.26184,Aultman,America/New_York
+15714,40.63962,-78.82978,Northern Cambria,America/New_York
+15715,40.97017,-78.87655,Big Run,America/New_York
+15716,40.47025,-79.19031,Black Lick,America/New_York
+15717,40.45354,-79.23896,Blairsville,America/New_York
+15720,40.53896,-79.06625,Brush Valley,America/New_York
+15721,40.82029,-78.78739,Burnside,America/New_York
+15722,40.59833,-78.72532,Carrolltown,America/New_York
+15723,40.70066,-79.1582,Chambersville,America/New_York
+15724,40.73545,-78.81746,Cherry Tree,America/New_York
+15725,40.51751,-79.33954,Clarksburg,America/New_York
+15727,40.56498,-79.31496,Clune,America/New_York
+15728,40.6757,-78.96644,Clymer,America/New_York
+15729,40.70583,-78.92049,Commodore,America/New_York
+15730,41.02749,-79.07921,Coolspring,America/New_York
+15731,40.50383,-79.1767,Coral,America/New_York
+15732,40.72829,-79.21336,Creekside,America/New_York
+15733,40.9869,-78.96072,De Lancey,America/New_York
+15734,40.72046,-79.00836,Dixonville,America/New_York
+15736,40.69945,-79.36946,Elderton,America/New_York
+15737,40.59871,-78.75356,Elmora,America/New_York
+15738,40.69039,-78.78174,Emeigh,America/New_York
+15739,40.67875,-79.16454,Ernest,America/New_York
+15741,40.80601,-78.88924,Gipsy,America/New_York
+15742,40.81042,-78.8688,Glen Campbell,America/New_York
+15744,40.91722,-79.07119,Hamilton,America/New_York
+15745,40.62264,-78.91347,Heilwood,America/New_York
+15746,40.75285,-78.87455,Hillsdale,America/New_York
+15747,40.76533,-79.14562,Home,America/New_York
+15748,40.52489,-79.087,Homer City,America/New_York
+15750,40.48377,-79.18256,Josephine,America/New_York
+15752,40.5408,-79.28177,Kent,America/New_York
+15753,40.78681,-78.64728,La Jose,America/New_York
+15754,40.55667,-79.15152,Lucernemines,America/New_York
+15756,40.57134,-79.30096,McIntyre,America/New_York
+15757,40.8902,-78.73733,Mahaffey,America/New_York
+15759,40.7721,-79.03045,Marion Center,America/New_York
+15760,40.64583,-78.80509,Marsteller,America/New_York
+15761,40.63399,-78.89019,Mentcle,America/New_York
+15762,40.6001,-78.83309,Nicktown,America/New_York
+15763,40.90718,-79.12795,Northpoint,America/New_York
+15764,40.99423,-79.02773,Oliveburg,America/New_York
+15765,40.59661,-78.99574,Penn Run,America/New_York
+15767,40.95859,-78.96974,Punxsutawney,America/New_York
+15770,40.99528,-79.15747,Ringgold,America/New_York
+15771,40.83309,-78.99009,Rochester Mills,America/New_York
+15772,40.87392,-78.89984,Rossiter,America/New_York
+15773,40.63075,-78.73041,Saint Benedict,America/New_York
+15774,40.65729,-79.32508,Shelocta,America/New_York
+15775,40.63488,-78.78405,Spangler,America/New_York
+15776,41.01348,-79.11442,Sprankle Mills,America/New_York
+15777,40.69749,-78.96255,Starford,America/New_York
+15778,40.96728,-79.19901,Timblin,America/New_York
+15779,40.40008,-79.21846,Torrance,America/New_York
+15780,40.91628,-79.05606,Valier,America/New_York
+15781,40.96375,-78.98679,Walston,America/New_York
+15783,40.60297,-79.34495,West Lebanon,America/New_York
+15784,41.02449,-79.13937,Worthville,America/New_York
+15801,41.12867,-78.72352,Du Bois,America/New_York
+15821,41.35868,-78.36453,Benezett,America/New_York
+15823,41.25888,-78.71001,Brockport,America/New_York
+15824,41.24831,-78.83828,Brockway,America/New_York
+15825,41.17005,-79.03885,Brookville,America/New_York
+15827,41.29479,-78.50582,Byrnedale,America/New_York
+15828,41.35104,-79.13906,Clarington,America/New_York
+15829,41.17337,-79.19324,Corsica,America/New_York
+15831,41.35305,-78.604,Dagus Mines,America/New_York
+15832,41.35301,-78.19053,Driftwood,America/New_York
+15834,41.51228,-78.27811,Emporium,America/New_York
+15840,41.16927,-78.82708,Falls Creek,America/New_York
+15841,41.25798,-78.50441,Force,America/New_York
+15845,41.50714,-78.69066,Johnsonburg,America/New_York
+15846,41.33375,-78.6147,Kersey,America/New_York
+15847,41.08614,-79.02948,Knox Dale,America/New_York
+15848,41.03137,-78.71908,Luthersburg,America/New_York
+15849,41.17838,-78.55592,Penfield,America/New_York
+15851,41.10115,-78.90316,Reynoldsville,America/New_York
+15853,41.39253,-78.79357,Ridgway,America/New_York
+15856,41.08906,-78.6154,Rockton,America/New_York
+15857,41.45671,-78.53439,Saint Marys,America/New_York
+15860,41.3435,-79.04697,Sigel,America/New_York
+15861,41.3221,-78.07246,Sinnamahoning,America/New_York
+15863,41.0157,-78.83847,Stump Creek,America/New_York
+15864,41.09911,-79.19532,Summerville,America/New_York
+15865,41.0508,-78.81418,Sykesville,America/New_York
+15866,41.02587,-78.78628,Troutville,America/New_York
+15868,41.29885,-78.41799,Weedville,America/New_York
+15870,41.58116,-78.57935,Wilcox,America/New_York
+15901,40.32845,-78.9146,Johnstown,America/New_York
+15902,40.32,-78.87911,Johnstown,America/New_York
+15904,40.3056,-78.84382,Johnstown,America/New_York
+15905,40.29423,-78.98035,Johnstown,America/New_York
+15906,40.37806,-78.93356,Johnstown,America/New_York
+15909,40.40783,-78.87047,Johnstown,America/New_York
+15920,40.46705,-79.05006,Armagh,America/New_York
+15921,40.31642,-78.69786,Beaverdale,America/New_York
+15922,40.51853,-78.87794,Belsano,America/New_York
+15923,40.35518,-79.16447,Bolivar,America/New_York
+15924,40.10684,-78.77527,Cairnbrook,America/New_York
+15925,40.40851,-78.6407,Cassandra,America/New_York
+15926,40.04783,-78.81934,Central City,America/New_York
+15927,40.54148,-78.78019,Colver,America/New_York
+15928,40.23943,-78.91591,Davidsville,America/New_York
+15929,40.47683,-79.0042,Dilltown,America/New_York
+15930,40.29468,-78.71732,Dunlo,America/New_York
+15931,40.51612,-78.76225,Ebensburg,America/New_York
+15934,40.28107,-78.79589,Elton,America/New_York
+15935,40.20112,-78.96755,Hollsopple,America/New_York
+15936,40.16221,-78.89584,Hooversville,America/New_York
+15937,40.21463,-78.98105,Jerome,America/New_York
+15938,40.42215,-78.6057,Lilly,America/New_York
+15940,40.52128,-78.63218,Loretto,America/New_York
+15942,40.40584,-78.81215,Mineral Point,America/New_York
+15943,40.47437,-78.83513,Nanty Glo,America/New_York
+15944,40.36295,-79.0816,New Florence,America/New_York
+15945,40.35909,-78.86867,Parkhill,America/New_York
+15946,40.37248,-78.63573,Portage,America/New_York
+15948,40.48986,-78.76699,Revloc,America/New_York
+15949,40.4055,-79.13442,Robinson,America/New_York
+15951,40.3307,-78.77209,Saint Michael,America/New_York
+15952,40.30348,-78.77614,Salix,America/New_York
+15953,40.21113,-78.89049,Seanor,America/New_York
+15954,40.41837,-79.00051,Seward,America/New_York
+15955,40.30878,-78.69285,Sidman,America/New_York
+15956,40.35022,-78.78819,South Fork,America/New_York
+15957,40.53953,-78.89744,Strongstown,America/New_York
+15958,40.3891,-78.73284,Summerhill,America/New_York
+15960,40.49848,-78.85184,Twin Rocks,America/New_York
+15961,40.46187,-78.9382,Vintondale,America/New_York
+15962,40.38942,-78.71644,Wilmore,America/New_York
+15963,40.21676,-78.77234,Windber,America/New_York
+16001,40.91049,-79.94376,Butler,America/New_York
+16002,40.81568,-79.85638,Butler,America/New_York
+16020,41.11651,-79.89648,Boyers,America/New_York
+16022,41.05461,-79.7333,Bruin,America/New_York
+16023,40.78495,-79.74921,Cabot,America/New_York
+16024,40.73961,-80.03719,Callery,America/New_York
+16025,40.94464,-79.75841,Chicora,America/New_York
+16027,40.81822,-80.01531,Connoquenessing,America/New_York
+16028,40.95684,-79.63985,East Brady,America/New_York
+16029,40.87996,-79.84602,East Butler,America/New_York
+16030,41.13619,-79.79699,Eau Claire,America/New_York
+16033,40.79355,-80.04618,Evans City,America/New_York
+16034,40.86051,-79.7288,Fenelton,America/New_York
+16035,41.10779,-80.01659,Forestville,America/New_York
+16036,41.13519,-79.66948,Foxburg,America/New_York
+16037,40.85103,-80.12592,Harmony,America/New_York
+16038,41.15967,-79.95042,Harrisville,America/New_York
+16040,41.09399,-79.84537,Hilliards,America/New_York
+16041,41.00693,-79.71395,Karns City,America/New_York
+16045,40.85277,-79.91626,Lyndora,America/New_York
+16046,40.70192,-80.02866,Mars,America/New_York
+16048,41.05217,-79.80349,North Washington,America/New_York
+16049,41.09622,-79.67258,Parker,America/New_York
+16050,41.04362,-79.77379,Petrolia,America/New_York
+16051,40.94459,-80.14152,Portersville,America/New_York
+16052,40.90579,-80.06154,Prospect,America/New_York
+16053,40.81194,-79.9826,Renfrew,America/New_York
+16054,41.15651,-79.65711,Saint Petersburg,America/New_York
+16055,40.7157,-79.74753,Sarver,America/New_York
+16056,40.72301,-79.83911,Saxonburg,America/New_York
+16057,41.03427,-80.0579,Slippery Rock,America/New_York
+16059,40.70425,-79.92812,Valencia,America/New_York
+16061,41.00866,-79.88687,West Sunbury,America/New_York
+16063,40.76352,-80.12773,Zelienople,America/New_York
+16066,40.71114,-80.10606,Cranberry Township,America/New_York
+16101,40.98776,-80.28814,New Castle,America/New_York
+16102,40.96173,-80.41616,New Castle,America/New_York
+16105,41.05285,-80.33918,New Castle,America/New_York
+16110,41.49757,-80.38591,Adamsville,America/New_York
+16111,41.51936,-80.28463,Atlantic,America/New_York
+16112,40.96812,-80.50099,Bessemer,America/New_York
+16113,41.2828,-80.42569,Clark,America/New_York
+16114,41.40432,-80.18766,Clarks Mills,America/New_York
+16115,40.79433,-80.46289,Darlington,America/New_York
+16116,41.03744,-80.45212,Edinburg,America/New_York
+16117,40.8743,-80.2568,Ellwood City,America/New_York
+16120,40.892,-80.47344,Enon Valley,America/New_York
+16121,41.21121,-80.49696,Farrell,America/New_York
+16123,40.82389,-80.19844,Fombell,America/New_York
+16124,41.33336,-80.26486,Fredonia,America/New_York
+16125,41.40565,-80.37135,Greenville,America/New_York
+16127,41.17433,-80.07002,Grove City,America/New_York
+16130,41.44315,-80.21668,Hadley,America/New_York
+16131,41.54908,-80.37617,Hartstown,America/New_York
+16132,41.00603,-80.50449,Hillsville,America/New_York
+16133,41.27101,-80.11562,Jackson Center,America/New_York
+16134,41.50315,-80.46571,Jamestown,America/New_York
+16136,40.83425,-80.32369,Koppel,America/New_York
+16137,41.23219,-80.2397,Mercer,America/New_York
+16140,41.09355,-80.51078,New Bedford,America/New_York
+16141,40.87237,-80.3968,New Galilee,America/New_York
+16142,41.13908,-80.34084,New Wilmington,America/New_York
+16143,41.10528,-80.45434,Pulaski,America/New_York
+16145,41.38574,-80.07422,Sandy Lake,America/New_York
+16146,41.23478,-80.49932,Sharon,America/New_York
+16148,41.23147,-80.43199,Hermitage,America/New_York
+16150,41.28687,-80.44509,Sharpsville,America/New_York
+16151,41.4428,-80.2056,Sheakleyville,America/New_York
+16153,41.31845,-80.08122,Stoneboro,America/New_York
+16154,41.32539,-80.42111,Transfer,America/New_York
+16155,41.06771,-80.51073,Villa Maria,America/New_York
+16156,41.09702,-80.21943,Volant,America/New_York
+16157,40.88902,-80.33509,Wampum,America/New_York
+16159,41.15967,-80.46858,West Middlesex,America/New_York
+16160,40.9283,-80.36235,West Pittsburg,America/New_York
+16161,41.20232,-80.49282,Wheatland,America/New_York
+16172,41.1177,-80.33105,New Wilmington,America/New_York
+16201,40.80984,-79.47204,Kittanning,America/New_York
+16210,40.89697,-79.519,Adrian,America/New_York
+16211,40.79436,-79.2023,Beyer,America/New_York
+16212,40.75239,-79.57795,Cadogan,America/New_York
+16213,41.12556,-79.55831,Callensburg,America/New_York
+16214,41.2008,-79.36046,Clarion,America/New_York
+16217,41.34908,-79.18095,Cooksburg,America/New_York
+16218,40.92705,-79.59325,Cowansville,America/New_York
+16220,41.41817,-79.26659,Crown,America/New_York
+16222,40.87171,-79.25719,Dayton,America/New_York
+16223,40.98701,-79.35381,Distant,America/New_York
+16224,41.06314,-79.29245,Fairmount City,America/New_York
+16226,40.71139,-79.48608,Ford City,America/New_York
+16228,40.76076,-79.5358,Ford Cliff,America/New_York
+16229,40.71624,-79.64567,Freeport,America/New_York
+16230,41.02099,-79.27817,Hawthorn,America/New_York
+16232,41.22197,-79.54923,Knox,America/New_York
+16233,41.36162,-79.27588,Leeper,America/New_York
+16235,41.31759,-79.34943,Lucinda,America/New_York
+16236,40.78119,-79.52376,McGrann,America/New_York
+16238,40.78778,-79.52036,Manorville,America/New_York
+16239,41.49507,-79.1297,Marienville,America/New_York
+16240,41.03316,-79.22432,Mayport,America/New_York
+16242,41.0031,-79.35479,New Bethlehem,America/New_York
+16244,40.80499,-79.27905,Nu Mine,America/New_York
+16245,41.00153,-79.29311,Oak Ridge,America/New_York
+16246,40.79167,-79.18215,Plumville,America/New_York
+16248,41.03412,-79.50348,Rimersburg,America/New_York
+16249,40.76209,-79.32163,Rural Valley,America/New_York
+16250,40.77566,-79.23782,Sagamore,America/New_York
+16253,40.954,-79.34106,Seminole,America/New_York
+16254,41.26557,-79.45259,Shippenville,America/New_York
+16255,41.1267,-79.46809,Sligo,America/New_York
+16256,40.8661,-79.13611,Smicksburg,America/New_York
+16258,41.2307,-79.27217,Strattanville,America/New_York
+16259,40.92699,-79.45692,Templeton,America/New_York
+16260,41.41102,-79.23092,Vowinckel,America/New_York
+16262,40.8377,-79.65266,Worthington,America/New_York
+16263,40.80118,-79.34108,Yatesboro,America/New_York
+16301,41.45596,-79.64946,Oil City,America/New_York
+16311,41.45706,-80.03477,Carlton,America/New_York
+16312,41.93218,-79.30324,Chandlers Valley,America/New_York
+16313,41.72294,-79.13884,Clarendon,America/New_York
+16314,41.51895,-80.06782,Cochranton,America/New_York
+16316,41.6012,-80.29958,Conneaut Lake,America/New_York
+16317,41.53232,-79.85258,Cooperstown,America/New_York
+16319,41.3216,-79.62942,Cranberry,America/New_York
+16321,41.56835,-79.40084,East Hickory,America/New_York
+16322,41.60567,-79.38428,Endeavor,America/New_York
+16323,41.41286,-79.83047,Franklin,America/New_York
+16326,41.36733,-79.43182,Fryburg,America/New_York
+16327,41.6323,-79.95878,Guys Mills,America/New_York
+16328,41.651,-79.72716,Hydetown,America/New_York
+16329,41.80642,-79.27684,Irvine,America/New_York
+16331,41.29047,-79.56435,Kossuth,America/New_York
+16332,41.36096,-79.36873,Lickingville,America/New_York
+16333,41.74922,-78.9323,Ludlow,America/New_York
+16334,41.29749,-79.44968,Marble,America/New_York
+16335,41.63143,-80.15378,Meadville,America/New_York
+16340,41.79864,-79.41749,Pittsfield,America/New_York
+16341,41.56288,-79.54703,Pleasantville,America/New_York
+16342,41.31995,-79.9294,Polk,America/New_York
+16343,41.42204,-79.75233,Reno,America/New_York
+16344,41.47045,-79.684,Rouseville,America/New_York
+16345,41.95085,-79.07548,Russell,America/New_York
+16346,41.37845,-79.6727,Seneca,America/New_York
+16347,41.64671,-79.06481,Sheffield,America/New_York
+16350,41.96323,-79.3322,Sugar Grove,America/New_York
+16351,41.67583,-79.37285,Tidioute,America/New_York
+16352,41.76615,-79.03644,Tiona,America/New_York
+16353,41.49359,-79.38839,Tionesta,America/New_York
+16354,41.61476,-79.70637,Titusville,America/New_York
+16360,41.68167,-79.89028,Townville,America/New_York
+16361,41.38597,-79.3422,Tylersburg,America/New_York
+16362,41.45032,-79.96284,Utica,America/New_York
+16364,41.36379,-79.51517,Venus,America/New_York
+16365,41.83943,-79.15324,Warren,America/New_York
+16370,41.56586,-79.44796,West Hickory,America/New_York
+16371,41.86751,-79.3187,Youngsville,America/New_York
+16372,41.20121,-79.87406,Clintonville,America/New_York
+16373,41.20786,-79.69796,Emlenton,America/New_York
+16374,41.26136,-79.81066,Kennerdell,America/New_York
+16401,41.88044,-80.40395,Albion,America/New_York
+16402,41.96459,-79.48076,Bear Lake,America/New_York
+16403,41.7912,-80.02017,Cambridge Springs,America/New_York
+16404,41.72483,-79.79018,Centerville,America/New_York
+16405,41.938,-79.5335,Columbus,America/New_York
+16406,41.75047,-80.36273,Conneautville,America/New_York
+16407,41.91743,-79.66374,Corry,America/New_York
+16410,41.92012,-80.30482,Cranesville,America/New_York
+16411,41.97781,-80.45037,East Springfield,America/New_York
+16412,41.88212,-80.16392,Edinboro,America/New_York
+16415,42.03122,-80.22873,Fairview,America/New_York
+16416,41.82606,-79.47311,Garland,America/New_York
+16417,41.97107,-80.31039,Girard,America/New_York
+16420,41.69481,-79.54544,Grand Valley,America/New_York
+16421,42.17036,-79.9351,Harborcreek,America/New_York
+16422,41.66555,-80.31447,Harmonsburg,America/New_York
+16423,42.01881,-80.34253,Lake City,America/New_York
+16424,41.65887,-80.44175,Linesville,America/New_York
+16426,41.98121,-80.13937,McKean,America/New_York
+16427,41.87466,-79.97132,Mill Village,America/New_York
+16428,42.17109,-79.82907,North East,America/New_York
+16430,42.00413,-80.41823,North Springfield,America/New_York
+16433,41.73553,-80.14316,Saegertown,America/New_York
+16434,41.79442,-79.66765,Spartansburg,America/New_York
+16435,41.81937,-80.38356,Springboro,America/New_York
+16436,41.85563,-79.49889,Spring Creek,America/New_York
+16438,41.89084,-79.84709,Union City,America/New_York
+16440,41.78673,-80.13088,Venango,America/New_York
+16441,41.9554,-79.98552,Waterford,America/New_York
+16442,42.04094,-79.82631,Wattsburg,America/New_York
+16443,41.93745,-80.47831,West Springfield,America/New_York
+16444,41.87071,-80.12175,Edinboro,America/New_York
+16475,41.87645,-80.36107,Albion,America/New_York
+16501,42.12096,-80.08958,Erie,America/New_York
+16502,42.11073,-80.10123,Erie,America/New_York
+16503,42.12718,-80.06103,Erie,America/New_York
+16504,42.10942,-80.0489,Erie,America/New_York
+16505,42.11789,-80.14304,Erie,America/New_York
+16506,42.06449,-80.15472,Erie,America/New_York
+16507,42.13575,-80.08743,Erie,America/New_York
+16508,42.09719,-80.09249,Erie,America/New_York
+16509,42.05861,-80.04419,Erie,America/New_York
+16510,42.11184,-79.95395,Erie,America/New_York
+16511,42.16529,-79.99667,Erie,America/New_York
+16546,42.10389,-80.05338,Erie,America/New_York
+16550,42.13378,-80.08495,Erie,America/New_York
+16563,42.11929,-79.98643,Erie,America/New_York
+16601,40.55338,-78.37283,Altoona,America/New_York
+16602,40.51491,-78.37052,Altoona,America/New_York
+16611,40.56719,-78.10214,Alexandria,America/New_York
+16613,40.53723,-78.53214,Ashville,America/New_York
+16616,40.76832,-78.45128,Beccaria,America/New_York
+16617,40.6036,-78.32995,Bellwood,America/New_York
+16619,40.68367,-78.41591,Blandburg,America/New_York
+16620,40.83947,-78.35259,Brisbin,America/New_York
+16621,40.22888,-78.12298,Broad Top,America/New_York
+16622,40.32853,-78.0692,Calvin,America/New_York
+16623,40.27618,-78.04556,Cassville,America/New_York
+16624,40.5651,-78.60664,Chest Springs,America/New_York
+16625,40.28482,-78.50855,Claysburg,America/New_York
+16627,40.75272,-78.50036,Coalport,America/New_York
+16630,40.46231,-78.58003,Cresson,America/New_York
+16631,40.27141,-78.34754,Curryville,America/New_York
+16633,40.15969,-78.23259,Defiance,America/New_York
+16634,40.2105,-78.17308,Dudley,America/New_York
+16635,40.41621,-78.48743,Duncansville,America/New_York
+16636,40.60214,-78.50161,Dysart,America/New_York
+16637,40.34214,-78.47079,East Freedom,America/New_York
+16638,40.33809,-78.2012,Entriken,America/New_York
+16639,40.68566,-78.44912,Fallentimber,America/New_York
+16640,40.70657,-78.5702,Flinton,America/New_York
+16641,40.50774,-78.57146,Gallitzin,America/New_York
+16645,40.80204,-78.49932,Glen Hope,America/New_York
+16646,40.68291,-78.71579,Hastings,America/New_York
+16647,40.39514,-78.09798,Hesston,America/New_York
+16648,40.44231,-78.33242,Hollidaysburg,America/New_York
+16650,40.11592,-78.29237,Hopewell,America/New_York
+16651,40.8505,-78.37945,Houtzdale,America/New_York
+16652,40.51692,-77.95302,Huntingdon,America/New_York
+16654,40.49189,-78.02854,Huntingdon,America/New_York
+16655,40.24898,-78.55092,Imler,America/New_York
+16656,40.8066,-78.56353,Irvona,America/New_York
+16657,40.32486,-78.17757,James Creek,America/New_York
+16659,40.16063,-78.39138,Loysburg,America/New_York
+16661,40.83058,-78.45026,Madera,America/New_York
+16662,40.30635,-78.29961,Martinsburg,America/New_York
+16664,40.17822,-78.42437,New Enterprise,America/New_York
+16665,40.38898,-78.43491,Newry,America/New_York
+16666,40.87056,-78.31286,Osceola Mills,America/New_York
+16667,40.18213,-78.52546,Osterburg,America/New_York
+16668,40.65072,-78.61974,Patton,America/New_York
+16669,40.65737,-77.90675,Petersburg,America/New_York
+16670,40.25828,-78.50556,Queen,America/New_York
+16671,40.79414,-78.40203,Ramey,America/New_York
+16672,40.16935,-78.24324,Riddlesburg,America/New_York
+16673,40.30671,-78.39026,Roaring Spring,America/New_York
+16674,40.1865,-78.07926,Robertsdale,America/New_York
+16675,40.68796,-78.67905,Saint Boniface,America/New_York
+16677,40.81507,-78.2457,Sandy Ridge,America/New_York
+16678,40.2252,-78.23421,Saxton,America/New_York
+16679,40.15659,-78.195,Six Mile Run,America/New_York
+16680,40.75149,-78.40254,Smithmill,America/New_York
+16682,40.27206,-78.4565,Sproul,America/New_York
+16683,40.65595,-78.07313,Spruce Creek,America/New_York
+16684,40.63541,-78.29685,Tipton,America/New_York
+16685,40.28019,-78.08063,Todd,America/New_York
+16686,40.67056,-78.24102,Tyrone,America/New_York
+16689,40.10737,-78.10028,Waterfall,America/New_York
+16691,40.07744,-78.1473,Wells Tannery,America/New_York
+16692,40.75935,-78.72053,Westover,America/New_York
+16693,40.46519,-78.21593,Williamsburg,America/New_York
+16694,40.17259,-78.12852,Wood,America/New_York
+16695,40.20327,-78.35943,Woodbury,America/New_York
+16699,40.44736,-78.56054,Cresson,America/New_York
+16701,41.91105,-78.77385,Bradford,America/New_York
+16720,41.5793,-78.02599,Austin,America/New_York
+16724,41.74674,-78.39022,Crosby,America/New_York
+16725,41.89881,-78.66328,Custer City,America/New_York
+16726,41.80456,-78.57787,Cyclone,America/New_York
+16727,41.98501,-78.5338,Derrick City,America/New_York
+16729,41.96501,-78.4788,Duke Center,America/New_York
+16730,41.81339,-78.42309,East Smethport,America/New_York
+16731,41.94625,-78.37126,Eldred,America/New_York
+16732,41.85921,-78.60843,Gifford,America/New_York
+16733,41.70303,-78.59514,Hazel Hurst,America/New_York
+16734,41.61806,-78.84418,James City,America/New_York
+16735,41.63045,-78.81,Kane,America/New_York
+16738,41.80511,-78.73929,Lewis Run,America/New_York
+16740,41.69255,-78.54998,Mount Jewett,America/New_York
+16743,41.7888,-78.26016,Port Allegany,America/New_York
+16744,41.87567,-78.56941,Rew,America/New_York
+16745,41.92578,-78.49042,Rixford,America/New_York
+16746,41.79064,-78.13858,Roulette,America/New_York
+16748,41.9427,-78.14425,Shinglehouse,America/New_York
+16749,41.75578,-78.4214,Smethport,America/New_York
+16750,41.88796,-78.29682,Turtlepoint,America/New_York
+16801,40.78538,-77.84214,State College,America/New_York
+16802,40.79867,-77.86481,University Park,America/New_York
+16803,40.80849,-77.89449,State College,America/New_York
+16820,40.91995,-77.38702,Aaronsburg,America/New_York
+16821,40.95888,-78.19875,Allport,America/New_York
+16822,41.15813,-77.71441,Beech Creek,America/New_York
+16823,40.92734,-77.76685,Bellefonte,America/New_York
+16825,40.98803,-78.31208,Bigler,America/New_York
+16826,41.06199,-77.58598,Blanchard,America/New_York
+16827,40.76607,-77.77739,Boalsburg,America/New_York
+16828,40.80704,-77.69097,Centre Hall,America/New_York
+16829,41.08223,-77.89386,Clarence,America/New_York
+16830,41.08569,-78.43317,Clearfield,America/New_York
+16832,40.84711,-77.4347,Coburn,America/New_York
+16833,40.94158,-78.57862,Curwensville,America/New_York
+16834,41.0391,-78.10389,Drifting,America/New_York
+16835,40.90668,-77.87731,Fleming,America/New_York
+16836,41.14633,-78.26454,Frenchville,America/New_York
+16837,40.94576,-78.47494,Glen Richey,America/New_York
+16838,40.98923,-78.64292,Grampian,America/New_York
+16839,41.00319,-78.11113,Grassflat,America/New_York
+16840,40.92555,-78.20214,Hawk Run,America/New_York
+16841,41.03399,-77.69011,Howard,America/New_York
+16843,41.00849,-78.46269,Hyde,America/New_York
+16844,40.91285,-77.93261,Julian,America/New_York
+16845,41.15641,-78.02422,Karthaus,America/New_York
+16847,40.99941,-78.16439,Kylertown,America/New_York
+16848,41.01247,-77.53455,Lamar,America/New_York
+16849,40.95978,-78.11431,Lanse,America/New_York
+16851,40.81229,-77.80132,Lemont,America/New_York
+16852,40.93639,-77.5386,Madisonburg,America/New_York
+16853,40.94045,-77.78638,Milesburg,America/New_York
+16854,40.89697,-77.47228,Millheim,America/New_York
+16855,40.99902,-78.36046,Mineral Springs,America/New_York
+16856,40.92871,-77.65005,Mingoville,America/New_York
+16858,41.00056,-78.20033,Morrisdale,America/New_York
+16859,41.04903,-78.03519,Moshannon,America/New_York
+16860,40.94673,-78.17219,Munson,America/New_York
+16861,40.86764,-78.51991,New Millport,America/New_York
+16863,40.91162,-78.47204,Olanta,America/New_York
+16864,41.15428,-77.79857,Orviston,America/New_York
+16865,40.72086,-77.96396,Pennsylvania Furnace,America/New_York
+16866,40.86684,-78.17163,Philipsburg,America/New_York
+16868,40.72725,-77.89066,Pine Grove Mills,America/New_York
+16870,40.80149,-78.04969,Port Matilda,America/New_York
+16871,41.1879,-78.03705,Pottersdale,America/New_York
+16872,40.96715,-77.35939,Rebersburg,America/New_York
+16874,41.01141,-77.94077,Snow Shoe,America/New_York
+16875,40.84536,-77.56882,Spring Mills,America/New_York
+16876,40.96648,-78.29087,Wallaceton,America/New_York
+16877,40.73291,-78.06846,Warriors Mark,America/New_York
+16878,40.94325,-78.33609,West Decatur,America/New_York
+16879,40.97116,-78.15162,Winburne,America/New_York
+16881,41.02743,-78.31119,Woodland,America/New_York
+16882,40.90707,-77.33841,Woodward,America/New_York
+16901,41.73038,-77.31841,Wellsboro,America/New_York
+16910,41.70477,-76.83124,Alba,America/New_York
+16911,41.67787,-77.10392,Arnot,America/New_York
+16912,41.66803,-77.05845,Blossburg,America/New_York
+16914,41.8618,-76.77687,Columbia Cross Roads,America/New_York
+16915,41.77481,-77.96104,Coudersport,America/New_York
+16917,41.723,-77.05519,Covington,America/New_York
+16920,41.98218,-77.28851,Elkland,America/New_York
+16921,41.69614,-77.54654,Gaines,America/New_York
+16922,41.67191,-77.70064,Galeton,America/New_York
+16923,41.94103,-77.8761,Genesee,America/New_York
+16925,41.95319,-76.78997,Gillett,America/New_York
+16926,41.71506,-76.70485,Granville Summit,America/New_York
+16927,41.9655,-77.65941,Harrison Valley,America/New_York
+16928,41.95203,-77.43371,Knoxville,America/New_York
+16929,41.97352,-77.15028,Lawrenceville,America/New_York
+16930,41.57693,-77.14021,Liberty,America/New_York
+16932,41.77574,-76.94017,Mainesburg,America/New_York
+16933,41.81904,-77.06716,Mansfield,America/New_York
+16935,41.87032,-77.32404,Middlebury Center,America/New_York
+16936,41.94318,-76.95837,Millerton,America/New_York
+16937,41.96421,-77.71004,Mills,America/New_York
+16938,41.56935,-77.34487,Morris,America/New_York
+16939,41.68097,-77.0141,Morris Run,America/New_York
+16940,41.97752,-77.23373,Nelson,America/New_York
+16941,41.98841,-77.75796,Genesee,America/New_York
+16942,41.9654,-77.35414,Osceola,America/New_York
+16943,41.8406,-77.61915,Sabinsville,America/New_York
+16946,41.91422,-77.13999,Tioga,America/New_York
+16947,41.76969,-76.79519,Troy,America/New_York
+16948,41.85369,-77.75683,Ulysses,America/New_York
+16950,41.89816,-77.53429,Westfield,America/New_York
+17002,40.46463,-77.86761,Allensville,America/New_York
+17003,40.35735,-76.55528,Annville,America/New_York
+17004,40.59966,-77.73278,Belleville,America/New_York
+17005,40.60304,-76.81065,Berrysburg,America/New_York
+17006,40.28495,-77.54364,Blain,America/New_York
+17007,40.13428,-77.11801,Boiling Springs,America/New_York
+17009,40.6359,-77.56609,Burnham,America/New_York
+17010,40.27809,-76.58335,Campbelltown,America/New_York
+17011,40.23508,-76.92931,Camp Hill,America/New_York
+17013,40.241,-77.19286,Carlisle,America/New_York
+17014,40.6596,-77.19358,Cocolamus,America/New_York
+17015,40.18392,-77.23234,Carlisle,America/New_York
+17016,40.27322,-76.40705,Cornwall,America/New_York
+17017,40.6275,-76.89854,Dalmatia,America/New_York
+17018,40.40246,-76.88117,Dauphin,America/New_York
+17019,40.09078,-77.02462,Dillsburg,America/New_York
+17020,40.41014,-77.04367,Duncannon,America/New_York
+17021,40.33758,-77.66093,East Waterford,America/New_York
+17022,40.16677,-76.60823,Elizabethtown,America/New_York
+17023,40.5813,-76.81169,Elizabethville,America/New_York
+17024,40.40992,-77.30854,Elliottsburg,America/New_York
+17025,40.29506,-76.97731,Enola,America/New_York
+17026,40.46734,-76.43626,Fredericksburg,America/New_York
+17027,40.15653,-76.99316,Grantham,America/New_York
+17028,40.4033,-76.65073,Grantville,America/New_York
+17029,40.55416,-77.62196,Granville,America/New_York
+17030,40.60833,-76.74417,Gratz,America/New_York
+17032,40.49448,-76.81788,Halifax,America/New_York
+17033,40.26829,-76.62754,Hershey,America/New_York
+17034,40.20831,-76.78489,Highspire,America/New_York
+17035,40.41638,-77.57443,Honey Grove,America/New_York
+17036,40.28579,-76.69611,Hummelstown,America/New_York
+17037,40.43329,-77.42872,Ickesburg,America/New_York
+17038,40.46787,-76.54895,Jonestown,America/New_York
+17039,40.2928,-76.24077,Kleinfeltersville,America/New_York
+17040,40.31558,-77.32571,Landisburg,America/New_York
+17041,40.21667,-76.5395,Lawn,America/New_York
+17042,40.29488,-76.42271,Lebanon,America/New_York
+17043,40.24679,-76.90033,Lemoyne,America/New_York
+17044,40.58236,-77.59013,Lewistown,America/New_York
+17045,40.58841,-77.00389,Liverpool,America/New_York
+17046,40.38242,-76.4306,Lebanon,America/New_York
+17047,40.37098,-77.41426,Loysville,America/New_York
+17048,40.60554,-76.72669,Lykens,America/New_York
+17049,40.65172,-77.25948,McAlisterville,America/New_York
+17050,40.24907,-77.03005,Mechanicsburg,America/New_York
+17051,40.45881,-77.77306,McVeytown,America/New_York
+17052,40.31577,-77.98195,Mapleton Depot,America/New_York
+17053,40.3255,-77.03256,Marysville,America/New_York
+17054,40.49746,-77.72764,Mattawana,America/New_York
+17055,40.17756,-76.99789,Mechanicsburg,America/New_York
+17056,40.53349,-77.35585,Mexico,America/New_York
+17057,40.19437,-76.72659,Middletown,America/New_York
+17058,40.50111,-77.54792,Mifflin,America/New_York
+17059,40.59241,-77.38165,Mifflintown,America/New_York
+17060,40.49144,-77.88158,Mill Creek,America/New_York
+17061,40.56542,-76.90046,Millersburg,America/New_York
+17062,40.55153,-77.16813,Millerstown,America/New_York
+17063,40.76274,-77.47343,Milroy,America/New_York
+17064,40.24135,-76.47553,Mount Gretna,America/New_York
+17065,40.09837,-77.20527,Mount Holly Springs,America/New_York
+17066,40.35885,-77.85892,Mount Union,America/New_York
+17067,40.38848,-76.31583,Myerstown,America/New_York
+17068,40.40685,-77.17795,New Bloomfield,America/New_York
+17069,40.45722,-76.97921,New Buffalo,America/New_York
+17070,40.20217,-76.86377,New Cumberland,America/New_York
+17071,40.30061,-77.58928,New Germantown,America/New_York
+17073,40.30047,-76.25924,Newmanstown,America/New_York
+17074,40.47983,-77.14456,Newport,America/New_York
+17075,40.39372,-77.83429,Newton Hamilton,America/New_York
+17076,40.62084,-77.30758,Oakland Mills,America/New_York
+17077,40.40232,-76.53651,Ono,America/New_York
+17078,40.28952,-76.58484,Palmyra,America/New_York
+17080,40.64057,-76.80299,Pillow,America/New_York
+17081,40.20121,-77.28322,Plainfield,America/New_York
+17082,40.49762,-77.42579,Port Royal,America/New_York
+17084,40.68705,-77.62692,Reedsville,America/New_York
+17086,40.69067,-77.12502,Richfield,America/New_York
+17087,40.40523,-76.26356,Richland,America/New_York
+17088,40.30046,-76.295,Schaefferstown,America/New_York
+17090,40.32953,-77.18302,Shermans Dale,America/New_York
+17093,40.30998,-76.92817,Summerdale,America/New_York
+17094,40.58414,-77.2168,Thompsontown,America/New_York
+17097,40.57414,-76.67704,Wiconisco,America/New_York
+17098,40.58998,-76.63071,Williamstown,America/New_York
+17099,40.64535,-77.57639,Yeagertown,America/New_York
+17101,40.2595,-76.88705,Harrisburg,America/New_York
+17102,40.27119,-76.89686,Harrisburg,America/New_York
+17103,40.27499,-76.86326,Harrisburg,America/New_York
+17104,40.23901,-76.84985,Harrisburg,America/New_York
+17109,40.28986,-76.82414,Harrisburg,America/New_York
+17110,40.31776,-76.88354,Harrisburg,America/New_York
+17111,40.27041,-76.78265,Harrisburg,America/New_York
+17112,40.37497,-76.77163,Harrisburg,America/New_York
+17113,40.23032,-76.82083,Harrisburg,America/New_York
+17120,40.26511,-76.88281,Harrisburg,America/New_York
+17201,39.96229,-77.65677,Chambersburg,America/New_York
+17202,39.92133,-77.67442,Chambersburg,America/New_York
+17210,40.18989,-77.661,Amberson,America/New_York
+17211,39.75191,-78.41457,Artemas,America/New_York
+17212,39.81,-78.07073,Big Cove Tannery,America/New_York
+17213,40.25381,-77.77249,Blairs Mills,America/New_York
+17214,39.74811,-77.47025,Blue Ridge Summit,America/New_York
+17215,40.09234,-77.89008,Burnt Cabins,America/New_York
+17217,40.23822,-77.72235,Concord,America/New_York
+17219,40.22367,-77.69318,Doylesburg,America/New_York
+17220,40.17807,-77.74108,Dry Run,America/New_York
+17221,40.05796,-77.82019,Fannettsburg,America/New_York
+17222,39.89983,-77.49242,Fayetteville,America/New_York
+17223,40.06521,-77.9389,Fort Littleton,America/New_York
+17224,39.9723,-77.89195,Fort Loudon,America/New_York
+17225,39.78706,-77.75709,Greencastle,America/New_York
+17228,39.99512,-78.09831,Harrisonville,America/New_York
+17229,40.07853,-78.01144,Hustontown,America/New_York
+17232,40.09462,-77.63341,Lurgan,America/New_York
+17233,39.95118,-78.00406,McConnellsburg,America/New_York
+17235,39.85699,-77.69743,Marion,America/New_York
+17236,39.79997,-77.94305,Mercersburg,America/New_York
+17237,39.83705,-77.54091,Mont Alto,America/New_York
+17238,39.8612,-78.13003,Needmore,America/New_York
+17239,40.13973,-77.83009,Neelyton,America/New_York
+17240,40.15411,-77.58227,Newburg,America/New_York
+17241,40.17793,-77.40326,Newville,America/New_York
+17243,40.28368,-77.81484,Orbisonia,America/New_York
+17244,40.08595,-77.66562,Orrstown,America/New_York
+17246,40.0629,-77.68255,Pleasant Hall,America/New_York
+17247,39.79883,-77.57933,Quincy,America/New_York
+17249,40.24186,-77.9002,Rockhill Furnace,America/New_York
+17250,39.73668,-77.52338,Rouzerville,America/New_York
+17251,40.12159,-77.66695,Roxbury,America/New_York
+17252,39.91317,-77.81695,Saint Thomas,America/New_York
+17253,40.21241,-78.00628,Saltillo,America/New_York
+17254,39.96853,-77.58917,Scotland,America/New_York
+17255,40.15426,-77.86756,Shade Gap,America/New_York
+17257,40.0508,-77.49027,Shippensburg,America/New_York
+17260,40.2977,-77.89489,Shirleysburg,America/New_York
+17261,39.85981,-77.51164,South Mountain,America/New_York
+17262,40.14489,-77.74174,Spring Run,America/New_York
+17263,39.72409,-77.71727,State Line,America/New_York
+17264,40.17993,-77.99331,Three Springs,America/New_York
+17265,40.03846,-77.77297,Upperstrasburg,America/New_York
+17266,40.08745,-77.412,Walnut Bottom,America/New_York
+17267,39.80389,-78.23958,Warfordsburg,America/New_York
+17268,39.77421,-77.57354,Waynesboro,America/New_York
+17271,40.10183,-77.80367,Willow Hill,America/New_York
+17301,39.89119,-76.9815,Abbottstown,America/New_York
+17302,39.81659,-76.41069,Airville,America/New_York
+17303,39.92615,-77.29755,Arendtsville,America/New_York
+17304,39.97696,-77.23099,Aspers,America/New_York
+17306,39.98383,-77.24966,Bendersville,America/New_York
+17307,39.94853,-77.314,Biglerville,America/New_York
+17309,39.87351,-76.44894,Brogue,America/New_York
+17311,39.81709,-76.84191,Codorus,America/New_York
+17313,39.88472,-76.65719,Dallastown,America/New_York
+17314,39.75469,-76.32852,Delta,America/New_York
+17315,40.01859,-76.8685,Dover,America/New_York
+17316,39.96721,-77.00226,East Berlin,America/New_York
+17317,39.97136,-76.52267,East Prospect,America/New_York
+17318,40.01847,-76.7265,Emigsville,America/New_York
+17319,40.1585,-76.79468,Etters,America/New_York
+17320,39.7695,-77.38749,Fairfield,America/New_York
+17321,39.75406,-76.44742,Fawn Grove,America/New_York
+17322,39.85548,-76.53513,Felton,America/New_York
+17323,40.07523,-77.02669,Franklintown,America/New_York
+17324,40.03616,-77.22772,Gardners,America/New_York
+17325,39.82762,-77.22641,Gettysburg,America/New_York
+17327,39.77934,-76.75373,Glen Rock,America/New_York
+17329,39.76295,-76.85374,Glenville,America/New_York
+17331,39.79085,-76.98028,Hanover,America/New_York
+17339,40.13438,-76.88188,Lewisberry,America/New_York
+17340,39.75566,-77.11183,Littlestown,America/New_York
+17342,39.85275,-76.70756,Loganville,America/New_York
+17343,39.86863,-77.32948,McKnightstown,America/New_York
+17344,39.80535,-77.01887,McSherrystown,America/New_York
+17345,40.07929,-76.72812,Manchester,America/New_York
+17347,40.04927,-76.68247,Mount Wolf,America/New_York
+17349,39.75536,-76.68003,New Freedom,America/New_York
+17350,39.88918,-77.07896,New Oxford,America/New_York
+17352,39.76199,-76.50008,New Park,America/New_York
+17353,39.88741,-77.38714,Orrtanna,America/New_York
+17355,39.75978,-76.696,Railroad,America/New_York
+17356,39.89834,-76.58366,Red Lion,America/New_York
+17360,39.85196,-76.75377,Seven Valleys,America/New_York
+17361,39.76617,-76.67702,Shrewsbury,America/New_York
+17362,39.85088,-76.86872,Spring Grove,America/New_York
+17363,39.76736,-76.58504,Stewartstown,America/New_York
+17364,39.92985,-76.90049,Thomasville,America/New_York
+17365,40.05696,-76.9392,Wellsville,America/New_York
+17366,39.93184,-76.55585,Windsor,America/New_York
+17368,39.98463,-76.51966,Wrightsville,America/New_York
+17370,40.1174,-76.78124,York Haven,America/New_York
+17371,39.90258,-76.78797,York New Salem,America/New_York
+17372,40.00037,-77.10633,York Springs,America/New_York
+17401,39.95893,-76.73359,York,America/New_York
+17402,39.95799,-76.66045,York,America/New_York
+17403,39.92142,-76.71277,York,America/New_York
+17404,40.00496,-76.77217,York,America/New_York
+17406,40.01224,-76.64249,York,America/New_York
+17407,39.8855,-76.71244,York,America/New_York
+17408,39.93451,-76.80203,York,America/New_York
+17501,40.15697,-76.20532,Akron,America/New_York
+17502,40.10081,-76.66732,Bainbridge,America/New_York
+17504,40.02448,-76.32855,Bausman,America/New_York
+17505,40.05915,-76.18999,Bird In Hand,America/New_York
+17506,40.11718,-76.0527,Blue Ball,America/New_York
+17507,40.19806,-76.01624,Bowmansville,America/New_York
+17508,40.12455,-76.21394,Brownstown,America/New_York
+17509,39.90923,-76.03073,Christiana,America/New_York
+17512,40.04,-76.48558,Columbia,America/New_York
+17516,39.93773,-76.38703,Conestoga,America/New_York
+17517,40.24402,-76.13151,Denver,America/New_York
+17518,39.80519,-76.25932,Drumore,America/New_York
+17519,40.14278,-76.02145,East Earl,America/New_York
+17520,40.09813,-76.34897,East Petersburg,America/New_York
+17522,40.17499,-76.17009,Ephrata,America/New_York
+17527,40.01495,-75.99333,Gap,America/New_York
+17529,40.04036,-76.10008,Gordonville,America/New_York
+17532,39.85731,-76.2923,Holtwood,America/New_York
+17534,40.03665,-76.11214,Intercourse,America/New_York
+17535,40.01224,-76.03813,Kinzers,America/New_York
+17536,39.84345,-76.07316,Kirkwood,America/New_York
+17538,40.08804,-76.41528,Landisville,America/New_York
+17540,40.09877,-76.1888,Leola,America/New_York
+17543,40.18217,-76.30038,Lititz,America/New_York
+17545,40.17307,-76.42792,Manheim,America/New_York
+17547,40.07056,-76.58436,Marietta,America/New_York
+17550,40.07492,-76.58339,Maytown,America/New_York
+17551,39.97911,-76.37608,Millersville,America/New_York
+17552,40.10935,-76.51174,Mount Joy,America/New_York
+17554,40.03923,-76.42584,Mountville,America/New_York
+17555,40.12075,-75.96514,Narvon,America/New_York
+17557,40.10328,-76.07543,New Holland,America/New_York
+17560,39.91117,-76.22712,New Providence,America/New_York
+17562,39.97636,-76.09264,Paradise,America/New_York
+17563,39.76404,-76.18649,Peach Bottom,America/New_York
+17565,39.89191,-76.32994,Pequea,America/New_York
+17566,39.86924,-76.1476,Quarryville,America/New_York
+17568,39.94806,-76.23416,Refton,America/New_York
+17569,40.27043,-76.09652,Reinholds,America/New_York
+17570,40.12574,-76.57035,Rheems,America/New_York
+17572,40.00937,-76.15105,Ronks,America/New_York
+17576,40.03561,-76.19782,Smoketown,America/New_York
+17578,40.22397,-76.16405,Stevens,America/New_York
+17579,39.95938,-76.18032,Strasburg,America/New_York
+17581,40.15617,-76.05535,Terre Hill,America/New_York
+17582,39.98928,-76.44756,Washington Boro,America/New_York
+17584,39.95981,-76.26463,Willow Street,America/New_York
+17601,40.07296,-76.31457,Lancaster,America/New_York
+17602,40.01486,-76.24632,Lancaster,America/New_York
+17603,40.0127,-76.35287,Lancaster,America/New_York
+17606,40.11174,-76.30401,Lancaster,America/New_York
+17701,41.34206,-76.88821,Williamsport,America/New_York
+17702,41.18215,-77.07728,Williamsport,America/New_York
+17720,41.18046,-77.20503,Antes Fort,America/New_York
+17721,41.18155,-77.31927,Avis,America/New_York
+17723,41.43125,-77.45629,Cammal,America/New_York
+17724,41.63827,-76.80034,Canton,America/New_York
+17727,41.53904,-77.47914,Cedar Run,America/New_York
+17728,41.32546,-77.08215,Cogan Station,America/New_York
+17729,41.49798,-77.74106,Cross Fork,America/New_York
+17730,41.10677,-76.87591,Dewart,America/New_York
+17731,41.42713,-76.57293,Eagles Mere,America/New_York
+17737,41.28673,-76.68149,Hughesville,America/New_York
+17739,41.41289,-77.40156,Jersey Mills,America/New_York
+17740,41.2342,-77.26171,Jersey Shore,America/New_York
+17742,41.23919,-76.5829,Lairdsville,America/New_York
+17744,41.24397,-77.16139,Linden,America/New_York
+17745,41.28589,-77.48097,Lock Haven,America/New_York
+17747,41.03847,-77.31497,Loganton,America/New_York
+17748,41.15147,-77.35043,McElhattan,America/New_York
+17749,41.07232,-76.81352,McEwensville,America/New_York
+17750,41.05517,-77.47805,Mackeyville,America/New_York
+17751,41.13086,-77.53201,Mill Hall,America/New_York
+17752,41.18244,-76.92144,Montgomery,America/New_York
+17754,41.31108,-76.88421,Montoursville,America/New_York
+17756,41.20841,-76.73325,Muncy,America/New_York
+17758,41.35234,-76.55155,Muncy Valley,America/New_York
+17760,41.3966,-77.66602,North Bend,America/New_York
+17762,41.28326,-76.70751,Picture Rocks,America/New_York
+17763,41.50999,-76.91388,Ralston,America/New_York
+17764,41.34316,-77.82735,Renovo,America/New_York
+17765,41.57591,-76.97168,Roaring Branch,America/New_York
+17768,41.54632,-76.7477,Shunk,America/New_York
+17769,41.49939,-77.50073,Slate Run,America/New_York
+17771,41.43137,-77.04524,Trout Run,America/New_York
+17772,41.11832,-76.71756,Turbotville,America/New_York
+17774,41.24782,-76.5416,Unityville,America/New_York
+17776,41.41704,-77.31257,Waterville,America/New_York
+17777,41.10332,-76.82678,Watsontown,America/New_York
+17778,41.28532,-77.96477,Westport,America/New_York
+17779,41.20551,-77.38019,Woolrich,America/New_York
+17801,40.83669,-76.75762,Sunbury,America/New_York
+17810,41.1123,-77.02543,Allenwood,America/New_York
+17812,40.73626,-77.23641,Beaver Springs,America/New_York
+17813,40.78505,-77.1772,Beavertown,America/New_York
+17814,41.26885,-76.3751,Benton,America/New_York
+17815,41.02216,-76.43061,Bloomsburg,America/New_York
+17820,40.9011,-76.40783,Catawissa,America/New_York
+17821,40.9917,-76.63959,Danville,America/New_York
+17822,40.96861,-76.60365,Danville,America/New_York
+17823,40.72099,-76.72541,Dornsife,America/New_York
+17824,40.85652,-76.49848,Elysburg,America/New_York
+17827,40.75482,-76.96133,Freeburg,America/New_York
+17829,40.90057,-77.15546,Hartleton,America/New_York
+17830,40.68791,-76.79449,Herndon,America/New_York
+17832,40.80554,-76.45499,Marion Heights,America/New_York
+17834,40.77982,-76.46701,Kulpmont,America/New_York
+17835,40.88365,-77.19795,Laurelton,America/New_York
+17836,40.71446,-76.60136,Leck Kill,America/New_York
+17837,40.97485,-76.94247,Lewisburg,America/New_York
+17840,40.77537,-76.43291,Locust Gap,America/New_York
+17841,40.72455,-77.35888,McClure,America/New_York
+17842,40.80389,-77.04329,Middleburg,America/New_York
+17844,40.95904,-77.08747,Mifflinburg,America/New_York
+17845,40.88308,-77.21628,Millmont,America/New_York
+17846,41.14647,-76.51681,Millville,America/New_York
+17847,41.00609,-76.80612,Milton,America/New_York
+17850,40.9671,-76.85847,Montandon,America/New_York
+17851,40.80255,-76.433,Mount Carmel,America/New_York
+17853,40.69212,-77.01254,Mount Pleasant Mills,America/New_York
+17855,40.88735,-76.97217,New Berlin,America/New_York
+17856,41.05636,-76.9722,New Columbia,America/New_York
+17857,40.92789,-76.76712,Northumberland,America/New_York
+17858,40.84238,-76.42314,Numidia,America/New_York
+17859,41.11821,-76.39498,Orangeville,America/New_York
+17860,40.82685,-76.63402,Paxinos,America/New_York
+17861,40.77361,-77.0788,Paxtonville,America/New_York
+17862,40.86069,-77.05661,Penns Creek,America/New_York
+17864,40.70294,-76.90687,Port Trevorton,America/New_York
+17865,40.98688,-76.78979,Potts Grove,America/New_York
+17866,40.78866,-76.55035,Coal Township,America/New_York
+17867,40.71464,-76.69025,Rebuck,America/New_York
+17868,40.95536,-76.63098,Riverside,America/New_York
+17870,40.80992,-76.8897,Selinsgrove,America/New_York
+17872,40.7677,-76.61317,Shamokin,America/New_York
+17876,40.85571,-76.82319,Shamokin Dam,America/New_York
+17878,41.1721,-76.32364,Stillwater,America/New_York
+17880,40.89109,-77.12383,Swengel,America/New_York
+17881,40.78098,-76.68632,Trevorton,America/New_York
+17884,41.05201,-76.67509,Washingtonville,America/New_York
+17885,40.87042,-77.28941,Weikert,America/New_York
+17886,41.01847,-76.87598,West Milton,America/New_York
+17887,41.07508,-76.8849,White Deer,America/New_York
+17888,40.81931,-76.37306,Wilburton,America/New_York
+17889,40.88228,-76.9143,Winfield,America/New_York
+17901,40.69364,-76.25526,Pottsville,America/New_York
+17920,40.81328,-76.32989,Aristes,America/New_York
+17921,40.75422,-76.35732,Ashland,America/New_York
+17922,40.592,-76.11212,Auburn,America/New_York
+17923,40.66136,-76.31871,Branchdale,America/New_York
+17925,40.75609,-76.07047,Brockton,America/New_York
+17929,40.63104,-76.19273,Cressona,America/New_York
+17930,40.70867,-76.11529,Cumbola,America/New_York
+17931,40.78378,-76.21638,Frackville,America/New_York
+17933,40.60357,-76.24244,Friedensburg,America/New_York
+17934,40.79786,-76.21205,Gilberton,America/New_York
+17935,40.79417,-76.28,Girardville,America/New_York
+17936,40.75048,-76.33997,Gordon,America/New_York
+17938,40.65558,-76.50198,Hegins,America/New_York
+17941,40.68614,-76.61472,Klingerstown,America/New_York
+17943,40.76161,-76.37949,Lavelle,America/New_York
+17944,40.6605,-76.28903,Llewellyn,America/New_York
+17945,40.78458,-76.37523,Locustdale,America/New_York
+17946,40.8123,-76.2449,Lost Creek,America/New_York
+17948,40.82485,-76.14223,Mahanoy City,America/New_York
+17949,40.79624,-76.23547,Mahanoy Plane,America/New_York
+17951,40.67919,-76.24425,Mar Lin,America/New_York
+17952,40.76434,-76.05997,Mary D,America/New_York
+17953,40.74728,-76.09969,Middleport,America/New_York
+17954,40.69047,-76.25985,Minersville,America/New_York
+17957,40.59359,-76.51651,Muir,America/New_York
+17959,40.74224,-76.15141,New Philadelphia,America/New_York
+17960,40.69932,-75.94656,New Ringgold,America/New_York
+17961,40.64713,-76.05988,Orwigsburg,America/New_York
+17963,40.56133,-76.39548,Pine Grove,America/New_York
+17964,40.71415,-76.49785,Pitman,America/New_York
+17965,40.69919,-76.16536,Port Carbon,America/New_York
+17967,40.86047,-76.20945,Ringtown,America/New_York
+17968,40.6417,-76.62625,Sacramento,America/New_York
+17970,40.72072,-76.19056,Saint Clair,America/New_York
+17972,40.58199,-76.21367,Schuylkill Haven,America/New_York
+17974,40.69592,-76.23606,Seltzer,America/New_York
+17976,40.8204,-76.21131,Shenandoah,America/New_York
+17978,40.6165,-76.65219,Spring Glen,America/New_York
+17979,40.56729,-76.20207,Summit Station,America/New_York
+17980,40.531,-76.62065,Tower City,America/New_York
+17981,40.63077,-76.39523,Tremont,America/New_York
+17982,40.76798,-76.03827,Tuscarora,America/New_York
+17983,40.64403,-76.55027,Valley View,America/New_York
+17985,40.91935,-76.23729,Zion Grove,America/New_York
+18011,40.47288,-75.64395,Alburtis,America/New_York
+18012,40.81135,-75.59158,Aquashicola,America/New_York
+18013,40.85511,-75.17114,Bangor,America/New_York
+18014,40.7654,-75.40923,Bath,America/New_York
+18015,40.5887,-75.36786,Bethlehem,America/New_York
+18017,40.66069,-75.38739,Bethlehem,America/New_York
+18018,40.62766,-75.39538,Bethlehem,America/New_York
+18020,40.67267,-75.32692,Bethlehem,America/New_York
+18030,40.80408,-75.66336,Bowmanstown,America/New_York
+18031,40.554,-75.65361,Breinigsville,America/New_York
+18032,40.65694,-75.46776,Catasauqua,America/New_York
+18034,40.54182,-75.41654,Center Valley,America/New_York
+18035,40.75053,-75.54148,Cherryville,America/New_York
+18036,40.50925,-75.38891,Coopersburg,America/New_York
+18037,40.68203,-75.54638,Coplay,America/New_York
+18038,40.79574,-75.48246,Danielsville,America/New_York
+18040,40.7459,-75.22172,Easton,America/New_York
+18041,40.41742,-75.51306,East Greenville,America/New_York
+18042,40.6497,-75.22376,Easton,America/New_York
+18045,40.6919,-75.27494,Easton,America/New_York
+18046,40.54803,-75.56029,East Texas,America/New_York
+18049,40.51912,-75.50018,Emmaus,America/New_York
+18051,40.59409,-75.66415,Fogelsville,America/New_York
+18052,40.65668,-75.50443,Whitehall,America/New_York
+18053,40.71802,-75.70999,Germansville,America/New_York
+18054,40.35321,-75.43824,Green Lane,America/New_York
+18055,40.58794,-75.29929,Hellertown,America/New_York
+18056,40.44798,-75.54911,Hereford,America/New_York
+18058,40.8922,-75.49094,Kunkletown,America/New_York
+18059,40.7233,-75.53644,Laurys Station,America/New_York
+18062,40.5035,-75.57886,Macungie,America/New_York
+18063,40.78229,-75.18164,Martins Creek,America/New_York
+18064,40.75755,-75.31927,Nazareth,America/New_York
+18065,40.69814,-75.61086,Neffs,America/New_York
+18066,40.6635,-75.74492,New Tripoli,America/New_York
+18067,40.71792,-75.47937,Northampton,America/New_York
+18069,40.626,-75.616,Orefield,America/New_York
+18070,40.4317,-75.53884,Palm,America/New_York
+18071,40.83098,-75.57843,Palmerton,America/New_York
+18072,40.84548,-75.25842,Pen Argyl,America/New_York
+18073,40.38378,-75.47702,Pennsburg,America/New_York
+18074,40.31971,-75.51424,Perkiomenville,America/New_York
+18076,40.37382,-75.48154,Red Hill,America/New_York
+18077,40.56603,-75.24115,Riegelsville,America/New_York
+18078,40.67181,-75.62096,Schnecksville,America/New_York
+18079,40.74415,-75.65754,Slatedale,America/New_York
+18080,40.73618,-75.63227,Slatington,America/New_York
+18081,40.56236,-75.28396,Springtown,America/New_York
+18083,40.75494,-75.2637,Stockertown,America/New_York
+18085,40.74174,-75.25434,Tatamy,America/New_York
+18086,40.73867,-75.54757,Treichlers,America/New_York
+18087,40.55398,-75.59588,Trexlertown,America/New_York
+18088,40.76578,-75.5576,Walnutport,America/New_York
+18091,40.82656,-75.32068,Wind Gap,America/New_York
+18092,40.46844,-75.51372,Zionsville,America/New_York
+18101,40.60301,-75.4698,Allentown,America/New_York
+18102,40.60792,-75.47613,Allentown,America/New_York
+18103,40.57223,-75.48138,Allentown,America/New_York
+18104,40.61122,-75.54699,Allentown,America/New_York
+18106,40.57472,-75.59542,Allentown,America/New_York
+18109,40.63673,-75.44043,Allentown,America/New_York
+18195,40.58427,-75.62479,Allentown,America/New_York
+18201,40.95198,-75.95395,Hazleton,America/New_York
+18202,40.94874,-76.0483,Hazleton,America/New_York
+18210,41.00057,-75.59146,Albrightsville,America/New_York
+18211,40.74315,-75.82314,Andreas,America/New_York
+18212,40.77292,-75.71883,Ashfield,America/New_York
+18214,40.80667,-76.08093,Barnesville,America/New_York
+18216,40.94212,-75.90517,Beaver Meadows,America/New_York
+18218,40.81974,-75.91611,Coaldale,America/New_York
+18219,40.99105,-76.05824,Conyngham,America/New_York
+18220,40.83958,-76.07509,Delano,America/New_York
+18221,41.00152,-75.919,Drifton,America/New_York
+18222,41.03569,-76.00097,Drums,America/New_York
+18223,40.98221,-75.95011,Ebervale,America/New_York
+18224,41.02499,-75.88728,Freeland,America/New_York
+18225,40.98137,-75.97111,Harleigh,America/New_York
+18229,40.93245,-75.68247,Jim Thorpe,America/New_York
+18230,40.9201,-75.93077,Junedale,America/New_York
+18231,40.90068,-76.00446,Kelayres,America/New_York
+18232,40.83515,-75.87939,Lansford,America/New_York
+18234,40.99259,-75.96468,Lattimer Mines,America/New_York
+18235,40.83603,-75.692,Lehighton,America/New_York
+18237,40.88591,-76.02582,Mcadoo,America/New_York
+18239,40.98962,-75.98154,Milnesville,America/New_York
+18240,40.86279,-75.84727,Nesquehoning,America/New_York
+18241,40.94439,-76.16492,Nuremberg,America/New_York
+18242,40.90606,-76.12349,Oneida,America/New_York
+18244,40.82361,-75.66879,Parryville,America/New_York
+18245,40.8528,-76.03011,Quakake,America/New_York
+18246,40.95743,-76.195,Rock Glen,America/New_York
+18248,40.90089,-76.09448,Sheppton,America/New_York
+18249,40.98457,-76.1206,Sugarloaf,America/New_York
+18250,40.81744,-75.86145,Summit Hill,America/New_York
+18252,40.77857,-75.97893,Tamaqua,America/New_York
+18254,40.91594,-75.96563,Tresckow,America/New_York
+18255,40.93308,-75.82996,Weatherly,America/New_York
+18256,40.94044,-76.14752,Weston,America/New_York
+18301,41.03141,-75.18316,East Stroudsburg,America/New_York
+18302,41.09243,-75.11783,East Stroudsburg,America/New_York
+18321,41.01734,-75.28754,Bartonsville,America/New_York
+18322,40.9221,-75.39714,Brodheadsville,America/New_York
+18323,41.19558,-75.27264,Buck Hill Falls,America/New_York
+18324,41.14712,-75.0001,Bushkill,America/New_York
+18325,41.22545,-75.22268,Canadensis,America/New_York
+18326,41.15617,-75.25186,Cresco,America/New_York
+18327,40.98341,-75.14665,Delaware Water Gap,America/New_York
+18328,41.22531,-75.00633,Dingmans Ferry,America/New_York
+18330,40.96505,-75.45285,Effort,America/New_York
+18331,40.90878,-75.44076,Gilbert,America/New_York
+18332,41.0922,-75.25968,Henryville,America/New_York
+18333,40.89833,-75.49104,Kresgeville,America/New_York
+18334,41.07208,-75.44298,Long Pond,America/New_York
+18335,41.06413,-75.10455,Marshalls Creek,America/New_York
+18336,41.37566,-74.73674,Matamoras,America/New_York
+18337,41.33406,-74.87342,Milford,America/New_York
+18340,41.42027,-74.77503,Millrift,America/New_York
+18342,41.17045,-75.30485,Mountainhome,America/New_York
+18343,40.89043,-75.1058,Mount Bethel,America/New_York
+18344,41.11735,-75.34442,Mount Pocono,America/New_York
+18346,41.14643,-75.42752,Pocono Summit,America/New_York
+18347,41.15116,-75.53664,Pocono Lake,America/New_York
+18349,41.0995,-75.3682,Pocono Manor,America/New_York
+18350,41.11339,-75.45633,Pocono Pines,America/New_York
+18351,40.92321,-75.10063,Portland,America/New_York
+18353,40.89848,-75.36953,Saylorsburg,America/New_York
+18354,40.92561,-75.32831,Sciota,America/New_York
+18355,41.07301,-75.35553,Scotrun,America/New_York
+18356,41.01574,-75.11192,Shawnee On Delaware,America/New_York
+18357,41.22956,-75.2191,Skytop,America/New_York
+18360,40.97254,-75.28562,Stroudsburg,America/New_York
+18370,41.08926,-75.33771,Swiftwater,America/New_York
+18371,41.15837,-75.03658,Tamiment,America/New_York
+18372,41.04777,-75.32512,Tannersville,America/New_York
+18403,41.50495,-75.53529,Archbald,America/New_York
+18405,41.59792,-75.09509,Beach Lake,America/New_York
+18407,41.59971,-75.53026,Carbondale,America/New_York
+18411,41.45655,-75.74295,Clarks Summit,America/New_York
+18413,41.64767,-75.53258,Clifford,America/New_York
+18414,41.53893,-75.7427,Dalton,America/New_York
+18415,41.74821,-75.11315,Damascus,America/New_York
+18417,41.80705,-75.20122,Equinunk,America/New_York
+18419,41.57858,-75.7994,Factoryville,America/New_York
+18420,41.60333,-75.70589,Fleetville,America/New_York
+18421,41.66337,-75.4691,Forest City,America/New_York
+18424,41.24267,-75.52234,Gouldsboro,America/New_York
+18425,41.42263,-75.02206,Greeley,America/New_York
+18426,41.32774,-75.23577,Greentown,America/New_York
+18428,41.42946,-75.1253,Hawley,America/New_York
+18430,41.7428,-75.47779,Herrick Center,America/New_York
+18431,41.62214,-75.25531,Honesdale,America/New_York
+18433,41.57107,-75.58452,Jermyn,America/New_York
+18434,41.46014,-75.54823,Jessup,America/New_York
+18435,41.49221,-75.00661,Lackawaxen,America/New_York
+18436,41.43867,-75.3959,Lake Ariel,America/New_York
+18437,41.86859,-75.30345,Lake Como,America/New_York
+18438,41.43591,-75.24499,Lakeville,America/New_York
+18439,41.82674,-75.34735,Lakewood,America/New_York
+18440,41.55931,-75.76505,La Plume,America/New_York
+18441,41.65833,-75.62565,Lenoxville,America/New_York
+18443,41.66262,-75.11059,Milanville,America/New_York
+18444,41.33912,-75.54667,Moscow,America/New_York
+18445,41.2948,-75.34751,Newfoundland,America/New_York
+18446,41.64513,-75.76044,Nicholson,America/New_York
+18447,41.5132,-75.61684,Olyphant,America/New_York
+18451,41.39849,-75.22023,Paupack,America/New_York
+18452,41.48387,-75.58951,Peckville,America/New_York
+18453,41.74971,-75.361,Pleasant Mount,America/New_York
+18454,41.81963,-75.42731,Poyntelle,America/New_York
+18455,41.88467,-75.35541,Preston Park,America/New_York
+18456,41.61843,-75.3404,Prompton,America/New_York
+18457,41.4696,-75.05084,Rowland,America/New_York
+18458,41.40916,-74.91757,Shohola,America/New_York
+18460,41.26719,-75.34744,South Sterling,America/New_York
+18461,41.92774,-75.32434,Starlight,America/New_York
+18462,41.9049,-75.42988,Starrucca,America/New_York
+18463,41.34825,-75.37964,Sterling,America/New_York
+18464,41.40181,-75.17824,Tafton,America/New_York
+18465,41.83654,-75.51811,Thompson,America/New_York
+18466,41.19709,-75.37796,Tobyhanna,America/New_York
+18469,41.70352,-75.14597,Tyler Hill,America/New_York
+18470,41.732,-75.53502,Union Dale,America/New_York
+18471,41.5291,-75.69807,Waverly,America/New_York
+18472,41.58738,-75.40002,Waymart,America/New_York
+18473,41.52828,-75.20821,White Mills,America/New_York
+18503,41.41007,-75.66767,Scranton,America/New_York
+18504,41.42375,-75.70581,Scranton,America/New_York
+18505,41.38874,-75.65109,Scranton,America/New_York
+18507,41.35541,-75.68016,Moosic,America/New_York
+18508,41.45503,-75.65827,Scranton,America/New_York
+18509,41.43062,-75.64321,Scranton,America/New_York
+18510,41.40735,-75.64376,Scranton,America/New_York
+18512,41.42648,-75.5912,Scranton,America/New_York
+18517,41.39524,-75.71461,Taylor,America/New_York
+18518,41.37495,-75.73963,Old Forge,America/New_York
+18519,41.46207,-75.63062,Scranton,America/New_York
+18602,41.18749,-75.75526,Bear Creek,America/New_York
+18603,41.08506,-76.24591,Berwick,America/New_York
+18610,41.05959,-75.53226,Blakeslee,America/New_York
+18612,41.35025,-75.98207,Dallas,America/New_York
+18614,41.48373,-76.35768,Dushore,America/New_York
+18615,41.45968,-75.85752,Falls,America/New_York
+18616,41.51907,-76.63954,Forksville,America/New_York
+18617,41.17149,-76.07707,Glen Lyon,America/New_York
+18618,41.37883,-76.0313,Harveys Lake,America/New_York
+18619,41.43574,-76.7195,Hillsgrove,America/New_York
+18621,41.25441,-76.09129,Hunlock Creek,America/New_York
+18622,41.20228,-76.27348,Huntington Mills,America/New_York
+18623,41.67297,-76.14768,Laceyville,America/New_York
+18624,41.05529,-75.62088,Lake Harmony,America/New_York
+18625,41.51311,-75.85027,Lake Winola,America/New_York
+18626,41.41136,-76.4635,Laporte,America/New_York
+18627,41.31559,-76.02235,Lehman,America/New_York
+18628,41.41474,-76.32047,Lopez,America/New_York
+18629,41.52393,-76.13365,Mehoopany,America/New_York
+18630,41.66361,-76.02698,Meshoppen,America/New_York
+18631,41.03079,-76.30233,Mifflinville,America/New_York
+18632,41.46769,-76.3764,Mildred,America/New_York
+18634,41.18984,-76.0218,Nanticoke,America/New_York
+18635,41.02961,-76.20598,Nescopeck,America/New_York
+18636,41.41215,-76.08859,Noxen,America/New_York
+18640,41.29724,-75.74024,Pittston,America/New_York
+18641,41.33644,-75.73007,Pittston,America/New_York
+18642,41.35359,-75.77681,Duryea,America/New_York
+18643,41.36456,-75.8344,Pittston,America/New_York
+18644,41.33192,-75.87753,Wyoming,America/New_York
+18651,41.24748,-75.962,Plymouth,America/New_York
+18655,41.18327,-76.19619,Shickshinny,America/New_York
+18656,41.32703,-76.20442,Sweet Valley,America/New_York
+18657,41.52712,-75.95601,Tunkhannock,America/New_York
+18660,41.10195,-76.06196,Wapwallopen,America/New_York
+18661,41.08435,-75.75666,White Haven,America/New_York
+18701,41.2433,-75.88523,Wilkes Barre,America/New_York
+18702,41.21406,-75.76925,Wilkes Barre,America/New_York
+18704,41.27676,-75.89474,Kingston,America/New_York
+18705,41.27156,-75.84241,Wilkes Barre,America/New_York
+18706,41.20432,-75.91231,Wilkes Barre,America/New_York
+18707,41.13325,-75.9228,Mountain Top,America/New_York
+18708,41.297,-75.95927,Shavertown,America/New_York
+18709,41.28635,-75.89674,Luzerne,America/New_York
+18801,41.82861,-75.9437,Montrose,America/New_York
+18810,41.93738,-76.50181,Athens,America/New_York
+18812,41.97203,-75.96822,Brackney,America/New_York
+18814,41.78151,-76.60121,Burlington,America/New_York
+18816,41.73977,-75.90966,Dimock,America/New_York
+18817,41.87431,-76.62075,East Smithfield,America/New_York
+18818,41.91343,-76.04843,Friendsville,America/New_York
+18820,41.7779,-75.65029,Gibson,America/New_York
+18821,41.98588,-75.73466,Great Bend,America/New_York
+18822,41.9482,-75.80116,Hallstead,America/New_York
+18823,41.77415,-75.69168,Harford,America/New_York
+18824,41.70422,-75.786,Hop Bottom,America/New_York
+18825,41.82276,-75.599,Jackson,America/New_York
+18826,41.7495,-75.74276,Kingsley,America/New_York
+18828,41.79672,-76.11245,Lawton,America/New_York
+18829,41.8395,-76.17088,Le Raysville,America/New_York
+18830,41.95049,-76.10904,Little Meadows,America/New_York
+18831,41.89356,-76.60832,Milan,America/New_York
+18832,41.67625,-76.55639,Monroeton,America/New_York
+18833,41.59433,-76.46515,New Albany,America/New_York
+18834,41.84185,-75.71189,New Milford,America/New_York
+18837,41.91928,-76.29122,Rome,America/New_York
+18840,41.97433,-76.52968,Sayre,America/New_York
+18842,41.75594,-75.61652,South Gibson,America/New_York
+18843,41.80446,-75.89416,South Montrose,America/New_York
+18844,41.69247,-75.91351,Springville,America/New_York
+18845,41.78994,-76.18454,Stevensville,America/New_York
+18846,41.60494,-76.23929,Sugar Run,America/New_York
+18847,41.93539,-75.56893,Susquehanna,America/New_York
+18848,41.75358,-76.45615,Towanda,America/New_York
+18850,41.85916,-76.49126,Ulster,America/New_York
+18851,41.93677,-76.17992,Warren Center,America/New_York
+18853,41.71654,-76.27534,Wyalusing,America/New_York
+18854,41.79532,-76.35472,Wysox,America/New_York
+18901,40.30529,-75.15026,Doylestown,America/New_York
+18902,40.35474,-75.09855,Doylestown,America/New_York
+18912,40.32134,-75.05852,Buckingham,America/New_York
+18913,40.37727,-75.0545,Carversville,America/New_York
+18914,40.28908,-75.21046,Chalfont,America/New_York
+18915,40.27255,-75.25628,Colmar,America/New_York
+18917,40.37088,-75.202,Dublin,America/New_York
+18920,40.49264,-75.09067,Erwinna,America/New_York
+18921,40.52946,-75.1738,Ferndale,America/New_York
+18923,40.3532,-75.16798,Fountainville,America/New_York
+18925,40.2851,-75.05934,Furlong,America/New_York
+18927,40.31952,-75.24514,Hilltown,America/New_York
+18929,40.25674,-75.07885,Jamison,America/New_York
+18930,40.52926,-75.2142,Kintnersville,America/New_York
+18932,40.29457,-75.25581,Line Lexington,America/New_York
+18933,40.40265,-75.042,Lumberville,America/New_York
+18935,40.43444,-75.39714,Milford Square,America/New_York
+18936,40.22993,-75.23154,Montgomeryville,America/New_York
+18938,40.35126,-74.99779,New Hope,America/New_York
+18940,40.26349,-74.9483,Newtown,America/New_York
+18942,40.47167,-75.16261,Ottsville,America/New_York
+18944,40.39252,-75.23381,Perkasie,America/New_York
+18946,40.28923,-75.01009,Pineville,America/New_York
+18947,40.42677,-75.1138,Pipersville,America/New_York
+18950,40.44709,-75.06544,Point Pleasant,America/New_York
+18951,40.45294,-75.33833,Quakertown,America/New_York
+18954,40.2224,-75.00032,Richboro,America/New_York
+18955,40.48469,-75.3141,Richlandtown,America/New_York
+18960,40.36376,-75.32366,Sellersville,America/New_York
+18962,40.34462,-75.27033,Silverdale,America/New_York
+18964,40.29759,-75.33327,Souderton,America/New_York
+18966,40.1879,-75.00557,Southampton,America/New_York
+18969,40.32644,-75.37239,Telford,America/New_York
+18970,40.41212,-75.38129,Trumbauersville,America/New_York
+18972,40.53395,-75.11997,Upper Black Eddy,America/New_York
+18974,40.21675,-75.07321,Warminster,America/New_York
+18976,40.24676,-75.14321,Warrington,America/New_York
+18977,40.28655,-74.87865,Washington Crossing,America/New_York
+18980,40.27276,-75.01105,Wycombe,America/New_York
+19001,40.12624,-75.12652,Abington,America/New_York
+19002,40.18386,-75.21104,Ambler,America/New_York
+19003,40.00217,-75.29841,Ardmore,America/New_York
+19004,40.01362,-75.22979,Bala Cynwyd,America/New_York
+19006,40.13323,-75.06222,Huntingdon Valley,America/New_York
+19007,40.11483,-74.85474,Bristol,America/New_York
+19008,39.97425,-75.36107,Broomall,America/New_York
+19009,40.13775,-75.06308,Bryn Athyn,America/New_York
+19010,40.02362,-75.3298,Bryn Mawr,America/New_York
+19012,40.05966,-75.10586,Cheltenham,America/New_York
+19013,39.84529,-75.37474,Chester,America/New_York
+19014,39.8637,-75.4338,Aston,America/New_York
+19015,39.86811,-75.39164,Brookhaven,America/New_York
+19017,39.89078,-75.46295,Chester Heights,America/New_York
+19018,39.92312,-75.29834,Clifton Heights,America/New_York
+19020,40.10453,-74.93853,Bensalem,America/New_York
+19021,40.08874,-74.89385,Croydon,America/New_York
+19022,39.85862,-75.33507,Crum Lynne,America/New_York
+19023,39.91724,-75.26708,Darby,America/New_York
+19025,40.14556,-75.1632,Dresher,America/New_York
+19026,39.95035,-75.304,Drexel Hill,America/New_York
+19027,40.07347,-75.12453,Elkins Park,America/New_York
+19029,39.86345,-75.29271,Essington,America/New_York
+19030,40.1812,-74.83269,Fairless Hills,America/New_York
+19031,40.1083,-75.21747,Flourtown,America/New_York
+19032,39.88907,-75.277,Folcroft,America/New_York
+19033,39.89077,-75.32892,Folsom,America/New_York
+19034,40.13353,-75.20953,Fort Washington,America/New_York
+19035,40.04851,-75.28126,Gladwyne,America/New_York
+19036,39.90368,-75.29323,Glenolden,America/New_York
+19038,40.10197,-75.17214,Glenside,America/New_York
+19040,40.17732,-75.10624,Hatboro,America/New_York
+19041,40.00663,-75.31747,Haverford,America/New_York
+19043,39.90042,-75.30891,Holmes,America/New_York
+19044,40.18901,-75.15253,Horsham,America/New_York
+19046,40.10133,-75.10558,Jenkintown,America/New_York
+19047,40.18207,-74.91062,Langhorne,America/New_York
+19050,39.93764,-75.26355,Lansdowne,America/New_York
+19052,39.89721,-75.44532,Lenni,America/New_York
+19053,40.15475,-74.97918,Feasterville Trevose,America/New_York
+19054,40.17055,-74.82016,Levittown,America/New_York
+19055,40.14984,-74.83881,Levittown,America/New_York
+19056,40.15044,-74.88534,Levittown,America/New_York
+19057,40.14013,-74.85718,Levittown,America/New_York
+19060,39.85048,-75.4921,Garnet Valley,America/New_York
+19061,39.82741,-75.432,Marcus Hook,America/New_York
+19063,39.92248,-75.41419,Media,America/New_York
+19064,39.93214,-75.33873,Springfield,America/New_York
+19066,40.0022,-75.2489,Merion Station,America/New_York
+19067,40.19595,-74.80976,Morrisville,America/New_York
+19070,39.90628,-75.32452,Morton,America/New_York
+19072,40.02419,-75.25697,Narberth,America/New_York
+19073,39.98093,-75.4346,Newtown Square,America/New_York
+19074,39.88642,-75.29643,Norwood,America/New_York
+19075,40.1136,-75.18852,Oreland,America/New_York
+19076,39.88586,-75.30763,Prospect Park,America/New_York
+19078,39.87328,-75.32159,Ridley Park,America/New_York
+19079,39.90238,-75.26591,Sharon Hill,America/New_York
+19081,39.89864,-75.34751,Swarthmore,America/New_York
+19082,39.96043,-75.27032,Upper Darby,America/New_York
+19083,39.97715,-75.31192,Havertown,America/New_York
+19085,40.03759,-75.34969,Villanova,America/New_York
+19086,39.89094,-75.37014,Wallingford,America/New_York
+19087,40.06172,-75.40004,Wayne,America/New_York
+19090,40.1484,-75.12378,Willow Grove,America/New_York
+19094,39.87499,-75.3467,Woodlyn,America/New_York
+19095,40.08588,-75.15137,Wyncote,America/New_York
+19096,39.99813,-75.27388,Wynnewood,America/New_York
+19102,39.95301,-75.16544,Philadelphia,America/New_York
+19103,39.95303,-75.17386,Philadelphia,America/New_York
+19104,39.95891,-75.19836,Philadelphia,America/New_York
+19106,39.94589,-75.14224,Philadelphia,America/New_York
+19107,39.9518,-75.15864,Philadelphia,America/New_York
+19108,39.95987,-75.16083,Philadelphia,America/New_York
+19109,39.94958,-75.16387,Philadelphia,America/New_York
+19111,40.06065,-75.08019,Philadelphia,America/New_York
+19112,39.88999,-75.16985,Philadelphia,America/New_York
+19113,39.86679,-75.27911,Philadelphia,America/New_York
+19114,40.06743,-75.00361,Philadelphia,America/New_York
+19115,40.09094,-75.04595,Philadelphia,America/New_York
+19116,40.11655,-75.01399,Philadelphia,America/New_York
+19118,40.07233,-75.21247,Philadelphia,America/New_York
+19119,40.05303,-75.19223,Philadelphia,America/New_York
+19120,40.03417,-75.11986,Philadelphia,America/New_York
+19121,39.98231,-75.17995,Philadelphia,America/New_York
+19122,39.97767,-75.14571,Philadelphia,America/New_York
+19123,39.96399,-75.14568,Philadelphia,America/New_York
+19124,40.01728,-75.09387,Philadelphia,America/New_York
+19125,39.97611,-75.12472,Philadelphia,America/New_York
+19126,40.05516,-75.13728,Philadelphia,America/New_York
+19127,40.02854,-75.22746,Philadelphia,America/New_York
+19128,40.05003,-75.23003,Philadelphia,America/New_York
+19129,40.01338,-75.18454,Philadelphia,America/New_York
+19130,39.9676,-75.17495,Philadelphia,America/New_York
+19131,39.98865,-75.21835,Philadelphia,America/New_York
+19132,39.99649,-75.17102,Philadelphia,America/New_York
+19133,39.99238,-75.14149,Philadelphia,America/New_York
+19134,39.98953,-75.10838,Philadelphia,America/New_York
+19135,40.02192,-75.04966,Philadelphia,America/New_York
+19136,40.03973,-75.01932,Philadelphia,America/New_York
+19137,39.99455,-75.074,Philadelphia,America/New_York
+19138,40.05594,-75.15947,Philadelphia,America/New_York
+19139,39.96144,-75.22964,Philadelphia,America/New_York
+19140,40.01224,-75.14512,Philadelphia,America/New_York
+19141,40.03788,-75.14541,Philadelphia,America/New_York
+19142,39.92278,-75.23375,Philadelphia,America/New_York
+19143,39.94315,-75.22664,Philadelphia,America/New_York
+19144,40.03278,-75.17523,Philadelphia,America/New_York
+19145,39.91469,-75.19194,Philadelphia,America/New_York
+19146,39.93917,-75.18398,Philadelphia,America/New_York
+19147,39.93645,-75.15468,Philadelphia,America/New_York
+19148,39.91175,-75.1514,Philadelphia,America/New_York
+19149,40.03781,-75.06544,Philadelphia,America/New_York
+19150,40.07251,-75.17165,Philadelphia,America/New_York
+19151,39.97562,-75.25616,Philadelphia,America/New_York
+19152,40.06158,-75.04663,Philadelphia,America/New_York
+19153,39.88391,-75.2343,Philadelphia,America/New_York
+19154,40.0951,-74.98159,Philadelphia,America/New_York
+19301,40.0414,-75.4809,Paoli,America/New_York
+19310,39.93478,-75.97038,Atglen,America/New_York
+19311,39.82163,-75.76887,Avondale,America/New_York
+19312,40.0309,-75.45083,Berwyn,America/New_York
+19316,40.05597,-75.83804,Brandamore,America/New_York
+19317,39.85722,-75.60244,Chadds Ford,America/New_York
+19319,39.92723,-75.52319,Cheyney,America/New_York
+19320,39.97046,-75.83069,Coatesville,America/New_York
+19330,39.87359,-75.91695,Cochranville,America/New_York
+19333,40.04208,-75.42331,Devon,America/New_York
+19335,40.02271,-75.72045,Downingtown,America/New_York
+19341,40.04213,-75.63814,Exton,America/New_York
+19342,39.90458,-75.50243,Glen Mills,America/New_York
+19343,40.10203,-75.75461,Glenmoore,America/New_York
+19344,40.08279,-75.88338,Honey Brook,America/New_York
+19345,40.02967,-75.56955,Immaculata,America/New_York
+19348,39.86706,-75.71763,Kennett Square,America/New_York
+19350,39.76244,-75.79528,Landenberg,America/New_York
+19352,39.78036,-75.89054,Lincoln University,America/New_York
+19355,40.0466,-75.5302,Malvern,America/New_York
+19358,39.96362,-75.80659,Modena,America/New_York
+19362,39.75175,-76.06576,Nottingham,America/New_York
+19363,39.7864,-75.97279,Oxford,America/New_York
+19365,39.9655,-75.92766,Parkesburg,America/New_York
+19367,39.96285,-75.88395,Pomeroy,America/New_York
+19369,39.98082,-75.89496,Sadsburyville,America/New_York
+19372,39.99941,-75.75972,Thorndale,America/New_York
+19373,39.90674,-75.53255,Thornton,America/New_York
+19374,39.83333,-75.75267,Toughkenamon,America/New_York
+19375,39.8996,-75.73993,Unionville,America/New_York
+19380,39.98594,-75.60358,West Chester,America/New_York
+19382,39.92766,-75.61475,West Chester,America/New_York
+19383,39.94303,-75.60155,West Chester,America/New_York
+19390,39.83683,-75.83962,West Grove,America/New_York
+19401,40.13042,-75.33143,Norristown,America/New_York
+19403,40.14898,-75.38034,Norristown,America/New_York
+19405,40.09949,-75.33497,Bridgeport,America/New_York
+19406,40.09467,-75.38402,King Of Prussia,America/New_York
+19422,40.15835,-75.27858,Blue Bell,America/New_York
+19425,40.10383,-75.64476,Chester Springs,America/New_York
+19426,40.18972,-75.43734,Collegeville,America/New_York
+19428,40.08011,-75.30317,Conshohocken,America/New_York
+19435,40.32788,-75.56518,Frederick,America/New_York
+19436,40.20253,-75.24842,Gwynedd,America/New_York
+19437,40.18706,-75.25274,Gwynedd Valley,America/New_York
+19438,40.27018,-75.39554,Harleysville,America/New_York
+19440,40.285,-75.29102,Hatfield,America/New_York
+19442,40.13233,-75.57863,Kimberton,America/New_York
+19444,40.08686,-75.25427,Lafayette Hill,America/New_York
+19446,40.23068,-75.30369,Lansdale,America/New_York
+19453,40.13886,-75.50141,Mont Clare,America/New_York
+19454,40.22303,-75.24365,North Wales,America/New_York
+19456,40.1367,-75.45962,Oaks,America/New_York
+19457,40.20512,-75.58758,Parker Ford,America/New_York
+19460,40.12674,-75.5294,Phoenixville,America/New_York
+19462,40.11542,-75.28453,Plymouth Meeting,America/New_York
+19464,40.25882,-75.616,Pottstown,America/New_York
+19465,40.19981,-75.6727,Pottstown,America/New_York
+19468,40.20776,-75.53137,Royersford,America/New_York
+19472,40.34036,-75.58189,Sassamansville,America/New_York
+19473,40.25842,-75.47363,Schwenksville,America/New_York
+19474,40.22427,-75.40507,Skippack,America/New_York
+19475,40.17028,-75.60042,Spring City,America/New_York
+19477,40.18447,-75.23583,Spring House,America/New_York
+19490,40.19673,-75.35401,Worcester,America/New_York
+19492,40.28817,-75.50623,Zieglerville,America/New_York
+19501,40.24314,-76.05822,Adamstown,America/New_York
+19503,40.40808,-75.5755,Bally,America/New_York
+19504,40.40699,-75.58965,Barto,America/New_York
+19505,40.3795,-75.62331,Bechtelsville,America/New_York
+19506,40.45873,-76.12379,Bernville,America/New_York
+19507,40.49268,-76.28235,Bethel,America/New_York
+19508,40.25913,-75.83984,Birdsboro,America/New_York
+19510,40.44551,-75.88179,Blandon,America/New_York
+19511,40.48473,-75.74381,Bowers,America/New_York
+19512,40.35,-75.67937,Boyertown,America/New_York
+19516,40.48686,-76.00526,Centerport,America/New_York
+19518,40.27187,-75.74981,Douglassville,America/New_York
+19520,40.15968,-75.79959,Elverson,America/New_York
+19522,40.44948,-75.81676,Fleetwood,America/New_York
+19523,40.20116,-75.84974,Geigertown,America/New_York
+19525,40.30784,-75.58591,Gilbertsville,America/New_York
+19526,40.5465,-75.99802,Hamburg,America/New_York
+19529,40.63387,-75.86158,Kempton,America/New_York
+19530,40.54012,-75.77675,Kutztown,America/New_York
+19533,40.42245,-75.99021,Leesport,America/New_York
+19534,40.57813,-75.88111,Lenhartsville,America/New_York
+19535,40.3394,-75.79537,Limekiln,America/New_York
+19536,40.48069,-75.75891,Lyon Station,America/New_York
+19538,40.54655,-75.70023,Maxatawny,America/New_York
+19539,40.49071,-75.68823,Mertztown,America/New_York
+19540,40.23714,-75.9658,Mohnton,America/New_York
+19541,40.47821,-76.02597,Mohrsville,America/New_York
+19543,40.1697,-75.89635,Morgantown,America/New_York
+19544,40.41669,-76.29619,Mount Aetna,America/New_York
+19545,40.3411,-75.62977,New Berlinville,America/New_York
+19547,40.38315,-75.76644,Oley,America/New_York
+19549,40.58176,-76.02672,Port Clinton,America/New_York
+19550,40.45593,-76.25055,Rehrersburg,America/New_York
+19551,40.35951,-76.14213,Robesonia,America/New_York
+19554,40.51288,-76.10377,Shartlesville,America/New_York
+19555,40.49335,-75.94993,Shoemakersville,America/New_York
+19559,40.49234,-76.18661,Strausstown,America/New_York
+19560,40.40053,-75.88993,Temple,America/New_York
+19562,40.50316,-75.70135,Topton,America/New_York
+19564,40.51926,-75.87403,Virginville,America/New_York
+19565,40.34231,-76.08873,Wernersville,America/New_York
+19567,40.3957,-76.20989,Womelsdorf,America/New_York
+19601,40.3526,-75.9408,Reading,America/New_York
+19602,40.32695,-75.91701,Reading,America/New_York
+19604,40.35791,-75.90954,Reading,America/New_York
+19605,40.39917,-75.94596,Reading,America/New_York
+19606,40.3357,-75.85755,Reading,America/New_York
+19607,40.29147,-75.94521,Reading,America/New_York
+19608,40.31401,-76.03574,Reading,America/New_York
+19609,40.32774,-75.99622,Reading,America/New_York
+19610,40.34015,-75.97612,Reading,America/New_York
+19611,40.32473,-75.9411,Reading,America/New_York
+19701,39.58427,-75.69914,Bear,America/New_York
+19702,39.62199,-75.72803,Newark,America/New_York
+19703,39.8043,-75.45794,Claymont,America/New_York
+19706,39.5715,-75.5905,Delaware City,America/New_York
+19707,39.78512,-75.68147,Hockessin,America/New_York
+19709,39.48923,-75.68314,Middletown,America/New_York
+19710,39.78964,-75.58458,Montchanin,America/New_York
+19711,39.71379,-75.74033,Newark,America/New_York
+19713,39.67097,-75.70972,Newark,America/New_York
+19716,39.66779,-75.74595,Newark,America/New_York
+19717,39.68121,-75.75343,Newark,America/New_York
+19720,39.645,-75.60678,New Castle,America/New_York
+19730,39.45443,-75.66077,Odessa,America/New_York
+19731,39.5102,-75.59616,Port Penn,America/New_York
+19732,39.80033,-75.57455,Rockland,America/New_York
+19733,39.55928,-75.65143,Saint Georges,America/New_York
+19734,39.38377,-75.65026,Townsend,America/New_York
+19735,39.80666,-75.5973,Winterthur,America/New_York
+19736,39.78031,-75.64274,Yorklyn,America/New_York
+19801,39.72782,-75.54615,Wilmington,America/New_York
+19802,39.75715,-75.52873,Wilmington,America/New_York
+19803,39.79912,-75.5422,Wilmington,America/New_York
+19804,39.7166,-75.62094,Wilmington,America/New_York
+19805,39.74523,-75.59373,Wilmington,America/New_York
+19806,39.762,-75.56336,Wilmington,America/New_York
+19807,39.79767,-75.61284,Wilmington,America/New_York
+19808,39.73777,-75.66596,Wilmington,America/New_York
+19809,39.75801,-75.50218,Wilmington,America/New_York
+19810,39.81855,-75.50628,Wilmington,America/New_York
+19901,39.17335,-75.47758,Dover,America/New_York
+19902,39.12765,-75.46694,Dover Afb,America/New_York
+19904,39.17289,-75.59517,Dover,America/New_York
+19930,38.56311,-75.07085,Bethany Beach,America/New_York
+19931,38.56928,-75.61029,Bethel,America/New_York
+19933,38.73699,-75.60586,Bridgeville,America/New_York
+19934,39.08135,-75.63113,Camden Wyoming,America/New_York
+19936,39.21846,-75.58498,Cheswold,America/New_York
+19938,39.25646,-75.69884,Clayton,America/New_York
+19939,38.56575,-75.2022,Dagsboro,America/New_York
+19940,38.47723,-75.56828,Delmar,America/New_York
+19941,38.7949,-75.42476,Ellendale,America/New_York
+19943,39.00562,-75.60756,Felton,America/New_York
+19944,38.47542,-75.05559,Fenwick Island,America/New_York
+19945,38.50336,-75.22855,Frankford,America/New_York
+19946,39.03224,-75.45297,Frederica,America/New_York
+19947,38.67421,-75.39864,Georgetown,America/New_York
+19950,38.82007,-75.59691,Greenwood,America/New_York
+19951,38.68763,-75.25124,Harbeson,America/New_York
+19952,38.91654,-75.62531,Harrington,America/New_York
+19953,39.15145,-75.69695,Hartly,America/New_York
+19954,38.89891,-75.52092,Houston,America/New_York
+19955,39.22652,-75.6654,Kenton,America/New_York
+19956,38.5465,-75.53961,Laurel,America/New_York
+19958,38.72737,-75.16632,Lewes,America/New_York
+19960,38.85082,-75.41363,Lincoln,America/New_York
+19962,39.07005,-75.49753,Magnolia,America/New_York
+19963,38.93347,-75.37799,Milford,America/New_York
+19964,39.09436,-75.72439,Marydel,America/New_York
+19966,38.58118,-75.28274,Millsboro,America/New_York
+19967,38.53978,-75.1209,Millville,America/New_York
+19968,38.77553,-75.28466,Milton,America/New_York
+19970,38.55504,-75.09901,Ocean View,America/New_York
+19971,38.69113,-75.10132,Rehoboth Beach,America/New_York
+19973,38.63404,-75.62454,Seaford,America/New_York
+19975,38.46862,-75.17462,Selbyville,America/New_York
+19977,39.29653,-75.55132,Smyrna,America/New_York
+19979,39.05041,-75.57642,Viola,America/New_York
+19980,39.07349,-75.57008,Woodside,America/New_York

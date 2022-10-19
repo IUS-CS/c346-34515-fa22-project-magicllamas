@@ -1,0 +1,3188 @@
+zip,lat,lng,city,timezone
+90001,33.97365,-118.24904,Los Angeles,America/Los_Angeles
+90002,33.94906,-118.24679,Los Angeles,America/Los_Angeles
+90003,33.96409,-118.27368,Los Angeles,America/Los_Angeles
+90004,34.07624,-118.31101,Los Angeles,America/Los_Angeles
+90005,34.05939,-118.30909,Los Angeles,America/Los_Angeles
+90006,34.04807,-118.29411,Los Angeles,America/Los_Angeles
+90007,34.02819,-118.28486,Los Angeles,America/Los_Angeles
+90008,34.01037,-118.3428,Los Angeles,America/Los_Angeles
+90010,34.06209,-118.31262,Los Angeles,America/Los_Angeles
+90011,34.00689,-118.25861,Los Angeles,America/Los_Angeles
+90012,34.06679,-118.23878,Los Angeles,America/Los_Angeles
+90013,34.04435,-118.24,Los Angeles,America/Los_Angeles
+90014,34.04302,-118.25182,Los Angeles,America/Los_Angeles
+90015,34.03932,-118.26625,Los Angeles,America/Los_Angeles
+90016,34.02881,-118.35436,Los Angeles,America/Los_Angeles
+90017,34.05306,-118.26447,Los Angeles,America/Los_Angeles
+90018,34.0286,-118.31737,Los Angeles,America/Los_Angeles
+90019,34.04861,-118.33874,Los Angeles,America/Los_Angeles
+90020,34.06638,-118.30986,Los Angeles,America/Los_Angeles
+90021,34.02909,-118.23889,Los Angeles,America/Los_Angeles
+90022,34.02455,-118.15608,Los Angeles,America/Los_Angeles
+90023,34.02264,-118.19986,Los Angeles,America/Los_Angeles
+90024,34.06565,-118.43521,Los Angeles,America/Los_Angeles
+90025,34.04551,-118.44583,Los Angeles,America/Los_Angeles
+90026,34.07883,-118.2637,Los Angeles,America/Los_Angeles
+90027,34.12515,-118.29049,Los Angeles,America/Los_Angeles
+90028,34.09982,-118.3268,Los Angeles,America/Los_Angeles
+90029,34.08983,-118.29467,Los Angeles,America/Los_Angeles
+90031,34.08122,-118.21081,Los Angeles,America/Los_Angeles
+90032,34.0793,-118.17835,Los Angeles,America/Los_Angeles
+90033,34.05117,-118.21165,Los Angeles,America/Los_Angeles
+90034,34.03059,-118.39936,Los Angeles,America/Los_Angeles
+90035,34.05139,-118.38577,Los Angeles,America/Los_Angeles
+90036,34.07013,-118.34978,Los Angeles,America/Los_Angeles
+90037,34.00271,-118.28747,Los Angeles,America/Los_Angeles
+90038,34.08882,-118.32671,Los Angeles,America/Los_Angeles
+90039,34.11242,-118.26153,Los Angeles,America/Los_Angeles
+90040,33.99318,-118.1489,Los Angeles,America/Los_Angeles
+90041,34.13749,-118.20746,Los Angeles,America/Los_Angeles
+90042,34.11475,-118.192,Los Angeles,America/Los_Angeles
+90043,33.98876,-118.33519,Los Angeles,America/Los_Angeles
+90044,33.95253,-118.29194,Los Angeles,America/Los_Angeles
+90045,33.95302,-118.40028,Los Angeles,America/Los_Angeles
+90046,34.10752,-118.36575,Los Angeles,America/Los_Angeles
+90047,33.95456,-118.30899,Los Angeles,America/Los_Angeles
+90048,34.07293,-118.3727,Los Angeles,America/Los_Angeles
+90049,34.08749,-118.48976,Los Angeles,America/Los_Angeles
+90052,33.9783,-118.25891,Los Angeles,America/Los_Angeles
+90056,33.99361,-118.36884,Los Angeles,America/Los_Angeles
+90057,34.06205,-118.27704,Los Angeles,America/Los_Angeles
+90058,34.00264,-118.21452,Los Angeles,America/Los_Angeles
+90059,33.92709,-118.2491,Los Angeles,America/Los_Angeles
+90061,33.92037,-118.27383,Los Angeles,America/Los_Angeles
+90062,34.0035,-118.30904,Los Angeles,America/Los_Angeles
+90063,34.0452,-118.18583,Los Angeles,America/Los_Angeles
+90064,34.0358,-118.42653,Los Angeles,America/Los_Angeles
+90065,34.10867,-118.22813,Los Angeles,America/Los_Angeles
+90066,34.00166,-118.43104,Los Angeles,America/Los_Angeles
+90067,34.0565,-118.41373,Los Angeles,America/Los_Angeles
+90068,34.12794,-118.32914,Los Angeles,America/Los_Angeles
+90069,34.09401,-118.38154,West Hollywood,America/Los_Angeles
+90071,34.05239,-118.25518,Los Angeles,America/Los_Angeles
+90073,34.05738,-118.45956,Los Angeles,America/Los_Angeles
+90077,34.10536,-118.45591,Los Angeles,America/Los_Angeles
+90079,34.04058,-118.25541,Los Angeles,America/Los_Angeles
+90089,34.02158,-118.2856,Los Angeles,America/Los_Angeles
+90094,33.97523,-118.41837,Playa Vista,America/Los_Angeles
+90095,34.07121,-118.44334,Los Angeles,America/Los_Angeles
+90201,33.97113,-118.1709,Bell Gardens,America/Los_Angeles
+90210,34.10251,-118.41505,Beverly Hills,America/Los_Angeles
+90211,34.06498,-118.38293,Beverly Hills,America/Los_Angeles
+90212,34.06208,-118.40173,Beverly Hills,America/Los_Angeles
+90220,33.88058,-118.23591,Compton,America/Los_Angeles
+90221,33.88542,-118.20614,Compton,America/Los_Angeles
+90222,33.91213,-118.23721,Compton,America/Los_Angeles
+90230,33.99691,-118.39487,Culver City,America/Los_Angeles
+90232,34.01859,-118.39157,Culver City,America/Los_Angeles
+90240,33.9564,-118.11803,Downey,America/Los_Angeles
+90241,33.94076,-118.1295,Downey,America/Los_Angeles
+90242,33.92216,-118.14167,Downey,America/Los_Angeles
+90245,33.91709,-118.40161,El Segundo,America/Los_Angeles
+90247,33.89159,-118.29735,Gardena,America/Los_Angeles
+90248,33.87689,-118.28362,Gardena,America/Los_Angeles
+90249,33.90152,-118.31707,Gardena,America/Los_Angeles
+90250,33.91383,-118.34996,Hawthorne,America/Los_Angeles
+90254,33.86532,-118.39616,Hermosa Beach,America/Los_Angeles
+90255,33.97697,-118.21725,Huntington Park,America/Los_Angeles
+90260,33.88768,-118.34952,Lawndale,America/Los_Angeles
+90262,33.92384,-118.20133,Lynwood,America/Los_Angeles
+90263,34.03919,-118.70809,Malibu,America/Los_Angeles
+90265,34.07282,-118.84995,Malibu,America/Los_Angeles
+90266,33.88968,-118.39705,Manhattan Beach,America/Los_Angeles
+90270,33.98856,-118.18774,Maywood,America/Los_Angeles
+90272,34.08066,-118.54459,Pacific Palisades,America/Los_Angeles
+90274,33.77732,-118.3684,Palos Verdes Peninsula,America/Los_Angeles
+90275,33.7555,-118.36338,Rancho Palos Verdes,America/Los_Angeles
+90277,33.83099,-118.38441,Redondo Beach,America/Los_Angeles
+90278,33.87362,-118.37028,Redondo Beach,America/Los_Angeles
+90280,33.94453,-118.19256,South Gate,America/Los_Angeles
+90290,34.09725,-118.6125,Topanga,America/Los_Angeles
+90291,33.99447,-118.46315,Venice,America/Los_Angeles
+90292,33.97865,-118.44707,Marina Del Rey,America/Los_Angeles
+90293,33.95071,-118.43745,Playa Del Rey,America/Los_Angeles
+90301,33.95647,-118.35863,Inglewood,America/Los_Angeles
+90302,33.97472,-118.35565,Inglewood,America/Los_Angeles
+90303,33.93601,-118.33112,Inglewood,America/Los_Angeles
+90304,33.93736,-118.35879,Inglewood,America/Los_Angeles
+90305,33.9583,-118.33113,Inglewood,America/Los_Angeles
+90401,34.01584,-118.49251,Santa Monica,America/Los_Angeles
+90402,34.03598,-118.50391,Santa Monica,America/Los_Angeles
+90403,34.03164,-118.48975,Santa Monica,America/Los_Angeles
+90404,34.02665,-118.47381,Santa Monica,America/Los_Angeles
+90405,34.01208,-118.4679,Santa Monica,America/Los_Angeles
+90501,33.8336,-118.31419,Torrance,America/Los_Angeles
+90502,33.83497,-118.29291,Torrance,America/Los_Angeles
+90503,33.84089,-118.3538,Torrance,America/Los_Angeles
+90504,33.86693,-118.33135,Torrance,America/Los_Angeles
+90505,33.80904,-118.34775,Torrance,America/Los_Angeles
+90506,33.88493,-118.33044,Torrance,America/Los_Angeles
+90601,34.0078,-118.03287,Whittier,America/Los_Angeles
+90602,33.97317,-118.02341,Whittier,America/Los_Angeles
+90603,33.94487,-117.99239,Whittier,America/Los_Angeles
+90604,33.93012,-118.01226,Whittier,America/Los_Angeles
+90605,33.95209,-118.02085,Whittier,America/Los_Angeles
+90606,33.97742,-118.0661,Whittier,America/Los_Angeles
+90620,33.84616,-118.01176,Buena Park,America/Los_Angeles
+90621,33.87396,-117.99346,Buena Park,America/Los_Angeles
+90623,33.85038,-118.04088,La Palma,America/Los_Angeles
+90630,33.81814,-118.03814,Cypress,America/Los_Angeles
+90631,33.94266,-117.95126,La Habra,America/Los_Angeles
+90638,33.90236,-118.00907,La Mirada,America/Los_Angeles
+90639,33.90565,-118.01499,La Mirada,America/Los_Angeles
+90640,34.01506,-118.111,Montebello,America/Los_Angeles
+90650,33.90703,-118.08249,Norwalk,America/Los_Angeles
+90660,33.98868,-118.09111,Pico Rivera,America/Los_Angeles
+90670,33.93279,-118.0626,Santa Fe Springs,America/Los_Angeles
+90680,33.80115,-117.99532,Stanton,America/Los_Angeles
+90701,33.8676,-118.08055,Artesia,America/Los_Angeles
+90703,33.86797,-118.06874,Cerritos,America/Los_Angeles
+90704,33.3765,-118.43678,Avalon,America/Los_Angeles
+90706,33.88802,-118.12709,Bellflower,America/Los_Angeles
+90710,33.79806,-118.29918,Harbor City,America/Los_Angeles
+90712,33.849,-118.14677,Lakewood,America/Los_Angeles
+90713,33.84797,-118.11268,Lakewood,America/Los_Angeles
+90715,33.84037,-118.07887,Lakewood,America/Los_Angeles
+90716,33.8305,-118.07295,Hawaiian Gardens,America/Los_Angeles
+90717,33.79345,-118.31706,Lomita,America/Los_Angeles
+90720,33.79573,-118.06342,Los Alamitos,America/Los_Angeles
+90723,33.89768,-118.16508,Paramount,America/Los_Angeles
+90731,33.7334,-118.27398,San Pedro,America/Los_Angeles
+90732,33.74319,-118.31048,San Pedro,America/Los_Angeles
+90740,33.75461,-118.07129,Seal Beach,America/Los_Angeles
+90742,33.71834,-118.07174,Sunset Beach,America/Los_Angeles
+90743,33.72963,-118.08594,Surfside,America/Los_Angeles
+90744,33.77821,-118.26087,Wilmington,America/Los_Angeles
+90745,33.82117,-118.26458,Carson,America/Los_Angeles
+90746,33.85855,-118.25518,Carson,America/Los_Angeles
+90747,33.86372,-118.25142,Carson,America/Los_Angeles
+90755,33.80274,-118.16747,Signal Hill,America/Los_Angeles
+90802,33.75035,-118.21143,Long Beach,America/Los_Angeles
+90803,33.76162,-118.12178,Long Beach,America/Los_Angeles
+90804,33.78223,-118.14917,Long Beach,America/Los_Angeles
+90805,33.86494,-118.18051,Long Beach,America/Los_Angeles
+90806,33.80819,-118.17797,Long Beach,America/Los_Angeles
+90807,33.83098,-118.18113,Long Beach,America/Los_Angeles
+90808,33.82406,-118.11236,Long Beach,America/Los_Angeles
+90810,33.81912,-118.22096,Long Beach,America/Los_Angeles
+90813,33.78237,-118.19656,Long Beach,America/Los_Angeles
+90814,33.7716,-118.14351,Long Beach,America/Los_Angeles
+90815,33.79572,-118.11592,Long Beach,America/Los_Angeles
+90822,33.77825,-118.11871,Long Beach,America/Los_Angeles
+90831,33.76824,-118.20055,Long Beach,America/Los_Angeles
+90840,33.78449,-118.12133,Long Beach,America/Los_Angeles
+91001,34.19522,-118.13866,Altadena,America/Los_Angeles
+91006,34.1352,-118.02667,Arcadia,America/Los_Angeles
+91007,34.12842,-118.04818,Arcadia,America/Los_Angeles
+91008,34.15363,-117.96862,Duarte,America/Los_Angeles
+91010,34.14114,-117.95918,Duarte,America/Los_Angeles
+91011,34.21757,-118.20346,La Canada Flintridge,America/Los_Angeles
+91016,34.15246,-118.00065,Monrovia,America/Los_Angeles
+91020,34.21144,-118.23065,Montrose,America/Los_Angeles
+91024,34.17177,-118.04654,Sierra Madre,America/Los_Angeles
+91030,34.11029,-118.15748,South Pasadena,America/Los_Angeles
+91040,34.25861,-118.33468,Sunland,America/Los_Angeles
+91042,34.30687,-118.25701,Tujunga,America/Los_Angeles
+91046,34.2117,-118.24092,Verdugo City,America/Los_Angeles
+91101,34.14671,-118.13895,Pasadena,America/Los_Angeles
+91103,34.16738,-118.16446,Pasadena,America/Los_Angeles
+91104,34.16766,-118.12341,Pasadena,America/Los_Angeles
+91105,34.14045,-118.16716,Pasadena,America/Los_Angeles
+91106,34.13861,-118.12825,Pasadena,America/Los_Angeles
+91107,34.15919,-118.08688,Pasadena,America/Los_Angeles
+91108,34.12232,-118.11363,San Marino,America/Los_Angeles
+91125,34.13772,-118.12492,Pasadena,America/Los_Angeles
+91201,34.17041,-118.28902,Glendale,America/Los_Angeles
+91202,34.18221,-118.26761,Glendale,America/Los_Angeles
+91203,34.15287,-118.26355,Glendale,America/Los_Angeles
+91204,34.13554,-118.26093,Glendale,America/Los_Angeles
+91205,34.13679,-118.24339,Glendale,America/Los_Angeles
+91206,34.16076,-118.21311,Glendale,America/Los_Angeles
+91207,34.16872,-118.24477,Glendale,America/Los_Angeles
+91208,34.19333,-118.23839,Glendale,America/Los_Angeles
+91210,34.14468,-118.25809,Glendale,America/Los_Angeles
+91214,34.23759,-118.24778,La Crescenta,America/Los_Angeles
+91301,34.12314,-118.75685,Agoura Hills,America/Los_Angeles
+91302,34.12295,-118.67193,Calabasas,America/Los_Angeles
+91303,34.19784,-118.6017,Canoga Park,America/Los_Angeles
+91304,34.22472,-118.63261,Canoga Park,America/Los_Angeles
+91306,34.20926,-118.5755,Winnetka,America/Los_Angeles
+91307,34.20177,-118.66226,West Hills,America/Los_Angeles
+91311,34.29011,-118.60776,Chatsworth,America/Los_Angeles
+91316,34.15836,-118.51658,Encino,America/Los_Angeles
+91320,34.17339,-118.94795,Newbury Park,America/Los_Angeles
+91321,34.36479,-118.4922,Newhall,America/Los_Angeles
+91324,34.23855,-118.55015,Northridge,America/Los_Angeles
+91325,34.23636,-118.51777,Northridge,America/Los_Angeles
+91326,34.28022,-118.5566,Porter Ranch,America/Los_Angeles
+91330,34.2446,-118.52669,Northridge,America/Los_Angeles
+91331,34.25602,-118.41939,Pacoima,America/Los_Angeles
+91335,34.20107,-118.5407,Reseda,America/Los_Angeles
+91340,34.28668,-118.43479,San Fernando,America/Los_Angeles
+91342,34.31778,-118.39207,Sylmar,America/Los_Angeles
+91343,34.23837,-118.48076,North Hills,America/Los_Angeles
+91344,34.28991,-118.5047,Granada Hills,America/Los_Angeles
+91345,34.26591,-118.45948,Mission Hills,America/Los_Angeles
+91350,34.43028,-118.50283,Santa Clarita,America/Los_Angeles
+91351,34.43269,-118.46276,Canyon Country,America/Los_Angeles
+91352,34.23183,-118.36596,Sun Valley,America/Los_Angeles
+91354,34.46039,-118.5528,Valencia,America/Los_Angeles
+91355,34.42379,-118.58437,Valencia,America/Los_Angeles
+91356,34.15504,-118.54757,Tarzana,America/Los_Angeles
+91360,34.21475,-118.87735,Thousand Oaks,America/Los_Angeles
+91361,34.14016,-118.88398,Westlake Village,America/Los_Angeles
+91362,34.19244,-118.81949,Thousand Oaks,America/Los_Angeles
+91364,34.1548,-118.59492,Woodland Hills,America/Los_Angeles
+91367,34.17708,-118.61518,Woodland Hills,America/Los_Angeles
+91371,34.18505,-118.57605,Woodland Hills,America/Los_Angeles
+91377,34.1847,-118.76652,Oak Park,America/Los_Angeles
+91381,34.3753,-118.60744,Stevenson Ranch,America/Los_Angeles
+91384,34.51604,-118.67289,Castaic,America/Los_Angeles
+91387,34.39708,-118.3707,Canyon Country,America/Los_Angeles
+91390,34.53159,-118.40668,Santa Clarita,America/Los_Angeles
+91401,34.17801,-118.43183,Van Nuys,America/Los_Angeles
+91402,34.22413,-118.4448,Panorama City,America/Los_Angeles
+91403,34.14716,-118.46311,Sherman Oaks,America/Los_Angeles
+91405,34.20153,-118.44863,Van Nuys,America/Los_Angeles
+91406,34.19791,-118.48987,Van Nuys,America/Los_Angeles
+91411,34.17853,-118.45956,Van Nuys,America/Los_Angeles
+91423,34.14924,-118.43239,Sherman Oaks,America/Los_Angeles
+91436,34.15219,-118.49053,Encino,America/Los_Angeles
+91501,34.19469,-118.29431,Burbank,America/Los_Angeles
+91502,34.17684,-118.30936,Burbank,America/Los_Angeles
+91504,34.21349,-118.31478,Burbank,America/Los_Angeles
+91505,34.17583,-118.34692,Burbank,America/Los_Angeles
+91506,34.17134,-118.32384,Burbank,America/Los_Angeles
+91601,34.16827,-118.37222,North Hollywood,America/Los_Angeles
+91602,34.15078,-118.36633,North Hollywood,America/Los_Angeles
+91604,34.13985,-118.39435,Studio City,America/Los_Angeles
+91605,34.20699,-118.40067,North Hollywood,America/Los_Angeles
+91606,34.18655,-118.38867,North Hollywood,America/Los_Angeles
+91607,34.16633,-118.39982,Valley Village,America/Los_Angeles
+91608,34.13839,-118.35272,Universal City,America/Los_Angeles
+91701,34.13784,-117.60028,Rancho Cucamonga,America/Los_Angeles
+91702,34.24129,-117.82614,Azusa,America/Los_Angeles
+91706,34.09627,-117.96855,Baldwin Park,America/Los_Angeles
+91708,33.95141,-117.64506,Chino,America/Los_Angeles
+91709,33.95105,-117.72549,Chino Hills,America/Los_Angeles
+91710,34.00507,-117.68249,Chino,America/Los_Angeles
+91711,34.12836,-117.71523,Claremont,America/Los_Angeles
+91722,34.09731,-117.90612,Covina,America/Los_Angeles
+91723,34.08495,-117.88652,Covina,America/Los_Angeles
+91724,34.0805,-117.85515,Covina,America/Los_Angeles
+91730,34.10023,-117.5811,Rancho Cucamonga,America/Los_Angeles
+91731,34.07914,-118.04047,El Monte,America/Los_Angeles
+91732,34.07239,-118.01455,El Monte,America/Los_Angeles
+91733,34.0454,-118.05314,South El Monte,America/Los_Angeles
+91737,34.15523,-117.57808,Rancho Cucamonga,America/Los_Angeles
+91739,34.1622,-117.51558,Rancho Cucamonga,America/Los_Angeles
+91740,34.11884,-117.8534,Glendora,America/Los_Angeles
+91741,34.1647,-117.83197,Glendora,America/Los_Angeles
+91744,34.02914,-117.93735,La Puente,America/Los_Angeles
+91745,33.99926,-117.97225,Hacienda Heights,America/Los_Angeles
+91746,34.04397,-117.98785,La Puente,America/Los_Angeles
+91748,33.9769,-117.89924,Rowland Heights,America/Los_Angeles
+91750,34.14927,-117.76647,La Verne,America/Los_Angeles
+91752,33.99575,-117.53399,Mira Loma,America/Los_Angeles
+91754,34.051,-118.14451,Monterey Park,America/Los_Angeles
+91755,34.04832,-118.11496,Monterey Park,America/Los_Angeles
+91759,34.2541,-117.69194,Mt Baldy,America/Los_Angeles
+91761,34.03541,-117.5915,Ontario,America/Los_Angeles
+91762,34.02764,-117.64308,Ontario,America/Los_Angeles
+91763,34.07208,-117.69828,Montclair,America/Los_Angeles
+91764,34.07533,-117.60164,Ontario,America/Los_Angeles
+91765,33.98725,-117.81473,Diamond Bar,America/Los_Angeles
+91766,34.04192,-117.75698,Pomona,America/Los_Angeles
+91767,34.08143,-117.73868,Pomona,America/Los_Angeles
+91768,34.06358,-117.78941,Pomona,America/Los_Angeles
+91770,34.06395,-118.08361,Rosemead,America/Los_Angeles
+91773,34.1072,-117.80928,San Dimas,America/Los_Angeles
+91775,34.11454,-118.08946,San Gabriel,America/Los_Angeles
+91776,34.08987,-118.09519,San Gabriel,America/Los_Angeles
+91780,34.10152,-118.05584,Temple City,America/Los_Angeles
+91784,34.14103,-117.65831,Upland,America/Los_Angeles
+91786,34.10525,-117.66206,Upland,America/Los_Angeles
+91789,34.01858,-117.85408,Walnut,America/Los_Angeles
+91790,34.06722,-117.93788,West Covina,America/Los_Angeles
+91791,34.06134,-117.89425,West Covina,America/Los_Angeles
+91792,34.02586,-117.89989,West Covina,America/Los_Angeles
+91801,34.09093,-118.12776,Alhambra,America/Los_Angeles
+91803,34.0749,-118.14624,Alhambra,America/Los_Angeles
+91901,32.81467,-116.71929,Alpine,America/Los_Angeles
+91902,32.67479,-117.00475,Bonita,America/Los_Angeles
+91905,32.67773,-116.30734,Boulevard,America/Los_Angeles
+91906,32.66241,-116.47255,Campo,America/Los_Angeles
+91910,32.63653,-117.06301,Chula Vista,America/Los_Angeles
+91911,32.60686,-117.04984,Chula Vista,America/Los_Angeles
+91913,32.62174,-116.98609,Chula Vista,America/Los_Angeles
+91914,32.66604,-116.95426,Chula Vista,America/Los_Angeles
+91915,32.62266,-116.95013,Chula Vista,America/Los_Angeles
+91916,32.91103,-116.63201,Descanso,America/Los_Angeles
+91917,32.6267,-116.71894,Dulzura,America/Los_Angeles
+91931,32.83758,-116.58029,Guatay,America/Los_Angeles
+91932,32.56923,-117.11798,Imperial Beach,America/Los_Angeles
+91934,32.66488,-116.16828,Jacumba,America/Los_Angeles
+91935,32.70214,-116.78721,Jamul,America/Los_Angeles
+91941,32.75964,-116.99253,La Mesa,America/Los_Angeles
+91942,32.77728,-117.02129,La Mesa,America/Los_Angeles
+91945,32.73315,-117.03402,Lemon Grove,America/Los_Angeles
+91948,32.87509,-116.47076,Mount Laguna,America/Los_Angeles
+91950,32.66952,-117.09313,National City,America/Los_Angeles
+91962,32.79248,-116.48044,Pine Valley,America/Los_Angeles
+91963,32.64798,-116.5964,Potrero,America/Los_Angeles
+91977,32.72387,-116.99631,Spring Valley,America/Los_Angeles
+91978,32.71209,-116.94103,Spring Valley,America/Los_Angeles
+91980,32.58685,-116.61969,Tecate,America/Los_Angeles
+92003,33.28701,-117.19977,Bonsall,America/Los_Angeles
+92004,33.18481,-116.15688,Borrego Springs,America/Los_Angeles
+92007,33.02216,-117.27389,Cardiff By The Sea,America/Los_Angeles
+92008,33.14564,-117.31691,Carlsbad,America/Los_Angeles
+92009,33.09535,-117.24574,Carlsbad,America/Los_Angeles
+92010,33.15676,-117.28423,Carlsbad,America/Los_Angeles
+92011,33.10698,-117.29507,Carlsbad,America/Los_Angeles
+92014,32.96797,-117.24879,Del Mar,America/Los_Angeles
+92019,32.77886,-116.87142,El Cajon,America/Los_Angeles
+92020,32.79557,-116.9697,El Cajon,America/Los_Angeles
+92021,32.83514,-116.87462,El Cajon,America/Los_Angeles
+92024,33.05716,-117.25651,Encinitas,America/Los_Angeles
+92025,33.08492,-117.02967,Escondido,America/Los_Angeles
+92026,33.2111,-117.11157,Escondido,America/Los_Angeles
+92027,33.13263,-116.98335,Escondido,America/Los_Angeles
+92028,33.38613,-117.22658,Fallbrook,America/Los_Angeles
+92029,33.08555,-117.12885,Escondido,America/Los_Angeles
+92036,33.01137,-116.37672,Julian,America/Los_Angeles
+92037,32.85257,-117.25104,La Jolla,America/Los_Angeles
+92040,32.90665,-116.88875,Lakeside,America/Los_Angeles
+92054,33.19377,-117.35508,Oceanside,America/Los_Angeles
+92055,33.38123,-117.42874,Camp Pendleton,America/Los_Angeles
+92056,33.20197,-117.28939,Oceanside,America/Los_Angeles
+92057,33.25326,-117.28704,Oceanside,America/Los_Angeles
+92058,33.28379,-117.34182,Oceanside,America/Los_Angeles
+92059,33.38277,-117.05193,Pala,America/Los_Angeles
+92060,33.35043,-116.86451,Palomar Mountain,America/Los_Angeles
+92061,33.30036,-116.93048,Pauma Valley,America/Los_Angeles
+92064,32.98038,-117.01746,Poway,America/Los_Angeles
+92065,33.04736,-116.84386,Ramona,America/Los_Angeles
+92066,33.21541,-116.53583,Ranchita,America/Los_Angeles
+92067,33.02087,-117.19209,Rancho Santa Fe,America/Los_Angeles
+92069,33.17536,-117.15761,San Marcos,America/Los_Angeles
+92070,33.18513,-116.74071,Santa Ysabel,America/Los_Angeles
+92071,32.85045,-116.99479,Santee,America/Los_Angeles
+92075,32.99735,-117.25875,Solana Beach,America/Los_Angeles
+92078,33.11834,-117.18554,San Marcos,America/Los_Angeles
+92081,33.16451,-117.24056,Vista,America/Los_Angeles
+92082,33.2518,-117.00284,Valley Center,America/Los_Angeles
+92083,33.19808,-117.24844,Vista,America/Los_Angeles
+92084,33.22454,-117.20334,Vista,America/Los_Angeles
+92086,33.29718,-116.64176,Warner Springs,America/Los_Angeles
+92091,33.03432,-117.19704,Rancho Santa Fe,America/Los_Angeles
+92092,32.87544,-117.23621,La Jolla,America/Los_Angeles
+92093,32.88219,-117.23706,La Jolla,America/Los_Angeles
+92096,33.12819,-117.15631,San Marcos,America/Los_Angeles
+92101,32.7162,-117.18589,San Diego,America/Los_Angeles
+92102,32.71595,-117.11749,San Diego,America/Los_Angeles
+92103,32.74782,-117.16738,San Diego,America/Los_Angeles
+92104,32.74191,-117.12781,San Diego,America/Los_Angeles
+92105,32.73756,-117.09193,San Diego,America/Los_Angeles
+92106,32.71334,-117.23617,San Diego,America/Los_Angeles
+92107,32.7402,-117.24357,San Diego,America/Los_Angeles
+92108,32.77423,-117.14097,San Diego,America/Los_Angeles
+92109,32.78699,-117.23273,San Diego,America/Los_Angeles
+92110,32.76533,-117.19965,San Diego,America/Los_Angeles
+92111,32.8065,-117.16897,San Diego,America/Los_Angeles
+92113,32.69591,-117.12012,San Diego,America/Los_Angeles
+92114,32.70778,-117.05529,San Diego,America/Los_Angeles
+92115,32.76154,-117.07187,San Diego,America/Los_Angeles
+92116,32.76484,-117.12303,San Diego,America/Los_Angeles
+92117,32.82493,-117.19972,San Diego,America/Los_Angeles
+92118,32.67466,-117.16915,Coronado,America/Los_Angeles
+92119,32.80896,-117.03232,San Diego,America/Los_Angeles
+92120,32.79526,-117.07317,San Diego,America/Los_Angeles
+92121,32.8973,-117.20231,San Diego,America/Los_Angeles
+92122,32.85681,-117.21017,San Diego,America/Los_Angeles
+92123,32.80958,-117.13419,San Diego,America/Los_Angeles
+92124,32.82823,-117.08528,San Diego,America/Los_Angeles
+92126,32.912,-117.14344,San Diego,America/Los_Angeles
+92127,33.01913,-117.12339,San Diego,America/Los_Angeles
+92128,32.99687,-117.07308,San Diego,America/Los_Angeles
+92129,32.96354,-117.12622,San Diego,America/Los_Angeles
+92130,32.94763,-117.20586,San Diego,America/Los_Angeles
+92131,32.89604,-117.05737,San Diego,America/Los_Angeles
+92132,32.71368,-117.17201,San Diego,America/Los_Angeles
+92134,32.72512,-117.14541,San Diego,America/Los_Angeles
+92135,32.69487,-117.19461,San Diego,America/Los_Angeles
+92136,32.68254,-117.12307,San Diego,America/Los_Angeles
+92139,32.68006,-117.04889,San Diego,America/Los_Angeles
+92140,32.74041,-117.1984,San Diego,America/Los_Angeles
+92145,32.86292,-117.14579,San Diego,America/Los_Angeles
+92147,32.72478,-117.21895,San Diego,America/Los_Angeles
+92154,32.578,-116.96621,San Diego,America/Los_Angeles
+92155,32.67148,-117.16714,San Diego,America/Los_Angeles
+92161,32.8742,-117.23159,San Diego,America/Los_Angeles
+92173,32.55552,-117.05114,San Ysidro,America/Los_Angeles
+92179,32.58409,-116.93349,San Diego,America/Los_Angeles
+92182,32.77498,-117.07424,San Diego,America/Los_Angeles
+92201,33.70804,-116.23502,Indio,America/Los_Angeles
+92203,33.75159,-116.24139,Indio,America/Los_Angeles
+92210,33.70357,-116.33953,Indian Wells,America/Los_Angeles
+92211,33.76593,-116.33241,Palm Desert,America/Los_Angeles
+92220,33.93992,-116.83935,Banning,America/Los_Angeles
+92222,32.78346,-114.54965,Bard,America/Phoenix
+92223,33.9382,-116.98137,Beaumont,America/Los_Angeles
+92225,33.71642,-114.65606,Blythe,America/Los_Angeles
+92227,32.98677,-115.3341,Brawley,America/Los_Angeles
+92230,33.9088,-116.76879,Cabazon,America/Los_Angeles
+92231,32.68751,-115.56433,Calexico,America/Los_Angeles
+92233,33.14736,-115.50686,Calipatria,America/Los_Angeles
+92234,33.81386,-116.46663,Cathedral City,America/Los_Angeles
+92236,33.70276,-116.07254,Coachella,America/Los_Angeles
+92239,33.87424,-115.24396,Desert Center,America/Los_Angeles
+92240,33.95291,-116.5194,Desert Hot Springs,America/Los_Angeles
+92241,33.84634,-116.28342,Desert Hot Springs,America/Los_Angeles
+92242,34.19019,-114.30755,Earp,America/Los_Angeles
+92243,32.77285,-115.60065,El Centro,America/Los_Angeles
+92249,32.72606,-115.48218,Heber,America/Los_Angeles
+92250,32.79188,-115.23454,Holtville,America/Los_Angeles
+92251,32.87129,-115.71804,Imperial,America/Los_Angeles
+92252,34.14801,-116.28422,Joshua Tree,America/Los_Angeles
+92253,33.65562,-116.28785,La Quinta,America/Los_Angeles
+92254,33.54371,-115.99995,Mecca,America/Los_Angeles
+92256,34.07207,-116.61761,Morongo Valley,America/Los_Angeles
+92257,33.33976,-115.52814,Niland,America/Los_Angeles
+92258,33.91791,-116.56002,North Palm Springs,America/Los_Angeles
+92259,32.73478,-115.94632,Ocotillo,America/Los_Angeles
+92260,33.69841,-116.40519,Palm Desert,America/Los_Angeles
+92262,33.86287,-116.55736,Palm Springs,America/Los_Angeles
+92264,33.73575,-116.50544,Palm Springs,America/Los_Angeles
+92266,33.17507,-114.92594,Palo Verde,America/Los_Angeles
+92267,34.29765,-114.20138,Parker Dam,America/Los_Angeles
+92268,34.16146,-116.55002,Pioneertown,America/Los_Angeles
+92270,33.76399,-116.42705,Rancho Mirage,America/Los_Angeles
+92273,32.80798,-115.69592,Seeley,America/Los_Angeles
+92274,33.47031,-116.11387,Thermal,America/Los_Angeles
+92275,33.20783,-115.88084,Salton City,America/Los_Angeles
+92276,33.83234,-116.38648,Thousand Palms,America/Los_Angeles
+92277,34.11248,-115.68752,Twentynine Palms,America/Los_Angeles
+92278,34.23505,-116.05825,Twentynine Palms,America/Los_Angeles
+92280,34.13963,-114.84652,Vidal,America/Los_Angeles
+92281,33.05033,-115.61264,Westmorland,America/Los_Angeles
+92282,33.96253,-116.65829,Whitewater,America/Los_Angeles
+92283,32.83741,-114.79462,Winterhaven,America/Los_Angeles
+92284,34.16013,-116.42474,Yucca Valley,America/Los_Angeles
+92285,34.33762,-116.51364,Landers,America/Los_Angeles
+92301,34.65183,-117.52617,Adelanto,America/Los_Angeles
+92304,34.53062,-115.65933,Amboy,America/Los_Angeles
+92305,34.17018,-116.83231,Angelus Oaks,America/Los_Angeles
+92307,34.59078,-117.14127,Apple Valley,America/Los_Angeles
+92308,34.42005,-117.15558,Apple Valley,America/Los_Angeles
+92309,35.24942,-116.15578,Baker,America/Los_Angeles
+92310,35.33443,-116.76306,Fort Irwin,America/Los_Angeles
+92311,34.97204,-117.0101,Barstow,America/Los_Angeles
+92313,34.03142,-117.31373,Grand Terrace,America/Los_Angeles
+92314,34.2576,-116.80075,Big Bear City,America/Los_Angeles
+92315,34.22011,-116.95301,Big Bear Lake,America/Los_Angeles
+92316,34.0576,-117.39076,Bloomington,America/Los_Angeles
+92317,34.24507,-117.20874,Blue Jay,America/Los_Angeles
+92320,33.9874,-117.05024,Calimesa,America/Los_Angeles
+92321,34.24748,-117.14694,Cedar Glen,America/Los_Angeles
+92322,34.25419,-117.32259,Cedarpines Park,America/Los_Angeles
+92324,34.03398,-117.29008,Colton,America/Los_Angeles
+92325,34.24554,-117.27506,Crestline,America/Los_Angeles
+92327,34.86632,-116.84347,Daggett,America/Los_Angeles
+92328,36.39482,-117.02718,Death Valley,America/Los_Angeles
+92332,34.90728,-115.36409,Essex,America/Los_Angeles
+92333,34.26951,-116.96277,Fawnskin,America/Los_Angeles
+92335,34.08733,-117.46519,Fontana,America/Los_Angeles
+92336,34.13686,-117.46033,Fontana,America/Los_Angeles
+92337,34.04967,-117.47145,Fontana,America/Los_Angeles
+92338,34.78773,-116.25117,Ludlow,America/Los_Angeles
+92339,34.08189,-116.83838,Forest Falls,America/Los_Angeles
+92341,34.24009,-117.06798,Green Valley Lake,America/Los_Angeles
+92342,34.76078,-117.33795,Helendale,America/Los_Angeles
+92344,34.39176,-117.40657,Hesperia,America/Los_Angeles
+92345,34.36415,-117.30984,Hesperia,America/Los_Angeles
+92346,34.12629,-117.1792,Highland,America/Los_Angeles
+92347,34.95003,-117.25802,Hinkley,America/Los_Angeles
+92350,34.05296,-117.2617,Loma Linda,America/Los_Angeles
+92352,34.26824,-117.18486,Lake Arrowhead,America/Los_Angeles
+92354,34.04933,-117.25119,Loma Linda,America/Los_Angeles
+92356,34.49633,-116.89265,Lucerne Valley,America/Los_Angeles
+92358,34.24624,-117.56762,Lytle Creek,America/Los_Angeles
+92359,34.08296,-117.07026,Mentone,America/Los_Angeles
+92363,34.70863,-114.57562,Needles,America/Los_Angeles
+92364,35.35678,-115.43741,Nipton,America/Los_Angeles
+92365,34.88843,-116.54129,Newberry Springs,America/Los_Angeles
+92368,34.65508,-117.30893,Oro Grande,America/Los_Angeles
+92369,34.13941,-117.21966,Patton,America/Los_Angeles
+92371,34.43837,-117.54266,Phelan,America/Los_Angeles
+92372,34.45097,-117.62859,Pinon Hills,America/Los_Angeles
+92373,34.00648,-117.15351,Redlands,America/Los_Angeles
+92374,34.06738,-117.17482,Redlands,America/Los_Angeles
+92376,34.11053,-117.37997,Rialto,America/Los_Angeles
+92377,34.15234,-117.40412,Rialto,America/Los_Angeles
+92378,34.23206,-117.22483,Rimforest,America/Los_Angeles
+92382,34.20604,-117.11276,Running Springs,America/Los_Angeles
+92384,35.98255,-116.1505,Shoshone,America/Los_Angeles
+92385,34.21345,-117.23057,Skyforest,America/Los_Angeles
+92386,34.23702,-116.82523,Sugarloaf,America/Los_Angeles
+92389,35.82902,-116.24813,Tecopa,America/Los_Angeles
+92391,34.23958,-117.23665,Twin Peaks,America/Los_Angeles
+92392,34.479,-117.40884,Victorville,America/Los_Angeles
+92394,34.563,-117.3542,Victorville,America/Los_Angeles
+92395,34.50032,-117.29479,Victorville,America/Los_Angeles
+92397,34.36212,-117.69136,Wrightwood,America/Los_Angeles
+92398,34.97178,-116.83808,Yermo,America/Los_Angeles
+92399,34.04469,-117.004,Yucaipa,America/Los_Angeles
+92401,34.10586,-117.29188,San Bernardino,America/Los_Angeles
+92404,34.17862,-117.23891,San Bernardino,America/Los_Angeles
+92405,34.14578,-117.30225,San Bernardino,America/Los_Angeles
+92407,34.22394,-117.38839,San Bernardino,America/Los_Angeles
+92408,34.0845,-117.2653,San Bernardino,America/Los_Angeles
+92410,34.10655,-117.29574,San Bernardino,America/Los_Angeles
+92411,34.12214,-117.32291,San Bernardino,America/Los_Angeles
+92415,34.10506,-117.28685,San Bernardino,America/Los_Angeles
+92501,33.99496,-117.37367,Riverside,America/Los_Angeles
+92503,33.88308,-117.45222,Riverside,America/Los_Angeles
+92504,33.90607,-117.39854,Riverside,America/Los_Angeles
+92505,33.92663,-117.4928,Riverside,America/Los_Angeles
+92506,33.93478,-117.36689,Riverside,America/Los_Angeles
+92507,33.97464,-117.32234,Riverside,America/Los_Angeles
+92508,33.89039,-117.3282,Riverside,America/Los_Angeles
+92509,34.00293,-117.44547,Jurupa Valley,America/Los_Angeles
+92518,33.89602,-117.27705,March Air Reserve Base,America/Los_Angeles
+92521,33.96794,-117.32731,Riverside,America/Los_Angeles
+92530,33.63386,-117.37949,Lake Elsinore,America/Los_Angeles
+92532,33.69052,-117.30241,Lake Elsinore,America/Los_Angeles
+92536,33.48791,-116.81528,Aguanga,America/Los_Angeles
+92539,33.51579,-116.64432,Anza,America/Los_Angeles
+92543,33.69867,-116.97916,Hemet,America/Los_Angeles
+92544,33.64581,-116.86033,Hemet,America/Los_Angeles
+92545,33.7311,-117.0359,Hemet,America/Los_Angeles
+92548,33.76392,-117.10907,Homeland,America/Los_Angeles
+92549,33.80886,-116.71212,Idyllwild,America/Los_Angeles
+92551,33.88148,-117.22521,Moreno Valley,America/Los_Angeles
+92553,33.92335,-117.24532,Moreno Valley,America/Los_Angeles
+92555,33.9133,-117.10867,Moreno Valley,America/Los_Angeles
+92557,33.96855,-117.25704,Moreno Valley,America/Los_Angeles
+92561,33.63704,-116.57441,Mountain Center,America/Los_Angeles
+92562,33.53579,-117.35098,Murrieta,America/Los_Angeles
+92563,33.58435,-117.14458,Murrieta,America/Los_Angeles
+92567,33.82378,-117.10305,Nuevo,America/Los_Angeles
+92570,33.78377,-117.31737,Perris,America/Los_Angeles
+92571,33.84182,-117.19522,Perris,America/Los_Angeles
+92582,33.80489,-117.01873,San Jacinto,America/Los_Angeles
+92583,33.79662,-116.93188,San Jacinto,America/Los_Angeles
+92584,33.66167,-117.18079,Menifee,America/Los_Angeles
+92585,33.74217,-117.16723,Menifee,America/Los_Angeles
+92586,33.70773,-117.20045,Menifee,America/Los_Angeles
+92587,33.69466,-117.25196,Menifee,America/Los_Angeles
+92590,33.48391,-117.22075,Temecula,America/Los_Angeles
+92591,33.53432,-117.1092,Temecula,America/Los_Angeles
+92592,33.511,-117.0242,Temecula,America/Los_Angeles
+92595,33.61638,-117.26028,Wildomar,America/Los_Angeles
+92596,33.64739,-117.07641,Winchester,America/Los_Angeles
+92602,33.72645,-117.7287,Irvine,America/Los_Angeles
+92603,33.62927,-117.79408,Irvine,America/Los_Angeles
+92604,33.6879,-117.7889,Irvine,America/Los_Angeles
+92606,33.69849,-117.8123,Irvine,America/Los_Angeles
+92610,33.68336,-117.65404,Foothill Ranch,America/Los_Angeles
+92612,33.65984,-117.82457,Irvine,America/Los_Angeles
+92614,33.68173,-117.83316,Irvine,America/Los_Angeles
+92617,33.64197,-117.84103,Irvine,America/Los_Angeles
+92618,33.66729,-117.73362,Irvine,America/Los_Angeles
+92620,33.70661,-117.75695,Irvine,America/Los_Angeles
+92624,33.46082,-117.66656,Capistrano Beach,America/Los_Angeles
+92625,33.60229,-117.86551,Corona Del Mar,America/Los_Angeles
+92626,33.67896,-117.90844,Costa Mesa,America/Los_Angeles
+92627,33.64786,-117.9205,Costa Mesa,America/Los_Angeles
+92629,33.47678,-117.70459,Dana Point,America/Los_Angeles
+92630,33.64709,-117.68428,Lake Forest,America/Los_Angeles
+92637,33.60796,-117.72799,Laguna Woods,America/Los_Angeles
+92646,33.66525,-117.96755,Huntington Beach,America/Los_Angeles
+92647,33.72395,-118.00685,Huntington Beach,America/Los_Angeles
+92648,33.68212,-118.0101,Huntington Beach,America/Los_Angeles
+92649,33.72037,-118.04423,Huntington Beach,America/Los_Angeles
+92651,33.56535,-117.77399,Laguna Beach,America/Los_Angeles
+92653,33.59276,-117.69994,Laguna Hills,America/Los_Angeles
+92655,33.74606,-117.98765,Midway City,America/Los_Angeles
+92656,33.57518,-117.73036,Aliso Viejo,America/Los_Angeles
+92657,33.59571,-117.83069,Newport Coast,America/Los_Angeles
+92660,33.63375,-117.87504,Newport Beach,America/Los_Angeles
+92661,33.60231,-117.89872,Newport Beach,America/Los_Angeles
+92662,33.60547,-117.89218,Newport Beach,America/Los_Angeles
+92663,33.62328,-117.93022,Newport Beach,America/Los_Angeles
+92672,33.3825,-117.5403,San Clemente,America/Los_Angeles
+92673,33.46611,-117.61204,San Clemente,America/Los_Angeles
+92675,33.49977,-117.65366,San Juan Capistrano,America/Los_Angeles
+92676,33.75306,-117.63534,Silverado,America/Los_Angeles
+92677,33.52777,-117.70523,Laguna Niguel,America/Los_Angeles
+92678,33.64627,-117.50662,Trabuco Canyon,America/Los_Angeles
+92679,33.65274,-117.56048,Trabuco Canyon,America/Los_Angeles
+92683,33.75242,-117.99383,Westminster,America/Los_Angeles
+92688,33.61737,-117.61131,Rancho Santa Margarita,America/Los_Angeles
+92691,33.61051,-117.66627,Mission Viejo,America/Los_Angeles
+92692,33.60948,-117.64396,Mission Viejo,America/Los_Angeles
+92694,33.51502,-117.58065,Ladera Ranch,America/Los_Angeles
+92697,33.65061,-117.85091,Irvine,America/Los_Angeles
+92701,33.7486,-117.85877,Santa Ana,America/Los_Angeles
+92703,33.74853,-117.90621,Santa Ana,America/Los_Angeles
+92704,33.72038,-117.90807,Santa Ana,America/Los_Angeles
+92705,33.755,-117.81488,Santa Ana,America/Los_Angeles
+92706,33.76602,-117.88174,Santa Ana,America/Los_Angeles
+92707,33.70991,-117.87045,Santa Ana,America/Los_Angeles
+92708,33.71046,-117.95132,Fountain Valley,America/Los_Angeles
+92780,33.73685,-117.81968,Tustin,America/Los_Angeles
+92782,33.72833,-117.79753,Tustin,America/Los_Angeles
+92801,33.84441,-117.95175,Anaheim,America/Los_Angeles
+92802,33.80831,-117.9237,Anaheim,America/Los_Angeles
+92804,33.81801,-117.97517,Anaheim,America/Los_Angeles
+92805,33.83003,-117.90568,Anaheim,America/Los_Angeles
+92806,33.83884,-117.87054,Anaheim,America/Los_Angeles
+92807,33.85001,-117.78946,Anaheim,America/Los_Angeles
+92808,33.85623,-117.74018,Anaheim,America/Los_Angeles
+92821,33.92997,-117.86986,Brea,America/Los_Angeles
+92823,33.92536,-117.80024,Brea,America/Los_Angeles
+92831,33.8795,-117.89607,Fullerton,America/Los_Angeles
+92832,33.86871,-117.92914,Fullerton,America/Los_Angeles
+92833,33.88051,-117.96112,Fullerton,America/Los_Angeles
+92835,33.90171,-117.91529,Fullerton,America/Los_Angeles
+92840,33.78584,-117.93202,Garden Grove,America/Los_Angeles
+92841,33.7868,-117.98207,Garden Grove,America/Los_Angeles
+92843,33.76399,-117.93153,Garden Grove,America/Los_Angeles
+92844,33.76561,-117.96952,Garden Grove,America/Los_Angeles
+92845,33.78292,-118.0264,Garden Grove,America/Los_Angeles
+92860,33.9262,-117.54913,Norco,America/Los_Angeles
+92861,33.81801,-117.81031,Villa Park,America/Los_Angeles
+92865,33.82887,-117.84925,Orange,America/Los_Angeles
+92866,33.78453,-117.84479,Orange,America/Los_Angeles
+92867,33.81443,-117.79617,Orange,America/Los_Angeles
+92868,33.78799,-117.87637,Orange,America/Los_Angeles
+92869,33.79479,-117.7621,Orange,America/Los_Angeles
+92870,33.88087,-117.85522,Placentia,America/Los_Angeles
+92879,33.87979,-117.5357,Corona,America/Los_Angeles
+92880,33.92096,-117.61052,Corona,America/Los_Angeles
+92881,33.82163,-117.56763,Corona,America/Los_Angeles
+92882,33.86367,-117.59989,Corona,America/Los_Angeles
+92883,33.75994,-117.47827,Corona,America/Los_Angeles
+92886,33.89517,-117.80154,Yorba Linda,America/Los_Angeles
+92887,33.88727,-117.73389,Yorba Linda,America/Los_Angeles
+93001,34.35321,-119.31868,Ventura,America/Los_Angeles
+93003,34.28434,-119.22256,Ventura,America/Los_Angeles
+93004,34.27901,-119.16537,Ventura,America/Los_Angeles
+93010,34.23007,-119.07437,Camarillo,America/Los_Angeles
+93012,34.20518,-118.99309,Camarillo,America/Los_Angeles
+93013,34.42697,-119.48032,Carpinteria,America/Los_Angeles
+93015,34.40969,-118.87807,Fillmore,America/Los_Angeles
+93021,34.30417,-118.88274,Moorpark,America/Los_Angeles
+93022,34.40324,-119.29836,Oak View,America/Los_Angeles
+93023,34.50372,-119.24856,Ojai,America/Los_Angeles
+93030,34.2051,-119.1753,Oxnard,America/Los_Angeles
+93033,34.15401,-119.12296,Oxnard,America/Los_Angeles
+93035,34.19034,-119.22879,Oxnard,America/Los_Angeles
+93036,34.24911,-119.15977,Oxnard,America/Los_Angeles
+93040,34.59337,-118.93657,Piru,America/Los_Angeles
+93041,34.14956,-119.17458,Port Hueneme,America/Los_Angeles
+93042,33.4077,-119.43365,Point Mugu Nawc,America/Los_Angeles
+93043,34.17001,-119.2026,Port Hueneme Cbc Base,America/Los_Angeles
+93060,34.36543,-119.09563,Santa Paula,America/Los_Angeles
+93063,34.30922,-118.69041,Simi Valley,America/Los_Angeles
+93064,34.24527,-118.69984,Brandeis,America/Los_Angeles
+93065,34.26206,-118.77151,Simi Valley,America/Los_Angeles
+93066,34.28851,-119.02848,Somis,America/Los_Angeles
+93067,34.42162,-119.59277,Summerland,America/Los_Angeles
+93101,34.41925,-119.70808,Santa Barbara,America/Los_Angeles
+93103,34.43888,-119.68173,Santa Barbara,America/Los_Angeles
+93105,34.52702,-119.76082,Santa Barbara,America/Los_Angeles
+93106,34.41719,-119.85111,Santa Barbara,America/Los_Angeles
+93108,34.44934,-119.60397,Santa Barbara,America/Los_Angeles
+93109,34.40662,-119.72682,Santa Barbara,America/Los_Angeles
+93110,34.43913,-119.7666,Santa Barbara,America/Los_Angeles
+93111,34.44932,-119.80223,Santa Barbara,America/Los_Angeles
+93117,34.49102,-120.08201,Goleta,America/Los_Angeles
+93201,35.8555,-119.48338,Alpaugh,America/Los_Angeles
+93202,36.3187,-119.7076,Armona,America/Los_Angeles
+93203,35.12158,-118.8468,Arvin,America/Los_Angeles
+93204,35.90819,-120.06776,Avenal,America/Los_Angeles
+93205,35.5387,-118.45463,Bodfish,America/Los_Angeles
+93206,35.44402,-119.47578,Buttonwillow,America/Los_Angeles
+93207,35.88721,-118.63153,California Hot Springs,America/Los_Angeles
+93208,36.1298,-118.63982,Camp Nelson,America/Los_Angeles
+93210,36.19519,-120.43245,Coalinga,America/Los_Angeles
+93212,36.01649,-119.56937,Corcoran,America/Los_Angeles
+93215,35.7764,-119.18835,Delano,America/Los_Angeles
+93218,35.86194,-119.03822,Ducor,America/Los_Angeles
+93219,35.87908,-119.28818,Earlimart,America/Los_Angeles
+93220,35.3705,-118.78369,Edison,America/Los_Angeles
+93221,36.29637,-119.02992,Exeter,America/Los_Angeles
+93222,34.89835,-119.25983,Pine Mountain Club,America/Los_Angeles
+93223,36.30117,-119.20789,Farmersville,America/Los_Angeles
+93224,35.21687,-119.58087,Fellows,America/Los_Angeles
+93225,34.78532,-119.04196,Frazier Park,America/Los_Angeles
+93226,35.7476,-118.73462,Glennville,America/Los_Angeles
+93227,36.34441,-119.41856,Goshen,America/Los_Angeles
+93230,36.28967,-119.62514,Hanford,America/Los_Angeles
+93234,36.19608,-120.08477,Huron,America/Los_Angeles
+93235,36.38507,-119.22314,Ivanhoe,America/Los_Angeles
+93237,36.47452,-118.90426,Kaweah,America/Los_Angeles
+93238,35.82799,-118.47137,Kernville,America/Los_Angeles
+93239,36.03293,-119.98645,Kettleman City,America/Los_Angeles
+93240,35.62425,-118.4645,Lake Isabella,America/Los_Angeles
+93241,35.24922,-118.91224,Lamont,America/Los_Angeles
+93242,36.44115,-119.73024,Laton,America/Los_Angeles
+93243,34.84057,-118.81769,Lebec,America/Los_Angeles
+93244,36.3908,-118.99733,Lemon Cove,America/Los_Angeles
+93245,36.28614,-119.83405,Lemoore,America/Los_Angeles
+93246,36.31921,-119.93135,Lemoore,America/Los_Angeles
+93247,36.20234,-119.08277,Lindsay,America/Los_Angeles
+93249,35.67033,-119.85814,Lost Hills,America/Los_Angeles
+93250,35.66456,-119.20278,McFarland,America/Los_Angeles
+93251,35.37059,-119.69735,McKittrick,America/Los_Angeles
+93252,34.80685,-119.34664,Maricopa,America/Los_Angeles
+93254,34.92498,-119.74834,New Cuyama,America/Los_Angeles
+93255,35.68292,-118.0798,Onyx,America/Los_Angeles
+93256,35.96805,-119.31251,Pixley,America/Los_Angeles
+93257,35.98708,-118.89493,Porterville,America/Los_Angeles
+93258,36.05833,-119.15209,Porterville,America/Los_Angeles
+93260,35.81909,-118.66116,Posey,America/Los_Angeles
+93261,35.81147,-119.11673,Richgrove,America/Los_Angeles
+93262,36.50256,-118.68109,Sequoia National Park,America/Los_Angeles
+93263,35.48722,-119.27835,Shafter,America/Los_Angeles
+93265,36.20713,-118.70876,Springville,America/Los_Angeles
+93266,36.17176,-119.85628,Stratford,America/Los_Angeles
+93267,36.14279,-119.0742,Strathmore,America/Los_Angeles
+93268,35.16725,-119.40785,Taft,America/Los_Angeles
+93270,35.94703,-119.05669,Terra Bella,America/Los_Angeles
+93271,36.43661,-118.86903,Three Rivers,America/Los_Angeles
+93272,36.04818,-119.34535,Tipton,America/Los_Angeles
+93274,36.17978,-119.37949,Tulare,America/Los_Angeles
+93276,35.31756,-119.4092,Tupman,America/Los_Angeles
+93277,36.29963,-119.38139,Visalia,America/Los_Angeles
+93280,35.65204,-119.44716,Wasco,America/Los_Angeles
+93283,35.58478,-118.28854,Weldon,America/Los_Angeles
+93285,35.72233,-118.50871,Wofford Heights,America/Los_Angeles
+93286,36.45149,-119.1079,Woodlake,America/Los_Angeles
+93287,35.72387,-118.91958,Woody,America/Los_Angeles
+93291,36.38931,-119.36838,Visalia,America/Los_Angeles
+93292,36.3763,-119.22183,Visalia,America/Los_Angeles
+93301,35.38428,-119.02057,Bakersfield,America/Los_Angeles
+93304,35.33938,-119.02368,Bakersfield,America/Los_Angeles
+93305,35.38989,-118.98515,Bakersfield,America/Los_Angeles
+93306,35.46595,-118.78445,Bakersfield,America/Los_Angeles
+93307,35.2487,-118.93253,Bakersfield,America/Los_Angeles
+93308,35.5498,-118.93389,Bakersfield,America/Los_Angeles
+93309,35.34266,-119.06461,Bakersfield,America/Los_Angeles
+93311,35.15378,-119.16567,Bakersfield,America/Los_Angeles
+93312,35.39186,-119.11954,Bakersfield,America/Los_Angeles
+93313,35.16363,-119.04715,Bakersfield,America/Los_Angeles
+93314,35.385,-119.23741,Bakersfield,America/Los_Angeles
+93401,35.23539,-120.61834,San Luis Obispo,America/Los_Angeles
+93402,35.29082,-120.8392,Los Osos,America/Los_Angeles
+93405,35.29672,-120.72618,San Luis Obispo,America/Los_Angeles
+93407,35.30747,-120.66986,San Luis Obispo,America/Los_Angeles
+93408,35.32117,-120.71889,San Luis Obispo,America/Los_Angeles
+93409,35.32352,-120.69743,San Luis Obispo,America/Los_Angeles
+93410,35.30428,-120.65683,San Luis Obispo,America/Los_Angeles
+93420,35.16682,-120.46617,Arroyo Grande,America/Los_Angeles
+93422,35.4638,-120.69007,Atascadero,America/Los_Angeles
+93424,35.20141,-120.78394,Avila Beach,America/Los_Angeles
+93426,35.84682,-120.97233,Bradley,America/Los_Angeles
+93427,34.62724,-120.22465,Buellton,America/Los_Angeles
+93428,35.58995,-121.02943,Cambria,America/Los_Angeles
+93429,34.86682,-120.53582,Casmalia,America/Los_Angeles
+93430,35.49214,-120.92422,Cayucos,America/Los_Angeles
+93432,35.47686,-120.47228,Creston,America/Los_Angeles
+93433,35.12045,-120.61894,Grover Beach,America/Los_Angeles
+93434,34.94086,-120.6113,Guadalupe,America/Los_Angeles
+93436,34.60888,-120.4002,Lompoc,America/Los_Angeles
+93437,34.76049,-120.51102,Lompoc,America/Los_Angeles
+93440,34.74606,-120.25292,Los Alamos,America/Los_Angeles
+93441,34.73296,-120.09721,Los Olivos,America/Los_Angeles
+93442,35.4,-120.80495,Morro Bay,America/Los_Angeles
+93444,35.03553,-120.50293,Nipomo,America/Los_Angeles
+93445,35.03319,-120.62002,Oceano,America/Los_Angeles
+93446,35.65861,-120.71888,Paso Robles,America/Los_Angeles
+93449,35.15803,-120.6504,Pismo Beach,America/Los_Angeles
+93450,36.05791,-120.82894,San Ardo,America/Los_Angeles
+93451,35.89398,-120.56733,San Miguel,America/Los_Angeles
+93452,35.71078,-121.20396,San Simeon,America/Los_Angeles
+93453,35.31339,-120.1655,Santa Margarita,America/Los_Angeles
+93454,34.94834,-120.23425,Santa Maria,America/Los_Angeles
+93455,34.84195,-120.45522,Santa Maria,America/Los_Angeles
+93458,34.95477,-120.49042,Santa Maria,America/Los_Angeles
+93460,34.66214,-119.90091,Santa Ynez,America/Los_Angeles
+93461,35.63519,-120.26951,Shandon,America/Los_Angeles
+93463,34.60688,-120.13495,Solvang,America/Los_Angeles
+93465,35.54267,-120.73417,Templeton,America/Los_Angeles
+93501,35.0411,-118.22922,Mojave,America/Los_Angeles
+93505,35.15708,-117.90934,California City,America/Los_Angeles
+93510,34.45627,-118.2109,Acton,America/Los_Angeles
+93512,37.87379,-118.53455,Benton,America/Los_Angeles
+93513,37.18401,-118.17129,Big Pine,America/Los_Angeles
+93514,37.4947,-118.38514,Bishop,America/Los_Angeles
+93516,35.0081,-117.64268,Boron,America/Los_Angeles
+93517,38.27091,-119.27372,Bridgeport,America/Los_Angeles
+93518,35.37675,-118.47314,Caliente,America/Los_Angeles
+93519,35.3171,-117.95596,Cantil,America/Los_Angeles
+93522,36.29836,-117.59681,Darwin,America/Los_Angeles
+93523,34.99788,-117.88308,Edwards,America/Los_Angeles
+93524,34.90993,-117.85007,Edwards,America/Los_Angeles
+93526,36.85941,-118.25378,Independence,America/Los_Angeles
+93527,35.80294,-117.98504,Inyokern,America/Los_Angeles
+93528,35.37194,-117.64193,Johannesburg,America/Los_Angeles
+93529,37.7832,-119.1375,June Lake,America/Los_Angeles
+93530,36.48458,-117.87201,Keeler,America/Los_Angeles
+93531,35.22937,-118.60781,Keene,America/Los_Angeles
+93532,34.68571,-118.55914,Lake Hughes,America/Los_Angeles
+93534,34.71759,-118.15079,Lancaster,America/Los_Angeles
+93535,34.69908,-117.89613,Lancaster,America/Los_Angeles
+93536,34.75267,-118.3889,Lancaster,America/Los_Angeles
+93541,37.99678,-119.01847,Lee Vining,America/Los_Angeles
+93543,34.47916,-117.97357,Littlerock,America/Los_Angeles
+93544,34.49063,-117.75505,Llano,America/Los_Angeles
+93545,36.6046,-118.02721,Lone Pine,America/Los_Angeles
+93546,37.60573,-118.85219,Mammoth Lakes,America/Los_Angeles
+93549,36.27728,-117.96016,Olancha,America/Los_Angeles
+93550,34.38305,-118.04926,Palmdale,America/Los_Angeles
+93551,34.59404,-118.22634,Palmdale,America/Los_Angeles
+93552,34.58412,-118.02386,Palmdale,America/Los_Angeles
+93553,34.44515,-117.89611,Pearblossom,America/Los_Angeles
+93554,35.36914,-117.75876,Randsburg,America/Los_Angeles
+93555,35.58596,-117.68446,Ridgecrest,America/Los_Angeles
+93558,35.33945,-117.58517,Red Mountain,America/Los_Angeles
+93560,34.87116,-118.32594,Rosamond,America/Los_Angeles
+93561,35.10904,-118.52016,Tehachapi,America/Los_Angeles
+93562,35.70667,-117.34263,Trona,America/Los_Angeles
+93563,34.38662,-117.83646,Valyermo,America/Los_Angeles
+93581,35.11288,-118.57035,Tehachapi,America/Los_Angeles
+93591,34.59656,-117.80955,Palmdale,America/Los_Angeles
+93601,37.39395,-119.73702,Ahwahnee,America/Los_Angeles
+93602,37.0644,-119.37484,Auberry,America/Los_Angeles
+93603,36.55118,-118.99607,Badger,America/Los_Angeles
+93604,37.3717,-119.52215,Bass Lake,America/Los_Angeles
+93605,37.17622,-119.24953,Big Creek,America/Los_Angeles
+93606,36.79871,-120.01625,Biola,America/Los_Angeles
+93608,36.5055,-120.3418,Cantua Creek,America/Los_Angeles
+93609,36.52616,-119.86388,Caruthers,America/Los_Angeles
+93610,37.09047,-120.29036,Chowchilla,America/Los_Angeles
+93611,36.82552,-119.68115,Clovis,America/Los_Angeles
+93612,36.81548,-119.71076,Clovis,America/Los_Angeles
+93614,37.21282,-119.72659,Coarsegold,America/Los_Angeles
+93615,36.50374,-119.28385,Cutler,America/Los_Angeles
+93616,36.65468,-119.59437,Del Rey,America/Los_Angeles
+93618,36.52213,-119.38661,Dinuba,America/Los_Angeles
+93619,36.91656,-119.57372,Clovis,America/Los_Angeles
+93620,37.0448,-120.6223,Dos Palos,America/Los_Angeles
+93621,36.8067,-119.13602,Dunlap,America/Los_Angeles
+93622,36.79283,-120.62434,Firebaugh,America/Los_Angeles
+93623,37.47478,-119.66071,Fish Camp,America/Los_Angeles
+93624,36.37258,-120.12125,Five Points,America/Los_Angeles
+93625,36.62423,-119.67173,Fowler,America/Los_Angeles
+93626,37.03278,-119.68601,Friant,America/Los_Angeles
+93627,36.51568,-120.10635,Helm,America/Los_Angeles
+93628,36.78149,-118.83839,Hume,America/Los_Angeles
+93630,36.71831,-120.12912,Kerman,America/Los_Angeles
+93631,36.47653,-119.52131,Kingsburg,America/Los_Angeles
+93633,36.72912,-118.95627,Kings Canyon National Pk,America/Los_Angeles
+93634,37.20583,-118.93652,Lakeshore,America/Los_Angeles
+93635,37.016,-120.88294,Los Banos,America/Los_Angeles
+93636,36.98171,-119.87706,Madera,America/Los_Angeles
+93637,36.91099,-120.1922,Madera,America/Los_Angeles
+93638,37.0424,-120.03816,Madera,America/Los_Angeles
+93640,36.67215,-120.43778,Mendota,America/Los_Angeles
+93641,36.70481,-119.02167,Miramonte,America/Los_Angeles
+93643,37.27155,-119.45004,North Fork,America/Los_Angeles
+93644,37.41245,-119.59431,Oakhurst,America/Los_Angeles
+93645,37.1641,-119.61824,O'Neals,America/Los_Angeles
+93646,36.63218,-119.28938,Orange Cove,America/Los_Angeles
+93647,36.58449,-119.17773,Orosi,America/Los_Angeles
+93648,36.6206,-119.52062,Parlier,America/Los_Angeles
+93650,36.84026,-119.80038,Fresno,America/Los_Angeles
+93651,37.00296,-119.521,Prather,America/Los_Angeles
+93652,36.59502,-119.90458,Raisin City,America/Los_Angeles
+93653,37.24769,-119.91882,Raymond,America/Los_Angeles
+93654,36.65747,-119.402,Reedley,America/Los_Angeles
+93656,36.45173,-119.93615,Riverdale,America/Los_Angeles
+93657,36.78853,-119.4378,Sanger,America/Los_Angeles
+93660,36.60932,-120.16514,San Joaquin,America/Los_Angeles
+93662,36.53963,-119.64287,Selma,America/Los_Angeles
+93664,37.05671,-119.17981,Shaver Lake,America/Los_Angeles
+93665,36.96334,-120.65034,South Dos Palos,America/Los_Angeles
+93666,36.54623,-119.33629,Sultana,America/Los_Angeles
+93667,36.96585,-119.31511,Tollhouse,America/Los_Angeles
+93668,36.65663,-120.28997,Tranquillity,America/Los_Angeles
+93669,37.28334,-119.54297,Wishon,America/Los_Angeles
+93670,36.48564,-119.25442,Yettem,America/Los_Angeles
+93673,36.45229,-119.48232,Traver,America/Los_Angeles
+93675,36.73251,-119.19285,Squaw Valley,America/Los_Angeles
+93701,36.74955,-119.78772,Fresno,America/Los_Angeles
+93702,36.73942,-119.75422,Fresno,America/Los_Angeles
+93703,36.76884,-119.76249,Fresno,America/Los_Angeles
+93704,36.80012,-119.80202,Fresno,America/Los_Angeles
+93705,36.78667,-119.82851,Fresno,America/Los_Angeles
+93706,36.65344,-119.90216,Fresno,America/Los_Angeles
+93710,36.82335,-119.76251,Fresno,America/Los_Angeles
+93711,36.83508,-119.83309,Fresno,America/Los_Angeles
+93720,36.8606,-119.76228,Fresno,America/Los_Angeles
+93721,36.73282,-119.78383,Fresno,America/Los_Angeles
+93722,36.80003,-119.87791,Fresno,America/Los_Angeles
+93723,36.78693,-119.95271,Fresno,America/Los_Angeles
+93725,36.62667,-119.73501,Fresno,America/Los_Angeles
+93726,36.79374,-119.76161,Fresno,America/Los_Angeles
+93727,36.75119,-119.69736,Fresno,America/Los_Angeles
+93728,36.75729,-119.81816,Fresno,America/Los_Angeles
+93730,36.90354,-119.75512,Fresno,America/Los_Angeles
+93737,36.75358,-119.6456,Fresno,America/Los_Angeles
+93740,36.81638,-119.74613,Fresno,America/Los_Angeles
+93741,36.76742,-119.79602,Fresno,America/Los_Angeles
+93901,36.64794,-121.63044,Salinas,America/Los_Angeles
+93905,36.6849,-121.60562,Salinas,America/Los_Angeles
+93906,36.72258,-121.63218,Salinas,America/Los_Angeles
+93907,36.76643,-121.66816,Salinas,America/Los_Angeles
+93908,36.62153,-121.60048,Salinas,America/Los_Angeles
+93920,36.03164,-121.52592,Big Sur,America/Los_Angeles
+93921,36.55359,-121.92259,Carmel By The Sea,America/Los_Angeles
+93923,36.40394,-121.79867,Carmel,America/Los_Angeles
+93924,36.39489,-121.63406,Carmel Valley,America/Los_Angeles
+93925,36.60209,-121.42526,Chualar,America/Los_Angeles
+93926,36.52567,-121.3991,Gonzales,America/Los_Angeles
+93927,36.26978,-121.38018,Greenfield,America/Los_Angeles
+93928,36.06484,-121.38102,Jolon,America/Los_Angeles
+93930,36.19924,-121.07282,King City,America/Los_Angeles
+93932,36.00143,-121.05757,Lockwood,America/Los_Angeles
+93933,36.67566,-121.78237,Marina,America/Los_Angeles
+93940,36.45294,-121.8498,Monterey,America/Los_Angeles
+93943,36.59736,-121.87332,Monterey,America/Los_Angeles
+93944,36.60058,-121.91858,Monterey,America/Los_Angeles
+93950,36.61899,-121.92575,Pacific Grove,America/Los_Angeles
+93953,36.58566,-121.94329,Pebble Beach,America/Los_Angeles
+93954,36.16434,-120.92441,San Lucas,America/Los_Angeles
+93955,36.62153,-121.79562,Seaside,America/Los_Angeles
+93960,36.40489,-121.32121,Soledad,America/Los_Angeles
+93962,36.62472,-121.64649,Spreckels,America/Los_Angeles
+94002,37.51366,-122.29853,Belmont,America/Los_Angeles
+94005,37.6882,-122.40873,Brisbane,America/Los_Angeles
+94010,37.57306,-122.37828,Burlingame,America/Los_Angeles
+94014,37.6907,-122.44769,Daly City,America/Los_Angeles
+94015,37.68121,-122.48074,Daly City,America/Los_Angeles
+94018,37.50603,-122.47321,El Granada,America/Los_Angeles
+94019,37.44826,-122.4023,Half Moon Bay,America/Los_Angeles
+94020,37.28473,-122.21969,La Honda,America/Los_Angeles
+94021,37.25028,-122.24958,Loma Mar,America/Los_Angeles
+94022,37.35534,-122.14494,Los Altos,America/Los_Angeles
+94024,37.35037,-122.09863,Los Altos,America/Los_Angeles
+94025,37.45087,-122.1829,Menlo Park,America/Los_Angeles
+94027,37.45399,-122.20313,Atherton,America/Los_Angeles
+94028,37.37492,-122.21136,Portola Valley,America/Los_Angeles
+94030,37.59969,-122.40343,Millbrae,America/Los_Angeles
+94037,37.55327,-122.49584,Montara,America/Los_Angeles
+94038,37.52946,-122.4849,Moss Beach,America/Los_Angeles
+94040,37.38034,-122.08531,Mountain View,America/Los_Angeles
+94041,37.38822,-122.07529,Mountain View,America/Los_Angeles
+94043,37.41188,-122.06892,Mountain View,America/Los_Angeles
+94044,37.60544,-122.47993,Pacifica,America/Los_Angeles
+94060,37.22297,-122.33572,Pescadero,America/Los_Angeles
+94061,37.46136,-122.23731,Redwood City,America/Los_Angeles
+94062,37.42562,-122.29653,Redwood City,America/Los_Angeles
+94063,37.49367,-122.20823,Redwood City,America/Los_Angeles
+94065,37.53504,-122.24683,Redwood City,America/Los_Angeles
+94066,37.62539,-122.43229,San Bruno,America/Los_Angeles
+94070,37.49739,-122.27021,San Carlos,America/Los_Angeles
+94074,37.32817,-122.34164,San Gregorio,America/Los_Angeles
+94080,37.65541,-122.42083,South San Francisco,America/Los_Angeles
+94085,37.38862,-122.01793,Sunnyvale,America/Los_Angeles
+94086,37.37164,-122.02316,Sunnyvale,America/Los_Angeles
+94087,37.35164,-122.03669,Sunnyvale,America/Los_Angeles
+94089,37.41192,-122.01441,Sunnyvale,America/Los_Angeles
+94102,37.77956,-122.41931,San Francisco,America/Los_Angeles
+94103,37.77299,-122.41136,San Francisco,America/Los_Angeles
+94104,37.79144,-122.40211,San Francisco,America/Los_Angeles
+94105,37.79239,-122.39707,San Francisco,America/Los_Angeles
+94107,37.76473,-122.39508,San Francisco,America/Los_Angeles
+94108,37.79189,-122.40854,San Francisco,America/Los_Angeles
+94109,37.79334,-122.42138,San Francisco,America/Los_Angeles
+94110,37.74975,-122.41528,San Francisco,America/Los_Angeles
+94111,37.79847,-122.3998,San Francisco,America/Los_Angeles
+94112,37.7206,-122.44311,San Francisco,America/Los_Angeles
+94114,37.75814,-122.43547,San Francisco,America/Los_Angeles
+94115,37.78608,-122.43742,San Francisco,America/Los_Angeles
+94116,37.74457,-122.48611,San Francisco,America/Los_Angeles
+94117,37.77002,-122.44425,San Francisco,America/Los_Angeles
+94118,37.7801,-122.46185,San Francisco,America/Los_Angeles
+94121,37.77849,-122.49548,San Francisco,America/Los_Angeles
+94122,37.76113,-122.48433,San Francisco,America/Los_Angeles
+94123,37.80112,-122.43645,San Francisco,America/Los_Angeles
+94124,37.73204,-122.3858,San Francisco,America/Los_Angeles
+94127,37.73642,-122.45961,San Francisco,America/Los_Angeles
+94128,37.62197,-122.38388,San Francisco,America/Los_Angeles
+94129,37.79743,-122.46662,San Francisco,America/Los_Angeles
+94130,37.81975,-122.36898,San Francisco,America/Los_Angeles
+94131,37.74569,-122.44243,San Francisco,America/Los_Angeles
+94132,37.72219,-122.48475,San Francisco,America/Los_Angeles
+94133,37.80193,-122.41092,San Francisco,America/Los_Angeles
+94134,37.71887,-122.41124,San Francisco,America/Los_Angeles
+94158,37.77116,-122.39153,San Francisco,America/Los_Angeles
+94188,37.7407,-122.38091,San Francisco,America/Los_Angeles
+94301,37.44424,-122.14992,Palo Alto,America/Los_Angeles
+94303,37.45064,-122.11928,Palo Alto,America/Los_Angeles
+94304,37.39744,-122.16699,Palo Alto,America/Los_Angeles
+94305,37.41623,-122.17069,Stanford,America/Los_Angeles
+94306,37.41627,-122.13088,Palo Alto,America/Los_Angeles
+94401,37.57445,-122.31942,San Mateo,America/Los_Angeles
+94402,37.54035,-122.33388,San Mateo,America/Los_Angeles
+94403,37.53844,-122.30454,San Mateo,America/Los_Angeles
+94404,37.5562,-122.26905,San Mateo,America/Los_Angeles
+94501,37.77525,-122.27493,Alameda,America/Los_Angeles
+94502,37.73686,-122.24114,Alameda,America/Los_Angeles
+94503,38.19454,-122.23042,American Canyon,America/Los_Angeles
+94505,37.86638,-121.5868,Discovery Bay,America/Los_Angeles
+94506,37.80862,-121.90498,Danville,America/Los_Angeles
+94507,37.85429,-122.00664,Alamo,America/Los_Angeles
+94508,38.57909,-122.44451,Angwin,America/Los_Angeles
+94509,37.99214,-121.8142,Antioch,America/Los_Angeles
+94510,38.09756,-122.13189,Benicia,America/Los_Angeles
+94511,38.02883,-121.64039,Bethel Island,America/Los_Angeles
+94512,38.1263,-121.83793,Birds Landing,America/Los_Angeles
+94513,37.92541,-121.68452,Brentwood,America/Los_Angeles
+94514,37.83071,-121.63392,Byron,America/Los_Angeles
+94515,38.62449,-122.62503,Calistoga,America/Los_Angeles
+94516,37.82748,-122.16629,Canyon,America/Los_Angeles
+94517,37.8926,-121.88252,Clayton,America/Los_Angeles
+94518,37.95052,-122.02209,Concord,America/Los_Angeles
+94519,37.98881,-122.01275,Concord,America/Los_Angeles
+94520,37.99344,-122.03532,Concord,America/Los_Angeles
+94521,37.95293,-121.96971,Concord,America/Los_Angeles
+94523,37.95403,-122.07608,Pleasant Hill,America/Los_Angeles
+94525,38.04811,-122.2292,Crockett,America/Los_Angeles
+94526,37.81472,-121.98451,Danville,America/Los_Angeles
+94528,37.84149,-121.95819,Diablo,America/Los_Angeles
+94530,37.92076,-122.30068,El Cerrito,America/Los_Angeles
+94531,37.95665,-121.77777,Antioch,America/Los_Angeles
+94533,38.28132,-122.00693,Fairfield,America/Los_Angeles
+94534,38.24112,-122.12142,Fairfield,America/Los_Angeles
+94535,38.27048,-121.93851,Travis Afb,America/Los_Angeles
+94536,37.57072,-121.98555,Fremont,America/Los_Angeles
+94538,37.50653,-121.96361,Fremont,America/Los_Angeles
+94539,37.51635,-121.9119,Fremont,America/Los_Angeles
+94541,37.67376,-122.08707,Hayward,America/Los_Angeles
+94542,37.6553,-122.02584,Hayward,America/Los_Angeles
+94544,37.63352,-122.05678,Hayward,America/Los_Angeles
+94545,37.62957,-122.12048,Hayward,America/Los_Angeles
+94546,37.73441,-122.09056,Castro Valley,America/Los_Angeles
+94547,38.00637,-122.26117,Hercules,America/Los_Angeles
+94548,37.97481,-121.65265,Knightsen,America/Los_Angeles
+94549,37.90133,-122.11933,Lafayette,America/Los_Angeles
+94550,37.51746,-121.59406,Livermore,America/Los_Angeles
+94551,37.75902,-121.76026,Livermore,America/Los_Angeles
+94552,37.70456,-122.01359,Castro Valley,America/Los_Angeles
+94553,37.97999,-122.15368,Martinez,America/Los_Angeles
+94555,37.55083,-122.08043,Fremont,America/Los_Angeles
+94556,37.83102,-122.10425,Moraga,America/Los_Angeles
+94558,38.50846,-122.26497,Napa,America/Los_Angeles
+94559,38.25238,-122.29382,Napa,America/Los_Angeles
+94560,37.50771,-122.02523,Newark,America/Los_Angeles
+94561,37.99311,-121.69172,Oakley,America/Los_Angeles
+94562,38.43071,-122.40874,Oakville,America/Los_Angeles
+94563,37.88196,-122.19419,Orinda,America/Los_Angeles
+94564,37.98896,-122.27018,Pinole,America/Los_Angeles
+94565,38.00926,-121.92886,Pittsburg,America/Los_Angeles
+94566,37.65032,-121.85881,Pleasanton,America/Los_Angeles
+94567,38.66342,-122.4349,Pope Valley,America/Los_Angeles
+94568,37.71596,-121.90113,Dublin,America/Los_Angeles
+94569,38.04411,-122.19201,Port Costa,America/Los_Angeles
+94571,38.1566,-121.7482,Rio Vista,America/Los_Angeles
+94572,38.02392,-122.23285,Rodeo,America/Los_Angeles
+94573,38.45726,-122.42348,Rutherford,America/Los_Angeles
+94574,38.52742,-122.39261,Saint Helena,America/Los_Angeles
+94575,37.84235,-122.11012,Moraga,America/Los_Angeles
+94576,38.54932,-122.47581,Deer Park,America/Los_Angeles
+94577,37.71595,-122.16615,San Leandro,America/Los_Angeles
+94578,37.70675,-122.1256,San Leandro,America/Los_Angeles
+94579,37.68656,-122.15709,San Leandro,America/Los_Angeles
+94580,37.67803,-122.13334,San Lorenzo,America/Los_Angeles
+94582,37.76357,-121.91469,San Ramon,America/Los_Angeles
+94583,37.77245,-121.99157,San Ramon,America/Los_Angeles
+94585,38.19061,-121.94216,Suisun City,America/Los_Angeles
+94586,37.57327,-121.85472,Sunol,America/Los_Angeles
+94587,37.59142,-122.06993,Union City,America/Los_Angeles
+94588,37.73801,-121.88178,Pleasanton,America/Los_Angeles
+94589,38.14162,-122.24596,Vallejo,America/Los_Angeles
+94590,38.09546,-122.24986,Vallejo,America/Los_Angeles
+94591,38.12702,-122.19635,Vallejo,America/Los_Angeles
+94592,38.12009,-122.3117,Vallejo,America/Los_Angeles
+94595,37.87206,-122.06892,Walnut Creek,America/Los_Angeles
+94596,37.88902,-122.03676,Walnut Creek,America/Los_Angeles
+94597,37.91768,-122.0718,Walnut Creek,America/Los_Angeles
+94598,37.89238,-121.98283,Walnut Creek,America/Los_Angeles
+94599,38.41012,-122.37365,Yountville,America/Los_Angeles
+94601,37.77684,-122.21822,Oakland,America/Los_Angeles
+94602,37.80517,-122.20422,Oakland,America/Los_Angeles
+94603,37.73923,-122.17554,Oakland,America/Los_Angeles
+94605,37.76062,-122.14903,Oakland,America/Los_Angeles
+94606,37.79179,-122.24455,Oakland,America/Los_Angeles
+94607,37.80721,-122.30024,Oakland,America/Los_Angeles
+94608,37.83611,-122.28621,Emeryville,America/Los_Angeles
+94609,37.83476,-122.2642,Oakland,America/Los_Angeles
+94610,37.81229,-122.24048,Oakland,America/Los_Angeles
+94611,37.83191,-122.21592,Oakland,America/Los_Angeles
+94612,37.80789,-122.2662,Oakland,America/Los_Angeles
+94613,37.78075,-122.18308,Oakland,America/Los_Angeles
+94618,37.8442,-122.23868,Oakland,America/Los_Angeles
+94619,37.79262,-122.16001,Oakland,America/Los_Angeles
+94621,37.7379,-122.20794,Oakland,America/Los_Angeles
+94702,37.86619,-122.28634,Berkeley,America/Los_Angeles
+94703,37.86397,-122.27573,Berkeley,America/Los_Angeles
+94704,37.8664,-122.26088,Berkeley,America/Los_Angeles
+94705,37.86523,-122.2384,Berkeley,America/Los_Angeles
+94706,37.88969,-122.29581,Albany,America/Los_Angeles
+94707,37.89843,-122.27917,Berkeley,America/Los_Angeles
+94708,37.90276,-122.26202,Berkeley,America/Los_Angeles
+94709,37.87835,-122.26613,Berkeley,America/Los_Angeles
+94710,37.86705,-122.303,Berkeley,America/Los_Angeles
+94720,37.87185,-122.25226,Berkeley,America/Los_Angeles
+94801,37.95217,-122.38025,Richmond,America/Los_Angeles
+94803,37.95683,-122.28235,El Sobrante,America/Los_Angeles
+94804,37.92074,-122.34204,Richmond,America/Los_Angeles
+94805,37.94215,-122.32364,Richmond,America/Los_Angeles
+94806,37.97811,-122.33618,San Pablo,America/Los_Angeles
+94901,37.98053,-122.50249,San Rafael,America/Los_Angeles
+94903,38.02485,-122.5522,San Rafael,America/Los_Angeles
+94904,37.94841,-122.55288,Greenbrae,America/Los_Angeles
+94920,37.88732,-122.46549,Belvedere Tiburon,America/Los_Angeles
+94922,38.35683,-122.95098,Bodega,America/Los_Angeles
+94923,38.33588,-123.02647,Bodega Bay,America/Los_Angeles
+94924,37.95411,-122.73171,Bolinas,America/Los_Angeles
+94925,37.92386,-122.5132,Corte Madera,America/Los_Angeles
+94928,38.3459,-122.6935,Rohnert Park,America/Los_Angeles
+94929,38.25444,-122.96243,Dillon Beach,America/Los_Angeles
+94930,37.97048,-122.61108,Fairfax,America/Los_Angeles
+94931,38.32229,-122.71497,Cotati,America/Los_Angeles
+94933,38.01753,-122.68814,Forest Knolls,America/Los_Angeles
+94937,38.09466,-122.92719,Inverness,America/Los_Angeles
+94938,38.03024,-122.72953,Lagunitas,America/Los_Angeles
+94939,37.93725,-122.53518,Larkspur,America/Los_Angeles
+94940,38.15754,-122.86376,Marshall,America/Los_Angeles
+94941,37.92562,-122.60083,Mill Valley,America/Los_Angeles
+94945,38.1258,-122.55443,Novato,America/Los_Angeles
+94946,38.07176,-122.68785,Nicasio,America/Los_Angeles
+94947,38.10705,-122.62813,Novato,America/Los_Angeles
+94949,38.06576,-122.53172,Novato,America/Los_Angeles
+94950,38.02122,-122.76187,Olema,America/Los_Angeles
+94951,38.32252,-122.64492,Penngrove,America/Los_Angeles
+94952,38.23007,-122.76338,Petaluma,America/Los_Angeles
+94954,38.24624,-122.56627,Petaluma,America/Los_Angeles
+94956,38.0476,-122.81046,Point Reyes Station,America/Los_Angeles
+94957,37.96343,-122.56174,Ross,America/Los_Angeles
+94960,37.99707,-122.57838,San Anselmo,America/Los_Angeles
+94963,38.00765,-122.66484,San Geronimo,America/Los_Angeles
+94964,37.94235,-122.49244,San Quentin,America/Los_Angeles
+94965,37.85263,-122.52699,Sausalito,America/Los_Angeles
+94970,37.91694,-122.65553,Stinson Beach,America/Los_Angeles
+94971,38.23724,-122.89006,Tomales,America/Los_Angeles
+94972,38.33665,-122.93934,Valley Ford,America/Los_Angeles
+94973,38.01259,-122.63947,Woodacre,America/Los_Angeles
+95002,37.44075,-122.00047,Alviso,America/Los_Angeles
+95003,37.0089,-121.87775,Aptos,America/Los_Angeles
+95004,36.86818,-121.63237,Aromas,America/Los_Angeles
+95005,37.09835,-122.08931,Ben Lomond,America/Los_Angeles
+95006,37.17129,-122.151,Boulder Creek,America/Los_Angeles
+95007,37.11019,-122.11434,Brookdale,America/Los_Angeles
+95008,37.27977,-121.95481,Campbell,America/Los_Angeles
+95010,36.97721,-121.95466,Capitola,America/Los_Angeles
+95012,36.78373,-121.74164,Castroville,America/Los_Angeles
+95013,37.21531,-121.73962,Coyote,America/Los_Angeles
+95014,37.30827,-122.07981,Cupertino,America/Los_Angeles
+95017,37.10529,-122.22913,Davenport,America/Los_Angeles
+95018,37.08027,-122.05824,Felton,America/Los_Angeles
+95019,36.93575,-121.78458,Freedom,America/Los_Angeles
+95020,37.01461,-121.55718,Gilroy,America/Los_Angeles
+95023,36.92113,-121.36117,Hollister,America/Los_Angeles
+95030,37.22168,-121.98326,Los Gatos,America/Los_Angeles
+95032,37.20859,-121.92359,Los Gatos,America/Los_Angeles
+95033,37.15701,-121.97771,Los Gatos,America/Los_Angeles
+95035,37.44319,-121.87632,Milpitas,America/Los_Angeles
+95037,37.13213,-121.67886,Morgan Hill,America/Los_Angeles
+95039,36.81515,-121.7779,Moss Landing,America/Los_Angeles
+95041,37.05052,-122.05828,Mount Hermon,America/Los_Angeles
+95043,36.51652,-120.97677,Paicines,America/Los_Angeles
+95045,36.83281,-121.52576,San Juan Bautista,America/Los_Angeles
+95046,37.09576,-121.59649,San Martin,America/Los_Angeles
+95050,37.3504,-121.95238,Santa Clara,America/Los_Angeles
+95051,37.3483,-121.98444,Santa Clara,America/Los_Angeles
+95053,37.34848,-121.93737,Santa Clara,America/Los_Angeles
+95054,37.39308,-121.96483,Santa Clara,America/Los_Angeles
+95060,37.01352,-122.10176,Santa Cruz,America/Los_Angeles
+95062,36.97279,-121.99008,Santa Cruz,America/Los_Angeles
+95064,36.99158,-122.05886,Santa Cruz,America/Los_Angeles
+95065,37.03229,-121.98444,Santa Cruz,America/Los_Angeles
+95066,37.0672,-122.01453,Scotts Valley,America/Los_Angeles
+95070,37.25624,-122.05151,Saratoga,America/Los_Angeles
+95073,37.04068,-121.93174,Soquel,America/Los_Angeles
+95075,36.80112,-121.19258,Tres Pinos,America/Los_Angeles
+95076,36.94029,-121.75089,Watsonville,America/Los_Angeles
+95110,37.34656,-121.9097,San Jose,America/Los_Angeles
+95111,37.28401,-121.82731,San Jose,America/Los_Angeles
+95112,37.34461,-121.88346,San Jose,America/Los_Angeles
+95113,37.3339,-121.8905,San Jose,America/Los_Angeles
+95116,37.35043,-121.85255,San Jose,America/Los_Angeles
+95117,37.31008,-121.96225,San Jose,America/Los_Angeles
+95118,37.25589,-121.88991,San Jose,America/Los_Angeles
+95119,37.22756,-121.79077,San Jose,America/Los_Angeles
+95120,37.18428,-121.83658,San Jose,America/Los_Angeles
+95121,37.30463,-121.80981,San Jose,America/Los_Angeles
+95122,37.32925,-121.83481,San Jose,America/Los_Angeles
+95123,37.24479,-121.83306,San Jose,America/Los_Angeles
+95124,37.25684,-121.92286,San Jose,America/Los_Angeles
+95125,37.29554,-121.89408,San Jose,America/Los_Angeles
+95126,37.32687,-121.91677,San Jose,America/Los_Angeles
+95127,37.37453,-121.78733,San Jose,America/Los_Angeles
+95128,37.31579,-121.93647,San Jose,America/Los_Angeles
+95129,37.30597,-122.00072,San Jose,America/Los_Angeles
+95130,37.28803,-121.98146,San Jose,America/Los_Angeles
+95131,37.38729,-121.89793,San Jose,America/Los_Angeles
+95132,37.41994,-121.79059,San Jose,America/Los_Angeles
+95133,37.37171,-121.86057,San Jose,America/Los_Angeles
+95134,37.43003,-121.94528,San Jose,America/Los_Angeles
+95135,37.22285,-121.55913,San Jose,America/Los_Angeles
+95136,37.27192,-121.85237,San Jose,America/Los_Angeles
+95138,37.2462,-121.73287,San Jose,America/Los_Angeles
+95139,37.22489,-121.76393,San Jose,America/Los_Angeles
+95140,37.3483,-121.64085,Mount Hamilton,America/Los_Angeles
+95148,37.33252,-121.78142,San Jose,America/Los_Angeles
+95202,37.95968,-121.28772,Stockton,America/Los_Angeles
+95203,37.95237,-121.33098,Stockton,America/Los_Angeles
+95204,37.97403,-121.31906,Stockton,America/Los_Angeles
+95205,37.96425,-121.25955,Stockton,America/Los_Angeles
+95206,37.8961,-121.41051,Stockton,America/Los_Angeles
+95207,38.00242,-121.325,Stockton,America/Los_Angeles
+95209,38.04717,-121.35121,Stockton,America/Los_Angeles
+95210,38.03215,-121.29782,Stockton,America/Los_Angeles
+95211,37.98078,-121.31198,Stockton,America/Los_Angeles
+95212,38.04897,-121.22684,Stockton,America/Los_Angeles
+95215,37.9444,-121.15276,Stockton,America/Los_Angeles
+95219,38.0207,-121.51584,Stockton,America/Los_Angeles
+95220,38.19779,-121.23603,Acampo,America/Los_Angeles
+95221,38.0724,-120.54852,Altaville,America/Los_Angeles
+95222,38.06127,-120.61791,Angels Camp,America/Los_Angeles
+95223,38.4644,-119.85939,Arnold,America/Los_Angeles
+95224,38.22706,-120.32562,Avery,America/Los_Angeles
+95225,38.20399,-120.86488,Burson,America/Los_Angeles
+95226,38.23377,-120.86232,Campo Seco,America/Los_Angeles
+95227,38.20678,-121.04615,Clements,America/Los_Angeles
+95228,37.94669,-120.68067,Copperopolis,America/Los_Angeles
+95230,37.97361,-120.86492,Farmington,America/Los_Angeles
+95231,37.87331,-121.29272,French Camp,America/Los_Angeles
+95232,38.36051,-120.57722,Glencoe,America/Los_Angeles
+95233,38.18622,-120.36859,Hathaway Pines,America/Los_Angeles
+95236,38.04218,-121.03176,Linden,America/Los_Angeles
+95237,38.15953,-121.14845,Lockeford,America/Los_Angeles
+95240,38.1177,-121.1627,Lodi,America/Los_Angeles
+95242,38.13204,-121.38875,Lodi,America/Los_Angeles
+95245,38.30189,-120.61975,Mokelumne Hill,America/Los_Angeles
+95246,38.23662,-120.49589,Mountain Ranch,America/Los_Angeles
+95247,38.14264,-120.44359,Murphys,America/Los_Angeles
+95248,38.32433,-120.46051,Rail Road Flat,America/Los_Angeles
+95249,38.18986,-120.61784,San Andreas,America/Los_Angeles
+95251,38.08024,-120.45769,Vallecito,America/Los_Angeles
+95252,38.15871,-120.84214,Valley Springs,America/Los_Angeles
+95253,38.14725,-121.19525,Victor,America/Los_Angeles
+95254,38.20323,-120.95857,Wallace,America/Los_Angeles
+95255,38.42055,-120.47506,West Point,America/Los_Angeles
+95257,38.38068,-120.45255,Wilseyville,America/Los_Angeles
+95258,38.16811,-121.31011,Woodbridge,America/Los_Angeles
+95301,37.30634,-120.65119,Atwater,America/Los_Angeles
+95303,37.4714,-120.67744,Ballico,America/Los_Angeles
+95304,37.6773,-121.3948,Tracy,America/Los_Angeles
+95305,37.8306,-120.34821,Big Oak Flat,America/Los_Angeles
+95306,37.36015,-120.11581,Catheys Valley,America/Los_Angeles
+95307,37.55582,-120.95385,Ceres,America/Los_Angeles
+95309,37.87154,-120.43299,Chinese Camp,America/Los_Angeles
+95310,38.09944,-120.36171,Columbia,America/Los_Angeles
+95311,37.70443,-120.08344,Coulterville,America/Los_Angeles
+95312,37.42107,-120.65295,Cressey,America/Los_Angeles
+95313,37.43511,-121.03769,Crows Landing,America/Los_Angeles
+95315,37.42243,-120.7733,Delhi,America/Los_Angeles
+95316,37.54613,-120.69212,Denair,America/Los_Angeles
+95317,37.12947,-120.5074,El Nido,America/Los_Angeles
+95318,37.66618,-119.8064,El Portal,America/Los_Angeles
+95319,37.6309,-120.87728,Empire,America/Los_Angeles
+95320,37.82453,-121.01545,Escalon,America/Los_Angeles
+95321,37.97719,-119.75012,Groveland,America/Los_Angeles
+95322,37.17622,-121.01861,Gustine,America/Los_Angeles
+95323,37.60881,-120.68464,Hickman,America/Los_Angeles
+95324,37.39452,-120.89605,Hilmar,America/Los_Angeles
+95325,37.48058,-120.24208,Hornitos,America/Los_Angeles
+95326,37.58998,-120.8531,Hughson,America/Los_Angeles
+95327,37.84912,-120.4858,Jamestown,America/Los_Angeles
+95328,37.55797,-120.90932,Keyes,America/Los_Angeles
+95329,37.67726,-120.41363,La Grange,America/Los_Angeles
+95330,37.8117,-121.31331,Lathrop,America/Los_Angeles
+95333,37.2447,-120.24277,Le Grand,America/Los_Angeles
+95334,37.34756,-120.74624,Livingston,America/Los_Angeles
+95335,38.11894,-120.09239,Long Barn,America/Los_Angeles
+95336,37.83351,-121.1988,Manteca,America/Los_Angeles
+95337,37.74171,-121.23834,Manteca,America/Los_Angeles
+95338,37.50911,-119.98659,Mariposa,America/Los_Angeles
+95340,37.34128,-120.40658,Merced,America/Los_Angeles
+95341,37.23037,-120.50715,Merced,America/Los_Angeles
+95345,37.58784,-119.96408,Midpines,America/Los_Angeles
+95346,38.07045,-120.17291,Mi Wuk Village,America/Los_Angeles
+95348,37.41525,-120.4979,Merced,America/Los_Angeles
+95350,37.67175,-121.00732,Modesto,America/Los_Angeles
+95351,37.6236,-120.99828,Modesto,America/Los_Angeles
+95354,37.63849,-120.96428,Modesto,America/Los_Angeles
+95355,37.6727,-120.94717,Modesto,America/Los_Angeles
+95356,37.71945,-121.02786,Modesto,America/Los_Angeles
+95357,37.66985,-120.87924,Modesto,America/Los_Angeles
+95358,37.61578,-121.10059,Modesto,America/Los_Angeles
+95360,37.32918,-121.03827,Newman,America/Los_Angeles
+95361,37.79342,-120.77654,Oakdale,America/Los_Angeles
+95363,37.37251,-121.27192,Patterson,America/Los_Angeles
+95364,38.22908,-119.79174,Pinecrest,America/Los_Angeles
+95365,37.3012,-120.33152,Planada,America/Los_Angeles
+95366,37.76223,-121.12574,Ripon,America/Los_Angeles
+95367,37.73089,-120.94669,Riverbank,America/Los_Angeles
+95368,37.71544,-121.09047,Salida,America/Los_Angeles
+95369,37.52435,-120.41301,Snelling,America/Los_Angeles
+95370,37.98484,-120.34515,Sonora,America/Los_Angeles
+95372,37.98927,-120.26272,Soulsbyville,America/Los_Angeles
+95374,37.31636,-120.85683,Stevinson,America/Los_Angeles
+95375,38.21493,-119.97031,Strawberry,America/Los_Angeles
+95376,37.73678,-121.43404,Tracy,America/Los_Angeles
+95377,37.65293,-121.49598,Tracy,America/Los_Angeles
+95379,37.96174,-120.21635,Tuolumne,America/Los_Angeles
+95380,37.47226,-120.86978,Turlock,America/Los_Angeles
+95382,37.52831,-120.85214,Turlock,America/Los_Angeles
+95383,38.09534,-120.22602,Twain Harte,America/Los_Angeles
+95385,37.612,-121.24773,Vernalis,America/Los_Angeles
+95386,37.67391,-120.63045,Waterford,America/Los_Angeles
+95387,37.55429,-121.2451,Westley,America/Los_Angeles
+95388,37.42171,-120.59715,Winton,America/Los_Angeles
+95389,37.73784,-119.52556,Yosemite National Park,America/Los_Angeles
+95391,37.76952,-121.5912,Tracy,America/Los_Angeles
+95401,38.44922,-122.79307,Santa Rosa,America/Los_Angeles
+95403,38.50326,-122.75358,Santa Rosa,America/Los_Angeles
+95404,38.46488,-122.65709,Santa Rosa,America/Los_Angeles
+95405,38.43926,-122.66908,Santa Rosa,America/Los_Angeles
+95407,38.39465,-122.74591,Santa Rosa,America/Los_Angeles
+95409,38.46116,-122.60425,Santa Rosa,America/Los_Angeles
+95410,39.21616,-123.70012,Albion,America/Los_Angeles
+95412,38.71168,-123.31967,Annapolis,America/Los_Angeles
+95415,39.0205,-123.36751,Boonville,America/Los_Angeles
+95417,39.68791,-123.65075,Branscomb,America/Los_Angeles
+95419,38.42336,-122.9582,Camp Meeker,America/Los_Angeles
+95420,39.35638,-123.76832,Caspar,America/Los_Angeles
+95421,38.58276,-123.18037,Cazadero,America/Los_Angeles
+95422,38.97829,-122.6423,Clearlake,America/Los_Angeles
+95423,39.06749,-122.62753,Clearlake Oaks,America/Los_Angeles
+95425,38.81792,-123.02566,Cloverdale,America/Los_Angeles
+95426,38.83449,-122.7361,Cobb,America/Los_Angeles
+95427,39.25326,-123.56932,Comptche,America/Los_Angeles
+95428,39.82489,-123.18126,Covelo,America/Los_Angeles
+95429,39.73292,-123.34841,Dos Rios,America/Los_Angeles
+95430,38.46279,-123.04476,Duncans Mills,America/Los_Angeles
+95431,38.34897,-122.51625,Eldridge,America/Los_Angeles
+95432,39.1083,-123.63829,Elk,America/Los_Angeles
+95435,39.00315,-122.8748,Finley,America/Los_Angeles
+95436,38.49108,-122.91425,Forestville,America/Los_Angeles
+95437,39.44535,-123.69402,Fort Bragg,America/Los_Angeles
+95439,38.49055,-122.77591,Fulton,America/Los_Angeles
+95441,38.73775,-123.0354,Geyserville,America/Los_Angeles
+95442,38.3785,-122.51549,Glen Ellen,America/Los_Angeles
+95443,39.05013,-122.73962,Glenhaven,America/Los_Angeles
+95444,38.43261,-122.86922,Graton,America/Los_Angeles
+95445,38.83762,-123.49404,Gualala,America/Los_Angeles
+95446,38.52525,-123.00423,Guerneville,America/Los_Angeles
+95448,38.62309,-122.89089,Healdsburg,America/Los_Angeles
+95449,38.94331,-123.09653,Hopland,America/Los_Angeles
+95450,38.5229,-123.21508,Jenner,America/Los_Angeles
+95451,38.9388,-122.80484,Kelseyville,America/Los_Angeles
+95452,38.42969,-122.5362,Kenwood,America/Los_Angeles
+95453,39.04346,-122.93918,Lakeport,America/Los_Angeles
+95454,39.78063,-123.51631,Laytonville,America/Los_Angeles
+95456,39.25851,-123.74585,Little River,America/Los_Angeles
+95457,38.87967,-122.52753,Lower Lake,America/Los_Angeles
+95458,39.11667,-122.78204,Lucerne,America/Los_Angeles
+95459,38.99068,-123.62627,Manchester,America/Los_Angeles
+95460,39.30386,-123.73737,Mendocino,America/Los_Angeles
+95461,38.762,-122.59314,Middletown,America/Los_Angeles
+95462,38.47263,-123.02064,Monte Rio,America/Los_Angeles
+95463,39.18957,-123.58059,Navarro,America/Los_Angeles
+95464,39.12736,-122.84733,Nice,America/Los_Angeles
+95465,38.40556,-123.01963,Occidental,America/Los_Angeles
+95466,39.08868,-123.51058,Philo,America/Los_Angeles
+95467,38.80453,-122.54948,Hidden Valley Lake,America/Los_Angeles
+95468,38.9094,-123.60372,Point Arena,America/Los_Angeles
+95469,39.38853,-123.05972,Potter Valley,America/Los_Angeles
+95470,39.30019,-123.22984,Redwood Valley,America/Los_Angeles
+95471,38.53218,-122.97362,Rio Nido,America/Los_Angeles
+95472,38.39738,-122.86668,Sebastopol,America/Los_Angeles
+95476,38.25531,-122.46055,Sonoma,America/Los_Angeles
+95480,38.68463,-123.36802,Stewarts Point,America/Los_Angeles
+95482,39.1618,-123.23925,Ukiah,America/Los_Angeles
+95485,39.20828,-122.9259,Upper Lake,America/Los_Angeles
+95486,38.4741,-123.02403,Villa Grande,America/Los_Angeles
+95488,39.73679,-123.77199,Westport,America/Los_Angeles
+95490,39.4883,-123.34725,Willits,America/Los_Angeles
+95492,38.53052,-122.81254,Windsor,America/Los_Angeles
+95493,39.20241,-122.97948,Witter Springs,America/Los_Angeles
+95494,38.89646,-123.34324,Yorkville,America/Los_Angeles
+95497,38.71976,-123.45601,The Sea Ranch,America/Los_Angeles
+95501,40.80435,-124.14034,Eureka,America/Los_Angeles
+95503,40.72406,-124.09178,Eureka,America/Los_Angeles
+95511,40.16975,-123.59539,Alderpoint,America/Los_Angeles
+95514,40.29151,-123.67119,Blocksburg,America/Los_Angeles
+95519,40.95833,-124.04983,Mckinleyville,America/Los_Angeles
+95521,40.84586,-124.04745,Arcata,America/Los_Angeles
+95524,40.82346,-124.05271,Bayside,America/Los_Angeles
+95525,40.94845,-123.82629,Blue Lake,America/Los_Angeles
+95526,40.44705,-123.6628,Bridgeville,America/Los_Angeles
+95527,40.93593,-123.41966,Burnt Ranch,America/Los_Angeles
+95528,40.4936,-123.92393,Carlotta,America/Los_Angeles
+95531,41.79288,-124.00473,Crescent City,America/Los_Angeles
+95536,40.51069,-124.26547,Ferndale,America/Los_Angeles
+95537,40.745,-124.21472,Fields Landing,America/Los_Angeles
+95538,41.86833,-124.15433,Fort Dick,America/Los_Angeles
+95540,40.56671,-124.12651,Fortuna,America/Los_Angeles
+95542,40.08074,-123.77369,Garberville,America/Los_Angeles
+95543,41.88847,-123.80238,Gasquet,America/Los_Angeles
+95545,40.26159,-124.08599,Honeydew,America/Los_Angeles
+95546,41.18777,-123.74535,Hoopa,America/Los_Angeles
+95547,40.56952,-124.07751,Hydesville,America/Los_Angeles
+95548,41.58633,-124.05859,Klamath,America/Los_Angeles
+95549,40.65838,-123.89485,Kneeland,America/Los_Angeles
+95550,40.77695,-123.82951,Korbel,America/Los_Angeles
+95551,40.66977,-124.21961,Loleta,America/Los_Angeles
+95552,40.34899,-123.42248,Mad River,America/Los_Angeles
+95553,40.22981,-123.87133,Miranda,America/Los_Angeles
+95554,40.27573,-123.78414,Myers Flat,America/Los_Angeles
+95555,41.29519,-123.97774,Orick,America/Los_Angeles
+95556,41.31444,-123.59043,Orleans,America/Los_Angeles
+95558,40.32673,-124.24017,Petrolia,America/Los_Angeles
+95559,40.18977,-123.7512,Phillipsville,America/Los_Angeles
+95560,40.14606,-123.83816,Redway,America/Los_Angeles
+95562,40.45808,-124.1072,Rio Dell,America/Los_Angeles
+95563,40.84248,-123.51225,Salyer,America/Los_Angeles
+95564,40.79023,-124.20312,Samoa,America/Los_Angeles
+95565,40.45723,-124.01099,Scotia,America/Los_Angeles
+95567,41.9498,-124.1118,Smith River,America/Los_Angeles
+95568,41.48454,-123.48543,Somes Bar,America/Los_Angeles
+95569,40.36078,-123.85818,Redcrest,America/Los_Angeles
+95570,41.11375,-124.08037,Trinidad,America/Los_Angeles
+95571,40.36495,-123.94157,Weott,America/Los_Angeles
+95573,40.89567,-123.65873,Willow Creek,America/Los_Angeles
+95585,39.85872,-123.66619,Leggett,America/Los_Angeles
+95587,39.96969,-123.75537,Piercy,America/Los_Angeles
+95589,40.07927,-123.98596,Whitethorn,America/Los_Angeles
+95595,40.11074,-123.26642,Zenia,America/Los_Angeles
+95601,38.42713,-120.82997,Amador City,America/Los_Angeles
+95602,38.99039,-121.10991,Auburn,America/Los_Angeles
+95603,38.91167,-121.08559,Auburn,America/Los_Angeles
+95604,38.9112,-121.0982,Auburn,America/Los_Angeles
+95605,38.59289,-121.53929,West Sacramento,America/Los_Angeles
+95606,38.75604,-122.19387,Brooks,America/Los_Angeles
+95607,38.7899,-122.12585,Capay,America/Los_Angeles
+95608,38.62611,-121.32886,Carmichael,America/Los_Angeles
+95610,38.69494,-121.27219,Citrus Heights,America/Los_Angeles
+95612,38.38644,-121.58118,Clarksburg,America/Los_Angeles
+95613,38.81272,-120.89173,Coloma,America/Los_Angeles
+95614,38.88649,-120.98896,Cool,America/Los_Angeles
+95615,38.31113,-121.54595,Courtland,America/Los_Angeles
+95616,38.55819,-121.80044,Davis,America/Los_Angeles
+95618,38.54348,-121.6917,Davis,America/Los_Angeles
+95619,38.68218,-120.81401,Diamond Springs,America/Los_Angeles
+95620,38.40599,-121.75689,Dixon,America/Los_Angeles
+95621,38.69551,-121.30862,Citrus Heights,America/Los_Angeles
+95623,38.6075,-120.84873,El Dorado,America/Los_Angeles
+95624,38.43203,-121.30506,Elk Grove,America/Los_Angeles
+95625,38.35728,-121.90861,Elmira,America/Los_Angeles
+95626,38.73378,-121.48898,Elverta,America/Los_Angeles
+95627,38.72936,-122.00959,Esparto,America/Los_Angeles
+95628,38.65212,-121.2543,Fair Oaks,America/Los_Angeles
+95629,38.51277,-120.6875,Fiddletown,America/Los_Angeles
+95630,38.66558,-121.141,Folsom,America/Los_Angeles
+95631,39.05453,-120.75365,Foresthill,America/Los_Angeles
+95632,38.27705,-121.26128,Galt,America/Los_Angeles
+95633,38.84919,-120.82328,Garden Valley,America/Los_Angeles
+95634,38.9123,-120.69443,Georgetown,America/Los_Angeles
+95635,38.91111,-120.90043,Greenwood,America/Los_Angeles
+95636,38.6274,-120.51852,Grizzly Flats,America/Los_Angeles
+95637,38.85283,-122.2729,Guinda,America/Los_Angeles
+95638,38.33969,-121.11481,Herald,America/Los_Angeles
+95639,38.39202,-121.49599,Hood,America/Los_Angeles
+95640,38.33922,-120.94024,Ione,America/Los_Angeles
+95641,38.15046,-121.60271,Isleton,America/Los_Angeles
+95642,38.3434,-120.76398,Jackson,America/Los_Angeles
+95645,38.89025,-121.79992,Knights Landing,America/Los_Angeles
+95646,38.63828,-120.01813,Kirkwood,America/Los_Angeles
+95648,38.92643,-121.31101,Lincoln,America/Los_Angeles
+95650,38.81339,-121.16831,Loomis,America/Los_Angeles
+95651,38.82088,-120.93515,Lotus,America/Los_Angeles
+95652,38.66265,-121.40079,Mcclellan,America/Los_Angeles
+95653,38.69151,-121.97723,Madison,America/Los_Angeles
+95655,38.54976,-121.27898,Mather,America/Los_Angeles
+95658,38.87938,-121.15173,Newcastle,America/Los_Angeles
+95659,38.84594,-121.57679,Nicolaus,America/Los_Angeles
+95660,38.67883,-121.3805,North Highlands,America/Los_Angeles
+95661,38.74129,-121.24925,Roseville,America/Los_Angeles
+95662,38.68917,-121.21988,Orangevale,America/Los_Angeles
+95663,38.85739,-121.18251,Penryn,America/Los_Angeles
+95664,38.79755,-121.05136,Pilot Hill,America/Los_Angeles
+95665,38.39587,-120.65238,Pine Grove,America/Los_Angeles
+95666,38.54113,-120.33076,Pioneer,America/Los_Angeles
+95667,38.73407,-120.79216,Placerville,America/Los_Angeles
+95668,38.82708,-121.49378,Pleasant Grove,America/Los_Angeles
+95669,38.49522,-120.89157,Plymouth,America/Los_Angeles
+95670,38.60461,-121.27963,Rancho Cordova,America/Los_Angeles
+95671,38.69529,-121.15671,Represa,America/Los_Angeles
+95672,38.72664,-120.99638,Rescue,America/Los_Angeles
+95673,38.69029,-121.46603,Rio Linda,America/Los_Angeles
+95674,38.95396,-121.48187,Rio Oso,America/Los_Angeles
+95675,38.54548,-120.74277,River Pines,America/Los_Angeles
+95676,38.87224,-121.71664,Robbins,America/Los_Angeles
+95677,38.79298,-121.23133,Rocklin,America/Los_Angeles
+95678,38.76536,-121.28847,Roseville,America/Los_Angeles
+95679,38.90524,-122.26727,Rumsey,America/Los_Angeles
+95680,38.24142,-121.57816,Ryde,America/Los_Angeles
+95681,38.99809,-121.35422,Sheridan,America/Los_Angeles
+95682,38.60537,-120.96175,Shingle Springs,America/Los_Angeles
+95683,38.51018,-121.09894,Sloughhouse,America/Los_Angeles
+95684,38.59098,-120.55066,Somerset,America/Los_Angeles
+95685,38.42716,-120.76698,Sutter Creek,America/Los_Angeles
+95686,38.19039,-121.48543,Thornton,America/Los_Angeles
+95687,38.3344,-121.91765,Vacaville,America/Los_Angeles
+95688,38.41901,-122.02571,Vacaville,America/Los_Angeles
+95689,38.47088,-120.61566,Volcano,America/Los_Angeles
+95690,38.23429,-121.58672,Walnut Grove,America/Los_Angeles
+95691,38.62394,-121.58272,West Sacramento,America/Los_Angeles
+95692,39.04699,-121.40471,Wheatland,America/Los_Angeles
+95693,38.39851,-121.21956,Wilton,America/Los_Angeles
+95694,38.56163,-122.00609,Winters,America/Los_Angeles
+95695,38.68847,-121.85666,Woodland,America/Los_Angeles
+95697,38.73284,-121.80701,Yolo,America/Los_Angeles
+95698,38.8187,-121.91012,Zamora,America/Los_Angeles
+95699,38.44074,-120.85702,Drytown,America/Los_Angeles
+95701,39.22633,-120.76741,Alta,America/Los_Angeles
+95703,38.99156,-120.9864,Applegate,America/Los_Angeles
+95709,38.74886,-120.68134,Camino,America/Los_Angeles
+95713,39.08477,-120.92788,Colfax,America/Los_Angeles
+95714,39.2013,-120.83677,Dutch Flat,America/Los_Angeles
+95715,39.27495,-120.64388,Emigrant Gap,America/Los_Angeles
+95717,39.14258,-120.84268,Gold Run,America/Los_Angeles
+95720,38.84536,-120.26021,Kyburz,America/Los_Angeles
+95721,38.82341,-120.09379,Echo Lake,America/Los_Angeles
+95722,39.00467,-121.02891,Meadow Vista,America/Los_Angeles
+95726,38.75418,-120.41989,Pollock Pines,America/Los_Angeles
+95728,39.29673,-120.40358,Soda Springs,America/Los_Angeles
+95735,38.82986,-120.17936,Twin Bridges,America/Los_Angeles
+95736,39.03905,-120.97738,Weimar,America/Los_Angeles
+95742,38.5735,-121.19854,Rancho Cordova,America/Los_Angeles
+95746,38.75009,-121.16712,Granite Bay,America/Los_Angeles
+95747,38.77963,-121.36798,Roseville,America/Los_Angeles
+95757,38.33886,-121.43643,Elk Grove,America/Los_Angeles
+95758,38.42932,-121.44603,Elk Grove,America/Los_Angeles
+95762,38.67694,-121.05755,El Dorado Hills,America/Los_Angeles
+95765,38.81982,-121.27772,Rocklin,America/Los_Angeles
+95776,38.68889,-121.70776,Woodland,America/Los_Angeles
+95811,38.58761,-121.49077,Sacramento,America/Los_Angeles
+95814,38.58064,-121.49488,Sacramento,America/Los_Angeles
+95815,38.60544,-121.44497,Sacramento,America/Los_Angeles
+95816,38.57555,-121.46543,Sacramento,America/Los_Angeles
+95817,38.55057,-121.45713,Sacramento,America/Los_Angeles
+95818,38.55579,-121.49669,Sacramento,America/Los_Angeles
+95819,38.56816,-121.43772,Sacramento,America/Los_Angeles
+95820,38.53491,-121.4442,Sacramento,America/Los_Angeles
+95821,38.62541,-121.38479,Sacramento,America/Los_Angeles
+95822,38.51273,-121.49556,Sacramento,America/Los_Angeles
+95823,38.47473,-121.44266,Sacramento,America/Los_Angeles
+95824,38.51746,-121.44147,Sacramento,America/Los_Angeles
+95825,38.5901,-121.40644,Sacramento,America/Los_Angeles
+95826,38.54554,-121.37885,Sacramento,America/Los_Angeles
+95827,38.55151,-121.3253,Sacramento,America/Los_Angeles
+95828,38.48943,-121.39598,Sacramento,America/Los_Angeles
+95829,38.48759,-121.33326,Sacramento,America/Los_Angeles
+95830,38.49415,-121.27229,Sacramento,America/Los_Angeles
+95831,38.49599,-121.52948,Sacramento,America/Los_Angeles
+95832,38.43979,-121.49888,Sacramento,America/Los_Angeles
+95833,38.61529,-121.51558,Sacramento,America/Los_Angeles
+95834,38.64207,-121.51967,Sacramento,America/Los_Angeles
+95835,38.67088,-121.52464,Sacramento,America/Los_Angeles
+95837,38.68925,-121.59537,Sacramento,America/Los_Angeles
+95838,38.64708,-121.44312,Sacramento,America/Los_Angeles
+95841,38.66031,-121.34812,Sacramento,America/Los_Angeles
+95842,38.687,-121.34889,Sacramento,America/Los_Angeles
+95843,38.71532,-121.36366,Antelope,America/Los_Angeles
+95864,38.58512,-121.37655,Sacramento,America/Los_Angeles
+95901,39.2225,-121.48855,Marysville,America/Los_Angeles
+95903,39.11337,-121.37192,Beale Afb,America/Los_Angeles
+95910,39.46742,-120.83158,Alleghany,America/Los_Angeles
+95912,39.0016,-122.07462,Arbuckle,America/Los_Angeles
+95913,39.62899,-122.19215,Artois,America/Los_Angeles
+95914,39.40756,-121.37878,Bangor,America/Los_Angeles
+95915,39.97926,-121.21492,Belden,America/Los_Angeles
+95916,39.65945,-121.37375,Berry Creek,America/Los_Angeles
+95917,39.42392,-121.77178,Biggs,America/Los_Angeles
+95918,39.301,-121.34547,Browns Valley,America/Los_Angeles
+95919,39.43445,-121.26554,Brownsville,America/Los_Angeles
+95920,39.46071,-121.93702,Butte City,America/Los_Angeles
+95922,39.47033,-121.07736,Camptonville,America/Los_Angeles
+95923,40.18385,-121.13672,Canyon Dam,America/Los_Angeles
+95925,39.46798,-121.18006,Challenge,America/Los_Angeles
+95926,39.74573,-121.84396,Chico,America/Los_Angeles
+95928,39.68317,-121.83528,Chico,America/Los_Angeles
+95929,39.72578,-121.85022,Chico,America/Los_Angeles
+95930,39.54679,-121.1606,Clipper Mills,America/Los_Angeles
+95932,39.26839,-122.00426,Colusa,America/Los_Angeles
+95934,40.07463,-120.93108,Crescent Mills,America/Los_Angeles
+95935,39.37369,-121.19615,Dobbins,America/Los_Angeles
+95936,39.56336,-120.79279,Downieville,America/Los_Angeles
+95937,38.88403,-121.99847,Dunnigan,America/Los_Angeles
+95938,39.60504,-121.79708,Durham,America/Los_Angeles
+95939,39.56755,-122.60224,Elk Creek,America/Los_Angeles
+95941,39.5588,-121.24157,Forbestown,America/Los_Angeles
+95942,39.98954,-121.58872,Forest Ranch,America/Los_Angeles
+95943,39.57692,-122.0367,Glenn,America/Los_Angeles
+95944,39.53482,-120.86159,Goodyears Bar,America/Los_Angeles
+95945,39.19426,-120.98199,Grass Valley,America/Los_Angeles
+95946,39.21052,-121.20467,Penn Valley,America/Los_Angeles
+95947,40.15942,-120.84409,Greenville,America/Los_Angeles
+95948,39.34289,-121.75818,Gridley,America/Los_Angeles
+95949,39.102,-121.13343,Grass Valley,America/Los_Angeles
+95950,39.05144,-121.92196,Grimes,America/Los_Angeles
+95951,39.71473,-122.00197,Hamilton City,America/Los_Angeles
+95953,39.25018,-121.77309,Live Oak,America/Los_Angeles
+95954,39.94916,-121.54088,Magalia,America/Los_Angeles
+95955,39.29657,-122.20454,Maxwell,America/Los_Angeles
+95956,39.8751,-121.12209,Meadow Valley,America/Los_Angeles
+95957,39.05366,-121.82379,Meridian,America/Los_Angeles
+95958,39.56417,-121.79804,Nelson,America/Los_Angeles
+95959,39.34509,-120.86797,Nevada City,America/Los_Angeles
+95960,39.39121,-121.0583,North San Juan,America/Los_Angeles
+95961,39.03343,-121.55754,Olivehurst,America/Los_Angeles
+95962,39.32669,-121.26876,Oregon House,America/Los_Angeles
+95963,39.73682,-122.30329,Orland,America/Los_Angeles
+95965,39.59169,-121.59034,Oroville,America/Los_Angeles
+95966,39.47332,-121.43284,Oroville,America/Los_Angeles
+95968,39.43514,-121.55179,Palermo,America/Los_Angeles
+95969,39.72178,-121.63388,Paradise,America/Los_Angeles
+95970,39.41159,-122.05176,Princeton,America/Los_Angeles
+95971,39.92895,-120.91608,Quincy,America/Los_Angeles
+95972,39.42955,-121.33624,Rackerby,America/Los_Angeles
+95973,39.88099,-121.8516,Chico,America/Los_Angeles
+95974,39.4973,-121.75569,Richvale,America/Los_Angeles
+95975,39.22436,-121.15367,Rough And Ready,America/Los_Angeles
+95977,39.17967,-121.29007,Smartsville,America/Los_Angeles
+95978,39.90826,-121.52941,Stirling City,America/Los_Angeles
+95979,39.29771,-122.47913,Stonyford,America/Los_Angeles
+95981,39.65237,-121.03447,Strawberry Valley,America/Los_Angeles
+95982,39.18051,-121.80746,Sutter,America/Los_Angeles
+95983,40.05827,-120.73897,Taylorsville,America/Los_Angeles
+95984,39.99654,-121.11951,Twain,America/Los_Angeles
+95986,39.36149,-120.7652,Washington,America/Los_Angeles
+95987,39.10299,-122.2726,Williams,America/Los_Angeles
+95988,39.49825,-122.28698,Willows,America/Los_Angeles
+95991,39.02205,-121.61317,Yuba City,America/Los_Angeles
+95993,39.08171,-121.68798,Yuba City,America/Los_Angeles
+96001,40.57731,-122.45443,Redding,America/Los_Angeles
+96002,40.5299,-122.31679,Redding,America/Los_Angeles
+96003,40.66664,-122.31564,Redding,America/Los_Angeles
+96006,41.15575,-120.83952,Adin,America/Los_Angeles
+96007,40.45507,-122.30468,Anderson,America/Los_Angeles
+96008,40.73559,-122.11091,Bella Vista,America/Los_Angeles
+96009,41.06183,-121.04434,Bieber,America/Los_Angeles
+96010,40.89735,-123.24365,Big Bar,America/Los_Angeles
+96011,41.05762,-121.89157,Big Bend,America/Los_Angeles
+96013,40.97495,-121.68316,Burney,America/Los_Angeles
+96014,41.3579,-122.77305,Callahan,America/Los_Angeles
+96015,41.49672,-120.87162,Canby,America/Los_Angeles
+96016,40.90675,-121.52032,Cassel,America/Los_Angeles
+96017,41.10776,-122.30751,Castella,America/Los_Angeles
+96019,40.68729,-122.39927,Shasta Lake,America/Los_Angeles
+96020,40.30089,-121.26286,Chester,America/Los_Angeles
+96021,39.91871,-122.26813,Corning,America/Los_Angeles
+96022,40.34232,-122.44814,Cottonwood,America/Los_Angeles
+96023,41.92108,-121.97592,Dorris,America/Los_Angeles
+96024,40.58767,-122.90143,Douglas City,America/Los_Angeles
+96025,41.20409,-122.32523,Dunsmuir,America/Los_Angeles
+96027,41.36558,-123.07799,Etna,America/Los_Angeles
+96028,41.00761,-121.45731,Fall River Mills,America/Los_Angeles
+96029,39.94003,-122.48743,Flournoy,America/Los_Angeles
+96031,41.17262,-123.18029,Forks Of Salmon,America/Los_Angeles
+96032,41.58503,-122.98291,Fort Jones,America/Los_Angeles
+96033,40.75076,-122.60004,French Gulch,America/Los_Angeles
+96034,41.44177,-122.60772,Gazelle,America/Los_Angeles
+96035,40.04168,-122.18254,Gerber,America/Los_Angeles
+96037,41.54368,-122.93177,Greenview,America/Los_Angeles
+96038,41.60827,-122.54576,Grenada,America/Los_Angeles
+96039,41.66376,-123.37711,Happy Camp,America/Los_Angeles
+96040,40.79393,-121.47397,Hat Creek,America/Los_Angeles
+96041,40.52059,-123.19991,Hayfork,America/Los_Angeles
+96044,41.95384,-122.64853,Hornbrook,America/Los_Angeles
+96046,40.61118,-123.43151,Hyampom,America/Los_Angeles
+96047,40.47695,-122.69889,Igo,America/Los_Angeles
+96048,40.82613,-123.05594,Junction City,America/Los_Angeles
+96050,41.85389,-122.95689,Klamath River,America/Los_Angeles
+96051,40.90112,-122.35664,Lakehead,America/Los_Angeles
+96052,40.68515,-122.80342,Lewiston,America/Los_Angeles
+96054,41.26665,-121.10633,Lookout,America/Los_Angeles
+96055,40.10249,-122.03213,Los Molinos,America/Los_Angeles
+96056,41.07178,-121.32607,Mcarthur,America/Los_Angeles
+96057,41.26144,-122.0118,Mccloud,America/Los_Angeles
+96058,41.74536,-121.9337,Macdoel,America/Los_Angeles
+96059,40.42947,-121.83465,Manton,America/Los_Angeles
+96061,40.34407,-121.48767,Mill Creek,America/Los_Angeles
+96062,40.56373,-122.06646,Millville,America/Los_Angeles
+96063,40.35708,-121.60236,Mineral,America/Los_Angeles
+96064,41.76371,-122.36433,Montague,America/Los_Angeles
+96065,40.88056,-121.95433,Montgomery Creek,America/Los_Angeles
+96067,41.31664,-122.31736,Mount Shasta,America/Los_Angeles
+96068,41.10525,-121.20455,Nubieber,America/Los_Angeles
+96069,40.68226,-122.02341,Oak Run,America/Los_Angeles
+96071,40.68134,-121.45275,Old Station,America/Los_Angeles
+96073,40.59047,-122.20537,Palo Cedro,America/Los_Angeles
+96074,39.87196,-122.58599,Paskenta,America/Los_Angeles
+96075,40.35582,-121.87196,Paynes Creek,America/Los_Angeles
+96076,40.37547,-122.92996,Platina,America/Los_Angeles
+96078,40.08245,-122.17607,Proberta,America/Los_Angeles
+96080,40.16386,-122.39171,Red Bluff,America/Los_Angeles
+96084,40.79395,-121.91519,Round Mountain,America/Los_Angeles
+96085,41.73245,-123.05145,Scott Bar,America/Los_Angeles
+96086,41.87407,-123.23012,Seiad Valley,America/Los_Angeles
+96087,40.63296,-122.58067,Shasta,America/Los_Angeles
+96088,40.50983,-121.88848,Shingletown,America/Los_Angeles
+96090,40.00681,-122.12142,Tehama,America/Los_Angeles
+96091,41.04567,-122.78053,Trinity Center,America/Los_Angeles
+96092,39.97344,-121.97342,Vina,America/Los_Angeles
+96093,40.77237,-122.94329,Weaverville,America/Los_Angeles
+96094,41.51214,-122.36253,Weed,America/Los_Angeles
+96096,40.63738,-121.87552,Whitmore,America/Los_Angeles
+96097,41.76234,-122.65921,Yreka,America/Los_Angeles
+96101,41.45803,-120.5043,Alturas,America/Los_Angeles
+96103,39.78446,-120.66969,Blairsden Graeagle,America/Los_Angeles
+96104,41.48248,-120.12725,Cedarville,America/Los_Angeles
+96105,39.82478,-120.1821,Chilcoot,America/Los_Angeles
+96106,39.73552,-120.54388,Clio,America/Los_Angeles
+96107,38.45215,-119.51421,Coleville,America/Los_Angeles
+96108,41.77687,-120.42351,Davis Creek,America/Los_Angeles
+96109,39.99747,-120.09521,Doyle,America/Los_Angeles
+96110,41.26637,-120.10763,Eagleville,America/Los_Angeles
+96111,39.41571,-120.01648,Floriston,America/Los_Angeles
+96112,41.8372,-120.09403,Fort Bidwell,America/Los_Angeles
+96113,40.18577,-120.14609,Herlong,America/Los_Angeles
+96114,40.2945,-120.49359,Janesville,America/Los_Angeles
+96115,41.70753,-120.14047,Lake City,America/Los_Angeles
+96116,41.2603,-120.44841,Likely,America/Los_Angeles
+96117,40.54556,-120.23978,Litchfield,America/Los_Angeles
+96118,39.64823,-120.25392,Loyalton,America/Los_Angeles
+96119,41.03353,-120.55264,Madeline,America/Los_Angeles
+96120,38.745,-119.82485,Markleeville,America/Los_Angeles
+96121,40.16938,-120.37659,Milford,America/Los_Angeles
+96122,39.82082,-120.47652,Portola,America/Los_Angeles
+96123,40.80392,-120.30799,Ravendale,America/Los_Angeles
+96124,39.63918,-120.46194,Calpine,America/Los_Angeles
+96125,39.61526,-120.60493,Sierra City,America/Los_Angeles
+96126,39.54764,-120.38999,Sierraville,America/Los_Angeles
+96128,40.34948,-120.40198,Standish,America/Los_Angeles
+96129,39.81848,-120.35346,Beckwourth,America/Los_Angeles
+96130,40.54992,-120.63064,Susanville,America/Los_Angeles
+96132,40.89371,-120.5389,Termo,America/Los_Angeles
+96133,38.63181,-119.50423,Topaz,America/Los_Angeles
+96134,41.8444,-121.41231,Tulelake,America/Los_Angeles
+96135,39.81303,-120.20927,Vinton,America/Los_Angeles
+96136,40.31263,-120.12425,Wendel,America/Los_Angeles
+96137,40.38554,-121.12478,Westwood,America/Los_Angeles
+96140,39.23244,-120.10364,Carnelian Bay,America/Los_Angeles
+96141,39.10297,-120.19872,Homewood,America/Los_Angeles
+96142,39.0138,-120.09592,Tahoma,America/Los_Angeles
+96143,39.26174,-120.02817,Kings Beach,America/Los_Angeles
+96145,39.18203,-120.15143,Tahoe City,America/Los_Angeles
+96146,39.22556,-120.23681,Olympic Valley,America/Los_Angeles
+96148,39.24978,-120.05767,Tahoe Vista,America/Los_Angeles
+96150,38.88971,-120.04409,South Lake Tahoe,America/Los_Angeles
+96155,38.75294,-120.09222,South Lake Tahoe,America/Los_Angeles
+96161,39.34848,-120.22603,Truckee,America/Los_Angeles
+96701,21.40368,-157.89875,Aiea,Pacific/Honolulu
+96703,22.1349,-159.37152,Anahola,Pacific/Honolulu
+96704,19.30612,-155.83884,Captain Cook,Pacific/Honolulu
+96705,21.89973,-159.56252,Eleele,Pacific/Honolulu
+96706,21.34033,-158.01704,Ewa Beach,Pacific/Honolulu
+96707,21.36455,-158.08141,Kapolei,Pacific/Honolulu
+96708,20.88083,-156.23763,Haiku,Pacific/Honolulu
+96710,19.85516,-155.21784,Hakalau,Pacific/Honolulu
+96712,21.626,-158.03534,Haleiwa,Pacific/Honolulu
+96713,20.73684,-156.1159,Hana,Pacific/Honolulu
+96714,22.15734,-159.54472,Hanalei,Pacific/Honolulu
+96716,21.91167,-159.60134,Hanapepe,Pacific/Honolulu
+96717,21.55556,-157.89605,Hauula,Pacific/Honolulu
+96719,20.24005,-155.83344,Hawi,Pacific/Honolulu
+96720,19.67022,-155.21718,Hilo,Pacific/Honolulu
+96722,22.16689,-159.45826,Princeville,Pacific/Honolulu
+96725,19.61243,-155.8824,Holualoa,Pacific/Honolulu
+96726,19.42147,-155.81094,Honaunau,Pacific/Honolulu
+96727,20.00803,-155.54842,Honokaa,Pacific/Honolulu
+96728,19.85991,-155.13339,Honomu,Pacific/Honolulu
+96729,21.17214,-157.11722,Hoolehua,Pacific/Honolulu
+96730,21.54615,-157.85112,Kaaawa,Pacific/Honolulu
+96731,21.68488,-157.96999,Kahuku,Pacific/Honolulu
+96732,20.87593,-156.46092,Kahului,Pacific/Honolulu
+96734,21.39002,-157.75387,Kailua,Pacific/Honolulu
+96737,19.10735,-155.78062,Ocean View,Pacific/Honolulu
+96738,19.90341,-155.79392,Waikoloa,Pacific/Honolulu
+96740,19.74422,-155.89951,Kailua Kona,Pacific/Honolulu
+96741,21.94986,-159.51847,Kalaheo,Pacific/Honolulu
+96742,21.17089,-156.94753,Kalaupapa,Pacific/Honolulu
+96743,20.02619,-155.72266,Kamuela,Pacific/Honolulu
+96744,21.4427,-157.83328,Kaneohe,Pacific/Honolulu
+96746,22.09167,-159.34951,Kapaa,Pacific/Honolulu
+96747,21.9169,-159.62788,Kaumakani,Pacific/Honolulu
+96748,21.1138,-156.8794,Kaunakakai,Pacific/Honolulu
+96749,19.61031,-155.00281,Keaau,Pacific/Honolulu
+96750,19.52404,-155.91463,Kealakekua,Pacific/Honolulu
+96751,22.10668,-159.30516,Kealia,Pacific/Honolulu
+96752,22.07823,-159.72077,Kekaha,Pacific/Honolulu
+96753,20.7317,-156.43606,Kihei,Pacific/Honolulu
+96754,22.18537,-159.40246,Kilauea,Pacific/Honolulu
+96755,20.19602,-155.78158,Kapaau,Pacific/Honolulu
+96756,21.9085,-159.45368,Koloa,Pacific/Honolulu
+96757,21.15536,-156.99513,Kualapuu,Pacific/Honolulu
+96759,21.46015,-158.05995,Kunia,Pacific/Honolulu
+96760,19.55234,-155.05483,Kurtistown,Pacific/Honolulu
+96761,20.90961,-156.62226,Lahaina,Pacific/Honolulu
+96762,21.62468,-157.94201,Laie,Pacific/Honolulu
+96763,20.83512,-156.92717,Lanai City,Pacific/Honolulu
+96764,19.97766,-155.23985,Laupahoehoe,Pacific/Honolulu
+96765,21.92608,-159.49831,Lawai,Pacific/Honolulu
+96766,22.00556,-159.41931,Lihue,Pacific/Honolulu
+96768,20.83231,-156.29787,Makawao,Pacific/Honolulu
+96769,21.95501,-159.61655,Makaweli,Pacific/Honolulu
+96770,21.13465,-157.20354,Maunaloa,Pacific/Honolulu
+96771,19.53348,-155.13573,Mountain View,Pacific/Honolulu
+96772,19.0683,-155.66077,Naalehu,Pacific/Honolulu
+96773,19.90677,-155.25218,Ninole,Pacific/Honolulu
+96774,19.96871,-155.31503,Ookala,Pacific/Honolulu
+96776,20.00156,-155.38777,Paauilo,Pacific/Honolulu
+96777,19.23137,-155.4705,Pahala,Pacific/Honolulu
+96778,19.45221,-154.98624,Pahoa,Pacific/Honolulu
+96779,20.90534,-156.38208,Paia,Pacific/Honolulu
+96780,19.96592,-155.225,Papaaloa,Pacific/Honolulu
+96781,19.80066,-155.18194,Papaikou,Pacific/Honolulu
+96782,21.43471,-157.94694,Pearl City,Pacific/Honolulu
+96783,19.84293,-155.1074,Pepeekeo,Pacific/Honolulu
+96785,19.47818,-155.23017,Volcano,Pacific/Honolulu
+96786,21.53733,-158.02331,Wahiawa,Pacific/Honolulu
+96789,21.47823,-157.97264,Mililani,Pacific/Honolulu
+96790,20.6975,-156.31121,Kula,Pacific/Honolulu
+96791,21.55072,-158.15857,Waialua,Pacific/Honolulu
+96792,21.46311,-158.16418,Waianae,Pacific/Honolulu
+96793,20.88998,-156.53215,Wailuku,Pacific/Honolulu
+96795,21.33934,-157.71643,Waimanalo,Pacific/Honolulu
+96796,21.96512,-159.66793,Waimea,Pacific/Honolulu
+96797,21.40734,-158.01658,Waipahu,Pacific/Honolulu
+96799,-14.21984,-170.37005,Pago Pago,Pacific/Pago_Pago
+96813,21.31628,-157.84359,Honolulu,Pacific/Honolulu
+96814,21.29405,-157.84637,Honolulu,Pacific/Honolulu
+96815,21.27375,-157.82108,Honolulu,Pacific/Honolulu
+96816,21.29379,-157.79009,Honolulu,Pacific/Honolulu
+96817,21.34016,-157.83749,Honolulu,Pacific/Honolulu
+96818,21.34637,-157.93704,Honolulu,Pacific/Honolulu
+96819,21.34968,-157.87527,Honolulu,Pacific/Honolulu
+96820,21.33633,-157.92071,Honolulu,Pacific/Honolulu
+96821,21.29952,-157.75004,Honolulu,Pacific/Honolulu
+96822,21.32046,-157.81037,Honolulu,Pacific/Honolulu
+96825,21.29575,-157.69234,Honolulu,Pacific/Honolulu
+96826,21.29171,-157.82698,Honolulu,Pacific/Honolulu
+96848,21.30131,-157.81419,Honolulu,Pacific/Honolulu
+96850,21.30385,-157.86258,Honolulu,Pacific/Honolulu
+96853,21.335,-157.94032,Jbphh,Pacific/Honolulu
+96857,21.48798,-158.05293,Schofield Barracks,Pacific/Honolulu
+96858,21.34459,-157.88342,Fort Shafter,Pacific/Honolulu
+96859,21.35987,-157.88985,Tripler Army Medical Center,Pacific/Honolulu
+96860,21.35687,-157.94829,Jbphh,Pacific/Honolulu
+96863,21.4351,-157.75002,Mcbh Kaneohe Bay,Pacific/Honolulu
+96910,13.45472,144.75128,Hagatna,Pacific/Guam
+96913,13.47825,144.81519,Barrigada,Pacific/Guam
+96915,13.37526,144.70714,Santa Rita,Pacific/Guam
+96916,13.26593,144.68915,Merizo,Pacific/Guam
+96917,13.28469,144.73991,Inarajan,Pacific/Guam
+96928,13.35626,144.65731,Agat,Pacific/Guam
+96929,13.56521,144.87637,Yigo,Pacific/Guam
+96950,15.18888,145.75349,Saipan,Pacific/Saipan
+96951,14.15733,145.2145,Rota,Pacific/Saipan
+96952,15.01311,145.63149,Tinian,Pacific/Saipan
+97001,44.93328,-120.64169,Antelope,America/Los_Angeles
+97002,45.23774,-122.8003,Aurora,America/Los_Angeles
+97003,45.50372,-122.86482,Beaverton,America/Los_Angeles
+97004,45.25068,-122.45399,Beavercreek,America/Los_Angeles
+97005,45.49144,-122.80397,Beaverton,America/Los_Angeles
+97006,45.52598,-122.85591,Beaverton,America/Los_Angeles
+97007,45.44282,-122.87112,Beaverton,America/Los_Angeles
+97008,45.46044,-122.80252,Beaverton,America/Los_Angeles
+97009,45.42409,-122.33962,Boring,America/Los_Angeles
+97011,45.38738,-122.03671,Brightwood,America/Los_Angeles
+97013,45.21799,-122.67277,Canby,America/Los_Angeles
+97014,45.61354,-121.87405,Cascade Locks,America/Los_Angeles
+97015,45.41477,-122.53767,Clackamas,America/Los_Angeles
+97016,46.05573,-123.27032,Clatskanie,America/Los_Angeles
+97017,45.17017,-122.37676,Colton,America/Los_Angeles
+97018,45.8957,-122.81165,Columbia City,America/Los_Angeles
+97019,45.494,-122.18885,Corbett,America/Los_Angeles
+97020,45.22267,-122.83887,Donald,America/Los_Angeles
+97021,45.39048,-121.13425,Dufur,America/Los_Angeles
+97022,45.34562,-122.3306,Eagle Creek,America/Los_Angeles
+97023,45.19147,-122.20501,Estacada,America/Los_Angeles
+97024,45.54576,-122.44142,Fairview,America/Los_Angeles
+97026,45.10409,-122.94251,Gervais,America/Los_Angeles
+97027,45.38697,-122.59271,Gladstone,America/Los_Angeles
+97028,45.28225,-121.75274,Government Camp,America/Los_Angeles
+97029,45.29901,-120.81003,Grass Valley,America/Los_Angeles
+97030,45.50896,-122.43135,Gresham,America/Los_Angeles
+97031,45.61193,-121.61094,Hood River,America/Los_Angeles
+97032,45.17949,-122.78559,Hubbard,America/Los_Angeles
+97033,45.23361,-120.5876,Kent,America/Los_Angeles
+97034,45.4095,-122.68467,Lake Oswego,America/Los_Angeles
+97035,45.41291,-122.72616,Lake Oswego,America/Los_Angeles
+97037,45.06567,-121.03141,Maupin,America/Los_Angeles
+97038,45.08575,-122.55288,Molalla,America/Los_Angeles
+97039,45.47226,-120.62428,Moro,America/Los_Angeles
+97040,45.62648,-121.38476,Mosier,America/Los_Angeles
+97041,45.41655,-121.59617,Mount Hood Parkdale,America/Los_Angeles
+97042,45.20679,-122.53247,Mulino,America/Los_Angeles
+97045,45.32834,-122.53058,Oregon City,America/Los_Angeles
+97048,46.03905,-122.99483,Rainier,America/Los_Angeles
+97049,45.35931,-121.86829,Rhododendron,America/Los_Angeles
+97050,45.68256,-120.7727,Rufus,America/Los_Angeles
+97051,45.88902,-122.92011,Saint Helens,America/Los_Angeles
+97053,45.82695,-122.88401,Warren,America/Los_Angeles
+97054,45.95406,-122.92995,Deer Island,America/Los_Angeles
+97055,45.35975,-122.15396,Sandy,America/Los_Angeles
+97056,45.78935,-122.96941,Scappoose,America/Los_Angeles
+97057,45.00422,-120.7516,Shaniko,America/Los_Angeles
+97058,45.54239,-121.15447,The Dalles,America/Los_Angeles
+97060,45.5342,-122.36989,Troutdale,America/Los_Angeles
+97062,45.36821,-122.76169,Tualatin,America/Los_Angeles
+97063,45.22319,-121.28306,Tygh Valley,America/Los_Angeles
+97064,45.87276,-123.2309,Vernonia,America/Los_Angeles
+97065,45.59803,-120.65696,Wasco,America/Los_Angeles
+97067,45.31302,-121.97733,Welches,America/Los_Angeles
+97068,45.35195,-122.66876,West Linn,America/Los_Angeles
+97070,45.308,-122.77059,Wilsonville,America/Los_Angeles
+97071,45.13588,-122.82344,Woodburn,America/Los_Angeles
+97078,45.47628,-122.89088,Beaverton,America/Los_Angeles
+97080,45.47848,-122.39001,Gresham,America/Los_Angeles
+97086,45.44531,-122.52793,Happy Valley,America/Los_Angeles
+97089,45.4256,-122.44342,Damascus,America/Los_Angeles
+97101,45.09225,-123.21557,Amity,America/Los_Angeles
+97102,45.7934,-123.94793,Arch Cape,America/Los_Angeles
+97103,46.13327,-123.69648,Astoria,America/Los_Angeles
+97106,45.65419,-123.13417,Banks,America/Los_Angeles
+97107,45.56172,-123.88291,Bay City,America/Los_Angeles
+97108,45.27423,-123.67544,Beaver,America/Los_Angeles
+97109,45.73777,-123.1946,Buxton,America/Los_Angeles
+97110,45.89186,-123.95128,Cannon Beach,America/Los_Angeles
+97111,45.29012,-123.19855,Carlton,America/Los_Angeles
+97112,45.26218,-123.86629,Cloverdale,America/Los_Angeles
+97113,45.50746,-123.04544,Cornelius,America/Los_Angeles
+97114,45.18381,-123.07172,Dayton,America/Los_Angeles
+97115,45.27573,-123.02682,Dundee,America/Los_Angeles
+97116,45.59054,-123.18876,Forest Grove,America/Los_Angeles
+97117,45.62189,-123.31132,Gales Creek,America/Los_Angeles
+97118,45.55697,-123.91619,Garibaldi,America/Los_Angeles
+97119,45.4717,-123.20781,Gaston,America/Los_Angeles
+97121,46.19347,-123.97141,Hammond,America/Los_Angeles
+97122,45.17331,-123.8164,Hebo,America/Los_Angeles
+97123,45.44353,-122.98048,Hillsboro,America/Los_Angeles
+97124,45.57088,-122.94584,Hillsboro,America/Los_Angeles
+97125,45.66243,-123.21117,Manning,America/Los_Angeles
+97127,45.24629,-123.11159,Lafayette,America/Los_Angeles
+97128,45.19814,-123.25812,Mcminnville,America/Los_Angeles
+97130,45.71592,-123.93318,Manzanita,America/Los_Angeles
+97131,45.71495,-123.8107,Nehalem,America/Los_Angeles
+97132,45.32272,-122.98854,Newberg,America/Los_Angeles
+97133,45.68719,-123.02861,North Plains,America/Los_Angeles
+97134,45.45587,-123.96513,Oceanside,America/Los_Angeles
+97135,45.18749,-123.95494,Pacific City,America/Los_Angeles
+97136,45.6341,-123.91353,Rockaway Beach,America/Los_Angeles
+97137,45.21028,-122.9635,Saint Paul,America/Los_Angeles
+97138,45.90946,-123.70036,Seaside,America/Los_Angeles
+97140,45.35359,-122.86339,Sherwood,America/Los_Angeles
+97141,45.47142,-123.73791,Tillamook,America/Los_Angeles
+97144,45.74349,-123.30305,Timber,America/Los_Angeles
+97145,45.84357,-123.9516,Tolovana Park,America/Los_Angeles
+97146,46.11849,-123.91399,Warrenton,America/Los_Angeles
+97147,45.6871,-123.8873,Wheeler,America/Los_Angeles
+97148,45.35988,-123.26553,Yamhill,America/Los_Angeles
+97149,45.09957,-123.94455,Neskowin,America/Los_Angeles
+97201,45.50796,-122.68959,Portland,America/Los_Angeles
+97202,45.48232,-122.64365,Portland,America/Los_Angeles
+97203,45.60764,-122.74923,Portland,America/Los_Angeles
+97204,45.5183,-122.67378,Portland,America/Los_Angeles
+97205,45.51924,-122.70127,Portland,America/Los_Angeles
+97206,45.48173,-122.5988,Portland,America/Los_Angeles
+97208,45.52866,-122.67898,Portland,America/Los_Angeles
+97209,45.53093,-122.68429,Portland,America/Los_Angeles
+97210,45.54954,-122.73549,Portland,America/Los_Angeles
+97211,45.58174,-122.63548,Portland,America/Los_Angeles
+97212,45.54428,-122.64322,Portland,America/Los_Angeles
+97213,45.53776,-122.59957,Portland,America/Los_Angeles
+97214,45.51395,-122.64424,Portland,America/Los_Angeles
+97215,45.51436,-122.59923,Portland,America/Los_Angeles
+97216,45.51393,-122.5585,Portland,America/Los_Angeles
+97217,45.59686,-122.69717,Portland,America/Los_Angeles
+97218,45.5759,-122.60023,Portland,America/Los_Angeles
+97219,45.45413,-122.69972,Portland,America/Los_Angeles
+97220,45.55107,-122.55915,Portland,America/Los_Angeles
+97221,45.49799,-122.72749,Portland,America/Los_Angeles
+97222,45.44114,-122.61682,Portland,America/Los_Angeles
+97223,45.44023,-122.77838,Portland,America/Los_Angeles
+97224,45.40568,-122.7958,Portland,America/Los_Angeles
+97225,45.502,-122.76994,Portland,America/Los_Angeles
+97227,45.54432,-122.67721,Portland,America/Los_Angeles
+97229,45.55032,-122.81026,Portland,America/Los_Angeles
+97230,45.5582,-122.506,Portland,America/Los_Angeles
+97231,45.68197,-122.82687,Portland,America/Los_Angeles
+97232,45.5292,-122.64376,Portland,America/Los_Angeles
+97233,45.51391,-122.49887,Portland,America/Los_Angeles
+97236,45.48474,-122.51055,Portland,America/Los_Angeles
+97239,45.48893,-122.69053,Portland,America/Los_Angeles
+97266,45.48268,-122.55838,Portland,America/Los_Angeles
+97267,45.40744,-122.61472,Portland,America/Los_Angeles
+97301,44.94948,-123.00439,Salem,America/Los_Angeles
+97302,44.90191,-123.06719,Salem,America/Los_Angeles
+97303,45.03036,-123.02449,Salem,America/Los_Angeles
+97304,45.0078,-123.1078,Salem,America/Los_Angeles
+97305,45.01573,-122.92909,Salem,America/Los_Angeles
+97306,44.84585,-123.07972,Salem,America/Los_Angeles
+97310,44.90048,-122.97436,Salem,America/Los_Angeles
+97317,44.90242,-122.90628,Salem,America/Los_Angeles
+97321,44.64994,-123.13474,Albany,America/Los_Angeles
+97322,44.62524,-123.01975,Albany,America/Los_Angeles
+97324,44.34345,-123.63042,Alsea,America/Los_Angeles
+97325,44.83141,-122.85195,Aumsville,America/Los_Angeles
+97326,44.62794,-123.61573,Blodgett,America/Los_Angeles
+97327,44.37567,-122.94783,Brownsville,America/Los_Angeles
+97329,44.3956,-122.33698,Cascadia,America/Los_Angeles
+97330,44.63796,-123.27814,Corvallis,America/Los_Angeles
+97331,44.56343,-123.28113,Corvallis,America/Los_Angeles
+97333,44.4735,-123.3067,Corvallis,America/Los_Angeles
+97335,44.63776,-122.88045,Crabtree,America/Los_Angeles
+97336,44.35669,-122.85092,Crawfordsville,America/Los_Angeles
+97338,44.93654,-123.33868,Dallas,America/Los_Angeles
+97341,44.81525,-124.04513,Depoe Bay,America/Los_Angeles
+97342,44.73382,-121.94524,Detroit,America/Los_Angeles
+97343,44.56934,-123.73091,Eddyville,America/Los_Angeles
+97344,44.86887,-123.46596,Falls City,America/Los_Angeles
+97345,44.4126,-122.57644,Foster,America/Los_Angeles
+97346,44.76948,-122.37857,Gates,America/Los_Angeles
+97347,45.07836,-123.65943,Grand Ronde,America/Los_Angeles
+97348,44.38768,-123.12582,Halsey,America/Los_Angeles
+97350,44.64786,-121.96146,Idanha,America/Los_Angeles
+97351,44.83857,-123.17449,Independence,America/Los_Angeles
+97352,44.75009,-123.02419,Jefferson,America/Los_Angeles
+97355,44.5315,-122.81701,Lebanon,America/Los_Angeles
+97357,44.73934,-123.81592,Logsden,America/Los_Angeles
+97358,44.80681,-122.40702,Lyons,America/Los_Angeles
+97360,44.7515,-122.48529,Mill City,America/Los_Angeles
+97361,44.77251,-123.32999,Monmouth,America/Los_Angeles
+97362,45.06903,-122.7692,Mount Angel,America/Los_Angeles
+97364,44.99889,-123.98703,Neotsu,America/Los_Angeles
+97365,44.67113,-124.01825,Newport,America/Los_Angeles
+97366,44.58288,-124.04748,South Beach,America/Los_Angeles
+97367,44.9122,-123.96914,Lincoln City,America/Los_Angeles
+97368,45.0073,-123.89155,Otis,America/Los_Angeles
+97369,44.76015,-124.05676,Otter Rock,America/Los_Angeles
+97370,44.57901,-123.46907,Philomath,America/Los_Angeles
+97371,44.98985,-123.1994,Rickreall,America/Los_Angeles
+97373,45.05819,-122.77677,Saint Benedict,America/Los_Angeles
+97374,44.69285,-122.77379,Scio,America/Los_Angeles
+97375,44.97922,-122.6021,Scotts Mills,America/Los_Angeles
+97376,44.50854,-123.9768,Seal Rock,America/Los_Angeles
+97377,44.46403,-123.10156,Shedd,America/Los_Angeles
+97378,45.08058,-123.43127,Sheridan,America/Los_Angeles
+97380,44.77268,-123.94202,Siletz,America/Los_Angeles
+97381,44.97014,-122.74749,Silverton,America/Los_Angeles
+97383,44.80014,-122.71836,Stayton,America/Los_Angeles
+97384,44.79109,-122.62007,Mehama,America/Los_Angeles
+97385,44.86633,-122.72924,Sublimity,America/Los_Angeles
+97386,44.36062,-122.75076,Sweet Home,America/Los_Angeles
+97388,44.87418,-124.01169,Gleneden Beach,America/Los_Angeles
+97389,44.53269,-123.09028,Tangent,America/Los_Angeles
+97390,44.33781,-123.85717,Tidewater,America/Los_Angeles
+97391,44.59593,-123.8816,Toledo,America/Los_Angeles
+97392,44.79096,-122.9413,Turner,America/Los_Angeles
+97394,44.40607,-124.00258,Waldport,America/Los_Angeles
+97396,45.11528,-123.5275,Willamina,America/Los_Angeles
+97401,44.06803,-123.08171,Eugene,America/Los_Angeles
+97402,44.05193,-123.23022,Eugene,America/Los_Angeles
+97403,44.03541,-123.05247,Eugene,America/Los_Angeles
+97404,44.10518,-123.13315,Eugene,America/Los_Angeles
+97405,43.95528,-123.167,Eugene,America/Los_Angeles
+97406,42.62638,-123.99867,Agness,America/Los_Angeles
+97408,44.14435,-123.05452,Eugene,America/Los_Angeles
+97410,42.80159,-123.11931,Azalea,America/Los_Angeles
+97411,43.07557,-124.3624,Bandon,America/Los_Angeles
+97412,44.19625,-123.56106,Blachly,America/Los_Angeles
+97413,44.09633,-122.01513,Blue River,America/Los_Angeles
+97414,42.96653,-124.15026,Broadbent,America/Los_Angeles
+97415,42.13977,-124.13506,Brookings,America/Los_Angeles
+97416,43.03524,-123.69123,Camas Valley,America/Los_Angeles
+97417,42.94014,-123.21802,Canyonville,America/Los_Angeles
+97419,44.1793,-123.40719,Cheshire,America/Los_Angeles
+97420,43.34839,-124.10825,Coos Bay,America/Los_Angeles
+97423,43.19137,-124.17177,Coquille,America/Los_Angeles
+97424,43.74712,-123.05496,Cottage Grove,America/Los_Angeles
+97426,43.90313,-123.02781,Creswell,America/Los_Angeles
+97429,42.96778,-123.05442,Days Creek,America/Los_Angeles
+97430,44.15507,-123.71175,Deadwood,America/Los_Angeles
+97431,43.87135,-122.81576,Dexter,America/Los_Angeles
+97432,43.10445,-123.4294,Dillard,America/Los_Angeles
+97434,43.66553,-122.78211,Dorena,America/Los_Angeles
+97435,43.7016,-123.33839,Drain,America/Los_Angeles
+97436,43.63958,-123.58256,Elkton,America/Los_Angeles
+97437,44.09734,-123.38731,Elmira,America/Los_Angeles
+97438,43.96068,-122.65546,Fall Creek,America/Los_Angeles
+97439,44.06573,-124.03705,Florence,America/Los_Angeles
+97441,43.77659,-124.14414,Gardiner,America/Los_Angeles
+97442,42.76982,-123.40365,Glendale,America/Los_Angeles
+97443,43.25014,-123.00255,Glide,America/Los_Angeles
+97444,42.44453,-124.33223,Gold Beach,America/Los_Angeles
+97446,44.26804,-123.05548,Harrisburg,America/Los_Angeles
+97447,43.28409,-122.49807,Idleyld Park,America/Los_Angeles
+97448,44.2105,-123.27882,Junction City,America/Los_Angeles
+97449,43.57571,-124.08581,Lakeside,America/Los_Angeles
+97450,42.91026,-124.37398,Langlois,America/Los_Angeles
+97451,43.83998,-123.31383,Lorane,America/Los_Angeles
+97452,43.88564,-122.72259,Lowell,America/Los_Angeles
+97453,43.99422,-123.86344,Mapleton,America/Los_Angeles
+97454,44.21806,-122.8191,Marcola,America/Los_Angeles
+97455,43.96212,-122.91493,Pleasant Hill,America/Los_Angeles
+97456,44.34036,-123.35893,Monroe,America/Los_Angeles
+97457,43.05484,-123.2229,Myrtle Creek,America/Los_Angeles
+97458,43.06372,-124.01287,Myrtle Point,America/Los_Angeles
+97459,43.47444,-124.18216,North Bend,America/Los_Angeles
+97461,44.09789,-123.48993,Noti,America/Los_Angeles
+97462,43.49047,-123.38828,Oakland,America/Los_Angeles
+97463,43.73951,-122.40591,Oakridge,America/Los_Angeles
+97465,42.7376,-124.3795,Port Orford,America/Los_Angeles
+97466,42.86459,-124.08632,Powers,America/Los_Angeles
+97467,43.73557,-123.90442,Reedsport,America/Los_Angeles
+97469,42.91994,-123.41459,Riddle,America/Los_Angeles
+97470,43.23288,-123.23111,Roseburg,America/Los_Angeles
+97471,43.22215,-123.47486,Roseburg,America/Los_Angeles
+97473,43.6773,-123.8726,Scottsburg,America/Los_Angeles
+97476,42.84075,-124.43806,Sixes,America/Los_Angeles
+97477,44.05861,-123.01126,Springfield,America/Los_Angeles
+97478,44.08781,-122.84478,Springfield,America/Los_Angeles
+97479,43.40194,-123.19426,Sutherlin,America/Los_Angeles
+97480,44.1303,-123.83213,Swisshome,America/Los_Angeles
+97481,43.11376,-123.55237,Tenmile,America/Los_Angeles
+97484,42.93373,-122.84585,Tiller,America/Los_Angeles
+97486,43.37778,-123.5351,Umpqua,America/Los_Angeles
+97487,43.99441,-123.39303,Veneta,America/Los_Angeles
+97488,44.13077,-122.41198,Vida,America/Los_Angeles
+97489,44.10986,-122.61962,Walterville,America/Los_Angeles
+97490,44.00795,-123.60522,Walton,America/Los_Angeles
+97492,43.77168,-122.49868,Westfir,America/Los_Angeles
+97493,43.90256,-124.01602,Westlake,America/Los_Angeles
+97494,43.33059,-123.32779,Wilbur,America/Los_Angeles
+97495,43.28765,-123.30463,Winchester,America/Los_Angeles
+97496,43.05261,-123.49992,Winston,America/Los_Angeles
+97497,42.66015,-123.40929,Wolf Creek,America/Los_Angeles
+97498,44.27728,-124.01901,Yachats,America/Los_Angeles
+97499,43.59495,-123.23356,Yoncalla,America/Los_Angeles
+97501,42.2856,-122.89459,Medford,America/Los_Angeles
+97502,42.40927,-122.94718,Central Point,America/Los_Angeles
+97503,42.5836,-122.92721,White City,America/Los_Angeles
+97504,42.32757,-122.80068,Medford,America/Los_Angeles
+97520,42.15472,-122.53168,Ashland,America/Los_Angeles
+97522,42.56594,-122.46886,Butte Falls,America/Los_Angeles
+97523,42.11349,-123.62961,Cave Junction,America/Los_Angeles
+97524,42.46271,-122.66327,Eagle Point,America/Los_Angeles
+97525,42.43557,-123.07606,Gold Hill,America/Los_Angeles
+97526,42.51275,-123.33964,Grants Pass,America/Los_Angeles
+97527,42.37615,-123.38288,Grants Pass,America/Los_Angeles
+97530,42.13778,-123.10507,Jacksonville,America/Los_Angeles
+97531,42.20739,-123.64391,Kerby,America/Los_Angeles
+97532,42.56142,-123.58586,Merlin,America/Los_Angeles
+97534,42.03616,-123.71641,O'Brien,America/Los_Angeles
+97535,42.26799,-122.81238,Phoenix,America/Los_Angeles
+97536,42.78455,-122.50802,Prospect,America/Los_Angeles
+97537,42.55041,-123.13357,Rogue River,America/Los_Angeles
+97538,42.29623,-123.65723,Selma,America/Los_Angeles
+97539,42.59999,-122.79024,Shady Cove,America/Los_Angeles
+97540,42.18615,-122.80027,Talent,America/Los_Angeles
+97541,42.72983,-122.75359,Trail,America/Los_Angeles
+97543,42.37724,-123.56031,Wilderville,America/Los_Angeles
+97544,42.207,-123.30006,Williams,America/Los_Angeles
+97601,42.44404,-122.06741,Klamath Falls,America/Los_Angeles
+97603,42.13704,-121.67766,Klamath Falls,America/Los_Angeles
+97604,42.97778,-122.20674,Crater Lake,America/Los_Angeles
+97620,42.223,-119.89677,Adel,America/Los_Angeles
+97621,42.51504,-121.2881,Beatty,America/Los_Angeles
+97622,42.39667,-121.01032,Bly,America/Los_Angeles
+97623,42.19905,-121.31016,Bonanza,America/Los_Angeles
+97624,42.72121,-121.69415,Chiloquin,America/Los_Angeles
+97625,42.31507,-121.58402,Dairy,America/Los_Angeles
+97626,42.72488,-122.02011,Fort Klamath,America/Los_Angeles
+97627,42.08036,-122.05796,Keno,America/Los_Angeles
+97630,42.29832,-120.39166,Lakeview,America/Los_Angeles
+97632,42.04175,-121.40597,Malin,America/Los_Angeles
+97633,42.03014,-121.56328,Merrill,America/Los_Angeles
+97634,42.12747,-121.80348,Midland,America/Los_Angeles
+97635,41.93173,-120.29974,New Pine Creek,America/Los_Angeles
+97636,42.68775,-120.56746,Paisley,America/Los_Angeles
+97637,42.46142,-119.92486,Plush,America/Los_Angeles
+97638,43.1458,-121.01156,Silver Lake,America/Los_Angeles
+97639,42.43435,-121.49845,Sprague River,America/Los_Angeles
+97640,42.90742,-120.65381,Summer Lake,America/Los_Angeles
+97641,43.28742,-120.53809,Christmas Valley,America/Los_Angeles
+97701,44.00065,-121.03289,Bend,America/Los_Angeles
+97702,43.98336,-121.21083,Bend,America/Los_Angeles
+97703,44.07281,-121.51971,Bend,America/Los_Angeles
+97707,43.83031,-121.49365,Bend,America/Los_Angeles
+97709,43.89338,-121.85627,Bend,America/Los_Angeles
+97710,42.15095,-118.53902,Fields,America/Los_Angeles
+97711,44.7239,-120.63489,Ashwood,America/Los_Angeles
+97712,43.77825,-120.42866,Brothers,America/Los_Angeles
+97720,43.58799,-118.85806,Burns,America/Los_Angeles
+97721,42.88772,-118.52635,Princeton,America/Los_Angeles
+97722,42.95733,-118.69241,Diamond,America/Los_Angeles
+97730,44.52265,-121.64535,Camp Sherman,America/Los_Angeles
+97731,43.1315,-121.92089,Chemult,America/Los_Angeles
+97732,43.41369,-118.40265,Crane,America/Los_Angeles
+97733,43.38441,-121.94778,Crescent,America/Los_Angeles
+97734,44.53502,-121.33395,Culver,America/Los_Angeles
+97735,43.39014,-120.99224,Fort Rock,America/Los_Angeles
+97736,42.66655,-118.92058,Frenchglen,America/Los_Angeles
+97737,43.50897,-121.71917,Gilchrist,America/Los_Angeles
+97738,43.51218,-119.25078,Hines,America/Los_Angeles
+97739,43.67259,-121.48693,La Pine,America/Los_Angeles
+97741,44.65771,-121.04291,Madras,America/Los_Angeles
+97750,44.67037,-120.12704,Mitchell,America/Los_Angeles
+97751,44.14856,-119.81945,Paulina,America/Los_Angeles
+97752,44.14094,-120.20584,Post,America/Los_Angeles
+97753,44.22625,-120.99996,Powell Butte,America/Los_Angeles
+97754,44.13577,-120.52848,Prineville,America/Los_Angeles
+97756,44.28079,-121.19335,Redmond,America/Los_Angeles
+97758,43.41449,-119.74859,Riley,America/Los_Angeles
+97759,44.44428,-121.76823,Sisters,America/Los_Angeles
+97760,44.38662,-121.23323,Terrebonne,America/Los_Angeles
+97761,44.8433,-121.29807,Warm Springs,America/Los_Angeles
+97801,45.67317,-118.83362,Pendleton,America/Los_Angeles
+97810,45.6725,-118.39642,Adams,America/Los_Angeles
+97812,45.58138,-120.21907,Arlington,America/Los_Angeles
+97813,45.85305,-118.52802,Athena,America/Los_Angeles
+97814,44.80075,-117.77034,Baker City,America/Los_Angeles
+97817,44.6555,-118.60816,Bates,America/Los_Angeles
+97818,45.7567,-119.78444,Boardman,America/Los_Angeles
+97819,44.48603,-117.76317,Bridgeport,America/Los_Angeles
+97820,44.16327,-119.21436,Canyon City,America/Los_Angeles
+97823,45.24334,-120.19097,Condon,America/Los_Angeles
+97824,45.34992,-117.75506,Cove,America/Los_Angeles
+97825,44.38804,-119.51852,Dayville,America/Los_Angeles
+97826,45.65508,-119.22586,Echo,America/Los_Angeles
+97827,45.60854,-117.85886,Elgin,America/Los_Angeles
+97828,45.71382,-117.25971,Enterprise,America/Los_Angeles
+97830,44.9779,-120.17165,Fossil,America/Los_Angeles
+97833,44.93471,-118.05951,Haines,America/Los_Angeles
+97834,44.97251,-117.20509,Halfway,America/Los_Angeles
+97835,45.8992,-118.772,Helix,America/Los_Angeles
+97836,45.29166,-119.50144,Heppner,America/Los_Angeles
+97837,44.51127,-118.0483,Hereford,America/Los_Angeles
+97838,45.85266,-119.28878,Hermiston,America/Los_Angeles
+97839,45.58272,-119.60005,Lexington,America/Los_Angeles
+97840,44.90218,-116.93608,Oxbow,America/Boise
+97841,45.46823,-117.94035,Imbler,America/Los_Angeles
+97842,45.57223,-116.82384,Imnaha,America/Los_Angeles
+97843,45.50479,-119.88066,Ione,America/Los_Angeles
+97844,45.87867,-119.54676,Irrigon,America/Los_Angeles
+97845,44.41445,-118.90372,John Day,America/Los_Angeles
+97846,45.27465,-117.10956,Joseph,America/Los_Angeles
+97848,44.69761,-119.57336,Kimberly,America/Los_Angeles
+97850,45.30689,-118.13265,La Grande,America/Los_Angeles
+97856,44.78426,-119.12976,Long Creek,America/Los_Angeles
+97857,45.37273,-117.50418,Lostine,America/Los_Angeles
+97859,45.5258,-118.43209,Meacham,America/Los_Angeles
+97862,45.92712,-118.31797,Milton Freewater,America/Los_Angeles
+97864,44.83842,-119.45471,Monument,America/Los_Angeles
+97865,44.42949,-119.19192,Mount Vernon,America/Los_Angeles
+97867,45.0627,-117.997,North Powder,America/Los_Angeles
+97868,45.40815,-118.86964,Pilot Rock,America/Los_Angeles
+97869,44.37993,-118.61425,Prairie City,America/Los_Angeles
+97870,44.79434,-117.19033,Richland,America/Los_Angeles
+97873,44.12837,-118.99505,Seneca,America/Los_Angeles
+97874,44.75783,-119.84828,Spray,America/Los_Angeles
+97875,45.81481,-119.14898,Stanfield,America/Los_Angeles
+97876,45.52237,-118.02811,Summerville,America/Los_Angeles
+97877,44.80662,-118.38766,Sumpter,America/Los_Angeles
+97880,45.08631,-118.89269,Ukiah,America/Los_Angeles
+97882,45.90741,-119.34944,Umatilla,America/Los_Angeles
+97883,45.14264,-117.64047,Union,America/Los_Angeles
+97884,44.44975,-118.21895,Unity,America/Los_Angeles
+97885,45.65073,-117.50972,Wallowa,America/Los_Angeles
+97886,45.79604,-118.24924,Weston,America/Los_Angeles
+97901,43.5996,-117.09602,Adrian,America/Boise
+97902,42.91332,-117.49412,Arock,America/Boise
+97903,44.27772,-117.59775,Brogan,America/Boise
+97904,43.89136,-118.50581,Drewsey,America/Los_Angeles
+97905,44.58183,-117.4654,Durkee,America/Los_Angeles
+97906,43.46049,-117.81783,Harper,America/Boise
+97907,44.41893,-117.35568,Huntington,America/Los_Angeles
+97908,44.25679,-117.94828,Ironside,America/Boise
+97909,44.21096,-117.37909,Jamieson,America/Boise
+97910,42.85733,-117.50909,Jordan Valley,America/Boise
+97911,43.85547,-118.02605,Juntura,America/Boise
+97913,43.64688,-117.28131,Nyssa,America/Boise
+97914,44.11085,-117.07383,Ontario,America/Boise
+97917,43.5415,-118.11651,Riverside,America/Boise
+97918,43.96255,-117.38073,Vale,America/Boise
+97920,44.06595,-117.75997,Westfall,America/Boise
+98001,47.30919,-122.26426,Auburn,America/Los_Angeles
+98002,47.3082,-122.21567,Auburn,America/Los_Angeles
+98003,47.30596,-122.31465,Federal Way,America/Los_Angeles
+98004,47.61865,-122.20548,Bellevue,America/Los_Angeles
+98005,47.61494,-122.16814,Bellevue,America/Los_Angeles
+98006,47.55772,-122.14957,Bellevue,America/Los_Angeles
+98007,47.61392,-122.14378,Bellevue,America/Los_Angeles
+98008,47.60551,-122.11219,Bellevue,America/Los_Angeles
+98010,47.31173,-122.00326,Black Diamond,America/Los_Angeles
+98011,47.75736,-122.19871,Bothell,America/Los_Angeles
+98012,47.84205,-122.19813,Bothell,America/Los_Angeles
+98014,47.69664,-121.84024,Carnation,America/Los_Angeles
+98019,47.74083,-121.93494,Duvall,America/Los_Angeles
+98020,47.80015,-122.37267,Edmonds,America/Los_Angeles
+98021,47.79257,-122.20846,Bothell,America/Los_Angeles
+98022,47.1714,-121.67958,Enumclaw,America/Los_Angeles
+98023,47.30881,-122.36198,Federal Way,America/Los_Angeles
+98024,47.57301,-121.90219,Fall City,America/Los_Angeles
+98025,47.43441,-121.9524,Hobart,America/Los_Angeles
+98026,47.83555,-122.3316,Edmonds,America/Los_Angeles
+98027,47.50387,-122.00176,Issaquah,America/Los_Angeles
+98028,47.75162,-122.24892,Kenmore,America/Los_Angeles
+98029,47.5576,-122.0091,Issaquah,America/Los_Angeles
+98030,47.36817,-122.19749,Kent,America/Los_Angeles
+98031,47.4055,-122.1943,Kent,America/Los_Angeles
+98032,47.3922,-122.25819,Kent,America/Los_Angeles
+98033,47.67616,-122.19267,Kirkland,America/Los_Angeles
+98034,47.71612,-122.21332,Kirkland,America/Los_Angeles
+98036,47.81094,-122.28155,Lynnwood,America/Los_Angeles
+98037,47.83873,-122.28463,Lynnwood,America/Los_Angeles
+98038,47.41861,-121.95589,Maple Valley,America/Los_Angeles
+98039,47.63308,-122.23963,Medina,America/Los_Angeles
+98040,47.56611,-122.232,Mercer Island,America/Los_Angeles
+98042,47.36508,-122.11623,Kent,America/Los_Angeles
+98043,47.7921,-122.30758,Mountlake Terrace,America/Los_Angeles
+98045,47.48276,-121.65678,North Bend,America/Los_Angeles
+98047,47.26079,-122.24822,Pacific,America/Los_Angeles
+98050,47.54764,-121.93663,Preston,America/Los_Angeles
+98051,47.3396,-121.89049,Ravensdale,America/Los_Angeles
+98052,47.68148,-122.1203,Redmond,America/Los_Angeles
+98053,47.66491,-122.02071,Redmond,America/Los_Angeles
+98055,47.44775,-122.20205,Renton,America/Los_Angeles
+98056,47.51281,-122.18923,Renton,America/Los_Angeles
+98057,47.47188,-122.21961,Renton,America/Los_Angeles
+98058,47.44082,-122.12503,Renton,America/Los_Angeles
+98059,47.49563,-122.12474,Renton,America/Los_Angeles
+98065,47.59234,-121.78931,Snoqualmie,America/Los_Angeles
+98068,47.45154,-121.35795,Snoqualmie Pass,America/Los_Angeles
+98070,47.41219,-122.4726,Vashon,America/Los_Angeles
+98072,47.76151,-122.13153,Woodinville,America/Los_Angeles
+98074,47.62206,-122.04437,Sammamish,America/Los_Angeles
+98075,47.58683,-122.03796,Sammamish,America/Los_Angeles
+98077,47.75263,-122.05754,Woodinville,America/Los_Angeles
+98087,47.8624,-122.2664,Lynnwood,America/Los_Angeles
+98092,47.28851,-122.13123,Auburn,America/Los_Angeles
+98101,47.61119,-122.33454,Seattle,America/Los_Angeles
+98102,47.63627,-122.32337,Seattle,America/Los_Angeles
+98103,47.6732,-122.34258,Seattle,America/Los_Angeles
+98104,47.60044,-122.33004,Seattle,America/Los_Angeles
+98105,47.66094,-122.28321,Seattle,America/Los_Angeles
+98106,47.54339,-122.35366,Seattle,America/Los_Angeles
+98107,47.66757,-122.37789,Seattle,America/Los_Angeles
+98108,47.54113,-122.3126,Seattle,America/Los_Angeles
+98109,47.63128,-122.34486,Seattle,America/Los_Angeles
+98110,47.64389,-122.54335,Bainbridge Island,America/Los_Angeles
+98112,47.63242,-122.28732,Seattle,America/Los_Angeles
+98115,47.68547,-122.28234,Seattle,America/Los_Angeles
+98116,47.57399,-122.39503,Seattle,America/Los_Angeles
+98117,47.6882,-122.38157,Seattle,America/Los_Angeles
+98118,47.54235,-122.26872,Seattle,America/Los_Angeles
+98119,47.63943,-122.36932,Seattle,America/Los_Angeles
+98121,47.61548,-122.34668,Seattle,America/Los_Angeles
+98122,47.60985,-122.29569,Seattle,America/Los_Angeles
+98125,47.71706,-122.29969,Seattle,America/Los_Angeles
+98126,47.54732,-122.37454,Seattle,America/Los_Angeles
+98133,47.7399,-122.34432,Seattle,America/Los_Angeles
+98134,47.57691,-122.33686,Seattle,America/Los_Angeles
+98136,47.53686,-122.38992,Seattle,America/Los_Angeles
+98144,47.58582,-122.29205,Seattle,America/Los_Angeles
+98146,47.50008,-122.35768,Seattle,America/Los_Angeles
+98148,47.44494,-122.32587,Seattle,America/Los_Angeles
+98154,47.60621,-122.33379,Seattle,America/Los_Angeles
+98155,47.75609,-122.30039,Seattle,America/Los_Angeles
+98158,47.45043,-122.30805,Seattle,America/Los_Angeles
+98164,47.60596,-122.33203,Seattle,America/Los_Angeles
+98166,47.45256,-122.34978,Seattle,America/Los_Angeles
+98168,47.48898,-122.30175,Seattle,America/Los_Angeles
+98174,47.60477,-122.33528,Seattle,America/Los_Angeles
+98177,47.74237,-122.37085,Seattle,America/Los_Angeles
+98178,47.49921,-122.24735,Seattle,America/Los_Angeles
+98188,47.44754,-122.27398,Seattle,America/Los_Angeles
+98195,47.65466,-122.30752,Seattle,America/Los_Angeles
+98198,47.39469,-122.31111,Seattle,America/Los_Angeles
+98199,47.65139,-122.40223,Seattle,America/Los_Angeles
+98201,47.99373,-122.18563,Everett,America/Los_Angeles
+98203,47.94236,-122.23651,Everett,America/Los_Angeles
+98204,47.90105,-122.2586,Everett,America/Los_Angeles
+98207,47.98793,-122.2229,Everett,America/Los_Angeles
+98208,47.90072,-122.18852,Everett,America/Los_Angeles
+98220,48.68526,-122.19678,Acme,America/Los_Angeles
+98221,48.50401,-122.65435,Anacortes,America/Los_Angeles
+98222,48.56085,-122.80263,Blakely Island,America/Los_Angeles
+98223,48.20994,-121.95081,Arlington,America/Los_Angeles
+98224,47.7357,-121.56859,Baring,America/Los_Angeles
+98225,48.75461,-122.50307,Bellingham,America/Los_Angeles
+98226,48.80064,-122.42299,Bellingham,America/Los_Angeles
+98229,48.69615,-122.40979,Bellingham,America/Los_Angeles
+98230,48.95688,-122.7084,Blaine,America/Los_Angeles
+98232,48.56531,-122.41498,Bow,America/Los_Angeles
+98233,48.50309,-122.35102,Burlington,America/Los_Angeles
+98235,48.4602,-122.22846,Clearlake,America/Los_Angeles
+98236,47.95804,-122.40468,Clinton,America/Los_Angeles
+98237,48.53272,-121.69748,Concrete,America/Los_Angeles
+98238,48.33563,-122.34444,Conway,America/Los_Angeles
+98239,48.18926,-122.65756,Coupeville,America/Los_Angeles
+98240,48.94711,-122.62061,Custer,America/Los_Angeles
+98241,48.21425,-121.33219,Darrington,America/Los_Angeles
+98243,48.61512,-122.99882,Deer Harbor,America/Los_Angeles
+98244,48.79423,-121.93557,Deming,America/Los_Angeles
+98245,48.66241,-122.91616,Eastsound,America/Los_Angeles
+98247,48.90459,-122.31732,Everson,America/Los_Angeles
+98248,48.86494,-122.62211,Ferndale,America/Los_Angeles
+98249,48.01888,-122.53947,Freeland,America/Los_Angeles
+98250,48.55264,-123.09631,Friday Harbor,America/Los_Angeles
+98251,47.89812,-121.55752,Gold Bar,America/Los_Angeles
+98252,48.06173,-121.70939,Granite Falls,America/Los_Angeles
+98253,48.079,-122.57568,Greenbank,America/Los_Angeles
+98255,48.52353,-121.99203,Hamilton,America/Los_Angeles
+98256,47.82883,-121.41464,Index,America/Los_Angeles
+98257,48.415,-122.50879,La Conner,America/Los_Angeles
+98258,48.03252,-122.07762,Lake Stevens,America/Los_Angeles
+98260,48.03074,-122.45106,Langley,America/Los_Angeles
+98261,48.48381,-122.88302,Lopez Island,America/Los_Angeles
+98262,48.69317,-122.66406,Lummi Island,America/Los_Angeles
+98263,48.52281,-122.0657,Lyman,America/Los_Angeles
+98264,48.94972,-122.45672,Lynden,America/Los_Angeles
+98266,48.9576,-122.06189,Maple Falls,America/Los_Angeles
+98267,48.43756,-121.30841,Marblemount,America/Los_Angeles
+98270,48.05952,-122.1443,Marysville,America/Los_Angeles
+98271,48.09373,-122.23559,Marysville,America/Los_Angeles
+98272,47.85834,-121.88457,Monroe,America/Los_Angeles
+98273,48.40522,-122.36841,Mount Vernon,America/Los_Angeles
+98274,48.36013,-122.14346,Mount Vernon,America/Los_Angeles
+98275,47.90994,-122.30113,Mukilteo,America/Los_Angeles
+98276,48.92765,-122.32096,Nooksack,America/Los_Angeles
+98277,48.31688,-122.63152,Oak Harbor,America/Los_Angeles
+98278,48.34388,-122.66491,Oak Harbor,America/Los_Angeles
+98279,48.64474,-122.80602,Olga,America/Los_Angeles
+98280,48.60866,-122.90554,Orcas,America/Los_Angeles
+98281,48.98817,-123.05767,Point Roberts,America/Los_Angeles
+98282,48.18719,-122.46966,Camano Island,America/Los_Angeles
+98283,48.80137,-121.29997,Rockport,America/Los_Angeles
+98284,48.55211,-122.11763,Sedro Woolley,America/Los_Angeles
+98286,48.57262,-122.95712,Shaw Island,America/Los_Angeles
+98288,47.65204,-121.3574,Skykomish,America/Los_Angeles
+98290,47.95141,-121.98421,Snohomish,America/Los_Angeles
+98292,48.22455,-122.3032,Stanwood,America/Los_Angeles
+98294,47.84431,-121.75822,Sultan,America/Los_Angeles
+98295,48.97163,-122.2213,Sumas,America/Los_Angeles
+98296,47.84266,-122.10199,Snohomish,America/Los_Angeles
+98297,48.7005,-123.02834,Waldron,America/Los_Angeles
+98303,47.15783,-122.70387,Anderson Island,America/Los_Angeles
+98304,46.87036,-121.73985,Ashford,America/Los_Angeles
+98305,48.03148,-124.22934,Beaver,America/Los_Angeles
+98310,47.58939,-122.6175,Bremerton,America/Los_Angeles
+98311,47.62829,-122.63793,Bremerton,America/Los_Angeles
+98312,47.56435,-122.75706,Bremerton,America/Los_Angeles
+98314,47.56243,-122.63893,Bremerton,America/Los_Angeles
+98315,47.72263,-122.71444,Silverdale,America/Los_Angeles
+98320,47.69861,-123.01742,Brinnon,America/Los_Angeles
+98321,47.15564,-122.06576,Buckley,America/Los_Angeles
+98323,46.98059,-122.006,Carbonado,America/Los_Angeles
+98325,47.96093,-122.77911,Chimacum,America/Los_Angeles
+98326,48.17364,-124.45278,Clallam Bay,America/Los_Angeles
+98327,47.10203,-122.66061,Dupont,America/Los_Angeles
+98328,46.86055,-122.17227,Eatonville,America/Los_Angeles
+98329,47.37731,-122.72523,Gig Harbor,America/Los_Angeles
+98330,46.75874,-122.15894,Elbe,America/Los_Angeles
+98331,47.77292,-124.1273,Forks,America/Los_Angeles
+98332,47.36514,-122.59858,Gig Harbor,America/Los_Angeles
+98333,47.24771,-122.62561,Fox Island,America/Los_Angeles
+98335,47.29909,-122.61911,Gig Harbor,America/Los_Angeles
+98336,46.56382,-122.10939,Glenoma,America/Los_Angeles
+98337,47.56345,-122.63405,Bremerton,America/Los_Angeles
+98338,47.01927,-122.28347,Graham,America/Los_Angeles
+98339,48.02991,-122.74364,Port Hadlock,America/Los_Angeles
+98340,47.90622,-122.56406,Hansville,America/Los_Angeles
+98342,47.75475,-122.51952,Indianola,America/Los_Angeles
+98345,47.69972,-122.62366,Keyport,America/Los_Angeles
+98346,47.82005,-122.53399,Kingston,America/Los_Angeles
+98349,47.26583,-122.77366,Lakebay,America/Los_Angeles
+98350,47.90683,-124.62509,La Push,America/Los_Angeles
+98351,47.20353,-122.76773,Longbranch,America/Los_Angeles
+98353,47.53885,-122.49294,Manchester,America/Los_Angeles
+98354,47.25113,-122.31557,Milton,America/Los_Angeles
+98355,46.69179,-122.03978,Mineral,America/Los_Angeles
+98356,46.57943,-122.26913,Morton,America/Los_Angeles
+98357,48.33188,-124.62816,Neah Bay,America/Los_Angeles
+98358,48.05796,-122.70008,Nordland,America/Los_Angeles
+98359,47.43047,-122.57631,Olalla,America/Los_Angeles
+98360,47.03246,-122.1575,Orting,America/Los_Angeles
+98361,46.62786,-121.56385,Packwood,America/Los_Angeles
+98362,48.01639,-123.31951,Port Angeles,America/Los_Angeles
+98363,48.03477,-123.76952,Port Angeles,America/Los_Angeles
+98364,47.85455,-122.58638,Port Gamble,America/Los_Angeles
+98365,47.89545,-122.70271,Port Ludlow,America/Los_Angeles
+98366,47.53732,-122.58647,Port Orchard,America/Los_Angeles
+98367,47.46141,-122.67662,Port Orchard,America/Los_Angeles
+98368,48.03879,-122.84406,Port Townsend,America/Los_Angeles
+98370,47.75114,-122.62373,Poulsbo,America/Los_Angeles
+98371,47.19957,-122.32191,Puyallup,America/Los_Angeles
+98372,47.2064,-122.26689,Puyallup,America/Los_Angeles
+98373,47.14761,-122.32506,Puyallup,America/Los_Angeles
+98374,47.12904,-122.26156,Puyallup,America/Los_Angeles
+98375,47.10394,-122.32383,Puyallup,America/Los_Angeles
+98376,47.8455,-122.85916,Quilcene,America/Los_Angeles
+98377,46.50586,-121.81912,Randle,America/Los_Angeles
+98380,47.5743,-122.90287,Seabeck,America/Los_Angeles
+98381,48.28863,-124.45681,Sekiu,America/Los_Angeles
+98382,48.0131,-123.07437,Sequim,America/Los_Angeles
+98383,47.66212,-122.71652,Silverdale,America/Los_Angeles
+98385,47.13791,-122.09469,South Prairie,America/Los_Angeles
+98387,47.0562,-122.39111,Spanaway,America/Los_Angeles
+98388,47.19892,-122.66268,Steilacoom,America/Los_Angeles
+98390,47.21195,-122.22894,Sumner,America/Los_Angeles
+98391,47.17654,-122.17362,Bonney Lake,America/Los_Angeles
+98392,47.73425,-122.5631,Suquamish,America/Los_Angeles
+98394,47.32011,-122.77791,Vaughn,America/Los_Angeles
+98396,47.10669,-122.01052,Wilkeson,America/Los_Angeles
+98402,47.25021,-122.44056,Tacoma,America/Los_Angeles
+98403,47.26581,-122.45921,Tacoma,America/Los_Angeles
+98404,47.20927,-122.41139,Tacoma,America/Los_Angeles
+98405,47.24599,-122.47222,Tacoma,America/Los_Angeles
+98406,47.26283,-122.50857,Tacoma,America/Los_Angeles
+98407,47.28889,-122.5111,Tacoma,America/Los_Angeles
+98408,47.19811,-122.44638,Tacoma,America/Los_Angeles
+98409,47.21084,-122.48197,Tacoma,America/Los_Angeles
+98416,47.26271,-122.48196,Tacoma,America/Los_Angeles
+98418,47.22325,-122.44642,Tacoma,America/Los_Angeles
+98421,47.25819,-122.40107,Tacoma,America/Los_Angeles
+98422,47.28907,-122.39123,Tacoma,America/Los_Angeles
+98424,47.2343,-122.3523,Fife,America/Los_Angeles
+98430,47.11733,-122.56896,Camp Murray,America/Los_Angeles
+98433,47.09121,-122.60772,Tacoma,America/Los_Angeles
+98438,47.13514,-122.49211,Mcchord Afb,America/Los_Angeles
+98439,47.13164,-122.49603,Lakewood,America/Los_Angeles
+98443,47.20522,-122.37592,Tacoma,America/Los_Angeles
+98444,47.15228,-122.44887,Tacoma,America/Los_Angeles
+98445,47.13985,-122.40965,Tacoma,America/Los_Angeles
+98446,47.12935,-122.37424,Tacoma,America/Los_Angeles
+98447,47.14531,-122.44392,Tacoma,America/Los_Angeles
+98465,47.24868,-122.53043,Tacoma,America/Los_Angeles
+98466,47.22842,-122.53479,Tacoma,America/Los_Angeles
+98467,47.2038,-122.5447,University Place,America/Los_Angeles
+98498,47.16001,-122.55971,Lakewood,America/Los_Angeles
+98499,47.16662,-122.50624,Lakewood,America/Los_Angeles
+98501,46.9783,-122.86989,Olympia,America/Los_Angeles
+98502,47.08466,-123.02958,Olympia,America/Los_Angeles
+98503,47.02528,-122.799,Lacey,America/Los_Angeles
+98505,47.07321,-122.97358,Olympia,America/Los_Angeles
+98506,47.10286,-122.87307,Olympia,America/Los_Angeles
+98512,46.95326,-123.04259,Olympia,America/Los_Angeles
+98513,46.99074,-122.73298,Olympia,America/Los_Angeles
+98516,47.09647,-122.78265,Olympia,America/Los_Angeles
+98520,46.99478,-123.81054,Aberdeen,America/Los_Angeles
+98524,47.36703,-122.84548,Allyn,America/Los_Angeles
+98526,47.47749,-123.99227,Amanda Park,America/Los_Angeles
+98527,46.58917,-123.90939,Bay Center,America/Los_Angeles
+98528,47.44605,-122.89618,Belfair,America/Los_Angeles
+98530,46.80519,-122.86804,Bucoda,America/Los_Angeles
+98531,46.73646,-122.91364,Centralia,America/Los_Angeles
+98532,46.63628,-123.03444,Chehalis,America/Los_Angeles
+98533,46.67304,-122.43115,Cinebar,America/Los_Angeles
+98535,47.0994,-124.11973,Copalis Beach,America/Los_Angeles
+98536,47.18939,-124.111,Copalis Crossing,America/Los_Angeles
+98537,46.81719,-123.59768,Cosmopolis,America/Los_Angeles
+98538,46.47422,-123.15884,Curtis,America/Los_Angeles
+98539,46.63772,-123.27315,Doty,America/Los_Angeles
+98541,47.06877,-123.40459,Elma,America/Los_Angeles
+98542,46.5293,-122.73155,Ethel,America/Los_Angeles
+98544,46.73912,-123.02712,Galvin,America/Los_Angeles
+98546,47.32439,-122.92362,Grapeview,America/Los_Angeles
+98547,46.78622,-124.01956,Grayland,America/Los_Angeles
+98548,47.47064,-123.29273,Hoodsport,America/Los_Angeles
+98550,47.14081,-123.90122,Hoquiam,America/Los_Angeles
+98552,47.3136,-123.9444,Humptulips,America/Los_Angeles
+98555,47.54634,-123.06369,Lilliwaup,America/Los_Angeles
+98556,46.88565,-123.1409,Littlerock,America/Los_Angeles
+98557,47.04332,-123.2681,Mccleary,America/Los_Angeles
+98558,46.93579,-122.55998,Mckenna,America/Los_Angeles
+98559,46.95884,-123.32749,Malone,America/Los_Angeles
+98560,47.30577,-123.43948,Matlock,America/Los_Angeles
+98562,47.23877,-124.20336,Moclips,America/Los_Angeles
+98563,47.2064,-123.60824,Montesano,America/Los_Angeles
+98564,46.45666,-122.43627,Mossyrock,America/Los_Angeles
+98565,46.57838,-122.90693,Napavine,America/Los_Angeles
+98566,47.39616,-123.95976,Neilton,America/Los_Angeles
+98568,46.86467,-123.30235,Oakville,America/Los_Angeles
+98569,47.00206,-124.15479,Ocean Shores,America/Los_Angeles
+98570,46.63556,-122.63534,Onalaska,America/Los_Angeles
+98571,47.20356,-124.19532,Pacific Beach,America/Los_Angeles
+98572,46.55256,-123.32429,Pe Ell,America/Los_Angeles
+98575,47.43607,-123.79848,Quinault,America/Los_Angeles
+98576,46.84417,-122.64687,Rainier,America/Los_Angeles
+98577,46.6418,-123.60031,Raymond,America/Los_Angeles
+98579,46.79406,-123.11952,Rochester,America/Los_Angeles
+98580,46.9918,-122.50101,Roy,America/Los_Angeles
+98581,46.35875,-123.06865,Ryderwood,America/Los_Angeles
+98582,46.51686,-122.62693,Salkum,America/Los_Angeles
+98583,47.00122,-123.4875,Satsop,America/Los_Angeles
+98584,47.24608,-123.16209,Shelton,America/Los_Angeles
+98585,46.55436,-122.5022,Silver Creek,America/Los_Angeles
+98586,46.55909,-123.8391,South Bend,America/Los_Angeles
+98587,47.32039,-124.1562,Taholah,America/Los_Angeles
+98588,47.43555,-123.02261,Tahuya,America/Los_Angeles
+98589,46.84133,-122.82087,Tenino,America/Los_Angeles
+98590,46.71882,-124.00272,Tokeland,America/Los_Angeles
+98591,46.44224,-122.74671,Toledo,America/Los_Angeles
+98592,47.32895,-123.07907,Union,America/Los_Angeles
+98593,46.40767,-123.00807,Vader,America/Los_Angeles
+98595,46.88302,-124.1088,Westport,America/Los_Angeles
+98596,46.49556,-122.95364,Winlock,America/Los_Angeles
+98597,46.85241,-122.49212,Yelm,America/Los_Angeles
+98601,45.93439,-122.43857,Amboy,America/Los_Angeles
+98602,45.8693,-121.27966,Appleton,America/Los_Angeles
+98603,46.04223,-122.42001,Ariel,America/Los_Angeles
+98604,45.80013,-122.5054,Battle Ground,America/Los_Angeles
+98605,45.77846,-121.6393,Bingen,America/Los_Angeles
+98606,45.72921,-122.45615,Brush Prairie,America/Los_Angeles
+98607,45.64395,-122.38242,Camas,America/Los_Angeles
+98609,46.0717,-122.86569,Carrolls,America/Los_Angeles
+98610,45.77765,-122.01401,Carson,America/Los_Angeles
+98611,46.30642,-122.90479,Castle Rock,America/Los_Angeles
+98612,46.23462,-123.31194,Cathlamet,America/Los_Angeles
+98613,45.7542,-120.97235,Centerville,America/Los_Angeles
+98614,46.29459,-123.9034,Chinook,America/Los_Angeles
+98616,46.06227,-122.14599,Cougar,America/Los_Angeles
+98617,45.64283,-121.14229,Dallesport,America/Los_Angeles
+98619,45.97693,-121.26568,Glenwood,America/Los_Angeles
+98620,45.87096,-120.77846,Goldendale,America/Los_Angeles
+98621,46.4006,-123.54428,Grays River,America/Los_Angeles
+98623,45.79956,-121.49347,Husum,America/Los_Angeles
+98624,46.3578,-123.94094,Ilwaco,America/Los_Angeles
+98625,46.10871,-122.56093,Kalama,America/Los_Angeles
+98626,46.15317,-122.78564,Kelso,America/Los_Angeles
+98628,45.85015,-121.09887,Klickitat,America/Los_Angeles
+98629,45.88109,-122.6148,La Center,America/Los_Angeles
+98631,46.37988,-124.02241,Long Beach,America/Los_Angeles
+98632,46.21223,-123.06855,Longview,America/Los_Angeles
+98635,45.74364,-121.20915,Lyle,America/Los_Angeles
+98638,46.4047,-123.73588,Naselle,America/Los_Angeles
+98639,45.64364,-121.96288,North Bonneville,America/Los_Angeles
+98640,46.5429,-124.04938,Ocean Park,America/Los_Angeles
+98641,46.56484,-124.03932,Oysterville,America/Los_Angeles
+98642,45.80262,-122.7019,Ridgefield,America/Los_Angeles
+98643,46.30326,-123.62117,Rosburg,America/Los_Angeles
+98644,46.32861,-124.04009,Seaview,America/Los_Angeles
+98645,46.32509,-122.77993,Silverlake,America/Los_Angeles
+98647,46.32137,-123.4354,Skamokawa,America/Los_Angeles
+98648,45.70563,-121.9489,Stevenson,America/Los_Angeles
+98649,46.31504,-122.53415,Toutle,America/Los_Angeles
+98650,45.97117,-121.52732,Trout Lake,America/Los_Angeles
+98651,45.73419,-121.58718,Underwood,America/Los_Angeles
+98660,45.6866,-122.73152,Vancouver,America/Los_Angeles
+98661,45.63935,-122.62586,Vancouver,America/Los_Angeles
+98662,45.68911,-122.57742,Vancouver,America/Los_Angeles
+98663,45.65449,-122.66228,Vancouver,America/Los_Angeles
+98664,45.61966,-122.57738,Vancouver,America/Los_Angeles
+98665,45.68155,-122.65417,Vancouver,America/Los_Angeles
+98670,45.86372,-121.14599,Wahkiacus,America/Los_Angeles
+98671,45.61143,-122.24955,Washougal,America/Los_Angeles
+98672,45.81269,-121.47393,White Salmon,America/Los_Angeles
+98673,45.67367,-120.98129,Wishram,America/Los_Angeles
+98674,45.94672,-122.65568,Woodland,America/Los_Angeles
+98675,45.86349,-122.33104,Yacolt,America/Los_Angeles
+98682,45.67296,-122.48327,Vancouver,America/Los_Angeles
+98683,45.6027,-122.50984,Vancouver,America/Los_Angeles
+98684,45.6308,-122.51615,Vancouver,America/Los_Angeles
+98685,45.71596,-122.69105,Vancouver,America/Los_Angeles
+98686,45.7239,-122.62305,Vancouver,America/Los_Angeles
+98801,47.43183,-120.34356,Wenatchee,America/Los_Angeles
+98802,47.49308,-120.16493,East Wenatchee,America/Los_Angeles
+98811,47.73425,-120.37379,Ardenvoir,America/Los_Angeles
+98812,48.13119,-119.80687,Brewster,America/Los_Angeles
+98813,48.01107,-119.61063,Bridgeport,America/Los_Angeles
+98814,48.21001,-120.22884,Carlton,America/Los_Angeles
+98815,47.52893,-120.48459,Cashmere,America/Los_Angeles
+98816,48.0229,-120.34361,Chelan,America/Los_Angeles
+98817,47.79049,-119.99588,Chelan Falls,America/Los_Angeles
+98819,48.59797,-119.82327,Conconully,America/Los_Angeles
+98821,47.55199,-120.56155,Dryden,America/Los_Angeles
+98822,47.86509,-120.47694,Entiat,America/Los_Angeles
+98823,47.33853,-119.63536,Ephrata,America/Los_Angeles
+98824,47.06857,-119.86653,George,America/Los_Angeles
+98826,47.78772,-120.85454,Leavenworth,America/Los_Angeles
+98827,48.86359,-119.76726,Loomis,America/Los_Angeles
+98828,47.30741,-120.1833,Malaga,America/Los_Angeles
+98829,48.31103,-119.80822,Malott,America/Los_Angeles
+98830,47.88702,-119.52278,Mansfield,America/Los_Angeles
+98831,47.93451,-120.12998,Manson,America/Los_Angeles
+98832,47.34669,-119.02033,Marlin,America/Los_Angeles
+98833,48.77199,-120.49447,Mazama,America/Los_Angeles
+98834,48.11712,-120.08935,Methow,America/Los_Angeles
+98836,47.47615,-120.42909,Monitor,America/Los_Angeles
+98837,47.14809,-119.3163,Moses Lake,America/Los_Angeles
+98840,48.27395,-119.51838,Okanogan,America/Los_Angeles
+98841,48.37602,-119.29817,Omak,America/Los_Angeles
+98843,47.73688,-120.08618,Orondo,America/Los_Angeles
+98844,48.91618,-119.24767,Oroville,America/Los_Angeles
+98845,47.43039,-119.90923,Palisades,America/Los_Angeles
+98846,48.03481,-119.97528,Pateros,America/Los_Angeles
+98847,47.42236,-120.62152,Peshastin,America/Los_Angeles
+98848,47.17182,-119.84109,Quincy,America/Los_Angeles
+98849,48.54821,-119.40789,Riverside,America/Los_Angeles
+98850,47.40048,-120.03459,Rock Island,America/Los_Angeles
+98851,47.42002,-119.43462,Soap Lake,America/Los_Angeles
+98852,48.32169,-120.63881,Stehekin,America/Los_Angeles
+98853,47.44655,-119.28061,Stratford,America/Los_Angeles
+98855,48.67641,-119.25634,Tonasket,America/Los_Angeles
+98856,48.37065,-120.22762,Twisp,America/Los_Angeles
+98857,46.98656,-119.03698,Warden,America/Los_Angeles
+98858,47.67938,-119.87974,Waterville,America/Los_Angeles
+98859,48.81181,-118.90871,Wauconda,America/Los_Angeles
+98860,47.46899,-119.12391,Wilson Creek,America/Los_Angeles
+98862,48.58491,-120.22792,Winthrop,America/Los_Angeles
+98901,46.66935,-120.33816,Yakima,America/Los_Angeles
+98902,46.59778,-120.53393,Yakima,America/Los_Angeles
+98903,46.54807,-120.90226,Yakima,America/Los_Angeles
+98908,46.62345,-120.70582,Yakima,America/Los_Angeles
+98921,46.43082,-120.31719,Buena,America/Los_Angeles
+98922,47.25056,-120.8821,Cle Elum,America/Los_Angeles
+98923,46.66608,-120.71723,Cowiche,America/Los_Angeles
+98925,47.28793,-121.28089,Easton,America/Los_Angeles
+98926,46.99054,-120.34902,Ellensburg,America/Los_Angeles
+98930,46.26903,-119.8953,Grandview,America/Los_Angeles
+98932,46.33217,-120.16091,Granger,America/Los_Angeles
+98933,46.4029,-120.63756,Harrah,America/Los_Angeles
+98934,46.98067,-120.41941,Kittitas,America/Los_Angeles
+98935,46.13417,-120.06877,Mabton,America/Los_Angeles
+98936,46.53597,-120.15391,Moxee,America/Los_Angeles
+98937,46.77523,-121.17808,Naches,America/Los_Angeles
+98938,46.38842,-120.09662,Outlook,America/Los_Angeles
+98939,46.50105,-120.47077,Parker,America/Los_Angeles
+98940,47.39682,-121.06683,Ronald,America/Los_Angeles
+98941,47.22464,-121.00021,Roslyn,America/Los_Angeles
+98942,46.80322,-120.67454,Selah,America/Los_Angeles
+98943,47.18461,-120.96089,South Cle Elum,America/Los_Angeles
+98944,46.49998,-119.66533,Sunnyside,America/Los_Angeles
+98946,47.06515,-120.76512,Thorp,America/Los_Angeles
+98947,46.68759,-120.80916,Tieton,America/Los_Angeles
+98948,46.23067,-120.37168,Toppenish,America/Los_Angeles
+98950,46.84642,-119.9877,Vantage,America/Los_Angeles
+98951,46.46046,-120.51551,Wapato,America/Los_Angeles
+98952,46.34991,-120.81561,White Swan,America/Los_Angeles
+98953,46.44149,-120.23284,Zillah,America/Los_Angeles
+99001,47.63874,-117.58582,Airway Heights,America/Los_Angeles
+99003,47.91997,-117.27608,Chattaroy,America/Los_Angeles
+99004,47.40869,-117.63575,Cheney,America/Los_Angeles
+99005,47.84405,-117.36346,Colbert,America/Los_Angeles
+99006,47.95208,-117.51016,Deer Park,America/Los_Angeles
+99008,47.50449,-117.93533,Edwall,America/Los_Angeles
+99009,48.0253,-117.24993,Elk,America/Los_Angeles
+99011,47.61867,-117.64839,Fairchild Air Force Base,America/Los_Angeles
+99012,47.38137,-117.19145,Fairfield,America/Los_Angeles
+99013,47.88498,-117.83495,Ford,America/Los_Angeles
+99014,47.56111,-117.59666,Four Lakes,America/Los_Angeles
+99016,47.6217,-117.14623,Greenacres,America/Los_Angeles
+99017,47.1829,-117.87611,Lamont,America/Los_Angeles
+99018,47.2917,-117.15212,Latah,America/Los_Angeles
+99019,47.64222,-117.07688,Liberty Lake,America/Los_Angeles
+99020,47.56314,-117.49702,Marshall,America/Los_Angeles
+99021,47.84951,-117.18721,Mead,America/Los_Angeles
+99022,47.60084,-117.70869,Medical Lake,America/Los_Angeles
+99023,47.56474,-117.14466,Mica,America/Los_Angeles
+99025,47.78963,-117.08751,Newman Lake,America/Los_Angeles
+99026,47.80375,-117.625,Nine Mile Falls,America/Los_Angeles
+99027,47.71107,-117.12795,Otis Orchards,America/Los_Angeles
+99029,47.70639,-117.82406,Reardan,America/Los_Angeles
+99030,47.47782,-117.11302,Rockford,America/Los_Angeles
+99031,47.41973,-117.35991,Spangle,America/Los_Angeles
+99032,47.32405,-118.04613,Sprague,America/Los_Angeles
+99033,47.23061,-117.09782,Tekoa,America/Los_Angeles
+99034,47.8862,-117.76245,Tumtum,America/Los_Angeles
+99036,47.52005,-117.27197,Valleyford,America/Los_Angeles
+99037,47.63734,-117.19756,Veradale,America/Los_Angeles
+99039,47.33808,-117.23131,Waverly,America/Los_Angeles
+99040,47.90355,-117.99885,Wellpinit,America/Los_Angeles
+99101,48.31889,-117.9483,Addy,America/Los_Angeles
+99102,46.79218,-117.25029,Albion,America/Los_Angeles
+99103,47.73041,-118.93171,Almira,America/Los_Angeles
+99105,46.9213,-118.08264,Benge,America/Los_Angeles
+99109,48.29787,-117.69852,Chewelah,America/Los_Angeles
+99110,48.0083,-117.58112,Clayton,America/Los_Angeles
+99111,46.86281,-117.44132,Colfax,America/Los_Angeles
+99113,46.58628,-117.1935,Colton,America/Los_Angeles
+99114,48.66067,-117.74333,Colville,America/Los_Angeles
+99115,47.67326,-119.38965,Coulee City,America/Los_Angeles
+99116,48.01429,-118.93063,Coulee Dam,America/Los_Angeles
+99117,47.72818,-118.50108,Creston,America/Los_Angeles
+99118,48.89746,-118.63797,Curlew,America/Los_Angeles
+99119,48.50946,-117.29994,Cusick,America/Los_Angeles
+99121,48.94382,-118.45568,Danville,America/Los_Angeles
+99122,47.67615,-118.21774,Davenport,America/Los_Angeles
+99123,47.89738,-119.04017,Electric City,America/Los_Angeles
+99124,48.00284,-118.95243,Elmer City,America/Los_Angeles
+99125,46.95223,-117.78556,Endicott,America/Los_Angeles
+99126,48.73574,-117.97447,Evans,America/Los_Angeles
+99128,47.10045,-117.08523,Farmington,America/Los_Angeles
+99129,48.00281,-118.18342,Fruitland,America/Los_Angeles
+99130,46.99917,-117.18556,Garfield,America/Los_Angeles
+99131,48.29511,-118.11731,Gifford,America/Los_Angeles
+99133,48.0067,-119.10613,Grand Coulee,America/Los_Angeles
+99134,47.43793,-118.32347,Harrington,America/Los_Angeles
+99135,47.65658,-119.09608,Hartline,America/Los_Angeles
+99136,46.6747,-117.94889,Hay,America/Los_Angeles
+99137,48.1659,-118.09992,Hunters,America/Los_Angeles
+99138,48.23093,-118.38876,Inchelium,America/Los_Angeles
+99139,48.73161,-117.31371,Ione,America/Los_Angeles
+99140,48.135,-118.68722,Keller,America/Los_Angeles
+99141,48.72571,-118.17509,Kettle Falls,America/Los_Angeles
+99143,46.74627,-117.85869,Lacrosse,America/Los_Angeles
+99144,47.3681,-118.49041,Lamona,America/Los_Angeles
+99146,48.95766,-118.29768,Laurier,America/Los_Angeles
+99147,47.83604,-118.43675,Lincoln,America/Los_Angeles
+99148,48.10874,-117.57514,Loon Lake,America/Los_Angeles
+99149,47.225,-117.46794,Malden,America/Los_Angeles
+99150,48.80622,-118.61071,Malo,America/Los_Angeles
+99151,48.66443,-118.06125,Marcus,America/Los_Angeles
+99152,48.85066,-117.39748,Metaline,America/Los_Angeles
+99153,48.90951,-117.25229,Metaline Falls,America/Los_Angeles
+99154,47.39132,-118.35576,Mohler,America/Los_Angeles
+99155,48.27737,-118.9618,Nespelem,America/Los_Angeles
+99156,48.16211,-117.18826,Newport,America/Los_Angeles
+99157,48.93007,-117.81753,Northport,America/Los_Angeles
+99158,47.13305,-117.24008,Oakesdale,America/Los_Angeles
+99159,47.32872,-118.74338,Odessa,America/Los_Angeles
+99160,48.86895,-118.30122,Orient,America/Los_Angeles
+99161,46.89496,-117.13169,Palouse,America/Los_Angeles
+99163,46.72798,-117.21654,Pullman,America/Los_Angeles
+99166,48.61033,-118.6715,Republic,America/Los_Angeles
+99167,48.41307,-118.11733,Rice,America/Los_Angeles
+99169,47.11875,-118.37424,Ritzville,America/Los_Angeles
+99170,47.25132,-117.40203,Rosalia,America/Los_Angeles
+99171,47.10485,-117.6495,Saint John,America/Los_Angeles
+99173,48.03702,-117.85708,Springdale,America/Los_Angeles
+99174,47.00719,-117.35682,Steptoe,America/Los_Angeles
+99176,47.09221,-117.41224,Thornton,America/Los_Angeles
+99179,46.49239,-117.10762,Uniontown,America/Los_Angeles
+99180,48.30925,-117.30663,Usk,America/Los_Angeles
+99181,48.1456,-117.76526,Valley,America/Los_Angeles
+99185,47.74014,-118.71697,Wilbur,America/Los_Angeles
+99201,47.66271,-117.43609,Spokane,America/Los_Angeles
+99202,47.65709,-117.37854,Spokane,America/Los_Angeles
+99203,47.62945,-117.40291,Spokane,America/Los_Angeles
+99204,47.64726,-117.42665,Spokane,America/Los_Angeles
+99205,47.69657,-117.44609,Spokane,America/Los_Angeles
+99206,47.62755,-117.25448,Spokane,America/Los_Angeles
+99207,47.68941,-117.38911,Spokane,America/Los_Angeles
+99208,47.78071,-117.46135,Spokane,America/Los_Angeles
+99212,47.66504,-117.30914,Spokane,America/Los_Angeles
+99216,47.68142,-117.20826,Spokane,America/Los_Angeles
+99217,47.7406,-117.26241,Spokane,America/Los_Angeles
+99218,47.75894,-117.4087,Spokane,America/Los_Angeles
+99223,47.58876,-117.334,Spokane,America/Los_Angeles
+99224,47.64729,-117.53552,Spokane,America/Los_Angeles
+99251,47.75385,-117.41797,Spokane,America/Los_Angeles
+99258,47.66612,-117.40246,Spokane,America/Los_Angeles
+99301,46.39184,-118.93509,Pasco,America/Los_Angeles
+99320,46.32706,-119.52483,Benton City,America/Los_Angeles
+99321,46.86576,-119.88925,Beverly,America/Los_Angeles
+99322,45.93176,-120.14083,Bickleton,America/Los_Angeles
+99323,46.18677,-118.85061,Burbank,America/Los_Angeles
+99324,46.04376,-118.38542,College Place,America/Los_Angeles
+99326,46.66705,-118.83769,Connell,America/Los_Angeles
+99328,46.26937,-117.87956,Dayton,America/Los_Angeles
+99329,46.13943,-118.14732,Dixie,America/Los_Angeles
+99330,46.49447,-119.03021,Eltopia,America/Los_Angeles
+99333,46.68112,-118.15262,Hooper,America/Los_Angeles
+99335,46.65544,-118.47686,Kahlotus,America/Los_Angeles
+99336,46.21302,-119.17954,Kennewick,America/Los_Angeles
+99337,46.06235,-119.09127,Kennewick,America/Los_Angeles
+99338,46.17362,-119.27403,Kennewick,America/Los_Angeles
+99341,46.90663,-118.64224,Lind,America/Los_Angeles
+99343,46.59188,-119.17065,Mesa,America/Los_Angeles
+99344,46.82223,-119.17221,Othello,America/Los_Angeles
+99345,45.93623,-119.65919,Paterson,America/Los_Angeles
+99346,46.02685,-119.306,Plymouth,America/Los_Angeles
+99347,46.42531,-117.57128,Pomeroy,America/Los_Angeles
+99348,46.38681,-118.44731,Prescott,America/Los_Angeles
+99349,46.73078,-119.6996,Mattawa,America/Los_Angeles
+99350,46.14477,-119.70944,Prosser,America/Los_Angeles
+99352,46.24199,-119.29067,Richland,America/Los_Angeles
+99353,46.31747,-119.37942,West Richland,America/Los_Angeles
+99354,46.33153,-119.30106,Richland,America/Los_Angeles
+99356,45.83459,-120.36258,Roosevelt,America/Los_Angeles
+99357,46.89295,-119.67902,Royal City,America/Los_Angeles
+99359,46.53325,-118.15697,Starbuck,America/Los_Angeles
+99360,46.09044,-118.66745,Touchet,America/Los_Angeles
+99361,46.23691,-118.14333,Waitsburg,America/Los_Angeles
+99362,46.08727,-118.31269,Walla Walla,America/Los_Angeles
+99363,46.04821,-118.89575,Wallula,America/Los_Angeles
+99371,46.79144,-118.30614,Washtucna,America/Los_Angeles
+99401,46.09041,-117.27336,Anatone,America/Los_Angeles
+99402,46.1868,-117.14922,Asotin,America/Los_Angeles
+99403,46.38114,-117.25974,Clarkston,America/Los_Angeles
+99501,61.22005,-149.85872,Anchorage,America/Anchorage
+99502,61.16323,-149.98644,Anchorage,America/Anchorage
+99503,61.90744,-156.85203,Anchorage,America/Anchorage
+99504,61.19195,-149.64255,Anchorage,America/Anchorage
+99505,61.27512,-149.65197,Jber,America/Anchorage
+99506,61.26505,-149.80067,Jber,America/Anchorage
+99507,61.13336,-149.69001,Anchorage,America/Anchorage
+99508,61.20145,-149.8146,Anchorage,America/Anchorage
+99513,61.21477,-149.88566,Anchorage,America/Anchorage
+99515,61.11733,-149.88894,Anchorage,America/Anchorage
+99516,61.0726,-149.71812,Anchorage,America/Anchorage
+99517,61.19018,-149.93676,Anchorage,America/Anchorage
+99518,61.15949,-149.88479,Anchorage,America/Anchorage
+99519,70.1006,-150.00014,Anchorage,America/Anchorage
+99530,61.18465,-149.98356,Anchorage,America/Anchorage
+99540,61.01464,-149.36859,Indian,America/Anchorage
+99546,51.88145,-176.62962,Adak,America/Adak
+99547,52.22888,-174.20613,Atka,America/Adak
+99548,56.25468,-158.76004,Chignik Lake,America/Anchorage
+99549,56.94253,-158.60474,Port Heiden,America/Anchorage
+99550,57.8758,-152.8737,Port Lions,America/Anchorage
+99551,60.92101,-161.40212,Akiachak,America/Anchorage
+99552,60.90614,-161.21223,Akiak,America/Anchorage
+99553,54.1475,-165.83687,Akutan,America/Nome
+99554,62.69018,-164.63054,Alakanuk,America/Nome
+99555,59.28859,-158.67996,Aleknagik,America/Anchorage
+99556,59.82955,-151.64298,Anchor Point,America/Anchorage
+99557,61.44142,-155.90217,Aniak,America/Anchorage
+99558,62.65411,-160.21396,Anvik,America/Anchorage
+99559,60.76487,-161.90671,Bethel,America/Anchorage
+99561,60.15504,-164.25495,Chefornak,America/Nome
+99563,61.55009,-165.35813,Chevak,America/Nome
+99564,56.30032,-158.41315,Chignik,America/Anchorage
+99565,56.30415,-158.50039,Chignik Lagoon,America/Anchorage
+99566,61.28176,-142.79338,Chitina,America/Anchorage
+99567,61.26625,-148.86933,Chugiak,America/Anchorage
+99568,60.24952,-150.38501,Clam Gulch,America/Anchorage
+99569,58.81714,-158.52914,Clarks Point,America/Anchorage
+99571,55.29661,-162.58634,Cold Bay,America/Nome
+99572,60.49348,-150.0567,Cooper Landing,America/Anchorage
+99573,61.60036,-145.92446,Copper Center,America/Anchorage
+99574,60.73927,-146.4061,Cordova,America/Anchorage
+99575,61.84391,-158.10825,Crooked Creek,America/Anchorage
+99576,59.77339,-158.69309,Dillingham,America/Anchorage
+99577,61.1824,-149.29229,Eagle River,America/Anchorage
+99578,60.21644,-162.03311,Eek,America/Nome
+99579,58.21813,-157.40364,Egegik,America/Anchorage
+99580,59.34619,-157.48607,Ekwok,America/Anchorage
+99581,62.82476,-164.68692,Emmonak,America/Nome
+99583,54.84305,-163.39945,False Pass,America/Nome
+99585,61.87532,-162.04873,Marshall,America/Nome
+99586,62.67463,-144.13884,Gakona,America/Anchorage
+99587,60.9103,-148.84466,Girdwood,America/Anchorage
+99588,62.42192,-146.4813,Glennallen,America/Anchorage
+99589,59.21186,-161.70123,Goodnews Bay,America/Anchorage
+99590,62.89978,-160.10782,Grayling,America/Anchorage
+99591,56.58075,-169.61599,Saint George Island,America/Nome
+99602,62.1868,-159.8198,Holy Cross,America/Anchorage
+99603,59.52364,-151.22855,Homer,America/Anchorage
+99604,61.52613,-166.11458,Hooper Bay,America/Nome
+99605,60.83286,-149.44797,Hope,America/Anchorage
+99606,59.66803,-154.83362,Iliamna,America/Anchorage
+99607,61.5416,-160.3337,Kalskag,America/Anchorage
+99608,57.58454,-154.32545,Karluk,America/Anchorage
+99609,60.87848,-162.52725,Kasigluk,America/Nome
+99610,60.29172,-151.27167,Kasilof,America/Anchorage
+99611,60.74777,-150.89,Kenai,America/Anchorage
+99612,55.08587,-162.2978,King Cove,America/Nome
+99613,59.13496,-155.42696,King Salmon,America/Anchorage
+99614,59.9373,-164.06158,Kipnuk,America/Nome
+99615,57.57705,-153.39119,Kodiak,America/Anchorage
+99620,63.03047,-163.553,Kotlik,America/Nome
+99621,60.79781,-161.41469,Kwethluk,America/Anchorage
+99622,59.87667,-163.17154,Kwigillingok,America/Nome
+99623,61.42919,-149.91226,Wasilla,America/Anchorage
+99624,57.44866,-153.85811,Larsen Bay,America/Anchorage
+99625,59.0683,-156.90093,Levelock,America/Anchorage
+99626,61.51633,-160.35564,Lower Kalskag,America/Anchorage
+99627,63.18657,-154.75609,McGrath,America/Anchorage
+99628,58.9033,-158.90867,Manokotak,America/Anchorage
+99630,60.37041,-166.2672,Mekoryuk,America/Nome
+99631,60.60673,-149.58071,Moose Pass,America/Anchorage
+99632,62.11232,-163.66455,Mountain Village,America/Nome
+99633,58.78297,-156.8984,Naknek,America/Anchorage
+99634,60.68682,-162.00737,Napakiak,America/Nome
+99635,60.8062,-152.67734,Nikiski,America/Anchorage
+99636,59.47618,-157.27099,New Stuyahok,America/Anchorage
+99637,60.5333,-165.1557,Toksook Bay,America/Nome
+99638,53.01329,-168.75359,Nikolski,America/Nome
+99639,59.99602,-151.36177,Ninilchik,America/Anchorage
+99640,60.29813,-155.40518,Nondalton,America/Anchorage
+99641,60.87722,-162.46152,Nunapitchuk,America/Nome
+99643,57.21669,-153.32658,Old Harbor,America/Anchorage
+99644,57.92512,-152.4231,Ouzinkie,America/Anchorage
+99645,61.60763,-148.90394,Palmer,America/Anchorage
+99647,59.86411,-154.01511,Pedro Bay,America/Anchorage
+99648,55.93137,-159.15598,Perryville,America/Anchorage
+99649,57.51501,-157.31076,Pilot Point,America/Anchorage
+99650,61.94255,-162.88467,Pilot Station,America/Nome
+99651,58.97803,-161.71853,Platinum,America/Anchorage
+99652,61.52621,-149.9616,Big Lake,America/Anchorage
+99653,60.16884,-154.32328,Port Alsworth,America/Anchorage
+99654,61.607,-149.41443,Wasilla,America/Anchorage
+99655,59.74903,-161.89437,Quinhagak,America/Anchorage
+99656,61.86309,-157.41759,Red Devil,America/Anchorage
+99657,61.78916,-161.42698,Russian Mission,America/Anchorage
+99658,62.0761,-163.28111,Saint Marys,America/Nome
+99659,63.4738,-162.12295,Saint Michael,America/Nome
+99660,57.17993,-170.27914,Saint Paul Island,America/Nome
+99661,55.27131,-160.67431,Sand Point,America/Anchorage
+99662,61.84197,-165.58329,Scammon Bay,America/Nome
+99663,59.39488,-151.62729,Seldovia,America/Anchorage
+99664,60.13714,-149.47123,Seward,America/Anchorage
+99665,62.66843,-159.56298,Shageluk,America/Anchorage
+99666,62.45498,-165.09492,Nunam Iqua,America/Nome
+99667,61.85447,-151.82056,Skwentna,America/Anchorage
+99668,61.65158,-157.12508,Sleetmute,America/Anchorage
+99669,60.41497,-151.00207,Soldotna,America/Anchorage
+99670,58.66541,-156.98831,South Naknek,America/Anchorage
+99671,63.47048,-162.25993,Stebbins,America/Nome
+99672,60.55026,-150.77907,Sterling,America/Anchorage
+99674,61.69166,-147.81997,Sutton,America/Anchorage
+99675,62.98268,-156.08383,Takotna,America/Anchorage
+99676,62.49792,-149.65848,Talkeetna,America/Anchorage
+99677,60.89217,-146.67249,Tatitlek,America/Anchorage
+99678,59.20738,-160.52622,Togiak,America/Anchorage
+99679,61.10509,-160.94865,Tuluksak,America/Anchorage
+99680,60.34447,-162.66367,Tuntutuliak,America/Nome
+99681,60.57902,-165.20767,Tununak,America/Nome
+99682,61.17145,-151.16797,Tyonek,America/Anchorage
+99683,62.45165,-150.425,Trapper Creek,America/Anchorage
+99684,64.09938,-160.32776,Unalakleet,America/Anchorage
+99685,53.87869,-166.47125,Unalaska,America/Nome
+99686,61.04886,-146.19038,Valdez,America/Anchorage
+99688,61.89412,-150.04749,Willow,America/Anchorage
+99689,59.51819,-139.4869,Yakutat,America/Yakutat
+99690,60.48738,-164.81953,Nightmute,America/Nome
+99691,62.74385,-153.84293,Nikolai,America/Anchorage
+99692,53.88393,-166.54498,Dutch Harbor,America/Nome
+99693,60.83738,-148.15024,Whittier,America/Anchorage
+99694,61.61854,-149.8255,Houston,America/Anchorage
+99695,55.91828,-159.49335,Anchorage,America/Anchorage
+99701,67.25435,-149.87754,Fairbanks,America/Anchorage
+99702,64.64835,-147.03879,Eielson Afb,America/Anchorage
+99703,64.83542,-147.62612,Fort Wainwright,America/Anchorage
+99704,64.29023,-149.20423,Clear,America/Anchorage
+99705,64.77356,-147.27055,North Pole,America/Anchorage
+99706,64.0281,-144.6331,Fairbanks,America/Anchorage
+99707,65.1551,-146.25238,Fairbanks,America/Anchorage
+99709,64.87402,-148.22458,Fairbanks,America/Anchorage
+99712,64.98311,-146.13946,Fairbanks,America/Anchorage
+99714,64.4368,-146.69689,Salcha,America/Anchorage
+99720,66.56395,-152.76395,Allakaket,America/Anchorage
+99721,68.14999,-151.71616,Anaktuvuk Pass,America/Anchorage
+99722,68.14208,-145.49557,Arctic Village,America/Anchorage
+99723,71.27434,-156.75394,Barrow,America/Anchorage
+99724,66.32218,-146.96636,Beaver,America/Anchorage
+99725,64.8612,-148.02387,Ester,America/Anchorage
+99726,66.73615,-151.47757,Bettles Field,America/Anchorage
+99727,65.97654,-161.13918,Buckland,America/Anchorage
+99729,63.22686,-148.10122,Cantwell,America/Anchorage
+99730,65.67807,-145.54055,Central,America/Anchorage
+99732,64.07945,-141.97039,Chicken,America/Anchorage
+99733,65.79284,-144.18282,Circle,America/Anchorage
+99734,70.36201,-149.0021,Prudhoe Bay,America/Anchorage
+99736,66.07222,-162.74349,Deering,America/Nome
+99737,63.62717,-145.07539,Delta Junction,America/Anchorage
+99738,65.14953,-142.43307,Eagle,America/Anchorage
+99739,64.97626,-162.8397,Elim,America/Nome
+99740,67.70759,-143.95132,Fort Yukon,America/Anchorage
+99741,64.73808,-156.86351,Galena,America/Anchorage
+99742,63.75375,-171.68811,Gambell,America/Nome
+99743,63.90955,-149.91736,Healy,America/Anchorage
+99744,64.31361,-149.13217,Anderson,America/Anchorage
+99745,66.0472,-154.24096,Hughes,America/Anchorage
+99746,65.70013,-156.33856,Huslia,America/Anchorage
+99747,70.11882,-143.67029,Kaktovik,America/Anchorage
+99748,64.32229,-158.74356,Kaltag,America/Anchorage
+99749,66.9786,-160.43178,Kiana,America/Anchorage
+99750,67.73299,-164.52122,Kivalina,America/Nome
+99751,66.93103,-156.89386,Kobuk,America/Anchorage
+99752,67.29316,-161.91744,Kotzebue,America/Anchorage
+99753,64.94112,-161.14536,Koyuk,America/Anchorage
+99754,64.9008,-157.69462,Koyukuk,America/Anchorage
+99755,63.68849,-148.88742,Denali National Park,America/Anchorage
+99756,64.93645,-150.66654,Manley Hot Springs,America/Anchorage
+99757,63.83208,-152.49481,Lake Minchumina,America/Anchorage
+99758,65.15175,-149.3724,Minto,America/Anchorage
+99759,69.73723,-162.83741,Point Lay,America/Nome
+99760,64.37035,-149.17513,Nenana,America/Anchorage
+99761,67.6004,-163.03459,Noatak,America/Nome
+99762,64.85078,-164.80261,Nome,America/Nome
+99763,66.82801,-161.03735,Noorvik,America/Anchorage
+99764,62.76664,-141.67447,Northway,America/Anchorage
+99765,64.73066,-158.13108,Nulato,America/Anchorage
+99766,68.29104,-166.04257,Point Hope,America/Nome
+99767,65.49664,-150.14393,Rampart,America/Anchorage
+99768,65.38635,-153.53826,Ruby,America/Anchorage
+99769,63.67965,-170.48309,Savoonga,America/Nome
+99770,66.60708,-160.07136,Selawik,America/Anchorage
+99771,64.35764,-161.1989,Shaktoolik,America/Anchorage
+99772,65.94811,-165.80122,Shishmaref,America/Nome
+99773,66.88053,-157.14993,Shungnak,America/Anchorage
+99774,66.0232,-149.07982,Stevens Village,America/Anchorage
+99775,64.85744,-147.83483,Fairbanks,America/Anchorage
+99776,63.35232,-143.43181,Tanacross,America/Anchorage
+99777,65.18392,-152.06673,Tanana,America/Anchorage
+99778,65.25309,-166.342,Teller,America/Nome
+99780,63.46295,-142.1701,Tok,America/Anchorage
+99781,67.32073,-145.98835,Venetie,America/Anchorage
+99782,70.63804,-159.97121,Wainwright,America/Anchorage
+99783,65.61191,-168.07732,Wales,America/Nome
+99784,64.682,-163.4067,White Mountain,America/Nome
+99785,65.34151,-166.4942,Brevig Mission,America/Nome
+99786,67.08971,-157.87253,Ambler,America/Anchorage
+99788,66.64629,-143.78137,Chalkyitsik,America/Anchorage
+99789,70.21348,-150.98966,Nuiqsut,America/Anchorage
+99790,65.42642,-148.18738,Fairbanks,America/Anchorage
+99791,70.48101,-157.3835,Atqasuk,America/Anchorage
+99801,58.39785,-134.05472,Juneau,America/Juneau
+99820,57.43552,-134.28926,Angoon,America/Juneau
+99824,58.27234,-134.40082,Douglas,America/Juneau
+99825,58.12864,-136.19507,Elfin Cove,America/Juneau
+99826,58.39816,-135.83456,Gustavus,America/Juneau
+99827,59.02659,-135.88483,Haines,America/Juneau
+99829,58.03502,-135.33856,Hoonah,America/Juneau
+99830,56.78305,-134.16688,Kake,America/Sitka
+99832,57.96611,-136.08265,Pelican,America/Juneau
+99833,56.82952,-133.17986,Petersburg,America/Sitka
+99835,57.23891,-135.2633,Sitka,America/Sitka
+99836,56.23558,-134.65333,Port Alexander,America/Sitka
+99840,59.56297,-135.33626,Skagway,America/Juneau
+99841,58.00866,-135.57397,Tenakee Springs,America/Juneau
+99850,58.48821,-135.48432,Juneau,America/Juneau
+99901,55.6227,-131.67157,Ketchikan,America/Sitka
+99903,55.73414,-132.10669,Meyers Chuck,America/Sitka
+99918,55.94605,-132.74233,Coffman Cove,America/Sitka
+99919,55.64983,-132.50337,Thorne Bay,America/Sitka
+99921,55.51989,-132.81656,Craig,America/Sitka
+99922,55.30218,-133.03264,Hydaburg,America/Sitka
+99923,55.98043,-130.03803,Hyder,America/Sitka
+99925,55.55398,-132.96276,Klawock,America/Sitka
+99926,55.12617,-131.48928,Metlakatla,America/Metlakatla
+99927,56.33305,-133.60044,Point Baker,America/Sitka
+99929,56.36089,-132.00635,Wrangell,America/Sitka
