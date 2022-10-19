@@ -9,8 +9,5 @@
         <module name="DiscordBotTut" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="DiscordBotTut" target="16" />
-    </bytecodeTargetLevel>
   </component>
 </project>

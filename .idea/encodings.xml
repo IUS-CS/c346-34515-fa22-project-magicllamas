@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/doc/CSV Files/US Zipcode Data.csv" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/doc/CSV Files/ZipCodesStartingWith_0.csv" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/doc/CSV Files/ZipCodesStartingWith_1.csv" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/doc/CSV Files/ZipCodesStartingWith_2.csv" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/doc/CSV Files/ZipCodesStartingWith_3.csv" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/doc/CSV Files/ZipCodesStartingWith_4.csv" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/doc/CSV Files/ZipCodesStartingWith_5.csv" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/doc/CSV Files/ZipCodesStartingWith_6.csv" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/doc/CSV Files/ZipCodesStartingWith_7.csv" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/doc/CSV Files/ZipCodesStartingWith_8.csv" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/doc/CSV Files/ZipCodesStartingWith_9.csv" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>
