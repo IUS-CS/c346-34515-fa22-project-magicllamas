@@ -2,15 +2,16 @@ package responder.prototype.listener;
 
 import com.opencsv.CSVReader;
 import com.opencsv.CSVReaderBuilder;
+import net.dv8tion.jda.api.events.Event;
+import net.dv8tion.jda.api.events.message.MessageReceivedEvent;
 import net.dv8tion.jda.api.hooks.ListenerAdapter;
+import org.jetbrains.annotations.NotNull;
 
-import java.io.BufferedReader;
 import java.io.FileReader;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.List;
-import java.util.Scanner;
 import java.util.TimeZone;
 
 public class CurrentTime extends ListenerAdapter {
@@ -81,6 +82,7 @@ public class CurrentTime extends ListenerAdapter {
                     file = "doc/CSV Files/Zipcodes_8NNNN.csv";break;
                 case '9':
                     file = "doc/CSV Files/Zipcodes_9NNNN.csv";break;
+                default: file = " ";break;
             }
             FileReader fileReader = new FileReader(file);
             CSVReader csvReader = new CSVReaderBuilder(fileReader).withSkipLines(1).build();
@@ -93,21 +95,36 @@ public class CurrentTime extends ListenerAdapter {
             localTime = df.format(date);
             return localTime;
         } catch (Exception ex){
-            String error = "Error Zipcode not found";
-            return error;
+            return "Error";
         }
     }
 
-    public static void main(String[] args) {
-        //Try catch just encase the user trys to break the CurrentTime function
+
+    @Override
+    public void onMessageReceived(@NotNull MessageReceivedEvent event) {
         try {
-            //Only finds the time for Greenwich mean time for testing purposes at the moment
-            Scanner scanner = new Scanner(System.in);
-            String  zipcode = scanner.nextLine();
-            String currentTime = CurrentTime(zipcode);
-            System.out.println(currentTime);
-        }catch (Exception ex){
-            System.out.println("Error");
+            //Tells bot to not respond to other bots
+            if (event.getAuthor().isBot()) return;
+
+            //Splits message into command and inputted zipcode
+            String[] content = event.getMessage().getContentRaw().split(" ");
+            if (content[0].equalsIgnoreCase("!time")||content[0].equalsIgnoreCase("!Time")){
+                String currentTime = CurrentTime(content[1]);
+                //If command in not correct or zipcode is not found outputs error message below
+                if (currentTime == "Error"){
+                    event.getChannel().sendMessage("Error: Unable to get the time and/or date of Zipcode please check that " +
+                            "you have inputted the correct zipcode and/or typed the command correctly (!time <Zipcode>)").queue();
+                }
+                else { //Output for proper zipcode
+                    event.getChannel().sendMessage("The current date and time for the Zipcode " +
+                            content[1] + " is " + currentTime).queue();
+                }
+            }
+
+        } catch (Exception ex){
+            //If command in not correct or zipcode is not found outputs error message below
+            event.getChannel().sendMessage("Error: Unable to get the time and/or date of Zipcode please check that " +
+                    "you have inputted the correct zipcode and/or typed the command correctly (!time <Zipcode>)").queue();
         }
     }
 }

@@ -17,7 +17,49 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\doc\CSV Files\Zipcodes_2NNNN.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\doc\CSV Files\Zipcodes_3NNNN.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\doc\CSV Files\Zipcodes_4NNNN.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\doc\CSV Files\Zipcodes_5NNNN.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\doc\CSV Files\Zipcodes_6NNNN.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\doc\CSV Files\Zipcodes_7NNNN.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\doc\CSV Files\Zipcodes_8NNNN.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
