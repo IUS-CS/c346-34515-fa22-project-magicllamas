@@ -15,7 +15,7 @@ import java.util.List;
 import java.util.TimeZone;
 
 public class CurrentTime extends ListenerAdapter {
-    //Used to find Zipcode in one of CSV files and their TimeZone
+    //Used to find Zipcode in one of CSV files and their TimeZone with a binary search
     public static String binarySearch(List<String[]> stringList, int first, int last, int key){
         int mid = (first + last)/2;
         String[] temp;
@@ -33,12 +33,12 @@ public class CurrentTime extends ListenerAdapter {
                 mid = (first + last) / 2;
             }
             if (first > last) {
-                return "Error";
+                return "Error"; //Sends Error back so code and can send proper response to user
             }
         } catch (Exception ex){
-            return "Error";
+            return "Error";//Sends Error back so code and can send proper response to user
         }
-        return "Error";
+        return "Error";//Sends Error back so code and can send proper response to user
     }
     //CurrentTime will find the current time and date for the timezone you ask for, but it is limited
     public static String CurrentTime(String Zipcode){
@@ -47,7 +47,7 @@ public class CurrentTime extends ListenerAdapter {
         String location = "";
         String localTime;
         String file = "";
-        //Array for Zipcode CSV file
+        //List of Arrays for Zipcode CSV file
         List<String[]> ZipcodeFile;
         //Removes whitespace if needed
         Zipcode = Zipcode.trim();
@@ -57,12 +57,15 @@ public class CurrentTime extends ListenerAdapter {
         DateFormat df = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
         //All zipcodes below 1000 are in puerto rican time zone
         try {
+            //Any Zipcode below 1000 is in the Puerto Rican TimeZone
             if (Integer.parseInt(Zipcode) < 1000) {
                 df.setTimeZone(TimeZone.getTimeZone("America/Puerto_Rico"));
                 localTime = df.format(date);
                 return localTime;
             }
+            //This Temp variable gets the first char from zipcode
             char temp = Zipcode.charAt(0);
+            //This Switch statement checks what temp is and then sets variable file accordingly
             switch (temp) {
                 case '1':
                     file = "doc/CSV Files/Zipcodes_1NNNN.csv";break;
@@ -82,17 +85,26 @@ public class CurrentTime extends ListenerAdapter {
                     file = "doc/CSV Files/Zipcodes_8NNNN.csv";break;
                 case '9':
                     file = "doc/CSV Files/Zipcodes_9NNNN.csv";break;
-                default: file = " ";break;
+                default: file = " ";break;//If something is not correct with zipcode sets file to nothing so it causes an error
             }
+            //File reader from Java library to read correct CSV file in variable file
             FileReader fileReader = new FileReader(file);
+            /**CSVreader is a class to specifically read csv files from OpenCSV (Open Source Software from Maven)
+             * CSVReaderBuilder is a class that allows for more functionality in CSVReader
+             * Also skips the first line in CSV file cause the first line in files is the headers
+             */
             CSVReader csvReader = new CSVReaderBuilder(fileReader).withSkipLines(1).build();
+            //readAll is a class in OpenCSV that reads all lines in CSV file to a list of arrays
             ZipcodeFile = csvReader.readAll();
+            //Temp zipcode to be sent to binary Search cause Zipcode is a String in List
             int tempZipcode = Integer.parseInt(Zipcode);
+            //location is TimeZone location from Zipcode (Example: America/New_York)
             location = binarySearch(ZipcodeFile, 2, ZipcodeFile.size(), tempZipcode);
             //Uses TimeZone Library to get time of variable location and sets it to variable df
             df.setTimeZone(TimeZone.getTimeZone(location));
-            //Places the current time and date of variable location in variable currentTime
+            //Sets localTime to date and time of searched timeZone with format date
             localTime = df.format(date);
+            //Returns localTime
             return localTime;
         } catch (Exception ex){
             return "Error";
@@ -108,9 +120,10 @@ public class CurrentTime extends ListenerAdapter {
 
             //Splits message into command and inputted zipcode
             String[] content = event.getMessage().getContentRaw().split(" ");
+            //Checks to see if time command was used
             if (content[0].equalsIgnoreCase("!time")||content[0].equalsIgnoreCase("!Time")){
                 String currentTime = CurrentTime(content[1]);
-                //If command in not correct or zipcode is not found outputs error message below
+                //If command is not correct or zipcode is not found, outputs error message below
                 if (currentTime == "Error"){
                     event.getChannel().sendMessage("Error: Unable to get the time and/or date of Zipcode please check that " +
                             "you have inputted the correct zipcode and/or typed the command correctly (!time <Zipcode>)").queue();
@@ -122,7 +135,7 @@ public class CurrentTime extends ListenerAdapter {
             }
 
         } catch (Exception ex){
-            //If command in not correct or zipcode is not found outputs error message below
+            //If command is not correct or zipcode is not found, outputs error message below
             event.getChannel().sendMessage("Error: Unable to get the time and/or date of Zipcode please check that " +
                     "you have inputted the correct zipcode and/or typed the command correctly (!time <Zipcode>)").queue();
         }
