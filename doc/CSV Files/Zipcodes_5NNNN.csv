@@ -1,0 +1,3767 @@
+zip,lat,lng,city,timezone
+50001,41.3611,-93.43321,Ackworth,America/Chicago
+50002,41.51236,-94.64801,Adair,America/Chicago
+50003,41.61192,-94.04352,Adel,America/Chicago
+50005,42.1295,-93.02683,Albion,America/Chicago
+50006,42.51354,-93.40227,Alden,America/Chicago
+50007,41.80365,-93.60043,Alleman,America/Chicago
+50008,40.67847,-93.38549,Allerton,America/Chicago
+50009,41.64313,-93.45945,Altoona,America/Chicago
+50010,42.03316,-93.58761,Ames,America/Chicago
+50012,42.02904,-93.65086,Ames,America/Chicago
+50013,42.01732,-93.64809,Ames,America/Chicago
+50014,42.04993,-93.69342,Ames,America/Chicago
+50020,41.43364,-94.75215,Anita,America/Chicago
+50021,41.7207,-93.56838,Ankeny,America/Chicago
+50022,41.41737,-95.00352,Atlantic,America/Chicago
+50023,41.72768,-93.63412,Ankeny,America/Chicago
+50025,41.75628,-94.92034,Audubon,America/Chicago
+50026,41.85823,-94.44958,Bagley,America/Chicago
+50027,41.4739,-92.47194,Barnes City,America/Chicago
+50028,41.81729,-93.15102,Baxter,America/Chicago
+50029,41.82497,-94.55075,Bayard,America/Chicago
+50031,42.03881,-94.14003,Beaver,America/Chicago
+50032,41.66591,-93.54301,Berwick,America/Chicago
+50033,41.36048,-93.79416,Bevington,America/Chicago
+50034,42.52921,-93.65438,Blairsburg,America/Chicago
+50035,41.7248,-93.45957,Bondurant,America/Chicago
+50036,42.0892,-93.85378,Boone,America/Chicago
+50038,41.52186,-93.90064,Booneville,America/Chicago
+50039,41.82615,-94.00653,Bouton,America/Chicago
+50040,42.17363,-94.10121,Boxholm,America/Chicago
+50041,42.63429,-93.24662,Bradford,America/Chicago
+50042,41.53326,-94.90004,Brayton,America/Chicago
+50044,41.20247,-92.88907,Bussey,America/Chicago
+50046,41.88974,-93.5234,Cambridge,America/Chicago
+50047,41.47551,-93.46556,Carlisle,America/Chicago
+50048,41.51167,-94.51936,Casey,America/Chicago
+50049,41.03741,-93.29566,Chariton,America/Chicago
+50050,42.16459,-94.51054,Churdan,America/Chicago
+50051,42.13875,-93.13736,Clemons,America/Chicago
+50052,40.64417,-93.44538,Clio,America/Chicago
+50054,41.68729,-93.23196,Colfax,America/Chicago
+50055,41.88456,-93.2889,Collins,America/Chicago
+50056,42.01925,-93.29701,Colo,America/Chicago
+50057,41.17859,-93.14554,Columbia,America/Chicago
+50058,41.85773,-94.69044,Coon Rapids,America/Chicago
+50060,40.75508,-93.31922,Corydon,America/Chicago
+50061,41.48022,-93.79343,Cumming,America/Chicago
+50062,41.23499,-93.24425,Melcher Dallas,America/Chicago
+50063,41.69669,-93.93677,Dallas Center,America/Chicago
+50064,42.10671,-94.229,Dana,America/Chicago
+50065,40.60859,-93.78089,Davis City,America/Chicago
+50066,41.8051,-94.22708,Dawson,America/Chicago
+50067,40.70452,-93.85914,Decatur,America/Chicago
+50068,40.94229,-93.46704,Derby,America/Chicago
+50069,41.52104,-94.02993,De Soto,America/Chicago
+50070,41.45402,-94.23745,Dexter,America/Chicago
+50071,42.64931,-93.50597,Dows,America/Chicago
+50072,41.46984,-94.12115,Earlham,America/Chicago
+50073,41.79234,-93.52463,Elkhart,America/Chicago
+50074,40.85685,-94.07524,Ellston,America/Chicago
+50075,42.33516,-93.56054,Ellsworth,America/Chicago
+50076,41.595,-94.8576,Exira,America/Chicago
+50078,41.93862,-92.8629,Ferguson,America/Chicago
+50101,42.66713,-93.63423,Galt,America/Chicago
+50102,42.24554,-93.40022,Garden City,America/Chicago
+50103,40.79292,-93.61079,Garden Grove,America/Chicago
+50104,41.49458,-92.38841,Gibson,America/Chicago
+50105,42.11754,-93.63912,Gilbert,America/Chicago
+50106,41.88213,-92.80749,Gilman,America/Chicago
+50107,42.03547,-94.2191,Grand Junction,America/Chicago
+50108,40.82479,-93.9577,Grand River,America/Chicago
+50109,41.76802,-93.80775,Granger,America/Chicago
+50110,41.84424,-94.98612,Gray,America/Chicago
+50111,41.69353,-93.80358,Grimes,America/Chicago
+50112,41.7319,-92.71591,Grinnell,America/Chicago
+50115,41.68765,-94.55501,Guthrie Center,America/Chicago
+50116,41.17812,-92.98247,Hamilton,America/Chicago
+50117,41.66903,-94.85419,Hamlin,America/Chicago
+50118,41.45957,-93.37673,Hartford,America/Chicago
+50119,41.31089,-92.94587,Harvey,America/Chicago
+50120,41.93373,-92.9828,Haverhill,America/Chicago
+50122,42.30218,-93.3087,Hubbard,America/Chicago
+50123,40.83938,-93.50634,Humeston,America/Chicago
+50124,41.88516,-93.60446,Huxley,America/Chicago
+50125,41.33286,-93.57957,Indianola,America/Chicago
+50126,42.50875,-93.24815,Iowa Falls,America/Chicago
+50127,41.78122,-93.21129,Ira,America/Chicago
+50128,41.85173,-94.29853,Jamaica,America/Chicago
+50129,42.01335,-94.3764,Jefferson,America/Chicago
+50130,42.30074,-93.67331,Jewell,America/Chicago
+50131,41.69749,-93.72021,Johnston,America/Chicago
+50132,42.39392,-93.68256,Kamrar,America/Chicago
+50133,40.71592,-94.07576,Kellerton,America/Chicago
+50134,41.93992,-93.67429,Kelley,America/Chicago
+50135,41.7475,-92.89096,Kellogg,America/Chicago
+50136,41.46984,-92.28927,Keswick,America/Chicago
+50137,41.60872,-92.92126,Killduff,America/Chicago
+50138,41.30246,-93.10534,Knoxville,America/Chicago
+50139,41.19237,-93.36683,Lacona,America/Chicago
+50140,40.63753,-93.99198,Lamoni,America/Chicago
+50141,41.86889,-92.95634,Laurel,America/Chicago
+50142,42.0055,-92.77582,Le Grand,America/Chicago
+50143,41.34245,-92.79893,Leighton,America/Chicago
+50144,40.73327,-93.73615,Leon,America/Chicago
+50145,41.20387,-93.48515,Liberty Center,America/Chicago
+50146,41.68038,-94.24905,Linden,America/Chicago
+50147,40.62381,-93.54597,Lineville,America/Chicago
+50148,42.18142,-92.99567,Liscomb,America/Chicago
+50149,41.1512,-94.08194,Lorimor,America/Chicago
+50150,41.12771,-92.97404,Lovilia,America/Chicago
+50151,41.08074,-93.49717,Lucas,America/Chicago
+50152,41.96873,-93.81765,Luther,America/Chicago
+50153,41.57669,-92.80033,Lynnville,America/Chicago
+50154,42.17625,-93.39068,McCallsburg,America/Chicago
+50155,41.21288,-94.19713,Macksburg,America/Chicago
+50156,41.90349,-93.80001,Madrid,America/Chicago
+50157,41.74545,-92.56183,Malcom,America/Chicago
+50158,42.05016,-92.90143,Marshalltown,America/Chicago
+50160,41.37385,-93.7387,Martensdale,America/Chicago
+50161,41.84764,-93.39914,Maxwell,America/Chicago
+50162,41.92563,-93.06781,Melbourne,America/Chicago
+50163,41.2223,-93.24101,Melcher Dallas,America/Chicago
+50164,41.49921,-94.42176,Menlo,America/Chicago
+50165,40.84808,-93.30937,Millerton,America/Chicago
+50166,41.28289,-93.42629,Milo,America/Chicago
+50167,41.74613,-94.04871,Minburn,America/Chicago
+50168,41.77725,-93.27248,Mingo,America/Chicago
+50169,41.65617,-93.35062,Mitchellville,America/Chicago
+50170,41.52911,-93.11546,Monroe,America/Chicago
+50171,41.58434,-92.52584,Montezuma,America/Chicago
+50173,41.97461,-92.71044,Montour,America/Chicago
+50174,41.03723,-93.96167,Murray,America/Chicago
+50201,42.03337,-93.44434,Nevada,America/Chicago
+50206,42.25018,-93.18941,New Providence,America/Chicago
+50207,41.43344,-92.6381,New Sharon,America/Chicago
+50208,41.71129,-93.03924,Newton,America/Chicago
+50210,41.18998,-93.6978,New Virginia,America/Chicago
+50211,41.45614,-93.6887,Norwalk,America/Chicago
+50212,42.03515,-94.05996,Ogden,America/Chicago
+50213,41.03292,-93.76557,Osceola,America/Chicago
+50214,41.46246,-93.05528,Otley,America/Chicago
+50216,41.69798,-94.35023,Panora,America/Chicago
+50217,42.17206,-94.24984,Paton,America/Chicago
+50218,41.34844,-93.87755,Patterson,America/Chicago
+50219,41.42243,-92.90132,Pella,America/Chicago
+50220,41.8366,-94.12293,Perry,America/Chicago
+50222,41.21701,-93.95369,Peru,America/Chicago
+50223,42.17117,-94.02831,Pilot Mound,America/Chicago
+50225,41.3823,-93.27103,Pleasantville,America/Chicago
+50226,41.79716,-93.70566,Polk City,America/Chicago
+50227,42.59388,-93.42818,Popejoy,America/Chicago
+50228,41.57008,-93.24154,Prairie City,America/Chicago
+50229,41.37416,-93.77906,Prole,America/Chicago
+50230,42.30655,-93.44718,Radcliffe,America/Chicago
+50231,42.23765,-93.60257,Randall,America/Chicago
+50232,41.55761,-92.96868,Reasnor,America/Chicago
+50233,41.61221,-94.21095,Redfield,America/Chicago
+50234,41.89165,-93.17916,Rhodes,America/Chicago
+50235,41.92974,-94.20873,Rippey,America/Chicago
+50236,42.1675,-93.4834,Roland,America/Chicago
+50237,41.54238,-93.36859,Runnells,America/Chicago
+50238,40.97124,-93.17502,Russell,America/Chicago
+50239,42.14431,-93.20144,Saint Anthony,America/Chicago
+50240,41.29368,-93.796,Saint Charles,America/Chicago
+50241,41.30771,-93.73368,Saint Marys,America/Chicago
+50242,41.56332,-92.69428,Searsboro,America/Chicago
+50243,41.86457,-93.6967,Sheldahl,America/Chicago
+50244,41.85083,-93.65126,Slater,America/Chicago
+50246,42.28411,-93.78198,Stanhope,America/Chicago
+50247,42.01832,-93.1665,State Center,America/Chicago
+50248,42.19256,-93.61297,Story City,America/Chicago
+50249,42.26991,-93.89973,Stratford,America/Chicago
+50250,41.48088,-94.34062,Stuart,America/Chicago
+50251,41.56883,-92.87007,Sully,America/Chicago
+50252,41.45881,-93.31518,Swan,America/Chicago
+50254,40.99045,-94.06917,Thayer,America/Chicago
+50255,41.45593,-92.33207,Thornburg,America/Chicago
+50256,41.2664,-92.91114,Tracy,America/Chicago
+50257,41.19092,-93.85048,Truro,America/Chicago
+50258,42.22781,-93.07788,Union,America/Chicago
+50261,41.47014,-93.92286,Van Meter,America/Chicago
+50262,40.85625,-93.82091,Van Wert,America/Chicago
+50263,41.60391,-93.87989,Waukee,America/Chicago
+50264,40.89919,-93.70071,Weldon,America/Chicago
+50265,41.55129,-93.73821,West Des Moines,America/Chicago
+50266,41.56323,-93.81107,West Des Moines,America/Chicago
+50268,41.40695,-92.36227,What Cheer,America/Chicago
+50269,42.26236,-93.01064,Whitten,America/Chicago
+50271,42.48444,-93.54489,Williams,America/Chicago
+50272,41.08809,-93.25682,Williamson,America/Chicago
+50273,41.32838,-94.05606,Winterset,America/Chicago
+50274,41.38261,-94.85756,Wiota,America/Chicago
+50275,41.04375,-93.58852,Woodburn,America/Chicago
+50276,41.85997,-93.923,Woodward,America/Chicago
+50277,41.77867,-94.347,Yale,America/Chicago
+50278,42.1528,-93.29926,Zearing,America/Chicago
+50309,41.58448,-93.62152,Des Moines,America/Chicago
+50310,41.62777,-93.67297,Des Moines,America/Chicago
+50311,41.601,-93.67335,Des Moines,America/Chicago
+50312,41.58064,-93.67622,Des Moines,America/Chicago
+50313,41.65538,-93.62287,Des Moines,America/Chicago
+50314,41.6049,-93.63102,Des Moines,America/Chicago
+50315,41.5449,-93.62063,Des Moines,America/Chicago
+50316,41.60877,-93.59775,Des Moines,America/Chicago
+50317,41.61572,-93.54881,Des Moines,America/Chicago
+50319,41.59115,-93.60314,Des Moines,America/Chicago
+50320,41.53208,-93.57217,Des Moines,America/Chicago
+50321,41.53997,-93.67184,Des Moines,America/Chicago
+50322,41.63383,-93.73589,Urbandale,America/Chicago
+50323,41.63894,-93.8185,Urbandale,America/Chicago
+50324,41.60471,-93.71273,Windsor Heights,America/Chicago
+50325,41.61475,-93.79864,Clive,America/Chicago
+50327,41.58402,-93.48856,Pleasant Hill,America/Chicago
+50401,43.15389,-93.20006,Mason City,America/Chicago
+50420,42.80621,-93.45677,Alexander,America/Chicago
+50421,42.84246,-93.62148,Belmond,America/Chicago
+50423,43.11054,-93.81244,Britt,America/Chicago
+50424,43.40366,-93.94939,Buffalo Center,America/Chicago
+50426,43.41507,-93.01718,Carpenter,America/Chicago
+50427,42.83557,-93.22116,Chapin,America/Chicago
+50428,43.13573,-93.38815,Clear Lake,America/Chicago
+50430,42.97734,-93.95653,Corwith,America/Chicago
+50431,42.73648,-93.36989,Coulter,America/Chicago
+50432,43.22394,-93.79794,Crystal Lake,America/Chicago
+50433,42.92852,-93.04774,Dougherty,America/Chicago
+50434,43.25857,-93.45758,Fertile,America/Chicago
+50435,43.15752,-92.76877,Floyd,America/Chicago
+50436,43.26256,-93.66242,Forest City,America/Chicago
+50438,43.11018,-93.61841,Garner,America/Chicago
+50439,42.94578,-93.6345,Goodell,America/Chicago
+50440,43.33213,-93.06891,Grafton,America/Chicago
+50441,42.73938,-93.22146,Hampton,America/Chicago
+50444,43.29258,-93.38601,Hanlontown,America/Chicago
+50446,43.33821,-93.45394,Joice,America/Chicago
+50447,42.92719,-93.80118,Kanawha,America/Chicago
+50448,43.35053,-93.24753,Kensett,America/Chicago
+50449,43.00129,-93.55629,Klemme,America/Chicago
+50450,43.42045,-93.51998,Lake Mills,America/Chicago
+50451,43.37746,-94.09134,Lakota,America/Chicago
+50452,42.77969,-93.37542,Latimer,America/Chicago
+50453,43.3664,-93.65258,Leland,America/Chicago
+50454,43.38505,-92.73935,Little Cedar,America/Chicago
+50455,43.45695,-92.64981,McIntire,America/Chicago
+50456,43.28812,-93.21579,Manly,America/Chicago
+50457,42.91418,-93.4928,Meservey,America/Chicago
+50458,43.15969,-93.00609,Nora Springs,America/Chicago
+50459,43.4458,-93.25445,Northwood,America/Chicago
+50460,43.2259,-92.6902,Orchard,America/Chicago
+50461,43.29995,-92.81412,Osage,America/Chicago
+50464,43.25146,-93.0765,Plymouth,America/Chicago
+50465,43.48703,-93.91056,Rake,America/Chicago
+50466,43.38782,-92.53815,Riceville,America/Chicago
+50467,43.20916,-93.06608,Rock Falls,America/Chicago
+50468,43.04631,-92.95703,Rockford,America/Chicago
+50469,42.99922,-93.19767,Rockwell,America/Chicago
+50470,42.74652,-93.55374,Rowan,America/Chicago
+50471,43.16486,-92.87834,Rudd,America/Chicago
+50472,43.42265,-92.94644,Saint Ansgar,America/Chicago
+50473,43.46402,-93.67429,Scarville,America/Chicago
+50475,42.87902,-93.21852,Sheffield,America/Chicago
+50476,43.4527,-92.76311,Stacyville,America/Chicago
+50477,42.98743,-93.32731,Swaledale,America/Chicago
+50478,43.40377,-93.78448,Thompson,America/Chicago
+50479,42.94121,-93.4082,Thornton,America/Chicago
+50480,43.25097,-94.05272,Titonka,America/Chicago
+50482,43.12356,-93.48167,Ventura,America/Chicago
+50483,43.11174,-93.99719,Wesley,America/Chicago
+50484,43.23609,-93.91084,Woden,America/Chicago
+50501,42.49244,-94.18967,Fort Dodge,America/Chicago
+50510,42.76084,-94.98216,Albert City,America/Chicago
+50511,43.07483,-94.21894,Algona,America/Chicago
+50514,43.41374,-94.47361,Armstrong,America/Chicago
+50515,43.01993,-94.87812,Ayrshire,America/Chicago
+50516,42.62566,-94.13545,Badger,America/Chicago
+50517,43.30099,-94.23452,Bancroft,America/Chicago
+50518,42.51212,-94.38241,Barnum,America/Chicago
+50519,42.90314,-94.26542,Bode,America/Chicago
+50520,42.80524,-94.39772,Bradgate,America/Chicago
+50521,42.3462,-94.10276,Burnside,America/Chicago
+50522,43.18562,-94.18576,Burt,America/Chicago
+50523,42.36783,-94.29357,Callender,America/Chicago
+50524,42.59992,-94.35799,Clare,America/Chicago
+50525,42.73875,-93.74907,Clarion,America/Chicago
+50527,42.96899,-94.79288,Curlew,America/Chicago
+50528,43.13717,-94.54023,Cylinder,America/Chicago
+50529,42.72216,-94.20101,Dakota City,America/Chicago
+50530,42.27021,-94.04173,Dayton,America/Chicago
+50531,43.45841,-94.61417,Dolliver,America/Chicago
+50532,42.46212,-94.00175,Duncombe,America/Chicago
+50533,42.65251,-93.91109,Eagle Grove,America/Chicago
+50535,42.45138,-95.16167,Early,America/Chicago
+50536,43.11605,-94.69716,Emmetsburg,America/Chicago
+50538,42.28422,-94.43024,Farnhamville,America/Chicago
+50539,43.23543,-94.41849,Fenton,America/Chicago
+50540,42.60019,-94.8407,Fonda,America/Chicago
+50541,42.71569,-94.44715,Gilmore City,America/Chicago
+50542,42.7794,-93.94594,Goldfield,America/Chicago
+50543,42.27434,-94.30666,Gowrie,America/Chicago
+50544,42.2537,-94.17042,Harcourt,America/Chicago
+50545,42.79651,-94.08111,Hardy,America/Chicago
+50546,42.84388,-94.70347,Havelock,America/Chicago
+50548,42.71275,-94.22645,Humboldt,America/Chicago
+50551,42.48242,-94.75484,Jolley,America/Chicago
+50552,42.45638,-94.46068,Knierim,America/Chicago
+50554,42.84648,-94.84118,Laurens,America/Chicago
+50556,43.45276,-94.20114,Ledyard,America/Chicago
+50557,42.35544,-94.04409,Lehigh,America/Chicago
+50558,42.86717,-94.16607,Livermore,America/Chicago
+50559,43.20912,-94.32477,Lone Rock,America/Chicago
+50560,42.95581,-94.1043,Lu Verne,America/Chicago
+50561,42.42122,-94.84794,Lytton,America/Chicago
+50562,42.96158,-94.64173,Mallard,America/Chicago
+50563,42.52802,-94.52515,Manson,America/Chicago
+50565,42.86118,-94.99698,Marathon,America/Chicago
+50566,42.43925,-94.32889,Moorland,America/Chicago
+50567,42.52146,-95.08935,Nemaha,America/Chicago
+50568,42.62171,-94.99395,Newell,America/Chicago
+50569,42.4032,-94.13841,Otho,America/Chicago
+50570,42.89359,-94.36585,Ottosen,America/Chicago
+50571,42.63485,-94.5806,Palmer,America/Chicago
+50573,42.8768,-94.62255,Plover,America/Chicago
+50574,42.71891,-94.69967,Pocahontas,America/Chicago
+50575,42.5588,-94.70065,Pomeroy,America/Chicago
+50576,42.80267,-95.17727,Rembrandt,America/Chicago
+50577,42.85774,-93.97902,Renwick,America/Chicago
+50578,43.30081,-94.54775,Ringsted,America/Chicago
+50579,42.39356,-94.6345,Rockwell City,America/Chicago
+50581,42.84735,-94.54506,Rolfe,America/Chicago
+50582,42.79338,-94.30217,Rutland,America/Chicago
+50583,42.43049,-94.98595,Sac City,America/Chicago
+50585,42.91154,-95.1407,Sioux Rapids,America/Chicago
+50586,42.40472,-94.43204,Somers,America/Chicago
+50588,42.65777,-95.16391,Storm Lake,America/Chicago
+50590,43.40647,-94.30303,Swea City,America/Chicago
+50591,42.67683,-94.05478,Thor,America/Chicago
+50592,42.72927,-95.18345,Truesdale,America/Chicago
+50593,42.65796,-94.89832,Varina,America/Chicago
+50594,42.58561,-94.03949,Vincent,America/Chicago
+50595,42.46097,-93.82154,Webster City,America/Chicago
+50597,42.97379,-94.45048,West Bend,America/Chicago
+50598,43.08023,-94.41841,Whittemore,America/Chicago
+50599,42.58089,-93.81471,Woolstock,America/Chicago
+50601,42.56612,-93.05665,Ackley,America/Chicago
+50602,42.74036,-92.80581,Allison,America/Chicago
+50603,43.18893,-92.45834,Alta Vista,America/Chicago
+50604,42.60484,-92.90299,Aplington,America/Chicago
+50605,42.83559,-93.03276,Aredale,America/Chicago
+50606,42.74669,-91.68299,Arlington,America/Chicago
+50607,42.60872,-91.74747,Aurora,America/Chicago
+50608,42.58815,-92.96075,Austinville,America/Chicago
+50609,42.23066,-92.81046,Beaman,America/Chicago
+50611,42.8193,-92.91114,Bristow,America/Chicago
+50612,42.28546,-92.38687,Buckingham,America/Chicago
+50613,42.53358,-92.49069,Cedar Falls,America/Chicago
+50616,43.07978,-92.66104,Charles City,America/Chicago
+50619,42.79725,-92.66266,Clarksville,America/Chicago
+50620,43.15712,-92.5912,Colwell,America/Chicago
+50621,42.24738,-92.91904,Conrad,America/Chicago
+50622,42.67358,-92.33358,Denver,America/Chicago
+50623,42.52693,-92.20962,Dewar,America/Chicago
+50624,42.46874,-92.65879,Dike,America/Chicago
+50625,42.75071,-92.98691,Dumont,America/Chicago
+50626,42.58028,-92.17049,Dunkerton,America/Chicago
+50627,42.34982,-93.095,Eldora,America/Chicago
+50628,43.26655,-92.39134,Elma,America/Chicago
+50629,42.64222,-92.081,Fairbank,America/Chicago
+50630,42.95651,-92.21346,Fredericksburg,America/Chicago
+50631,42.88254,-92.30929,Frederika,America/Chicago
+50632,42.07667,-92.70299,Garwin,America/Chicago
+50633,42.67203,-93.12664,Geneva,America/Chicago
+50634,42.4181,-92.21422,Gilbertville,America/Chicago
+50635,42.19886,-92.69896,Gladbrook,America/Chicago
+50636,42.89439,-92.80745,Greene,America/Chicago
+50638,42.35654,-92.79495,Grundy Center,America/Chicago
+50641,42.59746,-91.91961,Hazleton,America/Chicago
+50642,42.44024,-92.81243,Holland,America/Chicago
+50643,42.36413,-92.47402,Hudson,America/Chicago
+50644,42.47751,-91.89721,Independence,America/Chicago
+50645,43.02174,-92.44952,Ionia,America/Chicago
+50647,42.64787,-92.48026,Janesville,America/Chicago
+50648,42.45182,-92.09465,Jesup,America/Chicago
+50649,42.66249,-92.90973,Kesley,America/Chicago
+50650,42.61915,-91.65429,Lamont,America/Chicago
+50651,42.32271,-92.19993,La Porte City,America/Chicago
+50652,42.26454,-92.69234,Lincoln,America/Chicago
+50653,42.96737,-92.88927,Marble Rock,America/Chicago
+50654,42.45812,-91.60933,Masonville,America/Chicago
+50655,42.77232,-91.9016,Maynard,America/Chicago
+50657,42.34454,-92.67399,Morrison,America/Chicago
+50658,42.95024,-92.53782,Nashua,America/Chicago
+50659,43.08749,-92.3221,New Hampton,America/Chicago
+50660,42.58099,-92.63752,New Hartford,America/Chicago
+50662,42.68748,-91.93396,Oelwein,America/Chicago
+50664,42.70698,-92.07222,Oran,America/Chicago
+50665,42.58078,-92.7717,Parkersburg,America/Chicago
+50666,42.85995,-92.50933,Plainfield,America/Chicago
+50667,42.47003,-92.22545,Raymond,America/Chicago
+50668,42.69087,-92.2265,Readlyn,America/Chicago
+50669,42.33309,-92.6124,Reinbeck,America/Chicago
+50670,42.68425,-92.61586,Shell Rock,America/Chicago
+50671,42.6523,-91.7997,Stanley,America/Chicago
+50672,42.4247,-93.06545,Steamboat Rock,America/Chicago
+50673,42.52505,-92.7113,Stout,America/Chicago
+50674,42.84202,-92.11746,Sumner,America/Chicago
+50675,42.19884,-92.4928,Traer,America/Chicago
+50676,42.7943,-92.27895,Tripoli,America/Chicago
+50677,42.76363,-92.43775,Waverly,America/Chicago
+50680,42.44956,-92.92505,Wellsburg,America/Chicago
+50681,42.77754,-92.00931,Westgate,America/Chicago
+50682,42.45241,-91.69893,Winthrop,America/Chicago
+50701,42.4171,-92.34448,Waterloo,America/Chicago
+50702,42.45745,-92.31283,Waterloo,America/Chicago
+50703,42.54817,-92.28195,Waterloo,America/Chicago
+50707,42.4771,-92.27918,Evansdale,America/Chicago
+50801,41.07959,-94.39224,Creston,America/Chicago
+50830,41.0242,-94.19037,Afton,America/Chicago
+50831,40.94938,-94.22341,Arispe,America/Chicago
+50833,40.66956,-94.70309,Bedford,America/Chicago
+50835,40.70769,-94.3675,Benton,America/Chicago
+50836,40.63116,-94.49689,Blockton,America/Chicago
+50837,41.22878,-94.68367,Bridgewater,America/Chicago
+50839,41.04874,-94.82206,Carbon,America/Chicago
+50840,40.79378,-94.48413,Clearfield,America/Chicago
+50841,41.01147,-94.76342,Corning,America/Chicago
+50842,41.03991,-94.4618,Cromwell,America/Chicago
+50843,41.24057,-94.88913,Cumberland,America/Chicago
+50845,40.81683,-94.3523,Diagonal,America/Chicago
+50846,41.31081,-94.56839,Fontanelle,America/Chicago
+50847,41.14168,-94.98405,Grant,America/Chicago
+50848,40.78685,-94.76758,Gravity,America/Chicago
+50849,41.30004,-94.40176,Greenfield,America/Chicago
+50851,40.90327,-94.53637,Lenox,America/Chicago
+50853,41.23869,-94.77455,Massena,America/Chicago
+50854,40.69089,-94.21977,Mount Ayr,America/Chicago
+50857,40.94045,-94.88011,Nodaway,America/Chicago
+50858,41.20961,-94.40902,Orient,America/Chicago
+50859,41.06505,-94.60027,Prescott,America/Chicago
+50860,40.62253,-94.34949,Redding,America/Chicago
+50861,40.91163,-94.25685,Shannon City,America/Chicago
+50862,40.81304,-94.65136,Sharpsburg,America/Chicago
+50863,40.84701,-94.17318,Tingley,America/Chicago
+50864,40.97648,-94.98009,Villisca,America/Chicago
+51001,42.83854,-96.54551,Akron,America/Chicago
+51002,42.69859,-95.31863,Alta,America/Chicago
+51003,42.98355,-95.98642,Alton,America/Chicago
+51004,42.3762,-95.916,Anthon,America/Chicago
+51005,42.72044,-95.42405,Aurelia,America/Chicago
+51006,42.31088,-95.61299,Battle Creek,America/Chicago
+51007,42.40225,-96.18857,Bronson,America/Chicago
+51008,42.81127,-96.26724,Brunsville,America/Chicago
+51009,42.94499,-95.55142,Calumet,America/Chicago
+51010,42.09309,-95.92044,Castana,America/Chicago
+51011,42.91562,-96.51388,Chatsworth,America/Chicago
+51012,42.74474,-95.56171,Cherokee,America/Chicago
+51014,42.78428,-95.71155,Cleghorn,America/Chicago
+51015,42.33936,-96.08107,Climbing Hill,America/Chicago
+51016,42.46907,-95.80113,Correctionville,America/Chicago
+51018,42.44884,-95.67814,Cushing,America/Chicago
+51019,42.2721,-95.72615,Danbury,America/Chicago
+51020,42.51215,-95.41249,Galva,America/Chicago
+51022,42.97819,-95.84722,Granville,America/Chicago
+51023,43.00893,-96.46845,Hawarden,America/Chicago
+51024,42.6201,-96.26564,Hinton,America/Chicago
+51025,42.4973,-95.55853,Holstein,America/Chicago
+51026,42.24857,-96.07592,Hornick,America/Chicago
+51027,42.96575,-96.32791,Ireton,America/Chicago
+51028,42.59909,-95.99199,Kingsley,America/Chicago
+51029,42.88549,-95.5414,Larrabee,America/Chicago
+51030,42.49791,-96.19365,Lawton,America/Chicago
+51031,42.80282,-96.18092,Le Mars,America/Chicago
+51033,42.91653,-95.25324,Linn Grove,America/Chicago
+51034,42.16241,-95.78947,Mapleton,America/Chicago
+51035,42.78086,-95.80054,Marcus,America/Chicago
+51036,42.97074,-96.18938,Maurice,America/Chicago
+51037,42.82567,-95.64269,Meriden,America/Chicago
+51038,42.7056,-96.31569,Merrill,America/Chicago
+51039,42.45655,-96.05381,Moville,America/Chicago
+51040,42.03073,-96.0706,Onawa,America/Chicago
+51041,43.02443,-96.07701,Orange City,America/Chicago
+51044,42.30113,-95.91716,Oto,America/Chicago
+51045,42.82019,-96.05772,Oyens,America/Chicago
+51046,42.96621,-95.67949,Paullina,America/Chicago
+51047,42.93523,-95.35752,Peterson,America/Chicago
+51048,42.57963,-95.86412,Pierson,America/Chicago
+51049,42.63005,-95.64463,Quimby,America/Chicago
+51050,42.79545,-95.94772,Remsen,America/Chicago
+51051,42.20443,-95.96988,Rodney,America/Chicago
+51052,42.31063,-96.26343,Salix,America/Chicago
+51053,42.4938,-95.28842,Schaller,America/Chicago
+51054,42.37832,-96.33159,Sergeant Bluff,America/Chicago
+51055,42.21162,-96.26069,Sloan,America/Chicago
+51056,42.23443,-95.95391,Smithland,America/Chicago
+51058,42.98367,-95.46879,Sutherland,America/Chicago
+51060,42.04189,-95.69844,Ute,America/Chicago
+51061,42.57983,-95.72036,Washta,America/Chicago
+51062,42.70623,-96.53511,Westfield,America/Chicago
+51063,42.13103,-96.18611,Whiting,America/Chicago
+51101,42.49413,-96.39361,Sioux City,America/Chicago
+51103,42.52173,-96.44642,Sioux City,America/Chicago
+51104,42.53518,-96.40389,Sioux City,America/Chicago
+51105,42.50808,-96.3671,Sioux City,America/Chicago
+51106,42.46292,-96.32,Sioux City,America/Chicago
+51108,42.56625,-96.34858,Sioux City,America/Chicago
+51109,42.59873,-96.47804,Sioux City,America/Chicago
+51111,42.41129,-96.38606,Sioux City,America/Chicago
+51201,43.18331,-95.8657,Sheldon,America/Chicago
+51230,43.3562,-96.32217,Alvord,America/Chicago
+51231,43.10567,-95.74131,Archer,America/Chicago
+51232,43.30097,-95.8162,Ashton,America/Chicago
+51234,43.19412,-96.01992,Boyden,America/Chicago
+51235,43.29488,-96.21531,Doon,America/Chicago
+51237,43.33885,-96.0005,George,America/Chicago
+51238,43.0758,-95.89071,Hospers,America/Chicago
+51239,43.20238,-96.14522,Hull,America/Chicago
+51240,43.30986,-96.45727,Inwood,America/Chicago
+51241,43.44992,-96.46001,Larchwood,America/Chicago
+51242,43.43227,-96.33806,Lester,America/Chicago
+51243,43.4425,-95.90287,Little Rock,America/Chicago
+51244,43.2443,-95.93436,Matlock,America/Chicago
+51245,43.07788,-95.60149,Primghar,America/Chicago
+51246,43.42764,-96.16564,Rock Rapids,America/Chicago
+51247,43.19259,-96.33723,Rock Valley,America/Chicago
+51248,43.20445,-95.65911,Sanborn,America/Chicago
+51249,43.41068,-95.73203,Sibley,America/Chicago
+51250,43.08437,-96.21232,Sioux Center,America/Chicago
+51301,43.15314,-95.14973,Spencer,America/Chicago
+51331,43.36431,-95.13028,Arnolds Park,America/Chicago
+51333,43.1324,-95.00437,Dickens,America/Chicago
+51334,43.40379,-94.80698,Estherville,America/Chicago
+51338,43.2065,-95.32378,Everly,America/Chicago
+51340,43.2404,-95.15613,Fostoria,America/Chicago
+51341,43.01665,-95.04132,Gillett Grove,America/Chicago
+51342,43.24359,-94.73832,Graettinger,America/Chicago
+51343,43.01804,-95.11445,Greenville,America/Chicago
+51345,43.4181,-95.43209,Harris,America/Chicago
+51346,43.18638,-95.45927,Hartley,America/Chicago
+51347,43.42547,-95.31363,Lake Park,America/Chicago
+51350,43.30752,-95.59827,Melvin,America/Chicago
+51351,43.31656,-95.18626,Milford,America/Chicago
+51354,43.41267,-95.54352,Ocheyedan,America/Chicago
+51355,43.38996,-95.14082,Okoboji,America/Chicago
+51357,43.06215,-95.28762,Royal,America/Chicago
+51358,43.13033,-94.89579,Ruthven,America/Chicago
+51360,43.43626,-95.08556,Spirit Lake,America/Chicago
+51363,43.43363,-94.94678,Superior,America/Chicago
+51364,43.2993,-94.96293,Terril,America/Chicago
+51365,43.30652,-94.7349,Wallingford,America/Chicago
+51366,42.96008,-95.0095,Webb,America/Chicago
+51401,42.06516,-94.87068,Carroll,America/Chicago
+51430,42.0869,-95.02633,Arcadia,America/Chicago
+51431,42.34446,-95.35146,Arthur,America/Chicago
+51432,41.91009,-95.13795,Aspinwall,America/Chicago
+51433,42.27635,-94.87057,Auburn,America/Chicago
+51436,42.18254,-95.01247,Breda,America/Chicago
+51439,42.08298,-95.58347,Charter Oak,America/Chicago
+51440,41.9117,-94.81379,Dedham,America/Chicago
+51441,42.11784,-95.3157,Deloit,America/Chicago
+51442,42.02696,-95.35915,Denison,America/Chicago
+51443,42.07748,-94.70517,Glidden,America/Chicago
+51444,42.01228,-94.97352,Halbur,America/Chicago
+51445,42.32719,-95.46724,Ida Grove,America/Chicago
+51446,41.77663,-95.19277,Irwin,America/Chicago
+51447,41.72101,-95.19196,Kirkman,America/Chicago
+51448,42.20238,-95.30839,Kiron,America/Chicago
+51449,42.26614,-94.73475,Lake City,America/Chicago
+51450,42.31205,-95.02722,Lake View,America/Chicago
+51451,42.1846,-94.69471,Lanesboro,America/Chicago
+51452,42.12242,-94.78366,Lidderdale,America/Chicago
+51453,42.26366,-94.55155,Lohrville,America/Chicago
+51454,41.8798,-95.2072,Manilla,America/Chicago
+51455,41.90829,-95.0559,Manning,America/Chicago
+51458,42.32141,-95.23524,Odebolt,America/Chicago
+51459,42.04495,-94.63779,Ralston,America/Chicago
+51460,42.1324,-95.571,Ricketts,America/Chicago
+51461,42.172,-95.47579,Schleswig,America/Chicago
+51462,42.01319,-94.55744,Scranton,America/Chicago
+51463,41.90743,-94.91265,Templeton,America/Chicago
+51465,42.08964,-95.19872,Vail,America/Chicago
+51466,42.25302,-95.09837,Wall Lake,America/Chicago
+51467,42.07377,-95.10919,Westside,America/Chicago
+51501,41.22828,-95.87889,Council Bluffs,America/Chicago
+51503,41.2304,-95.77795,Council Bluffs,America/Chicago
+51510,41.28844,-95.91715,Carter Lake,America/Chicago
+51520,41.9692,-95.4593,Arion,America/Chicago
+51521,41.47987,-95.34526,Avoca,America/Chicago
+51523,41.9122,-96.07172,Blencoe,America/Chicago
+51525,41.23443,-95.41999,Carson,America/Chicago
+51526,41.37186,-95.87818,Crescent,America/Chicago
+51527,41.82875,-95.348,Defiance,America/Chicago
+51528,41.92724,-95.50185,Dow City,America/Chicago
+51529,41.8618,-95.62591,Dunlap,America/Chicago
+51530,41.78247,-95.42613,Earling,America/Chicago
+51531,41.58751,-95.08837,Elk Horn,America/Chicago
+51532,41.13408,-95.11167,Elliott,America/Chicago
+51533,41.03606,-95.37933,Emerson,America/Chicago
+51534,41.04092,-95.71853,Glenwood,America/Chicago
+51535,41.2264,-95.13241,Griswold,America/Chicago
+51536,41.38385,-95.36025,Hancock,America/Chicago
+51537,41.64646,-95.29531,Harlan,America/Chicago
+51540,41.02488,-95.49802,Hastings,America/Chicago
+51541,41.13664,-95.41623,Henderson,America/Chicago
+51542,41.43354,-95.84072,Honey Creek,America/Chicago
+51543,41.65792,-95.07317,Kimballton,America/Chicago
+51544,41.31316,-95.10817,Lewis,America/Chicago
+51545,41.83897,-96.02072,Little Sioux,America/Chicago
+51546,41.6399,-95.77209,Logan,America/Chicago
+51548,41.31713,-95.63553,McClelland,America/Chicago
+51549,41.18253,-95.45445,Macedonia,America/Chicago
+51550,41.69203,-95.87399,Magnolia,America/Chicago
+51551,40.99129,-95.58907,Malvern,America/Chicago
+51552,41.48613,-95.11439,Marne,America/Chicago
+51553,41.41577,-95.54638,Minden,America/Chicago
+51554,41.14512,-95.68122,Mineola,America/Chicago
+51555,41.55937,-95.91398,Missouri Valley,America/Chicago
+51556,41.63548,-96.04198,Modale,America/Chicago
+51557,41.72903,-96.00233,Mondamin,America/Chicago
+51558,41.91497,-95.87023,Moorhead,America/Chicago
+51559,41.46034,-95.66049,Neola,America/Chicago
+51560,41.31746,-95.39838,Oakland,America/Chicago
+51561,41.00571,-95.80992,Pacific Junction,America/Chicago
+51562,41.72591,-95.50128,Panama,America/Chicago
+51563,41.5769,-95.59405,Persia,America/Chicago
+51564,41.81309,-95.90801,Pisgah,America/Chicago
+51565,41.64555,-95.52391,Portsmouth,America/Chicago
+51566,41.0151,-95.22994,Red Oak,America/Chicago
+51570,41.52271,-95.46039,Shelby,America/Chicago
+51571,41.14582,-95.60994,Silver City,America/Chicago
+51572,41.9896,-95.79053,Soldier,America/Chicago
+51573,40.97949,-95.09451,Stanton,America/Chicago
+51575,41.24111,-95.60218,Treynor,America/Chicago
+51576,41.3777,-95.70945,Underwood,America/Chicago
+51577,41.4644,-95.20296,Walnut,America/Chicago
+51578,41.72002,-95.39508,Westphalia,America/Chicago
+51579,41.75171,-95.7069,Woodbine,America/Chicago
+51601,40.72938,-95.35037,Shenandoah,America/Chicago
+51630,40.60101,-95.19427,Blanchard,America/Chicago
+51631,40.60267,-95.00918,Braddyville,America/Chicago
+51632,40.7478,-95.04939,Clarinda,America/Chicago
+51636,40.66713,-95.23519,Coin,America/Chicago
+51637,40.62046,-95.11832,College Springs,America/Chicago
+51638,40.83919,-95.26663,Essex,America/Chicago
+51639,40.71859,-95.47362,Farragut,America/Chicago
+51640,40.62262,-95.6634,Hamburg,America/Chicago
+51645,40.88206,-95.4229,Imogene,America/Chicago
+51646,40.75315,-94.8725,New Market,America/Chicago
+51647,40.60539,-95.34509,Northboro,America/Chicago
+51648,40.74215,-95.80325,Percival,America/Chicago
+51649,40.8518,-95.53565,Randolph,America/Chicago
+51650,40.673,-95.5492,Riverton,America/Chicago
+51651,40.65652,-95.03473,Shambaugh,America/Chicago
+51652,40.77032,-95.62815,Sidney,America/Chicago
+51653,40.88444,-95.67179,Tabor,America/Chicago
+51654,40.831,-95.76038,Thurman,America/Chicago
+51656,40.73527,-95.15437,Yorktown,America/Chicago
+52001,42.54819,-90.69348,Dubuque,America/Chicago
+52002,42.52481,-90.77184,Dubuque,America/Chicago
+52003,42.43434,-90.67506,Dubuque,America/Chicago
+52030,42.15322,-90.59219,Andrew,America/Chicago
+52031,42.24874,-90.48922,Bellevue,America/Chicago
+52032,42.29006,-90.84317,Bernard,America/Chicago
+52033,42.27941,-91.00177,Cascade,America/Chicago
+52035,42.65996,-91.18784,Colesburg,America/Chicago
+52036,42.47285,-91.34086,Delaware,America/Chicago
+52037,41.96712,-90.62899,Delmar,America/Chicago
+52038,42.58586,-91.55685,Dundee,America/Chicago
+52039,42.53807,-90.85745,Durango,America/Chicago
+52040,42.51114,-91.13884,Dyersville,America/Chicago
+52041,42.5051,-91.25515,Earlville,America/Chicago
+52042,42.68098,-91.36517,Edgewood,America/Chicago
+52043,42.84403,-91.42201,Elkader,America/Chicago
+52044,42.76808,-91.32328,Elkport,America/Chicago
+52045,42.45485,-90.93113,Epworth,America/Chicago
+52046,42.44024,-91.0119,Farley,America/Chicago
+52047,42.96401,-91.34301,Farmersburg,America/Chicago
+52048,42.73735,-91.25584,Garber,America/Chicago
+52049,42.8823,-91.20521,Garnavillo,America/Chicago
+52050,42.60532,-91.33204,Greeley,America/Chicago
+52052,42.7411,-91.12083,Guttenberg,America/Chicago
+52053,42.60656,-90.96399,Holy Cross,America/Chicago
+52054,42.30569,-90.62811,La Motte,America/Chicago
+52056,42.60401,-91.07257,Luxemburg,America/Chicago
+52057,42.4916,-91.45333,Manchester,America/Chicago
+52060,42.10217,-90.67961,Maquoketa,America/Chicago
+52064,42.08977,-90.31076,Miles,America/Chicago
+52065,42.58353,-91.10202,New Vienna,America/Chicago
+52066,42.693,-90.96925,North Buena Vista,America/Chicago
+52068,42.42382,-90.81128,Peosta,America/Chicago
+52069,42.05772,-90.4279,Preston,America/Chicago
+52070,42.08146,-90.21771,Sabula,America/Chicago
+52071,42.36245,-90.54234,Saint Donatus,America/Chicago
+52072,42.92022,-91.38025,Saint Olaf,America/Chicago
+52073,42.62331,-90.82069,Sherrill,America/Chicago
+52074,42.10966,-90.4724,Spragueville,America/Chicago
+52075,42.16577,-90.47916,Springbrook,America/Chicago
+52076,42.69805,-91.50984,Strawberry Point,America/Chicago
+52077,42.82258,-91.55393,Volga,America/Chicago
+52078,42.39506,-91.11534,Worthington,America/Chicago
+52079,42.28781,-90.71908,Zwingle,America/Chicago
+52101,43.35741,-91.76494,Decorah,America/Chicago
+52132,43.2067,-91.91881,Calmar,America/Chicago
+52133,43.10702,-91.66854,Castalia,America/Chicago
+52134,43.47156,-92.40078,Chester,America/Chicago
+52135,43.01945,-91.66204,Clermont,America/Chicago
+52136,43.37139,-92.11289,Cresco,America/Chicago
+52140,43.44173,-91.53108,Dorchester,America/Chicago
+52141,42.93924,-91.63007,Elgin,America/Chicago
+52142,42.82752,-91.79441,Fayette,America/Chicago
+52144,43.13961,-91.96075,Fort Atkinson,America/Chicago
+52146,43.18826,-91.19588,Harpers Ferry,America/Chicago
+52147,42.94957,-91.96106,Hawkeye,America/Chicago
+52151,43.34706,-91.28013,Lansing,America/Chicago
+52154,43.12201,-92.16519,Lawler,America/Chicago
+52155,43.41412,-92.29683,Lime Springs,America/Chicago
+52156,43.05316,-91.46534,Luana,America/Chicago
+52157,43.01661,-91.23216,McGregor,America/Chicago
+52158,43.04388,-91.18647,Marquette,America/Chicago
+52159,43.07979,-91.36134,Monona,America/Chicago
+52160,43.46733,-91.3521,New Albin,America/Chicago
+52161,43.12733,-91.75623,Ossian,America/Chicago
+52162,43.11062,-91.55266,Postville,America/Chicago
+52163,43.21976,-92.10315,Protivin,America/Chicago
+52164,42.85212,-91.89941,Randalia,America/Chicago
+52165,43.30671,-91.98465,Ridgeway,America/Chicago
+52166,43.06791,-91.93547,Saint Lucas,America/Chicago
+52168,43.20339,-91.95338,Spillville,America/Chicago
+52169,42.84739,-91.65971,Wadena,America/Chicago
+52170,43.22886,-91.30485,Waterville,America/Chicago
+52171,43.07451,-92.04808,Waucoma,America/Chicago
+52172,43.27117,-91.48382,Waukon,America/Chicago
+52175,42.99372,-91.82389,West Union,America/Chicago
+52201,41.33218,-91.54704,Ainsworth,America/Chicago
+52202,42.15836,-91.63792,Alburnett,America/Chicago
+52203,41.81035,-91.8906,Amana,America/Chicago
+52205,42.11754,-91.28806,Anamosa,America/Chicago
+52206,41.99187,-91.88718,Atkins,America/Chicago
+52207,42.09286,-90.83,Baldwin,America/Chicago
+52208,41.88568,-92.26475,Belle Plaine,America/Chicago
+52209,41.90809,-92.09462,Blairstown,America/Chicago
+52210,42.33905,-92.00537,Brandon,America/Chicago
+52211,41.75978,-92.45062,Brooklyn,America/Chicago
+52212,42.10954,-91.08929,Center Junction,America/Chicago
+52213,42.1995,-91.77222,Center Point,America/Chicago
+52214,42.19056,-91.50704,Central City,America/Chicago
+52215,41.91018,-92.40106,Chelsea,America/Chicago
+52216,41.89321,-91.0431,Clarence,America/Chicago
+52217,42.07948,-92.41067,Clutier,America/Chicago
+52218,42.2946,-91.53826,Coggon,America/Chicago
+52219,42.23758,-91.42576,Prairieburg,America/Chicago
+52220,41.72661,-91.99853,Conroy,America/Chicago
+52221,41.64151,-92.33215,Guernsey,America/Chicago
+52222,41.57623,-92.33693,Deep River,America/Chicago
+52223,42.41315,-91.32408,Delhi,America/Chicago
+52224,42.16386,-92.29836,Dysart,America/Chicago
+52225,42.01289,-92.32636,Elberon,America/Chicago
+52227,41.89647,-91.5626,Ely,America/Chicago
+52228,41.90282,-91.79132,Fairfax,America/Chicago
+52229,42.14609,-92.16884,Garrison,America/Chicago
+52231,41.36371,-92.05912,Harper,America/Chicago
+52232,41.80128,-92.34043,Hartwick,America/Chicago
+52233,42.04934,-91.68732,Hiawatha,America/Chicago
+52235,41.57024,-91.53281,Hills,America/Chicago
+52236,41.73143,-91.87647,Homestead,America/Chicago
+52237,42.34368,-91.25193,Hopkinton,America/Chicago
+52240,41.63143,-91.49924,Iowa City,America/Chicago
+52241,41.69708,-91.59746,Coralville,America/Chicago
+52242,41.66195,-91.54317,Iowa City,America/Chicago
+52245,41.67071,-91.50666,Iowa City,America/Chicago
+52246,41.64903,-91.59718,Iowa City,America/Chicago
+52247,41.51503,-91.71774,Kalona,America/Chicago
+52248,41.34386,-91.93891,Keota,America/Chicago
+52249,42.01202,-92.20517,Keystone,America/Chicago
+52251,41.71218,-92.20314,Ladora,America/Chicago
+52252,42.19712,-91.22727,Langworthy,America/Chicago
+52253,41.89713,-91.35154,Lisbon,America/Chicago
+52254,41.95232,-90.80538,Lost Nation,America/Chicago
+52255,41.86294,-90.96129,Lowden,America/Chicago
+52257,41.91836,-92.17742,Luzerne,America/Chicago
+52301,41.78658,-92.09013,Marengo,America/Chicago
+52302,42.0656,-91.57091,Marion,America/Chicago
+52305,42.01801,-91.34207,Martelle,America/Chicago
+52306,41.89729,-91.25296,Mechanicsville,America/Chicago
+52307,41.79158,-91.90244,Middle Amana,America/Chicago
+52308,41.5733,-92.1592,Millersburg,America/Chicago
+52309,42.12415,-90.88733,Monmouth,America/Chicago
+52310,42.21983,-91.19737,Monticello,America/Chicago
+52312,42.00617,-91.24526,Morley,America/Chicago
+52313,42.25955,-92.09726,Mount Auburn,America/Chicago
+52314,41.93439,-91.44985,Mount Vernon,America/Chicago
+52315,42.00181,-91.96985,Newhall,America/Chicago
+52316,41.53727,-92.09367,North English,America/Chicago
+52317,41.76277,-91.63142,North Liberty,America/Chicago
+52318,41.89012,-91.89656,Norway,America/Chicago
+52320,41.99997,-91.14643,Olin,America/Chicago
+52321,42.14168,-90.98307,Onslow,America/Chicago
+52322,41.69221,-91.76284,Oxford,America/Chicago
+52323,41.98445,-90.95344,Oxford Junction,America/Chicago
+52324,42.06421,-91.80583,Palo,America/Chicago
+52325,41.58028,-91.92305,Parnell,America/Chicago
+52326,42.39513,-91.75641,Quasqueton,America/Chicago
+52327,41.477,-91.58046,Riverside,America/Chicago
+52328,42.07195,-91.66641,Robins,America/Chicago
+52329,42.35894,-91.85405,Rowley,America/Chicago
+52330,42.35261,-91.50076,Ryan,America/Chicago
+52332,42.09861,-91.88772,Shellsburg,America/Chicago
+52333,41.80376,-91.48685,Solon,America/Chicago
+52334,41.73084,-91.94355,South Amana,America/Chicago
+52335,41.45935,-92.05895,South English,America/Chicago
+52336,42.0689,-91.44111,Springville,America/Chicago
+52337,41.88217,-91.14282,Stanwood,America/Chicago
+52338,41.82904,-91.70858,Swisher,America/Chicago
+52339,41.92313,-92.58307,Tama,America/Chicago
+52340,41.70615,-91.68019,Tiffin,America/Chicago
+52341,42.10535,-91.7341,Toddville,America/Chicago
+52342,42.05047,-92.55849,Toledo,America/Chicago
+52344,42.29202,-91.68325,Troy Mills,America/Chicago
+52345,42.22239,-91.89177,Urbana,America/Chicago
+52346,42.01298,-92.08119,Van Horne,America/Chicago
+52347,41.71345,-92.28591,Victor,America/Chicago
+52348,41.99331,-92.38597,Vining,America/Chicago
+52349,42.17246,-92.00566,Vinton,America/Chicago
+52351,41.87496,-91.83529,Walford,America/Chicago
+52352,42.28706,-91.77897,Walker,America/Chicago
+52353,41.29923,-91.71596,Washington,America/Chicago
+52354,41.91883,-91.98856,Watkins,America/Chicago
+52355,41.4576,-92.18387,Webster,America/Chicago
+52356,41.4749,-91.84769,Wellman,America/Chicago
+52358,41.69644,-91.32097,West Branch,America/Chicago
+52359,41.35428,-91.81006,West Chester,America/Chicago
+52361,41.6446,-92.0154,Williamsburg,America/Chicago
+52362,42.05881,-91.00258,Wyoming,America/Chicago
+52401,41.97534,-91.65871,Cedar Rapids,America/Chicago
+52402,42.02272,-91.66001,Cedar Rapids,America/Chicago
+52403,41.96813,-91.57964,Cedar Rapids,America/Chicago
+52404,41.92153,-91.69077,Cedar Rapids,America/Chicago
+52405,41.98644,-91.74774,Cedar Rapids,America/Chicago
+52411,42.05093,-91.72723,Cedar Rapids,America/Chicago
+52501,41.03828,-92.43252,Ottumwa,America/Chicago
+52530,40.98953,-92.29492,Agency,America/Chicago
+52531,41.02684,-92.81562,Albia,America/Chicago
+52533,41.01228,-92.15043,Batavia,America/Chicago
+52534,41.27342,-92.6806,Beacon,America/Chicago
+52535,40.86533,-91.96407,Birmingham,America/Chicago
+52536,40.95291,-92.61802,Blakesburg,America/Chicago
+52537,40.7355,-92.41426,Bloomfield,America/Chicago
+52540,41.15769,-91.82281,Brighton,America/Chicago
+52542,40.62712,-92.05164,Cantril,America/Chicago
+52543,41.20065,-92.51773,Cedar,America/Chicago
+52544,40.71774,-92.90831,Centerville,America/Chicago
+52548,41.0855,-92.5306,Chillicothe,America/Chicago
+52549,40.61392,-92.94602,Cincinnati,America/Chicago
+52550,41.31635,-92.36254,Delta,America/Chicago
+52551,40.81877,-92.1058,Douds,America/Chicago
+52552,40.83552,-92.53633,Drakesville,America/Chicago
+52553,41.14865,-92.65668,Eddyville,America/Chicago
+52554,40.92562,-92.23387,Eldon,America/Chicago
+52555,40.63905,-92.81046,Exline,America/Chicago
+52556,41.01842,-91.9264,Fairfield,America/Chicago
+52557,41.02026,-91.96653,Fairfield,America/Chicago
+52560,40.85491,-92.25312,Floris,America/Chicago
+52561,41.22135,-92.44081,Fremont,America/Chicago
+52562,41.26539,-92.24858,Hayesville,America/Chicago
+52563,41.17295,-92.27765,Hedrick,America/Chicago
+52565,40.74005,-91.94332,Keosauqua,America/Chicago
+52566,41.12887,-92.50547,Kirkville,America/Chicago
+52567,40.93174,-92.07224,Libertyville,America/Chicago
+52568,41.1779,-92.25077,Martinsburg,America/Chicago
+52569,40.97968,-93.04939,Melrose,America/Chicago
+52570,40.68656,-92.14853,Milton,America/Chicago
+52571,40.87739,-92.83114,Moravia,America/Chicago
+52572,40.67795,-92.69163,Moulton,America/Chicago
+52573,40.62378,-91.92979,Mount Sterling,America/Chicago
+52574,40.80822,-92.96948,Mystic,America/Chicago
+52576,41.21337,-92.1125,Ollie,America/Chicago
+52577,41.27174,-92.6602,Oskaloosa,America/Chicago
+52580,41.12039,-92.09069,Packwood,America/Chicago
+52581,40.80504,-93.06265,Plano,America/Chicago
+52583,40.80284,-93.1555,Promise City,America/Chicago
+52584,40.65273,-92.24936,Pulaski,America/Chicago
+52585,41.18902,-91.98863,Richland,America/Chicago
+52586,41.34573,-92.46694,Rose Hill,America/Chicago
+52588,40.86325,-92.16315,Selma,America/Chicago
+52590,40.6654,-93.13594,Seymour,America/Chicago
+52591,41.31988,-92.19465,Sigourney,America/Chicago
+52593,40.77363,-92.73955,Udell,America/Chicago
+52594,40.83561,-92.64957,Unionville,America/Chicago
+52595,41.28847,-92.61506,University Park,America/Chicago
+52601,40.8551,-91.111,Burlington,America/Chicago
+52619,40.5246,-91.56566,Argyle,America/Chicago
+52620,40.7032,-91.79563,Bonaparte,America/Chicago
+52621,41.20821,-91.53209,Crawfordsville,America/Chicago
+52623,40.85569,-91.33998,Danville,America/Chicago
+52624,40.7348,-91.33609,Denmark,America/Chicago
+52625,40.66604,-91.57094,Donnellson,America/Chicago
+52626,40.63201,-91.72119,Farmington,America/Chicago
+52627,40.65973,-91.35145,Fort Madison,America/Chicago
+52630,40.80375,-91.7038,Hillsboro,America/Chicago
+52631,40.78308,-91.61209,Houghton,America/Chicago
+52632,40.44072,-91.43973,Keokuk,America/Chicago
+52635,40.99117,-91.75843,Lockridge,America/Chicago
+52637,41.01949,-91.13774,Mediapolis,America/Chicago
+52638,40.79864,-91.24577,Middletown,America/Chicago
+52639,40.52763,-91.46409,Montrose,America/Chicago
+52640,41.09649,-91.28205,Morning Sun,America/Chicago
+52641,40.98799,-91.58531,Mount Pleasant,America/Chicago
+52644,41.03988,-91.41535,Mount Union,America/Chicago
+52645,40.91429,-91.40138,New London,America/Chicago
+52646,41.06706,-91.00072,Oakville,America/Chicago
+52647,41.1342,-91.54506,Olds,America/Chicago
+52649,40.83827,-91.60647,Salem,America/Chicago
+52650,40.94782,-91.15687,Sperry,America/Chicago
+52651,40.85819,-91.81323,Stockport,America/Chicago
+52652,41.09796,-91.5542,Swedesburg,America/Chicago
+52653,41.16642,-91.15597,Wapello,America/Chicago
+52654,41.13581,-91.66898,Wayland,America/Chicago
+52655,40.84768,-91.21174,West Burlington,America/Chicago
+52656,40.73844,-91.4611,West Point,America/Chicago
+52657,40.76784,-91.5164,Saint Paul,America/Chicago
+52658,40.69998,-91.22657,Wever,America/Chicago
+52659,41.13285,-91.43658,Winfield,America/Chicago
+52660,40.99146,-91.29998,Yarmouth,America/Chicago
+52701,41.98198,-90.24908,Andover,America/Chicago
+52720,41.59064,-91.16578,Atalissa,America/Chicago
+52721,41.75588,-90.9633,Bennett,America/Chicago
+52722,41.56633,-90.4673,Bettendorf,America/Chicago
+52726,41.50092,-90.78419,Blue Grass,America/Chicago
+52727,41.95834,-90.33341,Bryant,America/Chicago
+52728,41.45907,-90.72592,Buffalo,America/Chicago
+52729,41.80063,-90.74312,Calamus,America/Chicago
+52730,41.77366,-90.34364,Camanche,America/Chicago
+52731,41.96637,-90.48551,Charlotte,America/Chicago
+52732,41.90126,-90.25083,Clinton,America/Chicago
+52737,41.25918,-91.37478,Columbus City,America/Chicago
+52738,41.2736,-91.38072,Columbus Junction,America/Chicago
+52739,41.3728,-91.36823,Conesville,America/Chicago
+52742,41.83616,-90.51076,De Witt,America/Chicago
+52745,41.71502,-90.75783,Dixon,America/Chicago
+52746,41.71945,-90.67172,Donahue,America/Chicago
+52747,41.59758,-90.91147,Durant,America/Chicago
+52748,41.66471,-90.55713,Eldridge,America/Chicago
+52749,41.34608,-91.13112,Fruitland,America/Chicago
+52750,41.933,-90.39302,Goose Lake,America/Chicago
+52751,41.8519,-90.68398,Grand Mound,America/Chicago
+52752,41.27465,-91.1911,Grandview,America/Chicago
+52753,41.62544,-90.38989,Le Claire,America/Chicago
+52754,41.34254,-91.24144,Letts,America/Chicago
+52755,41.48015,-91.43349,Lone Tree,America/Chicago
+52756,41.72966,-90.54084,Long Grove,America/Chicago
+52757,41.80337,-90.3552,Low Moor,America/Chicago
+52758,41.74405,-90.44104,McCausland,America/Chicago
+52759,41.46043,-90.80989,Montpelier,America/Chicago
+52760,41.58255,-91.09853,Moscow,America/Chicago
+52761,41.43798,-91.05802,Muscatine,America/Chicago
+52765,41.72182,-90.87274,New Liberty,America/Chicago
+52766,41.46407,-91.30061,Nichols,America/Chicago
+52767,41.57356,-90.42326,Pleasant Valley,America/Chicago
+52768,41.69906,-90.38977,Princeton,America/Chicago
+52769,41.60836,-90.8416,Stockton,America/Chicago
+52771,42.01958,-90.25707,Teeds Grove,America/Chicago
+52772,41.75006,-91.14083,Tipton,America/Chicago
+52773,41.62187,-90.75529,Walcott,America/Chicago
+52774,41.90743,-90.59596,Welton,America/Chicago
+52776,41.5795,-91.275,West Liberty,America/Chicago
+52777,41.84739,-90.85529,Wheatland,America/Chicago
+52778,41.61115,-91.00066,Wilton,America/Chicago
+52801,41.52082,-90.57483,Davenport,America/Chicago
+52802,41.49908,-90.63621,Davenport,America/Chicago
+52803,41.53871,-90.55623,Davenport,America/Chicago
+52804,41.53584,-90.68081,Davenport,America/Chicago
+52806,41.58918,-90.62553,Davenport,America/Chicago
+52807,41.61061,-90.51634,Davenport,America/Chicago
+53001,43.60562,-88.05217,Adell,America/Chicago
+53002,43.46896,-88.35454,Allenton,America/Chicago
+53003,43.21226,-88.51957,Ashippun,America/Chicago
+53004,43.4995,-87.8805,Belgium,America/Chicago
+53005,43.0625,-88.0992,Brookfield,America/Chicago
+53006,43.62103,-88.53534,Brownsville,America/Chicago
+53007,43.10825,-88.07116,Butler,America/Chicago
+53010,43.61121,-88.27901,Campbellsport,America/Chicago
+53011,43.65755,-88.08123,Cascade,America/Chicago
+53012,43.31369,-88.03704,Cedarburg,America/Chicago
+53013,43.56585,-87.85172,Cedar Grove,America/Chicago
+53014,44.02298,-88.17549,Chilton,America/Chicago
+53015,43.90534,-87.79296,Cleveland,America/Chicago
+53016,43.31104,-88.71794,Clyman,America/Chicago
+53017,43.2044,-88.2526,Colgate,America/Chicago
+53018,43.04809,-88.39278,Delafield,America/Chicago
+53019,43.69667,-88.30752,Eden,America/Chicago
+53020,43.86231,-88.01364,Elkhart Lake,America/Chicago
+53021,43.49425,-88.00111,Fredonia,America/Chicago
+53022,43.23062,-88.11286,Germantown,America/Chicago
+53023,43.78198,-88.10745,Glenbeulah,America/Chicago
+53024,43.33233,-87.93299,Grafton,America/Chicago
+53027,43.31697,-88.37356,Hartford,America/Chicago
+53029,43.14381,-88.34624,Hartland,America/Chicago
+53031,43.64036,-87.91778,Hingham,America/Chicago
+53032,43.44708,-88.6234,Horicon,America/Chicago
+53033,43.23716,-88.25634,Hubertus,America/Chicago
+53034,43.34014,-88.60746,Hustisford,America/Chicago
+53035,43.39135,-88.54355,Iron Ridge,America/Chicago
+53036,43.17141,-88.57693,Ixonia,America/Chicago
+53037,43.31255,-88.16108,Jackson,America/Chicago
+53038,43.08592,-88.79031,Johnson Creek,America/Chicago
+53039,43.36931,-88.71148,Juneau,America/Chicago
+53040,43.52126,-88.19198,Kewaskum,America/Chicago
+53042,43.95144,-87.98216,Kiel,America/Chicago
+53044,43.73793,-87.78327,Kohler,America/Chicago
+53045,43.061,-88.15145,Brookfield,America/Chicago
+53046,43.15215,-88.16045,Lannon,America/Chicago
+53047,43.25904,-88.63002,Lebanon,America/Chicago
+53048,43.57935,-88.45554,Lomira,America/Chicago
+53049,43.8853,-88.28917,Malone,America/Chicago
+53050,43.50992,-88.54734,Mayville,America/Chicago
+53051,43.14905,-88.12348,Menomonee Falls,America/Chicago
+53057,43.79099,-88.24671,Mount Calvary,America/Chicago
+53058,43.11003,-88.40624,Nashotah,America/Chicago
+53059,43.28954,-88.53012,Neosho,America/Chicago
+53061,43.94588,-88.11803,New Holstein,America/Chicago
+53063,43.96297,-87.80232,Newton,America/Chicago
+53065,43.68227,-88.56866,Oakfield,America/Chicago
+53066,43.11451,-88.49068,Oconomowoc,America/Chicago
+53069,43.1131,-88.43094,Okauchee,America/Chicago
+53070,43.62429,-87.80872,Oostburg,America/Chicago
+53072,43.07989,-88.26638,Pewaukee,America/Chicago
+53073,43.75011,-87.99191,Plymouth,America/Chicago
+53074,43.42716,-87.88265,Port Washington,America/Chicago
+53075,43.56318,-87.99559,Random Lake,America/Chicago
+53076,43.26966,-88.20905,Richfield,America/Chicago
+53078,43.31386,-88.45924,Rubicon,America/Chicago
+53079,43.81132,-88.1888,Saint Cloud,America/Chicago
+53080,43.40733,-87.98789,Saukville,America/Chicago
+53081,43.71343,-87.73725,Sheboygan,America/Chicago
+53083,43.81511,-87.77108,Sheboygan,America/Chicago
+53085,43.73562,-87.85137,Sheboygan Falls,America/Chicago
+53086,43.32508,-88.27124,Slinger,America/Chicago
+53088,44.07178,-88.29966,Stockbridge,America/Chicago
+53089,43.14646,-88.23594,Sussex,America/Chicago
+53090,43.45685,-88.17985,West Bend,America/Chicago
+53091,43.49667,-88.43674,Theresa,America/Chicago
+53092,43.22139,-87.95351,Mequon,America/Chicago
+53093,43.65348,-87.93894,Waldo,America/Chicago
+53094,43.1462,-88.73365,Watertown,America/Chicago
+53095,43.38838,-88.15895,West Bend,America/Chicago
+53097,43.24574,-88.0069,Mequon,America/Chicago
+53098,43.24955,-88.71461,Watertown,America/Chicago
+53099,43.38035,-88.52525,Woodland,America/Chicago
+53103,42.88175,-88.21542,Big Bend,America/Chicago
+53104,42.55731,-88.03416,Bristol,America/Chicago
+53105,42.66412,-88.28045,Burlington,America/Chicago
+53108,42.82043,-87.94696,Caledonia,America/Chicago
+53110,42.94671,-87.86403,Cudahy,America/Chicago
+53114,42.60721,-88.75089,Darien,America/Chicago
+53115,42.65443,-88.6713,Delavan,America/Chicago
+53118,42.9725,-88.48859,Dousman,America/Chicago
+53119,42.88356,-88.4862,Eagle,America/Chicago
+53120,42.80066,-88.41783,East Troy,America/Chicago
+53121,42.70989,-88.53028,Elkhorn,America/Chicago
+53122,43.04811,-88.08674,Elm Grove,America/Chicago
+53125,42.54532,-88.56216,Fontana,America/Chicago
+53126,42.78848,-87.9966,Franksville,America/Chicago
+53127,42.95991,-88.3777,Genesee Depot,America/Chicago
+53128,42.52979,-88.33857,Genoa City,America/Chicago
+53129,42.93795,-88.00003,Greendale,America/Chicago
+53130,42.94092,-88.04909,Hales Corners,America/Chicago
+53132,42.88589,-88.01063,Franklin,America/Chicago
+53137,43.00472,-88.66975,Helenville,America/Chicago
+53139,42.68795,-88.12,Kansasville,America/Chicago
+53140,42.61963,-87.82987,Kenosha,America/Chicago
+53142,42.54464,-87.93765,Kenosha,America/Chicago
+53143,42.56109,-87.83038,Kenosha,America/Chicago
+53144,42.61991,-87.92291,Kenosha,America/Chicago
+53146,42.9718,-88.15885,New Berlin,America/Chicago
+53147,42.57075,-88.45024,Lake Geneva,America/Chicago
+53149,42.87436,-88.34077,Mukwonago,America/Chicago
+53150,42.8845,-88.12824,Muskego,America/Chicago
+53151,42.97467,-88.09845,New Berlin,America/Chicago
+53153,42.94056,-88.40237,North Prairie,America/Chicago
+53154,42.8803,-87.90092,Oak Creek,America/Chicago
+53156,42.89069,-88.59012,Palmyra,America/Chicago
+53157,42.5377,-88.36855,Pell Lake,America/Chicago
+53158,42.52418,-87.88869,Pleasant Prairie,America/Chicago
+53167,42.73526,-88.22552,Rochester,America/Chicago
+53168,42.57858,-88.12999,Salem,America/Chicago
+53170,42.5519,-88.16149,Silver Lake,America/Chicago
+53172,42.91197,-87.86266,South Milwaukee,America/Chicago
+53176,42.64307,-88.41444,Springfield,America/Chicago
+53177,42.70047,-87.93474,Sturtevant,America/Chicago
+53178,43.02335,-88.59894,Sullivan,America/Chicago
+53179,42.5133,-88.13159,Trevor,America/Chicago
+53181,42.51711,-88.24305,Twin Lakes,America/Chicago
+53182,42.69815,-88.04096,Union Grove,America/Chicago
+53183,43.00441,-88.3739,Wales,America/Chicago
+53184,42.53075,-88.60945,Walworth,America/Chicago
+53185,42.79519,-88.19313,Waterford,America/Chicago
+53186,43.02305,-88.20319,Waukesha,America/Chicago
+53188,43.02106,-88.29265,Waukesha,America/Chicago
+53189,42.95216,-88.28068,Waukesha,America/Chicago
+53190,42.80775,-88.73129,Whitewater,America/Chicago
+53191,42.5776,-88.54574,Williams Bay,America/Chicago
+53192,42.51172,-88.18412,Wilmot,America/Chicago
+53195,42.51397,-88.49016,Zenda,America/Chicago
+53202,43.04561,-87.89893,Milwaukee,America/Chicago
+53203,43.03828,-87.91603,Milwaukee,America/Chicago
+53204,43.01806,-87.92552,Milwaukee,America/Chicago
+53205,43.05359,-87.93363,Milwaukee,America/Chicago
+53206,43.07524,-87.93349,Milwaukee,America/Chicago
+53207,42.97148,-87.90152,Milwaukee,America/Chicago
+53208,43.04556,-87.96556,Milwaukee,America/Chicago
+53209,43.12871,-87.94717,Milwaukee,America/Chicago
+53210,43.06889,-87.97381,Milwaukee,America/Chicago
+53211,43.08308,-87.88485,Milwaukee,America/Chicago
+53212,43.07464,-87.90845,Milwaukee,America/Chicago
+53213,43.04889,-88.00176,Milwaukee,America/Chicago
+53214,43.02061,-88.01634,Milwaukee,America/Chicago
+53215,42.99931,-87.94625,Milwaukee,America/Chicago
+53216,43.08634,-87.97636,Milwaukee,America/Chicago
+53217,43.15767,-87.91633,Milwaukee,America/Chicago
+53218,43.11469,-87.99301,Milwaukee,America/Chicago
+53219,42.99537,-87.99171,Milwaukee,America/Chicago
+53220,42.96515,-87.99142,Milwaukee,America/Chicago
+53221,42.95445,-87.94374,Milwaukee,America/Chicago
+53222,43.08205,-88.03496,Milwaukee,America/Chicago
+53223,43.16304,-87.98996,Milwaukee,America/Chicago
+53224,43.16357,-88.03894,Milwaukee,America/Chicago
+53225,43.11443,-88.042,Milwaukee,America/Chicago
+53226,43.04975,-88.04209,Milwaukee,America/Chicago
+53227,42.99562,-88.04264,Milwaukee,America/Chicago
+53228,42.96678,-88.04333,Milwaukee,America/Chicago
+53233,43.03694,-87.93364,Milwaukee,America/Chicago
+53235,42.97161,-87.87298,Saint Francis,America/Chicago
+53295,43.02222,-87.97665,Milwaukee,America/Chicago
+53402,42.7989,-87.82385,Racine,America/Chicago
+53403,42.68738,-87.82587,Racine,America/Chicago
+53404,42.7572,-87.81246,Racine,America/Chicago
+53405,42.72712,-87.82588,Racine,America/Chicago
+53406,42.73014,-87.86549,Racine,America/Chicago
+53501,42.60484,-89.07165,Afton,America/Chicago
+53502,42.73219,-89.44071,Albany,America/Chicago
+53503,43.13935,-89.95623,Arena,America/Chicago
+53504,42.70388,-89.85801,Argyle,America/Chicago
+53505,42.66063,-88.8176,Avalon,America/Chicago
+53506,43.15017,-90.28422,Avoca,America/Chicago
+53507,43.00153,-89.90173,Barneveld,America/Chicago
+53508,42.86783,-89.5618,Belleville,America/Chicago
+53510,42.74065,-90.32147,Belmont,America/Chicago
+53511,42.54627,-89.09792,Beloit,America/Chicago
+53515,43.11708,-89.74915,Black Earth,America/Chicago
+53516,42.80073,-89.8676,Blanchardville,America/Chicago
+53517,43.03686,-89.82967,Blue Mounds,America/Chicago
+53518,43.2458,-90.59108,Blue River,America/Chicago
+53520,42.60133,-89.36123,Brodhead,America/Chicago
+53521,42.84217,-89.40814,Brooklyn,America/Chicago
+53522,42.55674,-89.78983,Browntown,America/Chicago
+53523,42.98338,-89.03172,Cambridge,America/Chicago
+53525,42.54579,-88.84907,Clinton,America/Chicago
+53526,42.97433,-90.34438,Cobb,America/Chicago
+53527,43.06346,-89.19141,Cottage Grove,America/Chicago
+53528,43.11854,-89.63739,Cross Plains,America/Chicago
+53529,43.24075,-89.52496,Dane,America/Chicago
+53530,42.69356,-90.11163,Darlington,America/Chicago
+53531,43.05696,-89.10114,Deerfield,America/Chicago
+53532,43.24881,-89.32547,Deforest,America/Chicago
+53533,42.99285,-90.14915,Dodgeville,America/Chicago
+53534,42.84763,-89.09032,Edgerton,America/Chicago
+53536,42.76366,-89.26983,Evansville,America/Chicago
+53537,42.67267,-89.21056,Footville,America/Chicago
+53538,42.91697,-88.87194,Fort Atkinson,America/Chicago
+53540,43.22173,-90.29356,Gotham,America/Chicago
+53541,42.56969,-90.02963,Gratiot,America/Chicago
+53543,43.0556,-90.36233,Highland,America/Chicago
+53544,42.88199,-89.9153,Hollandale,America/Chicago
+53545,42.73113,-89.03613,Janesville,America/Chicago
+53546,42.65126,-88.94854,Janesville,America/Chicago
+53548,42.68907,-89.13095,Janesville,America/Chicago
+53549,42.99056,-88.77675,Jefferson,America/Chicago
+53550,42.5581,-89.49348,Juda,America/Chicago
+53551,43.07831,-88.91508,Lake Mills,America/Chicago
+53553,42.91235,-90.29693,Linden,America/Chicago
+53554,42.90205,-90.44919,Livingston,America/Chicago
+53555,43.32163,-89.55625,Lodi,America/Chicago
+53556,43.24014,-90.24525,Lone Rock,America/Chicago
+53557,43.33996,-88.79449,Lowell,America/Chicago
+53558,43.00286,-89.28409,Mcfarland,America/Chicago
+53559,43.16557,-89.08066,Marshall,America/Chicago
+53560,43.19418,-89.75413,Mazomanie,America/Chicago
+53561,43.39594,-89.64414,Merrimac,America/Chicago
+53562,43.11592,-89.54188,Middleton,America/Chicago
+53563,42.78276,-88.93127,Milton,America/Chicago
+53565,42.84025,-90.16982,Mineral Point,America/Chicago
+53566,42.60912,-89.64817,Monroe,America/Chicago
+53569,42.98105,-90.42966,Montfort,America/Chicago
+53570,42.73857,-89.61966,Monticello,America/Chicago
+53571,43.27793,-89.35358,Morrisonville,America/Chicago
+53572,42.96016,-89.73754,Mount Horeb,America/Chicago
+53573,43.18196,-90.46326,Muscoda,America/Chicago
+53574,42.81851,-89.65181,New Glarus,America/Chicago
+53575,42.93148,-89.38627,Oregon,America/Chicago
+53576,42.62543,-89.23949,Orfordville,America/Chicago
+53577,43.31428,-90.07117,Plain,America/Chicago
+53578,43.31356,-89.77408,Prairie Du Sac,America/Chicago
+53579,43.2894,-88.87545,Reeseville,America/Chicago
+53580,42.85943,-90.38131,Rewey,America/Chicago
+53581,43.37504,-90.41637,Richland Center,America/Chicago
+53582,43.01791,-89.99106,Ridgeway,America/Chicago
+53583,43.25671,-89.81178,Sauk City,America/Chicago
+53584,43.27937,-90.29477,Sextonville,America/Chicago
+53585,42.53049,-88.72056,Sharon,America/Chicago
+53586,42.57271,-90.22702,Shullsburg,America/Chicago
+53587,42.57736,-89.90511,South Wayne,America/Chicago
+53588,43.18949,-90.08201,Spring Green,America/Chicago
+53589,42.92684,-89.21182,Stoughton,America/Chicago
+53590,43.19936,-89.20804,Sun Prairie,America/Chicago
+53593,42.98533,-89.57992,Verona,America/Chicago
+53594,43.18291,-88.97168,Waterloo,America/Chicago
+53597,43.18258,-89.45726,Waunakee,America/Chicago
+53598,43.20641,-89.3387,Windsor,America/Chicago
+53599,42.64765,-89.85986,Woodford,America/Chicago
+53703,43.07981,-89.37734,Madison,America/Chicago
+53704,43.13633,-89.34684,Madison,America/Chicago
+53705,43.07427,-89.46246,Madison,America/Chicago
+53706,43.07505,-89.40987,Madison,America/Chicago
+53711,43.01521,-89.40641,Madison,America/Chicago
+53713,43.03743,-89.39254,Madison,America/Chicago
+53714,43.09884,-89.31287,Madison,America/Chicago
+53715,43.06038,-89.39861,Madison,America/Chicago
+53716,43.06506,-89.31454,Madison,America/Chicago
+53717,43.07372,-89.51945,Madison,America/Chicago
+53718,43.0977,-89.27332,Madison,America/Chicago
+53719,43.0281,-89.50003,Madison,America/Chicago
+53726,43.07036,-89.4223,Madison,America/Chicago
+53792,43.07711,-89.43044,Madison,America/Chicago
+53801,42.92505,-91.06959,Bagley,America/Chicago
+53802,42.80538,-90.89358,Beetown,America/Chicago
+53803,42.55915,-90.35508,Benton,America/Chicago
+53804,42.87645,-90.90798,Bloomington,America/Chicago
+53805,43.14236,-90.68445,Boscobel,America/Chicago
+53806,42.73554,-90.92544,Cassville,America/Chicago
+53807,42.61123,-90.46668,Cuba City,America/Chicago
+53808,42.63745,-90.59204,Dickeyville,America/Chicago
+53809,42.99362,-90.63323,Fennimore,America/Chicago
+53810,42.82144,-90.9984,Glen Haven,America/Chicago
+53811,42.53576,-90.51541,Hazel Green,America/Chicago
+53812,42.5808,-90.60239,Kieler,America/Chicago
+53813,42.84402,-90.71641,Lancaster,America/Chicago
+53816,42.97794,-90.85773,Mount Hope,America/Chicago
+53817,42.94028,-90.97234,Patch Grove,America/Chicago
+53818,42.74725,-90.49177,Platteville,America/Chicago
+53820,42.69649,-90.70984,Potosi,America/Chicago
+53821,43.04769,-91.06569,Prairie Du Chien,America/Chicago
+53825,42.91833,-90.58851,Stitzer,America/Chicago
+53826,43.12225,-90.91039,Wauzeka,America/Chicago
+53827,43.05049,-90.83702,Woodman,America/Chicago
+53901,43.55606,-89.48606,Portage,America/Chicago
+53910,43.89073,-89.80708,Adams,America/Chicago
+53911,43.3258,-89.36478,Arlington,America/Chicago
+53913,43.49213,-89.72858,Baraboo,America/Chicago
+53916,43.45538,-88.85813,Beaver Dam,America/Chicago
+53919,43.73462,-88.77564,Brandon,America/Chicago
+53920,43.66579,-89.60364,Briggsville,America/Chicago
+53922,43.51558,-88.70916,Burnett,America/Chicago
+53923,43.57326,-89.13753,Cambria,America/Chicago
+53924,43.47971,-90.25455,Cazenovia,America/Chicago
+53925,43.3325,-89.05075,Columbus,America/Chicago
+53926,43.67164,-89.21497,Dalton,America/Chicago
+53928,43.42051,-89.1547,Doylestown,America/Chicago
+53929,43.75415,-90.28376,Elroy,America/Chicago
+53930,43.683,-89.49506,Endeavor,America/Chicago
+53931,43.74236,-88.86798,Fairwater,America/Chicago
+53932,43.4202,-89.06543,Fall River,America/Chicago
+53933,43.57235,-88.88338,Fox Lake,America/Chicago
+53934,43.98044,-89.82184,Friendship,America/Chicago
+53935,43.58864,-89.06697,Friesland,America/Chicago
+53936,43.87477,-89.71071,Grand Marsh,America/Chicago
+53937,43.38841,-90.15753,Hillpoint,America/Chicago
+53939,43.69185,-89.13199,Kingston,America/Chicago
+53940,43.59126,-89.7944,Lake Delton,America/Chicago
+53941,43.57947,-90.13694,La Valle,America/Chicago
+53942,43.46393,-90.16536,Lime Ridge,America/Chicago
+53943,43.38999,-90.03018,Loganville,America/Chicago
+53944,43.68759,-89.92791,Lyndon Station,America/Chicago
+53946,43.71822,-89.02189,Markesan,America/Chicago
+53947,43.74676,-89.13769,Marquette,America/Chicago
+53948,43.77846,-90.05161,Mauston,America/Chicago
+53949,43.78323,-89.33978,Montello,America/Chicago
+53950,43.90477,-90.13463,New Lisbon,America/Chicago
+53951,43.39087,-89.86633,North Freedom,America/Chicago
+53952,43.78718,-89.5963,Oxford,America/Chicago
+53953,43.76606,-89.458,Packwaukee,America/Chicago
+53954,43.55518,-89.31325,Pardeeville,America/Chicago
+53955,43.40025,-89.40051,Poynette,America/Chicago
+53956,43.54166,-89.01849,Randolph,America/Chicago
+53959,43.53407,-89.99702,Reedsburg,America/Chicago
+53960,43.4224,-89.23212,Rio,America/Chicago
+53961,43.46055,-89.93858,Rock Springs,America/Chicago
+53962,43.68352,-90.2652,Union Center,America/Chicago
+53963,43.63492,-88.73828,Waupun,America/Chicago
+53964,43.91253,-89.5025,Westfield,America/Chicago
+53965,43.67651,-89.75681,Wisconsin Dells,America/Chicago
+53968,43.64072,-90.2326,Wonewoc,America/Chicago
+53969,43.49567,-89.30176,Wyocena,America/Chicago
+54001,45.33417,-92.38703,Amery,America/Chicago
+54002,44.95871,-92.37121,Baldwin,America/Chicago
+54003,44.79019,-92.44218,Beldenville,America/Chicago
+54004,45.30699,-92.12414,Clayton,America/Chicago
+54005,45.23447,-92.23051,Clear Lake,America/Chicago
+54006,45.58958,-92.64824,Cushing,America/Chicago
+54007,45.18781,-92.35734,Deer Park,America/Chicago
+54009,45.35358,-92.57693,Dresser,America/Chicago
+54011,44.71648,-92.46279,Ellsworth,America/Chicago
+54013,45.08134,-92.22929,Glenwood City,America/Chicago
+54014,44.64578,-92.57048,Hager City,America/Chicago
+54015,44.96899,-92.45419,Hammond,America/Chicago
+54016,44.97949,-92.69305,Hudson,America/Chicago
+54017,45.11907,-92.52091,New Richmond,America/Chicago
+54020,45.27937,-92.65235,Osceola,America/Chicago
+54021,44.74048,-92.71144,Prescott,America/Chicago
+54022,44.84796,-92.6096,River Falls,America/Chicago
+54023,44.97708,-92.55218,Roberts,America/Chicago
+54024,45.49873,-92.64781,Saint Croix Falls,America/Chicago
+54025,45.14184,-92.68997,Somerset,America/Chicago
+54026,45.22688,-92.53459,Star Prairie,America/Chicago
+54027,44.92403,-92.19985,Wilson,America/Chicago
+54028,44.95532,-92.28279,Woodville,America/Chicago
+54082,45.0696,-92.75403,Houlton,America/Chicago
+54101,44.78786,-88.05927,Abrams,America/Chicago
+54102,45.50278,-88.00524,Amberg,America/Chicago
+54103,45.64972,-88.49885,Armstrong Creek,America/Chicago
+54104,45.44018,-88.26518,Athelstane,America/Chicago
+54106,44.48172,-88.45551,Black Creek,America/Chicago
+54107,44.70068,-88.44436,Bonduel,America/Chicago
+54110,44.18533,-88.08105,Brillion,America/Chicago
+54111,44.81572,-88.37992,Cecil,America/Chicago
+54112,45.04527,-88.04743,Coleman,America/Chicago
+54113,44.26404,-88.30705,Combined Locks,America/Chicago
+54114,45.25254,-88.12197,Crivitz,America/Chicago
+54115,44.40552,-88.09195,De Pere,America/Chicago
+54119,45.62488,-88.18285,Dunbar,America/Chicago
+54120,45.75892,-88.49089,Fence,America/Chicago
+54121,45.86385,-88.32899,Florence,America/Chicago
+54123,44.20642,-88.15201,Forest Junction,America/Chicago
+54124,44.90701,-88.36616,Gillett,America/Chicago
+54125,45.58995,-88.38325,Goodman,America/Chicago
+54126,44.28925,-88.03218,Greenleaf,America/Chicago
+54127,44.79693,-88.26815,Green Valley,America/Chicago
+54128,44.86675,-88.80525,Gresham,America/Chicago
+54129,44.12902,-88.20146,Hilbert,America/Chicago
+54130,44.31194,-88.24301,Kaukauna,America/Chicago
+54135,44.91468,-88.61209,Keshena,America/Chicago
+54136,44.26834,-88.33852,Kimberly,America/Chicago
+54137,44.75843,-88.25605,Krakow,America/Chicago
+54138,45.33064,-88.42783,Lakewood,America/Chicago
+54139,44.9539,-88.07152,Lena,America/Chicago
+54140,44.28689,-88.31045,Little Chute,America/Chicago
+54141,44.72753,-88.00567,Little Suamico,America/Chicago
+54143,45.08708,-87.70045,Marinette,America/Chicago
+54149,45.204,-88.47445,Mountain,America/Chicago
+54150,44.97237,-88.7906,Neopit,America/Chicago
+54151,45.72352,-87.99752,Niagara,America/Chicago
+54152,44.56645,-88.47049,Nichols,America/Chicago
+54153,44.89939,-87.92516,Oconto,America/Chicago
+54154,44.86702,-88.19058,Oconto Falls,America/Chicago
+54155,44.51979,-88.19038,Oneida,America/Chicago
+54156,45.60099,-87.93963,Pembine,America/Chicago
+54157,45.05001,-87.81217,Peshtigo,America/Chicago
+54159,45.20027,-87.82682,Porterfield,America/Chicago
+54160,44.12029,-88.09895,Potter,America/Chicago
+54161,45.12449,-88.15696,Pound,America/Chicago
+54162,44.66417,-88.27689,Pulaski,America/Chicago
+54165,44.52063,-88.31683,Seymour,America/Chicago
+54166,44.77894,-88.63567,Shawano,America/Chicago
+54169,44.17799,-88.2772,Sherwood,America/Chicago
+54170,44.51783,-88.57241,Shiocton,America/Chicago
+54171,44.71957,-88.12017,Sobieski,America/Chicago
+54173,44.64228,-88.03212,Suamico,America/Chicago
+54174,45.03553,-88.43492,Suring,America/Chicago
+54175,45.30552,-88.62394,Townsend,America/Chicago
+54177,45.36428,-87.89183,Wausaukee,America/Chicago
+54180,44.33139,-88.17462,Wrightstown,America/Chicago
+54201,44.61987,-87.49399,Algoma,America/Chicago
+54202,45.0779,-87.13837,Baileys Harbor,America/Chicago
+54204,44.76189,-87.61552,Brussels,America/Chicago
+54205,44.60444,-87.62912,Casco,America/Chicago
+54207,44.08425,-87.98093,Collins,America/Chicago
+54208,44.36239,-87.79619,Denmark,America/Chicago
+54209,45.01126,-87.27278,Egg Harbor,America/Chicago
+54210,45.2535,-87.0352,Ellison Bay,America/Chicago
+54211,45.15942,-87.16783,Ephraim,America/Chicago
+54212,45.12169,-87.23024,Fish Creek,America/Chicago
+54213,44.69926,-87.52114,Forestville,America/Chicago
+54214,44.19893,-87.71441,Francis Creek,America/Chicago
+54215,44.22608,-87.80357,Kellnersville,America/Chicago
+54216,44.43651,-87.58069,Kewaunee,America/Chicago
+54217,44.54694,-87.71748,Luxemburg,America/Chicago
+54220,44.09644,-87.73131,Manitowoc,America/Chicago
+54227,44.28096,-87.80656,Maribel,America/Chicago
+54228,44.27677,-87.64875,Mishicot,America/Chicago
+54229,44.56411,-87.82081,New Franken,America/Chicago
+54230,44.15749,-87.91202,Reedsville,America/Chicago
+54232,44.00668,-87.92462,Saint Nazianz,America/Chicago
+54234,45.18377,-87.09239,Sister Bay,America/Chicago
+54235,44.84218,-87.37677,Sturgeon Bay,America/Chicago
+54241,44.21758,-87.59723,Two Rivers,America/Chicago
+54245,44.02728,-87.8977,Valders,America/Chicago
+54246,45.37538,-86.89721,Washington Island,America/Chicago
+54247,44.19686,-87.78564,Whitelaw,America/Chicago
+54301,44.48193,-88.02029,Green Bay,America/Chicago
+54302,44.50663,-87.97668,Green Bay,America/Chicago
+54303,44.53931,-88.05115,Green Bay,America/Chicago
+54304,44.49419,-88.06758,Green Bay,America/Chicago
+54307,44.47049,-88.0366,Green Bay,America/Chicago
+54311,44.48377,-87.89483,Green Bay,America/Chicago
+54313,44.58923,-88.11088,Green Bay,America/Chicago
+54401,44.96647,-89.70794,Wausau,America/Chicago
+54403,45.03142,-89.51343,Wausau,America/Chicago
+54405,44.96289,-90.2797,Abbotsford,America/Chicago
+54406,44.41122,-89.31211,Amherst,America/Chicago
+54407,44.52712,-89.29418,Amherst Junction,America/Chicago
+54408,45.02861,-89.30922,Aniwa,America/Chicago
+54409,45.11928,-89.16909,Antigo,America/Chicago
+54410,44.54158,-90.02877,Arpin,America/Chicago
+54411,45.05023,-90.02837,Athens,America/Chicago
+54412,44.66859,-89.98238,Auburndale,America/Chicago
+54413,44.28363,-90.15185,Babcock,America/Chicago
+54414,44.95589,-89.18202,Birnamwood,America/Chicago
+54416,44.8822,-88.94153,Bowler,America/Chicago
+54417,45.02749,-89.65418,Brokaw,America/Chicago
+54418,45.21566,-88.98003,Bryant,America/Chicago
+54420,44.61043,-90.35036,Chili,America/Chicago
+54421,44.89866,-90.29532,Colby,America/Chicago
+54422,44.98279,-90.45264,Curtiss,America/Chicago
+54423,44.58049,-89.41642,Custer,America/Chicago
+54424,45.28471,-89.18701,Deerbrook,America/Chicago
+54425,45.0086,-90.34249,Dorchester,America/Chicago
+54426,44.90804,-89.98832,Edgar,America/Chicago
+54427,44.82401,-89.25789,Eland,America/Chicago
+54428,45.43511,-89.17282,Elcho,America/Chicago
+54430,45.1395,-88.8872,Elton,America/Chicago
+54433,45.20649,-90.81756,Gilman,America/Chicago
+54435,45.35084,-89.44349,Gleason,America/Chicago
+54436,44.54149,-90.43101,Granton,America/Chicago
+54437,44.77867,-90.63866,Greenwood,America/Chicago
+54440,44.80621,-89.38838,Hatley,America/Chicago
+54441,44.64202,-90.10604,Hewitt,America/Chicago
+54442,45.36532,-89.65439,Irma,America/Chicago
+54443,44.61243,-89.75264,Junction City,America/Chicago
+54446,44.7533,-90.47149,Loyal,America/Chicago
+54447,45.09061,-90.72911,Lublin,America/Chicago
+54448,44.93094,-89.83422,Marathon,America/Chicago
+54449,44.63914,-90.19755,Marshfield,America/Chicago
+54450,45.00367,-89.04172,Mattoon,America/Chicago
+54451,45.19131,-90.40172,Medford,America/Chicago
+54452,45.20879,-89.76743,Merrill,America/Chicago
+54454,44.60259,-89.8846,Milladore,America/Chicago
+54455,44.7625,-89.68559,Mosinee,America/Chicago
+54456,44.54511,-90.63824,Neillsville,America/Chicago
+54457,44.22965,-89.89502,Nekoosa,America/Chicago
+54458,44.49867,-89.31027,Nelsonville,America/Chicago
+54459,45.42515,-90.26924,Ogema,America/Chicago
+54460,44.94703,-90.53728,Owen,America/Chicago
+54462,45.39408,-89.00031,Pearson,America/Chicago
+54463,45.50876,-89.22536,Pelican Lake,America/Chicago
+54464,45.05486,-89.01748,Phlox,America/Chicago
+54465,45.39327,-88.88334,Pickerel,America/Chicago
+54466,44.3855,-90.31687,Pittsville,America/Chicago
+54467,44.41575,-89.54062,Plover,America/Chicago
+54469,44.34642,-89.87028,Port Edwards,America/Chicago
+54470,45.29419,-90.13852,Rib Lake,America/Chicago
+54471,44.93361,-89.41914,Ringle,America/Chicago
+54473,44.64984,-89.35634,Rosholt,America/Chicago
+54474,44.87395,-89.62223,Rothschild,America/Chicago
+54475,44.48204,-89.78825,Rudolph,America/Chicago
+54476,44.88816,-89.52389,Schofield,America/Chicago
+54479,44.75688,-90.32525,Spencer,America/Chicago
+54480,45.05908,-90.27597,Stetsonville,America/Chicago
+54481,44.51935,-89.63678,Stevens Point,America/Chicago
+54482,44.55174,-89.5092,Stevens Point,America/Chicago
+54484,44.79988,-90.07962,Stratford,America/Chicago
+54485,45.39373,-89.21894,Summit Lake,America/Chicago
+54486,44.72595,-89.05124,Tigerton,America/Chicago
+54487,45.50429,-89.75114,Tomahawk,America/Chicago
+54488,44.84335,-90.33778,Unity,America/Chicago
+54489,44.45445,-90.0075,Vesper,America/Chicago
+54490,45.33622,-90.41102,Westboro,America/Chicago
+54491,45.2343,-88.76541,White Lake,America/Chicago
+54493,44.70083,-90.80107,Willard,America/Chicago
+54494,44.34414,-89.74054,Wisconsin Rapids,America/Chicago
+54495,44.39081,-89.95351,Wisconsin Rapids,America/Chicago
+54498,45.03278,-90.62105,Withee,America/Chicago
+54499,44.78963,-89.1801,Wittenberg,America/Chicago
+54501,45.65973,-89.34303,Rhinelander,America/Chicago
+54511,45.72365,-88.83177,Argonne,America/Chicago
+54512,46.0957,-89.66748,Boulder Junction,America/Chicago
+54513,45.58246,-90.11986,Brantwood,America/Chicago
+54514,46.03761,-90.49378,Butternut,America/Chicago
+54515,45.5146,-90.50217,Catawba,America/Chicago
+54517,46.11899,-90.93035,Clam Lake,America/Chicago
+54519,46.05355,-89.26877,Conover,America/Chicago
+54520,45.53773,-88.92303,Crandon,America/Chicago
+54521,45.9162,-89.25451,Eagle River,America/Chicago
+54524,45.84416,-90.38922,Fifield,America/Chicago
+54525,46.4335,-90.22603,Gile,America/Menominee
+54526,45.50969,-90.85872,Glen Flora,America/Chicago
+54527,46.13543,-90.6366,Glidden,America/Chicago
+54529,45.67821,-89.66006,Harshaw,America/Chicago
+54530,45.53202,-90.71537,Hawkins,America/Chicago
+54531,45.74968,-89.78822,Hazelhurst,America/Chicago
+54534,46.3545,-90.23769,Hurley,America/Chicago
+54536,46.33603,-90.34488,Iron Belt,America/Chicago
+54537,45.53136,-90.60213,Kennan,America/Chicago
+54538,45.97244,-89.91484,Lac Du Flambeau,America/Chicago
+54539,45.80705,-89.5762,Lake Tomahawk,America/Chicago
+54540,46.15505,-89.38216,Land O'Lakes,America/Chicago
+54541,45.55218,-88.65937,Laona,America/Chicago
+54542,45.92127,-88.72536,Long Lake,America/Chicago
+54545,46.1326,-89.85208,Manitowish Waters,America/Chicago
+54546,46.28685,-90.70977,Mellen,America/Chicago
+54547,46.18951,-90.0994,Mercer,America/Chicago
+54548,45.86218,-89.82663,Minocqua,America/Chicago
+54550,46.35775,-90.26409,Montreal,America/Chicago
+54552,45.93615,-90.29081,Park Falls,America/Chicago
+54554,46.05481,-89.06138,Phelps,America/Chicago
+54555,45.71977,-90.36403,Phillips,America/Chicago
+54556,45.53586,-90.31386,Prentice,America/Chicago
+54557,46.22178,-89.75453,Presque Isle,America/Chicago
+54558,45.92417,-89.49746,Saint Germain,America/Chicago
+54559,46.49382,-90.47083,Saxon,America/Chicago
+54560,46.00997,-89.54365,Sayner,America/Chicago
+54561,46.07102,-89.46451,Star Lake,America/Chicago
+54562,45.81081,-89.0813,Three Lakes,America/Chicago
+54563,45.46448,-90.97428,Tony,America/Chicago
+54564,45.6105,-89.97223,Tripoli,America/Chicago
+54565,46.30474,-90.45182,Upson,America/Chicago
+54566,45.42481,-88.63263,Wabeno,America/Chicago
+54568,45.94876,-89.67546,Woodruff,America/Chicago
+54601,43.80199,-91.14559,La Crosse,America/Chicago
+54603,43.85729,-91.24791,La Crosse,America/Chicago
+54610,44.37077,-91.82549,Alma,America/Chicago
+54611,44.44624,-90.95164,Alma Center,America/Chicago
+54612,44.24882,-91.50066,Arcadia,America/Chicago
+54613,44.07549,-89.92131,Arkdale,America/Chicago
+54614,43.90242,-90.9729,Bangor,America/Chicago
+54615,44.26158,-90.78049,Black River Falls,America/Chicago
+54616,44.30402,-91.2283,Blair,America/Chicago
+54618,43.95921,-90.28967,Camp Douglas,America/Chicago
+54619,43.75562,-90.77968,Cashton,America/Chicago
+54621,43.65632,-91.08199,Chaseburg,America/Chicago
+54622,44.26953,-91.76629,Cochrane,America/Chicago
+54623,43.72894,-91.03065,Coon Valley,America/Chicago
+54624,43.46575,-91.14066,De Soto,America/Chicago
+54625,44.13287,-91.52507,Dodge,America/Chicago
+54626,43.2162,-91.03608,Eastman,America/Chicago
+54627,44.16873,-91.23634,Ettrick,America/Chicago
+54628,43.37572,-91.02618,Ferryville,America/Chicago
+54629,44.15928,-91.66661,Fountain City,America/Chicago
+54630,44.10339,-91.35881,Galesville,America/Chicago
+54631,43.28795,-90.8327,Gays Mills,America/Chicago
+54632,43.56249,-91.14695,Genoa,America/Chicago
+54634,43.59753,-90.42553,Hillsboro,America/Chicago
+54635,44.40871,-91.04455,Hixton,America/Chicago
+54636,44.00732,-91.22682,Holmen,America/Chicago
+54637,43.87874,-90.27076,Hustler,America/Chicago
+54638,43.79088,-90.3875,Kendall,America/Chicago
+54639,43.60566,-90.62021,La Farge,America/Chicago
+54642,44.14978,-91.05303,Melrose,America/Chicago
+54643,44.18758,-90.63432,Millston,America/Chicago
+54644,44.03089,-91.04326,Mindoro,America/Chicago
+54645,43.32084,-90.92901,Mount Sterling,America/Chicago
+54646,44.08807,-90.0912,Necedah,America/Chicago
+54648,43.83544,-90.63553,Norwalk,America/Chicago
+54650,43.9099,-91.22424,Onalaska,America/Chicago
+54651,43.72368,-90.57004,Ontario,America/Chicago
+54652,43.46133,-90.76825,Readstown,America/Chicago
+54653,43.82586,-90.9129,Rockland,America/Chicago
+54654,43.26853,-90.95419,Seneca,America/Chicago
+54655,43.37877,-90.76423,Soldiers Grove,America/Chicago
+54656,44.00291,-90.79601,Sparta,America/Chicago
+54657,43.19447,-90.90678,Steuben,America/Chicago
+54658,43.67768,-91.19248,Stoddard,America/Chicago
+54659,44.29704,-91.10065,Taylor,America/Chicago
+54660,43.98525,-90.50496,Tomah,America/Chicago
+54661,44.05943,-91.47133,Trempealeau,America/Chicago
+54664,43.49912,-90.64076,Viola,America/Chicago
+54665,43.5319,-90.92134,Viroqua,America/Chicago
+54666,44.16201,-90.4399,Warrens,America/Chicago
+54667,43.66703,-90.86166,Westby,America/Chicago
+54669,43.91171,-91.09046,West Salem,America/Chicago
+54670,43.83802,-90.48273,Wilton,America/Chicago
+54701,44.7432,-91.50899,Eau Claire,America/Chicago
+54703,44.83311,-91.5185,Eau Claire,America/Chicago
+54720,44.80511,-91.43646,Altoona,America/Chicago
+54721,44.6304,-92.07098,Arkansaw,America/Chicago
+54722,44.71702,-91.09874,Augusta,America/Chicago
+54723,44.61063,-92.42893,Bay City,America/Chicago
+54724,45.10793,-91.48458,Bloomer,America/Chicago
+54725,45.07103,-92.01062,Boyceville,America/Chicago
+54726,44.94151,-91.01975,Boyd,America/Chicago
+54727,44.95827,-91.15873,Cadott,America/Chicago
+54728,45.30778,-91.6417,Chetek,America/Chicago
+54729,44.94533,-91.39342,Chippewa Falls,America/Chicago
+54730,45.01836,-91.72143,Colfax,America/Chicago
+54731,45.34656,-91.08304,Conrath,America/Chicago
+54732,45.14571,-91.16543,Cornell,America/Chicago
+54733,45.28331,-91.85641,Dallas,America/Chicago
+54734,45.09045,-92.11358,Downing,America/Chicago
+54736,44.60345,-91.90455,Durand,America/Chicago
+54737,44.71593,-91.98298,Eau Galle,America/Chicago
+54738,44.59478,-91.47892,Eleva,America/Chicago
+54739,44.86177,-91.70097,Elk Mound,America/Chicago
+54740,44.74427,-92.15853,Elmwood,America/Chicago
+54741,44.61237,-90.98121,Fairchild,America/Chicago
+54742,44.76319,-91.2722,Fall Creek,America/Chicago
+54745,45.24875,-91.13494,Holcombe,America/Chicago
+54746,44.54543,-90.87217,Humbird,America/Chicago
+54747,44.39438,-91.5035,Independence,America/Chicago
+54748,45.07919,-91.26586,Jim Falls,America/Chicago
+54749,44.94862,-92.09785,Knapp,America/Chicago
+54750,44.62052,-92.29513,Maiden Rock,America/Chicago
+54751,44.84971,-91.92994,Menomonie,America/Chicago
+54754,44.42913,-90.77527,Merrillan,America/Chicago
+54755,44.57513,-91.67971,Mondovi,America/Chicago
+54756,44.46153,-91.94552,Nelson,America/Chicago
+54757,45.23085,-91.52498,New Auburn,America/Chicago
+54758,44.54546,-91.2173,Osseo,America/Chicago
+54759,44.48936,-92.1232,Pepin,America/Chicago
+54760,44.42412,-91.20626,Pigeon Falls,America/Chicago
+54761,44.62667,-92.17908,Plum City,America/Chicago
+54762,45.25107,-91.98967,Prairie Farm,America/Chicago
+54763,45.179,-91.87683,Ridgeland,America/Chicago
+54766,45.33667,-90.86566,Sheldon,America/Chicago
+54767,44.82645,-92.25513,Spring Valley,America/Chicago
+54768,44.96312,-90.92761,Stanley,America/Chicago
+54769,44.50897,-92.23304,Stockholm,America/Chicago
+54770,44.55121,-91.37259,Strum,America/Chicago
+54771,44.92356,-90.80579,Thorp,America/Chicago
+54772,45.09668,-91.87303,Wheeler,America/Chicago
+54773,44.39301,-91.3002,Whitehall,America/Chicago
+54801,45.86711,-91.92266,Spooner,America/Chicago
+54805,45.41465,-92.02311,Almena,America/Chicago
+54806,46.54784,-90.85061,Ashland,America/Chicago
+54810,45.46126,-92.38403,Balsam Lake,America/Chicago
+54812,45.39911,-91.88103,Barron,America/Chicago
+54813,45.65477,-92.03071,Barronett,America/Chicago
+54814,46.85672,-90.91876,Bayfield,America/Chicago
+54817,45.67056,-91.53942,Birchwood,America/Chicago
+54819,45.47636,-91.30307,Bruce,America/Chicago
+54820,46.56024,-91.55475,Brule,America/Chicago
+54821,46.22428,-91.16508,Cable,America/Chicago
+54822,45.3944,-91.69995,Cameron,America/Chicago
+54824,45.4753,-92.54017,Centuria,America/Chicago
+54826,45.49971,-92.16422,Comstock,America/Chicago
+54827,46.80215,-91.10069,Cornucopia,America/Chicago
+54828,45.84201,-91.2934,Couderay,America/Chicago
+54829,45.5592,-92.06603,Cumberland,America/Chicago
+54830,46.10571,-92.22305,Danbury,America/Chicago
+54832,46.32661,-91.33073,Drummond,America/Chicago
+54835,45.67974,-91.2522,Exeland,America/Chicago
+54836,46.43238,-92.19225,Foxboro,America/Chicago
+54837,45.6746,-92.35754,Frederic,America/Chicago
+54838,46.24836,-91.79179,Gordon,America/Chicago
+54839,46.35683,-91.14689,Grand View,America/Chicago
+54840,45.7556,-92.68928,Grantsburg,America/Chicago
+54841,45.60776,-91.77887,Haugen,America/Chicago
+54842,46.49891,-91.86234,Hawthorne,America/Chicago
+54843,46.0251,-91.29494,Hayward,America/Chicago
+54844,46.78649,-91.21441,Herbster,America/Chicago
+54845,45.80724,-92.13786,Hertel,America/Chicago
+54846,46.37737,-90.72481,High Bridge,America/Chicago
+54847,46.57047,-91.40055,Iron River,America/Chicago
+54848,45.51546,-91.10284,Ladysmith,America/Chicago
+54849,46.47881,-91.71642,Lake Nebagamon,America/Chicago
+54850,46.92255,-90.62389,La Pointe,America/Chicago
+54853,45.57106,-92.45211,Luck,America/Chicago
+54854,46.64127,-91.66864,Maple,America/Chicago
+54855,46.37492,-90.84397,Marengo,America/Chicago
+54856,46.43401,-91.10279,Mason,America/Chicago
+54857,45.59347,-91.59927,Mikana,America/Chicago
+54858,45.51824,-92.46031,Milltown,America/Chicago
+54859,46.12121,-91.82337,Minong,America/Chicago
+54861,46.59896,-90.64345,Odanah,America/Chicago
+54862,45.80385,-91.12132,Ojibwa,America/Chicago
+54864,46.60431,-91.79443,Poplar,America/Chicago
+54865,46.74787,-91.37517,Port Wing,America/Chicago
+54867,45.78195,-91.21521,Radisson,America/Chicago
+54868,45.52723,-91.70977,Rice Lake,America/Chicago
+54870,45.71205,-91.76967,Sarona,America/Chicago
+54871,45.7412,-92.01503,Shell Lake,America/Chicago
+54872,45.76965,-92.39622,Siren,America/Chicago
+54873,46.3448,-91.69292,Solon Springs,America/Chicago
+54874,46.56911,-91.94304,South Range,America/Chicago
+54875,45.97405,-91.6948,Springbrook,America/Chicago
+54876,45.82811,-91.51439,Stone Lake,America/Chicago
+54880,46.59342,-92.12701,Superior,America/Chicago
+54888,45.98046,-91.88803,Trego,America/Chicago
+54889,45.41374,-92.17112,Turtle Lake,America/Chicago
+54891,46.69727,-90.9688,Washburn,America/Chicago
+54893,45.87094,-92.30837,Webster,America/Chicago
+54895,45.44233,-91.44605,Weyerhaeuser,America/Chicago
+54896,45.81178,-90.87888,Winter,America/Chicago
+54901,44.06265,-88.53335,Oshkosh,America/Chicago
+54902,43.94934,-88.53969,Oshkosh,America/Chicago
+54904,44.02346,-88.62592,Oshkosh,America/Chicago
+54909,44.28575,-89.35343,Almond,America/Chicago
+54911,44.28174,-88.38086,Appleton,America/Chicago
+54913,44.34145,-88.40136,Appleton,America/Chicago
+54914,44.26353,-88.48239,Appleton,America/Chicago
+54915,44.24279,-88.35928,Appleton,America/Chicago
+54921,44.30155,-89.57341,Bancroft,America/Chicago
+54922,44.54281,-88.74529,Bear Creek,America/Chicago
+54923,43.99456,-88.96883,Berlin,America/Chicago
+54926,44.61553,-89.01823,Big Falls,America/Chicago
+54927,44.10192,-88.6548,Butte Des Morts,America/Chicago
+54928,44.73894,-88.88546,Caroline,America/Chicago
+54929,44.63704,-88.7372,Clintonville,America/Chicago
+54930,44.02884,-89.56383,Coloma,America/Chicago
+54931,44.2703,-88.66835,Dale,America/Chicago
+54932,43.83143,-88.61861,Eldorado,America/Chicago
+54933,44.66535,-88.70966,Embarrass,America/Chicago
+54935,43.77542,-88.43396,Fond Du Lac,America/Chicago
+54937,43.75959,-88.43335,Fond Du Lac,America/Chicago
+54940,44.22696,-88.84446,Fremont,America/Chicago
+54941,43.85067,-88.99103,Green Lake,America/Chicago
+54942,44.29904,-88.54265,Greenville,America/Chicago
+54943,44.12377,-89.58199,Hancock,America/Chicago
+54944,44.32409,-88.6274,Hortonville,America/Chicago
+54945,44.57604,-89.13739,Iola,America/Chicago
+54946,44.33704,-89.14503,King,America/Chicago
+54947,44.20003,-88.68995,Larsen,America/Chicago
+54948,44.7774,-88.88823,Leopolis,America/Chicago
+54949,44.48561,-88.91416,Manawa,America/Chicago
+54950,44.65408,-88.90614,Marion,America/Chicago
+54952,44.20086,-88.33719,Menasha,America/Chicago
+54956,44.18444,-88.52778,Neenah,America/Chicago
+54960,43.94569,-89.22386,Neshkoro,America/Chicago
+54961,44.41173,-88.7628,New London,America/Chicago
+54962,44.48059,-89.02486,Ogdensburg,America/Chicago
+54963,44.04524,-88.76661,Omro,America/Chicago
+54964,43.9178,-88.71836,Pickett,America/Chicago
+54965,44.16429,-89.0324,Pine River,America/Chicago
+54966,44.21276,-89.50579,Plainfield,America/Chicago
+54967,44.12954,-88.98487,Poy Sippi,America/Chicago
+54968,43.84872,-89.13255,Princeton,America/Chicago
+54970,44.07091,-89.09352,Redgranite,America/Chicago
+54971,43.85546,-88.83109,Ripon,America/Chicago
+54974,43.7801,-88.65997,Rosendale,America/Chicago
+54977,44.45696,-89.16471,Scandinavia,America/Chicago
+54978,44.79423,-88.91405,Tilleda,America/Chicago
+54979,43.8688,-88.53875,Van Dyne,America/Chicago
+54980,43.98625,-88.76906,Waukau,America/Chicago
+54981,44.32733,-89.12558,Waupaca,America/Chicago
+54982,44.07007,-89.29223,Wautoma,America/Chicago
+54983,44.31651,-88.93614,Weyauwega,America/Chicago
+54984,44.18728,-89.21967,Wild Rose,America/Chicago
+54985,44.07562,-88.51953,Winnebago,America/Chicago
+54986,44.11981,-88.75127,Winneconne,America/Chicago
+55001,44.90138,-92.81969,Afton,America/Chicago
+55003,45.01183,-92.77883,Bayport,America/Chicago
+55005,45.39281,-93.21725,Bethel,America/Chicago
+55006,45.74002,-93.20504,Braham,America/Chicago
+55007,45.97511,-93.12223,Brook Park,America/Chicago
+55008,45.57149,-93.26734,Cambridge,America/Chicago
+55009,44.48378,-92.86686,Cannon Falls,America/Chicago
+55011,45.34108,-93.2521,Cedar,America/Chicago
+55012,45.44166,-92.78952,Center City,America/Chicago
+55013,45.35558,-92.89469,Chisago City,America/Chicago
+55014,45.16802,-93.12431,Circle Pines,America/Chicago
+55016,44.8172,-92.93373,Cottage Grove,America/Chicago
+55017,45.67291,-93.4314,Dalbo,America/Chicago
+55018,44.41832,-92.98822,Dennison,America/Chicago
+55019,44.41318,-93.25016,Dundas,America/Chicago
+55020,44.57707,-93.37387,Elko New Market,America/Chicago
+55021,44.2973,-93.27414,Faribault,America/Chicago
+55024,44.62738,-93.13605,Farmington,America/Chicago
+55025,45.26391,-93.0212,Forest Lake,America/Chicago
+55026,44.52179,-92.3369,Frontenac,America/Chicago
+55027,44.40868,-92.62058,Goodhue,America/Chicago
+55029,45.63573,-93.20098,Grandy,America/Chicago
+55030,45.83911,-93.11493,Grasston,America/Chicago
+55031,44.60772,-92.96647,Hampton,America/Chicago
+55032,45.58851,-92.99279,Harris,America/Chicago
+55033,44.71139,-92.8585,Hastings,America/Chicago
+55036,45.87114,-93.11999,Henriette,America/Chicago
+55037,46.01071,-92.78934,Hinckley,America/Chicago
+55038,45.169,-92.98059,Hugo,America/Chicago
+55040,45.4678,-93.27951,Isanti,America/Chicago
+55041,44.39544,-92.31923,Lake City,America/Chicago
+55042,44.99253,-92.898,Lake Elmo,America/Chicago
+55043,44.94064,-92.76902,Lakeland,America/Chicago
+55044,44.64156,-93.27858,Lakeville,America/Chicago
+55045,45.39777,-92.83074,Lindstrom,America/Chicago
+55046,44.44629,-93.4162,Lonsdale,America/Chicago
+55047,45.20553,-92.82137,Marine On Saint Croix,America/Chicago
+55049,44.17628,-93.24101,Medford,America/Chicago
+55051,45.93818,-93.33201,Mora,America/Chicago
+55052,44.23369,-93.4398,Morristown,America/Chicago
+55053,44.34957,-93.06579,Nerstrand,America/Chicago
+55054,44.57148,-93.35087,Elko New Market,America/Chicago
+55055,44.87437,-92.99746,Newport,America/Chicago
+55056,45.50915,-92.9543,North Branch,America/Chicago
+55057,44.47281,-93.17939,Northfield,America/Chicago
+55060,44.05966,-93.22639,Owatonna,America/Chicago
+55063,45.83263,-92.90584,Pine City,America/Chicago
+55065,44.54662,-93.01835,Randolph,America/Chicago
+55066,44.51581,-92.5441,Red Wing,America/Chicago
+55068,44.73555,-93.06876,Rosemount,America/Chicago
+55069,45.6928,-92.96768,Rush City,America/Chicago
+55070,45.41413,-93.3849,Saint Francis,America/Chicago
+55071,44.82257,-92.99677,Saint Paul Park,America/Chicago
+55072,46.15118,-92.59274,Sandstone,America/Chicago
+55073,45.27363,-92.82783,Scandia,America/Chicago
+55074,45.38351,-92.73292,Shafer,America/Chicago
+55075,44.88794,-93.0411,South Saint Paul,America/Chicago
+55076,44.83318,-93.0334,Inver Grove Heights,America/Chicago
+55077,44.81989,-93.07574,Inver Grove Heights,America/Chicago
+55079,45.41385,-93.03117,Stacy,America/Chicago
+55080,45.66322,-93.21881,Stanchfield,America/Chicago
+55082,45.07446,-92.84006,Stillwater,America/Chicago
+55084,45.46029,-92.70747,Taylors Falls,America/Chicago
+55085,44.6731,-92.96432,Vermillion,America/Chicago
+55087,44.23894,-93.40614,Warsaw,America/Chicago
+55088,44.52945,-93.38479,Webster,America/Chicago
+55089,44.59296,-92.70223,Welch,America/Chicago
+55090,45.05382,-92.9573,Willernie,America/Chicago
+55092,45.33647,-93.07214,Wyoming,America/Chicago
+55101,44.95111,-93.08739,Saint Paul,America/Chicago
+55102,44.93216,-93.12149,Saint Paul,America/Chicago
+55103,44.96399,-93.12418,Saint Paul,America/Chicago
+55104,44.95423,-93.16283,Saint Paul,America/Chicago
+55105,44.93465,-93.16689,Saint Paul,America/Chicago
+55106,44.95743,-93.04679,Saint Paul,America/Chicago
+55107,44.93105,-93.07945,Saint Paul,America/Chicago
+55108,44.98095,-93.1749,Saint Paul,America/Chicago
+55109,45.0144,-93.02616,Saint Paul,America/Chicago
+55110,45.08961,-93.00418,Saint Paul,America/Chicago
+55111,44.885,-93.19518,Saint Paul,America/Chicago
+55112,45.07443,-93.19169,Saint Paul,America/Chicago
+55113,45.01295,-93.15512,Saint Paul,America/Chicago
+55114,44.9662,-93.19407,Saint Paul,America/Chicago
+55115,45.06675,-92.95087,Saint Paul,America/Chicago
+55116,44.91001,-93.17033,Saint Paul,America/Chicago
+55117,44.99918,-93.09713,Saint Paul,America/Chicago
+55118,44.8968,-93.10365,Saint Paul,America/Chicago
+55119,44.93972,-93.0066,Saint Paul,America/Chicago
+55120,44.87259,-93.14881,Saint Paul,America/Chicago
+55121,44.84591,-93.15932,Saint Paul,America/Chicago
+55122,44.80326,-93.1962,Saint Paul,America/Chicago
+55123,44.8043,-93.13699,Saint Paul,America/Chicago
+55124,44.74566,-93.20042,Saint Paul,America/Chicago
+55125,44.91998,-92.94388,Saint Paul,America/Chicago
+55126,45.08614,-93.13581,Saint Paul,America/Chicago
+55127,45.08394,-93.08243,Saint Paul,America/Chicago
+55128,44.98812,-92.96405,Saint Paul,America/Chicago
+55129,44.89422,-92.90638,Saint Paul,America/Chicago
+55130,44.97315,-93.08241,Saint Paul,America/Chicago
+55150,44.88717,-93.16157,Mendota,America/Chicago
+55155,44.95419,-93.09756,Saint Paul,America/Chicago
+55301,45.24448,-93.66219,Albertville,America/Chicago
+55302,45.24464,-94.11638,Annandale,America/Chicago
+55303,45.28872,-93.42333,Anoka,America/Chicago
+55304,45.25583,-93.26455,Andover,America/Chicago
+55305,44.95477,-93.43229,Hopkins,America/Chicago
+55306,44.73071,-93.29195,Burnsville,America/Chicago
+55307,44.59871,-94.10475,Arlington,America/Chicago
+55308,45.42944,-93.83561,Becker,America/Chicago
+55309,45.37758,-93.74107,Big Lake,America/Chicago
+55310,44.75599,-94.87624,Bird Island,America/Chicago
+55311,45.1052,-93.49495,Maple Grove,America/Chicago
+55312,44.70853,-94.34489,Brownton,America/Chicago
+55313,45.17382,-93.84859,Buffalo,America/Chicago
+55314,44.77214,-94.6,Buffalo Lake,America/Chicago
+55315,44.71731,-93.68347,Carver,America/Chicago
+55316,45.17021,-93.39032,Champlin,America/Chicago
+55317,44.85711,-93.55096,Chanhassen,America/Chicago
+55318,44.81169,-93.63703,Chaska,America/Chicago
+55319,45.47181,-93.94359,Clear Lake,America/Chicago
+55320,45.39613,-94.08366,Clearwater,America/Chicago
+55321,45.08406,-94.193,Cokato,America/Chicago
+55322,44.77006,-93.7861,Cologne,America/Chicago
+55324,45.05676,-94.42554,Darwin,America/Chicago
+55325,45.08432,-94.32031,Dassel,America/Chicago
+55327,45.19922,-93.4753,Dayton,America/Chicago
+55328,45.03246,-93.80981,Delano,America/Chicago
+55329,45.30798,-94.57039,Eden Valley,America/Chicago
+55330,45.33359,-93.5679,Elk River,America/Chicago
+55331,44.90124,-93.60832,Excelsior,America/Chicago
+55332,44.51852,-94.70761,Fairfax,America/Chicago
+55333,44.55987,-94.86593,Franklin,America/Chicago
+55334,44.53578,-94.20772,Gaylord,America/Chicago
+55335,44.52969,-94.54621,Gibbon,America/Chicago
+55336,44.76627,-94.17803,Glencoe,America/Chicago
+55337,44.77673,-93.27491,Burnsville,America/Chicago
+55338,44.66996,-93.99688,Green Isle,America/Chicago
+55339,44.7289,-93.95905,Hamburg,America/Chicago
+55340,45.07761,-93.57508,Hamel,America/Chicago
+55341,45.15917,-93.65913,Hanover,America/Chicago
+55342,44.74152,-94.72982,Hector,America/Chicago
+55343,44.91433,-93.41568,Hopkins,America/Chicago
+55344,44.86452,-93.43037,Eden Prairie,America/Chicago
+55345,44.91526,-93.4838,Minnetonka,America/Chicago
+55346,44.87882,-93.48157,Eden Prairie,America/Chicago
+55347,44.82931,-93.46638,Eden Prairie,America/Chicago
+55349,45.06238,-94.07438,Howard Lake,America/Chicago
+55350,44.89743,-94.39195,Hutchinson,America/Chicago
+55352,44.65505,-93.5862,Jordan,America/Chicago
+55353,45.32034,-94.31607,Kimball,America/Chicago
+55354,44.88466,-94.0701,Lester Prairie,America/Chicago
+55355,45.09709,-94.54017,Litchfield,America/Chicago
+55356,44.99565,-93.58628,Long Lake,America/Chicago
+55357,45.09906,-93.65913,Loretto,America/Chicago
+55358,45.24637,-94.00049,Maple Lake,America/Chicago
+55359,45.00464,-93.70112,Maple Plain,America/Chicago
+55360,44.91331,-93.92065,Mayer,America/Chicago
+55362,45.30099,-93.83563,Monticello,America/Chicago
+55363,45.04385,-93.91352,Montrose,America/Chicago
+55364,44.93974,-93.67486,Mound,America/Chicago
+55366,44.67233,-94.2346,New Auburn,America/Chicago
+55367,44.89142,-93.97499,New Germany,America/Chicago
+55368,44.7458,-93.89679,Norwood Young America,America/Chicago
+55369,45.12834,-93.44837,Osseo,America/Chicago
+55370,44.78077,-94.03892,Plato,America/Chicago
+55371,45.57677,-93.59581,Princeton,America/Chicago
+55372,44.67791,-93.41237,Prior Lake,America/Chicago
+55373,45.08779,-93.72282,Rockford,America/Chicago
+55374,45.17715,-93.58035,Rogers,America/Chicago
+55375,44.89475,-93.73129,Saint Bonifacius,America/Chicago
+55376,45.21161,-93.68508,Saint Michael,America/Chicago
+55378,44.75685,-93.36209,Savage,America/Chicago
+55379,44.75492,-93.51713,Shakopee,America/Chicago
+55381,44.92763,-94.18623,Silver Lake,America/Chicago
+55382,45.30521,-94.20438,South Haven,America/Chicago
+55384,44.9364,-93.63201,Spring Park,America/Chicago
+55385,44.73732,-94.49281,Stewart,America/Chicago
+55386,44.85686,-93.66435,Victoria,America/Chicago
+55387,44.85643,-93.77903,Waconia,America/Chicago
+55388,44.95,-93.84729,Watertown,America/Chicago
+55389,45.2998,-94.43748,Watkins,America/Chicago
+55390,45.06812,-93.97912,Waverly,America/Chicago
+55391,44.96009,-93.54225,Wayzata,America/Chicago
+55395,44.9572,-94.06085,Winsted,America/Chicago
+55396,44.54473,-94.36755,Winthrop,America/Chicago
+55397,44.81712,-93.93452,Young America,America/Chicago
+55398,45.45787,-93.5903,Zimmerman,America/Chicago
+55401,44.98526,-93.26984,Minneapolis,America/Chicago
+55402,44.97608,-93.27119,Minneapolis,America/Chicago
+55403,44.97023,-93.28588,Minneapolis,America/Chicago
+55404,44.9619,-93.26145,Minneapolis,America/Chicago
+55405,44.97034,-93.30461,Minneapolis,America/Chicago
+55406,44.93932,-93.22071,Minneapolis,America/Chicago
+55407,44.93484,-93.25263,Minneapolis,America/Chicago
+55408,44.94364,-93.2937,Minneapolis,America/Chicago
+55409,44.93018,-93.28146,Minneapolis,America/Chicago
+55410,44.91364,-93.31725,Minneapolis,America/Chicago
+55411,44.9993,-93.2979,Minneapolis,America/Chicago
+55412,45.02612,-93.29952,Minneapolis,America/Chicago
+55413,44.99826,-93.24276,Minneapolis,America/Chicago
+55414,44.97915,-93.2259,Minneapolis,America/Chicago
+55415,44.97463,-93.2578,Minneapolis,America/Chicago
+55416,44.94961,-93.34157,Minneapolis,America/Chicago
+55417,44.9059,-93.23534,Minneapolis,America/Chicago
+55418,45.0208,-93.24244,Minneapolis,America/Chicago
+55419,44.90586,-93.28743,Minneapolis,America/Chicago
+55420,44.83564,-93.27745,Minneapolis,America/Chicago
+55421,45.05083,-93.25249,Minneapolis,America/Chicago
+55422,45.00922,-93.33941,Minneapolis,America/Chicago
+55423,44.87663,-93.28144,Minneapolis,America/Chicago
+55424,44.90509,-93.33978,Minneapolis,America/Chicago
+55425,44.84249,-93.23601,Minneapolis,America/Chicago
+55426,44.95635,-93.38139,Minneapolis,America/Chicago
+55427,45.00665,-93.38031,Minneapolis,America/Chicago
+55428,45.06354,-93.38094,Minneapolis,America/Chicago
+55429,45.06443,-93.34105,Minneapolis,America/Chicago
+55430,45.0632,-93.30148,Minneapolis,America/Chicago
+55431,44.82607,-93.31195,Minneapolis,America/Chicago
+55432,45.09693,-93.25466,Minneapolis,America/Chicago
+55433,45.16132,-93.31638,Minneapolis,America/Chicago
+55434,45.1681,-93.25069,Minneapolis,America/Chicago
+55435,44.87343,-93.3347,Minneapolis,America/Chicago
+55436,44.90345,-93.37409,Minneapolis,America/Chicago
+55437,44.82434,-93.34488,Minneapolis,America/Chicago
+55438,44.82489,-93.37826,Minneapolis,America/Chicago
+55439,44.87452,-93.37475,Minneapolis,America/Chicago
+55441,45.00475,-93.42845,Minneapolis,America/Chicago
+55442,45.04856,-93.4269,Minneapolis,America/Chicago
+55443,45.11894,-93.33802,Minneapolis,America/Chicago
+55444,45.10747,-93.30234,Minneapolis,America/Chicago
+55445,45.12317,-93.3798,Minneapolis,America/Chicago
+55446,45.04427,-93.4878,Minneapolis,America/Chicago
+55447,45.00132,-93.48888,Minneapolis,America/Chicago
+55448,45.1908,-93.30209,Minneapolis,America/Chicago
+55449,45.17284,-93.1953,Minneapolis,America/Chicago
+55450,44.87901,-93.22549,Minneapolis,America/Chicago
+55454,44.97075,-93.24381,Minneapolis,America/Chicago
+55455,44.97453,-93.23432,Minneapolis,America/Chicago
+55601,47.23404,-91.36425,Beaver Bay,America/Chicago
+55602,47.33207,-91.91047,Brimson,America/Chicago
+55603,47.5441,-91.19441,Finland,America/Chicago
+55604,47.96201,-90.55792,Grand Marais,America/Chicago
+55605,47.96242,-89.75529,Grand Portage,America/Chicago
+55606,47.96785,-90.02818,Hovland,America/Chicago
+55607,47.63363,-91.51106,Isabella,America/Chicago
+55609,46.9636,-91.78554,Knife River,America/Chicago
+55612,47.77937,-90.70401,Lutsen,America/Chicago
+55613,47.57023,-90.97293,Schroeder,America/Chicago
+55614,47.36412,-91.40387,Silver Bay,America/Chicago
+55615,47.74561,-90.87695,Tofte,America/Chicago
+55616,47.25095,-91.66982,Two Harbors,America/Chicago
+55702,46.97121,-92.6448,Alborn,America/Chicago
+55703,47.73932,-92.78119,Angora,America/Chicago
+55704,46.2057,-92.76581,Askov,America/Chicago
+55705,47.46789,-92.24446,Aurora,America/Chicago
+55706,47.67432,-91.95261,Babbitt,America/Chicago
+55707,46.55076,-92.64655,Barnum,America/Chicago
+55708,47.53527,-92.34766,Biwabik,America/Chicago
+55709,47.40431,-93.3804,Bovey,America/Chicago
+55710,47.64542,-92.69457,Britt,America/Chicago
+55711,46.84066,-92.69498,Brookston,America/Chicago
+55712,46.29398,-92.52513,Bruno,America/Chicago
+55713,47.4894,-92.76583,Buhl,America/Chicago
+55716,47.32169,-93.26432,Calumet,America/Chicago
+55717,47.05026,-92.38642,Canyon,America/Chicago
+55718,46.6249,-92.48505,Carlton,America/Chicago
+55719,47.55408,-92.85807,Chisholm,America/Chicago
+55720,46.75138,-92.5399,Cloquet,America/Chicago
+55721,47.21837,-93.68841,Cohasset,America/Chicago
+55722,47.28253,-93.4338,Coleraine,America/Chicago
+55723,47.83764,-92.86715,Cook,America/Chicago
+55724,47.17874,-92.37277,Cotton,America/Chicago
+55725,48.33849,-92.5811,Crane Lake,America/Chicago
+55726,46.67027,-92.83209,Cromwell,America/Chicago
+55731,47.98832,-91.7489,Ely,America/Chicago
+55732,47.6791,-92.22125,Embarrass,America/Chicago
+55733,46.71141,-92.36297,Esko,America/Chicago
+55734,47.38274,-92.4938,Eveleth,America/Chicago
+55735,46.21756,-93.01688,Finlayson,America/Chicago
+55736,46.97542,-92.92136,Floodwood,America/Chicago
+55738,47.27342,-92.65826,Forbes,America/Chicago
+55741,47.4582,-92.38683,Gilbert,America/Chicago
+55742,47.17195,-93.14076,Goodland,America/Chicago
+55744,47.23306,-93.51299,Grand Rapids,America/Chicago
+55746,47.35766,-92.95698,Hibbing,America/Chicago
+55748,46.99372,-93.59693,Hill City,America/Chicago
+55749,46.44701,-92.43128,Holyoke,America/Chicago
+55750,47.53251,-91.99517,Hoyt Lakes,America/Chicago
+55751,47.39283,-92.66815,Iron,America/Chicago
+55752,46.95494,-93.25323,Jacobson,America/Chicago
+55753,47.39692,-93.07991,Keewatin,America/Chicago
+55756,46.37535,-92.60128,Kerrick,America/Chicago
+55757,46.51594,-92.93475,Kettle River,America/Chicago
+55758,47.50823,-92.72141,Kinney,America/Chicago
+55760,46.62491,-93.27049,Mcgregor,America/Chicago
+55763,47.33127,-92.22262,Makinen,America/Chicago
+55764,47.33041,-93.29298,Marble,America/Chicago
+55765,47.10057,-92.74545,Meadowlands,America/Chicago
+55767,46.45236,-92.76536,Moose Lake,America/Chicago
+55768,47.51444,-92.67263,Mountain Iron,America/Chicago
+55769,47.47994,-93.18579,Nashwauk,America/Chicago
+55771,48.12398,-92.93101,Orr,America/Chicago
+55772,48.11019,-93.10032,Nett Lake,America/Chicago
+55775,47.30588,-93.1646,Pengilly,America/Chicago
+55779,46.90915,-92.4548,Saginaw,America/Chicago
+55780,46.67505,-92.68321,Sawyer,America/Chicago
+55781,47.67587,-93.06524,Side Lake,America/Chicago
+55782,47.82314,-92.20524,Soudan,America/Chicago
+55783,46.40836,-92.92625,Sturgeon Lake,America/Chicago
+55784,47.05306,-93.18769,Swan River,America/Chicago
+55785,46.92332,-93.74591,Swatara,America/Chicago
+55786,47.31916,-93.38227,Taconite,America/Chicago
+55787,46.73707,-93.11756,Tamarack,America/Chicago
+55790,47.8288,-92.37596,Tower,America/Chicago
+55792,47.60027,-92.48261,Virginia,America/Chicago
+55793,47.11585,-93.28442,Warba,America/Chicago
+55795,46.31337,-92.87031,Willow River,America/Chicago
+55796,47.92905,-91.79732,Winton,America/Chicago
+55797,46.56978,-92.36431,Wrenshall,America/Chicago
+55798,46.72138,-92.97907,Wright,America/Chicago
+55802,46.75267,-92.08197,Duluth,America/Chicago
+55803,47.03398,-92.07104,Duluth,America/Chicago
+55804,46.9381,-91.93089,Duluth,America/Chicago
+55805,46.80065,-92.09552,Duluth,America/Chicago
+55806,46.76826,-92.12835,Duluth,America/Chicago
+55807,46.73508,-92.1686,Duluth,America/Chicago
+55808,46.6792,-92.23686,Duluth,America/Chicago
+55810,46.75894,-92.27445,Duluth,America/Chicago
+55811,46.83767,-92.21993,Duluth,America/Chicago
+55812,46.81236,-92.07564,Duluth,America/Chicago
+55814,46.83519,-92.19716,Duluth,America/Chicago
+55901,44.07679,-92.5018,Rochester,America/Chicago
+55902,43.9671,-92.51584,Rochester,America/Chicago
+55903,44.02391,-92.43657,Rochester,America/Chicago
+55904,43.96204,-92.39931,Rochester,America/Chicago
+55905,44.05595,-92.52589,Rochester,America/Chicago
+55906,44.10751,-92.40142,Rochester,America/Chicago
+55909,43.56312,-92.73461,Adams,America/Chicago
+55910,44.13285,-91.97285,Altura,America/Chicago
+55912,43.6827,-92.99148,Austin,America/Chicago
+55917,43.88164,-93.0716,Blooming Prairie,America/Chicago
+55918,43.74236,-92.84673,Brownsdale,America/Chicago
+55919,43.61443,-91.2941,Brownsville,America/Chicago
+55920,44.01246,-92.62111,Byron,America/Chicago
+55921,43.62265,-91.46388,Caledonia,America/Chicago
+55922,43.5621,-91.89562,Canton,America/Chicago
+55923,43.8494,-92.18315,Chatfield,America/Chicago
+55924,44.0354,-93.01838,Claremont,America/Chicago
+55925,43.90962,-91.46503,Dakota,America/Chicago
+55926,43.74279,-92.70689,Dexter,America/Chicago
+55927,44.0335,-92.87291,Dodge Center,America/Chicago
+55929,43.97765,-92.14412,Dover,America/Chicago
+55931,43.51424,-91.39703,Eitzen,America/Chicago
+55932,44.13804,-92.30081,Elgin,America/Chicago
+55933,43.64787,-92.68504,Elkton,America/Chicago
+55934,44.00388,-92.26573,Eyota,America/Chicago
+55935,43.74737,-92.12734,Fountain,America/Chicago
+55936,43.70943,-92.58524,Grand Meadow,America/Chicago
+55939,43.54682,-92.08144,Harmony,America/Chicago
+55940,43.89417,-92.80775,Hayfield,America/Chicago
+55941,43.72558,-91.35382,Hokah,America/Chicago
+55943,43.7903,-91.58343,Houston,America/Chicago
+55944,43.98754,-92.73758,Kasson,America/Chicago
+55945,44.26788,-92.05591,Kellogg,America/Chicago
+55946,44.26129,-92.95998,Kenyon,America/Chicago
+55947,43.82412,-91.35666,La Crescent,America/Chicago
+55949,43.71156,-91.94032,Lanesboro,America/Chicago
+55950,43.74341,-92.96618,Lansing,America/Chicago
+55951,43.53529,-92.48414,Le Roy,America/Chicago
+55952,43.94399,-91.84337,Lewiston,America/Chicago
+55953,43.52772,-92.96521,Lyle,America/Chicago
+55954,43.56422,-91.78455,Mabel,America/Chicago
+55955,44.09179,-92.73985,Mantorville,America/Chicago
+55956,44.28382,-92.53068,Mazeppa,America/Chicago
+55957,44.25494,-92.28373,Millville,America/Chicago
+55959,44.11287,-91.78365,Minnesota City,America/Chicago
+55960,44.14226,-92.53564,Oronoco,America/Chicago
+55961,43.60541,-92.47544,Ostrander,America/Chicago
+55962,43.76213,-91.84219,Peterson,America/Chicago
+55963,44.18784,-92.66227,Pine Island,America/Chicago
+55964,44.16448,-92.15483,Plainview,America/Chicago
+55965,43.62913,-92.13282,Preston,America/Chicago
+55967,43.79343,-92.51354,Racine,America/Chicago
+55968,44.39793,-92.0898,Reads Landing,America/Chicago
+55969,44.08263,-91.87658,Rollingstone,America/Chicago
+55970,43.59681,-92.83118,Rose Creek,America/Chicago
+55971,43.81968,-91.75527,Rushford,America/Chicago
+55972,43.99396,-92.05092,Saint Charles,America/Chicago
+55973,43.80794,-92.772,Sargeant,America/Chicago
+55974,43.57968,-91.64382,Spring Grove,America/Chicago
+55975,43.67569,-92.37296,Spring Valley,America/Chicago
+55976,43.86378,-92.48394,Stewartville,America/Chicago
+55977,43.55371,-92.64792,Taopi,America/Chicago
+55979,43.92312,-91.95132,Utica,America/Chicago
+55981,44.35375,-92.06518,Wabasha,America/Chicago
+55982,43.81582,-92.886,Waltham,America/Chicago
+55983,44.29344,-92.80827,Wanamingo,America/Chicago
+55985,44.15669,-92.90259,West Concord,America/Chicago
+55987,43.98469,-91.63143,Winona,America/Chicago
+55990,43.7285,-92.2591,Wykoff,America/Chicago
+55991,44.25903,-92.41986,Zumbro Falls,America/Chicago
+55992,44.30557,-92.6827,Zumbrota,America/Chicago
+56001,44.13193,-93.97789,Mankato,America/Chicago
+56003,44.21273,-94.08877,Mankato,America/Chicago
+56007,43.66085,-93.3238,Albert Lea,America/Chicago
+56009,43.66125,-93.55904,Alden,America/Chicago
+56010,43.89112,-94.17869,Amboy,America/Chicago
+56011,44.60344,-93.777,Belle Plaine,America/Chicago
+56013,43.62142,-94.10734,Blue Earth,America/Chicago
+56014,43.58363,-93.82568,Bricelyn,America/Chicago
+56016,43.76378,-93.34855,Clarks Grove,America/Chicago
+56017,44.30535,-93.81915,Cleveland,America/Chicago
+56019,44.11476,-94.89016,Comfrey,America/Chicago
+56020,43.6146,-93.53019,Conger,America/Chicago
+56021,44.28339,-94.31391,Courtland,America/Chicago
+56022,44.05264,-94.83869,Darfur,America/Chicago
+56023,43.77224,-94.01402,Delavan,America/Chicago
+56024,44.14768,-93.84419,Eagle Lake,America/Chicago
+56025,43.7516,-93.90877,Easton,America/Chicago
+56026,43.87485,-93.29124,Ellendale,America/Chicago
+56027,43.51935,-94.12432,Elmore,America/Chicago
+56028,44.22435,-93.71052,Elysian,America/Chicago
+56029,43.52519,-93.53003,Emmons,America/Chicago
+56030,44.32485,-94.60485,Essig,America/Chicago
+56031,43.62246,-94.46757,Fairmont,America/Chicago
+56032,43.77583,-93.56078,Freeborn,America/Chicago
+56033,43.55926,-93.93118,Frost,America/Chicago
+56034,44.03036,-94.18285,Garden City,America/Chicago
+56035,43.82187,-93.26875,Geneva,America/Chicago
+56036,43.5513,-93.22152,Glenville,America/Chicago
+56037,44.0172,-94.0465,Good Thunder,America/Chicago
+56039,43.66246,-94.32287,Granada,America/Chicago
+56041,44.15514,-94.52238,Hanska,America/Chicago
+56042,43.80408,-93.48387,Hartland,America/Chicago
+56043,43.65236,-93.22809,Hayward,America/Chicago
+56044,44.56173,-93.93539,Henderson,America/Chicago
+56045,43.75977,-93.20948,Hollandale,America/Chicago
+56046,43.9678,-93.26889,Hope,America/Chicago
+56048,44.09478,-93.71589,Janesville,America/Chicago
+56050,44.26006,-93.94706,Kasota,America/Chicago
+56051,43.53649,-93.70868,Kiester,America/Chicago
+56052,44.32158,-93.5576,Kilkenny,America/Chicago
+56054,44.4357,-94.37043,Lafayette,America/Chicago
+56055,44.12693,-94.24531,Lake Crystal,America/Chicago
+56056,44.07278,-94.57945,La Salle,America/Chicago
+56057,44.3954,-93.72045,Le Center,America/Chicago
+56058,44.44424,-93.91441,Le Sueur,America/Chicago
+56060,43.93221,-94.43691,Lewisville,America/Chicago
+56062,44.0483,-94.41469,Madelia,America/Chicago
+56063,44.218,-93.81791,Madison Lake,America/Chicago
+56065,43.93376,-93.91799,Mapleton,America/Chicago
+56068,43.86303,-93.80601,Minnesota Lake,America/Chicago
+56069,44.41801,-93.54988,Montgomery,America/Chicago
+56071,44.53459,-93.58209,New Prague,America/Chicago
+56072,43.89677,-93.5125,New Richland,America/Chicago
+56073,44.30757,-94.46878,New Ulm,America/Chicago
+56074,44.32344,-94.20181,Nicollet,America/Chicago
+56075,43.73516,-94.43663,Northrop,America/Chicago
+56078,44.00525,-93.76757,Pemberton,America/Chicago
+56080,44.08166,-93.85781,Saint Clair,America/Chicago
+56081,43.99345,-94.63062,Saint James,America/Chicago
+56082,44.35217,-94.03329,Saint Peter,America/Chicago
+56083,44.20734,-95.13434,Sanborn,America/Chicago
+56085,44.29279,-94.73547,Sleepy Eye,America/Chicago
+56087,44.24012,-94.97538,Springfield,America/Chicago
+56088,43.82647,-94.45031,Truman,America/Chicago
+56089,43.55631,-93.4508,Twin Lakes,America/Chicago
+56090,43.9584,-94.23303,Vernon Center,America/Chicago
+56091,43.91813,-93.68831,Waldorf,America/Chicago
+56093,44.06342,-93.51683,Waseca,America/Chicago
+56096,44.24393,-93.60097,Waterville,America/Chicago
+56097,43.72261,-93.71593,Wells,America/Chicago
+56098,43.77565,-94.18528,Winnebago,America/Chicago
+56101,43.88404,-95.13991,Windom,America/Chicago
+56110,43.62115,-95.94093,Adrian,America/Chicago
+56111,43.64155,-94.8799,Alpha,America/Chicago
+56113,44.40218,-96.14904,Arco,America/Chicago
+56114,43.97897,-95.59345,Avoca,America/Chicago
+56115,44.21514,-95.90038,Balaton,America/Chicago
+56116,43.61782,-96.37893,Beaver Creek,America/Chicago
+56117,43.52662,-95.68607,Bigelow,America/Chicago
+56118,43.93616,-95.03555,Bingham Lake,America/Chicago
+56119,43.71159,-95.46702,Brewster,America/Chicago
+56120,43.96083,-94.79139,Butterfield,America/Chicago
+56121,43.53858,-94.61051,Ceylon,America/Chicago
+56122,43.89729,-95.95026,Chandler,America/Chicago
+56123,44.08467,-95.59624,Currie,America/Chicago
+56125,44.05452,-95.54774,Dovray,America/Chicago
+56127,43.54892,-94.77261,Dunnell,America/Chicago
+56128,43.88199,-96.11579,Edgerton,America/Chicago
+56129,43.52775,-96.04327,Ellsworth,America/Chicago
+56131,43.86305,-95.57219,Fulda,America/Chicago
+56132,44.20196,-95.75792,Garvin,America/Chicago
+56134,43.78956,-96.23126,Hardwick,America/Chicago
+56136,44.50187,-96.41645,Hendricks,America/Chicago
+56137,43.83246,-95.32424,Heron Lake,America/Chicago
+56138,43.53279,-96.38348,Hills,America/Chicago
+56139,44.10368,-96.1757,Holland,America/Chicago
+56140,43.90959,-96.36703,Ihlen,America/Chicago
+56141,43.88184,-95.78962,Iona,America/Chicago
+56142,44.4711,-96.2327,Ivanhoe,America/Chicago
+56143,43.62803,-95.00759,Jackson,America/Chicago
+56144,43.84078,-96.38702,Jasper,America/Chicago
+56145,44.05577,-95.17384,Jeffers,America/Chicago
+56146,43.58006,-96.10343,Kanaranzi,America/Chicago
+56147,43.75726,-96.05985,Kenneth,America/Chicago
+56149,44.30059,-96.30454,Lake Benton,America/Chicago
+56150,43.63469,-95.21266,Lakefield,America/Chicago
+56151,44.03304,-95.92833,Lake Wilson,America/Chicago
+56152,44.22702,-95.2733,Lamberton,America/Chicago
+56153,43.83012,-96.01506,Leota,America/Chicago
+56155,43.76707,-95.94117,Lismore,America/Chicago
+56156,43.66196,-96.22466,Luverne,America/Chicago
+56157,44.39702,-95.94805,Lynd,America/Chicago
+56158,43.6337,-96.07465,Magnolia,America/Chicago
+56159,43.94363,-94.93598,Mountain Lake,America/Chicago
+56160,43.83311,-94.81041,Odin,America/Chicago
+56161,43.70637,-95.32519,Okabena,America/Chicago
+56162,43.84034,-94.66736,Ormsby,America/Chicago
+56164,44.04936,-96.33361,Pipestone,America/Chicago
+56165,43.7251,-95.7097,Reading,America/Chicago
+56166,44.20248,-95.37401,Revere,America/Chicago
+56167,43.55082,-95.40524,Round Lake,America/Chicago
+56168,43.61552,-95.80358,Rushmore,America/Chicago
+56169,44.33136,-96.00555,Russell,America/Chicago
+56170,44.16694,-96.08647,Ruthton,America/Chicago
+56171,43.66902,-94.75925,Sherburn,America/Chicago
+56172,44.01212,-95.7702,Slayton,America/Chicago
+56173,43.52505,-96.24186,Steen,America/Chicago
+56174,44.01525,-95.30466,Storden,America/Chicago
+56175,44.25595,-95.63733,Tracy,America/Chicago
+56176,43.78319,-94.72835,Trimont,America/Chicago
+56178,44.28593,-96.12997,Tyler,America/Chicago
+56180,44.24424,-95.46655,Walnut Grove,America/Chicago
+56181,43.67951,-94.61549,Welcome,America/Chicago
+56183,44.03404,-95.42334,Westbrook,America/Chicago
+56185,43.7932,-95.82659,Wilmont,America/Chicago
+56186,44.02823,-96.08131,Woodstock,America/Chicago
+56187,43.62357,-95.58507,Worthington,America/Chicago
+56201,45.10181,-95.04226,Willmar,America/Chicago
+56207,45.50266,-96.0708,Alberta,America/Chicago
+56208,45.24422,-96.00961,Appleton,America/Chicago
+56209,45.124,-94.79931,Atwater,America/Chicago
+56210,45.55739,-96.55958,Barry,America/Chicago
+56211,45.58641,-96.6828,Beardsley,America/Chicago
+56212,45.13499,-96.32459,Bellingham,America/Chicago
+56214,44.60804,-95.32943,Belview,America/Chicago
+56215,45.31077,-95.57233,Benson,America/Chicago
+56216,44.93886,-95.05532,Blomkest,America/Chicago
+56218,44.82642,-95.94363,Boyd,America/Chicago
+56219,45.5977,-96.81913,Browns Valley,America/Chicago
+56220,44.73125,-96.29339,Canby,America/Chicago
+56221,45.55583,-96.1938,Chokio,America/Chicago
+56222,44.98586,-95.36229,Clara City,America/Chicago
+56223,44.76259,-95.81691,Clarkfield,America/Chicago
+56224,44.37628,-95.05854,Clements,America/Chicago
+56225,45.45325,-96.4482,Clinton,America/Chicago
+56226,45.41065,-95.67705,Clontarf,America/Chicago
+56227,45.29436,-96.16938,Correll,America/Chicago
+56228,44.93619,-94.67715,Cosmos,America/Chicago
+56229,44.59385,-95.72398,Cottonwood,America/Chicago
+56230,44.79284,-95.09288,Danube,America/Chicago
+56231,45.2788,-95.76381,Danvers,America/Chicago
+56232,44.92836,-96.03968,Dawson,America/Chicago
+56235,45.70588,-96.01079,Donnelly,America/Chicago
+56236,45.66341,-96.40312,Dumont,America/Chicago
+56237,44.61956,-95.43489,Echo,America/Chicago
+56239,44.50416,-95.91079,Ghent,America/Chicago
+56240,45.56327,-96.47475,Graceville,America/Chicago
+56241,44.79654,-95.57944,Granite Falls,America/Chicago
+56243,45.16868,-94.6799,Grove City,America/Chicago
+56244,45.48372,-95.77963,Hancock,America/Chicago
+56245,44.68508,-95.67574,Hanley Falls,America/Chicago
+56248,45.79317,-96.13677,Herman,America/Chicago
+56249,45.31795,-95.89899,Holloway,America/Chicago
+56251,45.14046,-94.9198,Kandiyohi,America/Chicago
+56252,45.17785,-95.30397,Kerkhoven,America/Chicago
+56253,44.9628,-94.87889,Lake Lillian,America/Chicago
+56255,44.39426,-95.41707,Lucan,America/Chicago
+56256,45.02306,-96.19986,Madison,America/Chicago
+56257,44.9684,-96.40275,Marietta,America/Chicago
+56258,44.44121,-95.75906,Marshall,America/Chicago
+56260,44.96338,-95.48571,Maynard,America/Chicago
+56262,45.12276,-95.86843,Milan,America/Chicago
+56263,44.41577,-95.54086,Milroy,America/Chicago
+56264,44.57529,-95.98001,Minneota,America/Chicago
+56265,45.0064,-95.70098,Montevideo,America/Chicago
+56266,44.41637,-94.9133,Morgan,America/Chicago
+56267,45.58512,-95.9322,Morris,America/Chicago
+56270,44.56013,-94.97962,Morton,America/Chicago
+56271,45.24125,-95.41288,Murdock,America/Chicago
+56273,45.32163,-94.96777,New London,America/Chicago
+56274,45.90145,-96.2383,Norcross,America/Chicago
+56276,45.24134,-96.31249,Odessa,America/Chicago
+56277,44.76742,-94.99036,Olivia,America/Chicago
+56278,45.345,-96.37718,Ortonville,America/Chicago
+56279,45.21651,-95.17585,Pennock,America/Chicago
+56280,44.63212,-96.16719,Porter,America/Chicago
+56281,44.94833,-95.16479,Prinsburg,America/Chicago
+56282,45.03089,-95.21862,Raymond,America/Chicago
+56283,44.53208,-95.14225,Redwood Falls,America/Chicago
+56284,44.77729,-95.20204,Renville,America/Chicago
+56285,44.78837,-95.34797,Sacred Heart,America/Chicago
+56287,44.47537,-95.3262,Seaforth,America/Chicago
+56288,45.24218,-94.94847,Spicer,America/Chicago
+56289,45.33334,-95.2236,Sunburg,America/Chicago
+56291,44.62254,-96.06933,Taunton,America/Chicago
+56292,44.49734,-95.44863,Vesta,America/Chicago
+56293,44.41598,-95.26559,Wabasso,America/Chicago
+56294,44.31481,-95.21313,Wanda,America/Chicago
+56295,45.0437,-95.84292,Watson,America/Chicago
+56296,45.82981,-96.46953,Wheaton,America/Chicago
+56297,44.63005,-95.54428,Wood Lake,America/Chicago
+56301,45.48718,-94.24307,Saint Cloud,America/Chicago
+56303,45.57422,-94.21117,Saint Cloud,America/Chicago
+56304,45.52512,-94.05199,Saint Cloud,America/Chicago
+56307,45.62666,-94.58769,Albany,America/Chicago
+56308,45.87047,-95.38985,Alexandria,America/Chicago
+56309,46.08035,-95.80202,Ashby,America/Chicago
+56310,45.63399,-94.44352,Avon,America/Chicago
+56311,45.89756,-95.89852,Barrett,America/Chicago
+56312,45.46285,-94.95323,Belgrade,America/Chicago
+56313,45.78403,-93.55273,Bock,America/Chicago
+56314,45.81139,-94.43189,Bowlus,America/Chicago
+56315,45.97996,-95.59211,Brandon,America/Chicago
+56316,45.49959,-95.14992,Brooten,America/Chicago
+56318,45.85332,-94.67085,Burtrum,America/Chicago
+56319,46.00488,-95.22322,Carlos,America/Chicago
+56320,45.4629,-94.4171,Cold Spring,America/Chicago
+56321,45.57969,-94.39288,Collegeville,America/Chicago
+56323,45.63321,-95.72586,Cyrus,America/Chicago
+56324,46.16385,-95.90766,Dalton,America/Chicago
+56325,45.56303,-94.94732,Elrosa,America/Chicago
+56326,46.02506,-95.68596,Evansville,America/Chicago
+56327,45.75893,-95.61336,Farwell,America/Chicago
+56328,45.9519,-94.52147,Flensburg,America/Chicago
+56329,45.70934,-93.90577,Foley,America/Chicago
+56330,45.75018,-93.75117,Foreston,America/Chicago
+56331,45.67926,-94.6742,Freeport,America/Chicago
+56332,45.96993,-95.50554,Garfield,America/Chicago
+56334,45.58402,-95.34765,Glenwood,America/Chicago
+56335,45.60137,-94.85941,Greenwald,America/Chicago
+56336,45.82349,-94.76175,Grey Eagle,America/Chicago
+56338,46.00631,-93.88089,Hillman,America/Chicago
+56339,45.8258,-95.82129,Hoffman,America/Chicago
+56340,45.75534,-94.44871,Holdingford,America/Chicago
+56342,46.18347,-93.40392,Isle,America/Chicago
+56343,45.79088,-95.69765,Kensington,America/Chicago
+56345,46.00748,-94.38032,Little Falls,America/Chicago
+56347,45.96978,-94.86155,Long Prairie,America/Chicago
+56349,45.72373,-95.52456,Lowry,America/Chicago
+56350,46.31101,-93.23922,McGrath,America/Chicago
+56352,45.65078,-94.80076,Melrose,America/Chicago
+56353,45.79667,-93.62587,Milaca,America/Chicago
+56354,46.06034,-95.27496,Miltona,America/Chicago
+56355,45.94007,-95.24031,Nelson,America/Chicago
+56356,45.63334,-94.73332,New Munich,America/Chicago
+56357,45.69684,-93.8007,Oak Park,America/Chicago
+56358,45.84069,-93.4488,Ogilvie,America/Chicago
+56359,46.08979,-93.67786,Onamia,America/Chicago
+56360,45.87482,-95.12686,Osakis,America/Chicago
+56361,46.16146,-95.3351,Parkers Prairie,America/Chicago
+56362,45.40524,-94.71525,Paynesville,America/Chicago
+56363,45.69627,-93.65409,Pease,America/Chicago
+56364,46.01605,-94.06704,Pierz,America/Chicago
+56367,45.76107,-94.17026,Rice,America/Chicago
+56368,45.45158,-94.5392,Richmond,America/Chicago
+56369,45.46904,-94.3359,Rockville,America/Chicago
+56371,45.43333,-94.63707,Roscoe,America/Chicago
+56373,45.85456,-94.23789,Royalton,America/Chicago
+56374,45.60381,-94.33816,Saint Joseph,America/Chicago
+56375,45.70122,-94.27458,Saint Stephen,America/Chicago
+56376,45.50241,-94.66731,Saint Martin,America/Chicago
+56377,45.6405,-94.23033,Sartell,America/Chicago
+56378,45.72308,-94.97982,Sauk Centre,America/Chicago
+56379,45.63966,-94.08394,Sauk Rapids,America/Chicago
+56381,45.55523,-95.54669,Starbuck,America/Chicago
+56382,45.9146,-94.611,Swanville,America/Chicago
+56384,45.8099,-94.56759,Upsala,America/Chicago
+56385,45.70349,-95.20681,Villard,America/Chicago
+56386,46.11402,-93.52176,Wahkon,America/Chicago
+56387,45.53215,-94.24141,Waite Park,America/Chicago
+56389,45.79961,-95.08832,West Union,America/Chicago
+56401,46.32259,-94.11974,Brainerd,America/Chicago
+56425,46.34162,-94.28308,Baxter,America/Chicago
+56431,46.4828,-93.64356,Aitkin,America/Chicago
+56433,46.9598,-94.68519,Akeley,America/Chicago
+56434,46.33797,-94.93437,Aldrich,America/Chicago
+56435,46.80872,-94.53089,Backus,America/Chicago
+56437,46.25049,-95.05654,Bertha,America/Chicago
+56438,46.13873,-94.80874,Browerville,America/Chicago
+56440,46.14658,-94.9573,Clarissa,America/Chicago
+56441,46.58625,-93.9865,Crosby,America/Chicago
+56442,46.67629,-94.09726,Crosslake,America/Chicago
+56443,46.1916,-94.57565,Cushing,America/Chicago
+56444,46.4175,-93.87804,Deerwood,America/Chicago
+56446,46.12448,-95.08966,Eagle Bend,America/Chicago
+56447,46.74151,-93.90262,Emily,America/Chicago
+56448,46.78604,-94.09014,Fifty Lakes,America/Chicago
+56449,46.17436,-94.27214,Fort Ripley,America/Chicago
+56450,46.23341,-93.8361,Garrison,America/Chicago
+56452,46.94808,-94.46123,Hackensack,America/Chicago
+56453,46.31374,-95.16161,Hewitt,America/Chicago
+56455,46.44953,-94.00681,Ironton,America/Chicago
+56458,47.19924,-94.99341,Lake George,America/Chicago
+56461,47.22817,-94.85877,Laporte,America/Chicago
+56464,46.76538,-95.10382,Menahga,America/Chicago
+56465,46.53459,-94.11381,Merrifield,America/Chicago
+56466,46.41522,-94.63137,Motley,America/Chicago
+56467,46.97714,-94.83753,Nevis,America/Chicago
+56468,46.49141,-94.29856,Nisswa,America/Chicago
+56469,46.77701,-93.5463,Palisade,America/Chicago
+56470,47.02368,-95.09433,Park Rapids,America/Chicago
+56472,46.57507,-94.34884,Pequot Lakes,America/Chicago
+56473,46.35649,-94.48355,Pillager,America/Chicago
+56474,46.72238,-94.39597,Pine River,America/Chicago
+56475,46.08361,-94.53985,Randall,America/Chicago
+56477,46.64363,-94.99653,Sebeka,America/Chicago
+56479,46.43719,-94.78939,Staples,America/Chicago
+56481,46.46706,-94.93446,Verndale,America/Chicago
+56482,46.46555,-95.14307,Wadena,America/Chicago
+56484,47.09744,-94.47416,Walker,America/Chicago
+56501,46.83665,-95.82233,Detroit Lakes,America/Chicago
+56510,47.35811,-96.52316,Ada,America/Chicago
+56511,46.8532,-96.00763,Audubon,America/Chicago
+56514,46.64892,-96.43486,Barnesville,America/Chicago
+56515,46.29444,-95.708,Battle Lake,America/Chicago
+56516,47.44368,-95.96663,Bejou,America/Chicago
+56517,47.55474,-96.53825,Beltrami,America/Chicago
+56518,46.48926,-95.24506,Bluffton,America/Chicago
+56519,47.15914,-96.4877,Borup,America/Chicago
+56520,46.28645,-96.50361,Breckenridge,America/Chicago
+56521,46.99691,-95.89783,Callaway,America/Chicago
+56522,46.1352,-96.3887,Campbell,America/Chicago
+56523,47.63838,-96.80871,Climax,America/Chicago
+56524,46.21115,-95.606,Clitherall,America/Chicago
+56525,46.6716,-96.75195,Comstock,America/Chicago
+56527,46.37383,-95.31806,Deer Creek,America/Chicago
+56528,46.53066,-95.80983,Dent,America/Chicago
+56529,46.88027,-96.69754,Dilworth,America/Chicago
+56531,45.98967,-95.98376,Elbow Lake,America/Chicago
+56533,46.40393,-96.15144,Elizabeth,America/Chicago
+56534,46.46325,-96.01431,Erhard,America/Chicago
+56535,47.67541,-96.04611,Erskine,America/Chicago
+56536,47.04596,-96.53173,Felton,America/Chicago
+56537,46.27697,-96.08977,Fergus Falls,America/Chicago
+56540,47.54255,-96.27671,Fertile,America/Chicago
+56541,47.16606,-96.13081,Flom,America/Chicago
+56542,47.56679,-95.72331,Fosston,America/Chicago
+56543,46.28541,-96.33654,Foxhome,America/Chicago
+56544,46.75894,-95.59693,Frazee,America/Chicago
+56545,47.38527,-96.2399,Gary,America/Chicago
+56546,47.10107,-96.73038,Georgetown,America/Chicago
+56547,46.89068,-96.55043,Glyndon,America/Chicago
+56548,47.37025,-96.75392,Halstad,America/Chicago
+56549,46.85287,-96.31285,Hawley,America/Chicago
+56550,47.2697,-96.74867,Hendrum,America/Chicago
+56551,46.31856,-95.45081,Henning,America/Chicago
+56552,46.9814,-96.21602,Hitterdal,America/Chicago
+56553,46.42946,-96.61757,Kent,America/Chicago
+56554,46.88408,-96.11483,Lake Park,America/Chicago
+56556,47.66403,-95.88349,Mcintosh,America/Chicago
+56557,47.32422,-95.837,Mahnomen,America/Chicago
+56560,46.83637,-96.73467,Moorhead,America/Chicago
+56562,46.86458,-96.77021,Moorhead,America/Chicago
+56563,46.8668,-96.75522,Moorhead,America/Chicago
+56565,46.04861,-96.31511,Nashua,America/Chicago
+56566,47.24724,-95.61322,Naytahwaush,America/Chicago
+56567,46.54896,-95.36707,New York Mills,America/Chicago
+56568,47.5292,-96.77925,Nielsville,America/Chicago
+56569,47.07482,-95.81956,Ogema,America/Chicago
+56570,46.91051,-95.35552,Osage,America/Chicago
+56571,46.43856,-95.53939,Ottertail,America/Chicago
+56572,46.60485,-96.08682,Pelican Rapids,America/Chicago
+56573,46.61443,-95.55216,Perham,America/Chicago
+56574,47.20085,-96.70242,Perley,America/Chicago
+56575,47.03827,-95.43146,Ponsford,America/Chicago
+56576,46.47164,-95.70537,Richville,America/Chicago
+56578,46.9264,-95.65563,Rochert,America/Chicago
+56579,46.4688,-96.34229,Rothsay,America/Chicago
+56580,46.73944,-96.61004,Sabin,America/Chicago
+56581,47.45725,-96.76141,Shelly,America/Chicago
+56583,46.00332,-96.40667,Tintah,America/Chicago
+56584,47.23087,-96.23496,Twin Valley,America/Chicago
+56585,47.08896,-96.24492,Ulen,America/Chicago
+56586,46.32324,-95.84,Underwood,America/Chicago
+56587,46.63721,-95.8628,Vergas,America/Chicago
+56588,46.22028,-95.5006,Vining,America/Chicago
+56589,47.17959,-95.71984,Waubun,America/Chicago
+56590,46.03514,-96.16093,Wendell,America/Chicago
+56591,47.09968,-95.84357,White Earth,America/Chicago
+56592,47.53542,-96.00769,Winger,America/Chicago
+56594,46.54906,-96.64493,Wolverton,America/Chicago
+56601,47.50985,-94.84921,Bemidji,America/Chicago
+56621,47.40975,-95.41597,Bagley,America/Chicago
+56623,48.59722,-94.56913,Baudette,America/Chicago
+56626,47.36404,-94.18421,Bena,America/Chicago
+56627,48.1953,-94.04118,Big Falls,America/Chicago
+56628,47.69575,-93.5215,Bigfork,America/Chicago
+56629,48.51494,-94.12546,Birchdale,America/Chicago
+56630,47.74432,-94.49852,Blackduck,America/Chicago
+56633,47.31957,-94.50911,Cass Lake,America/Chicago
+56634,47.68577,-95.40169,Clearbrook,America/Chicago
+56636,47.40283,-93.86518,Deer River,America/Chicago
+56637,47.61872,-93.83941,Talmoon,America/Chicago
+56639,47.90275,-93.53399,Effie,America/Chicago
+56641,47.19848,-94.25804,Federal Dam,America/Chicago
+56644,47.78095,-95.51263,Gonvick,America/Chicago
+56646,47.78925,-95.62865,Gully,America/Chicago
+56647,47.68782,-94.62187,Hines,America/Chicago
+56649,48.53122,-93.13224,International Falls,America/Chicago
+56650,47.9979,-94.56351,Kelliher,America/Chicago
+56651,47.43883,-95.6172,Lengby,America/Chicago
+56652,47.71104,-95.23721,Leonard,America/Chicago
+56653,48.28327,-93.58558,Littlefork,America/Chicago
+56654,48.47285,-93.94153,Loman,America/Chicago
+56655,46.98292,-94.23014,Longville,America/Chicago
+56657,47.57237,-93.61544,Marcell,America/Chicago
+56658,48.11248,-93.93302,Margie,America/Chicago
+56659,47.62116,-94.01899,Max,America/Chicago
+56660,47.96653,-94.17022,Mizpah,America/Chicago
+56661,47.84302,-94.13856,Northome,America/Chicago
+56662,46.84524,-93.89926,Outing,America/Chicago
+56663,47.49997,-94.45431,Pennington,America/Chicago
+56666,48.03391,-94.8365,Ponemah,America/Chicago
+56667,47.73569,-94.94199,Puposky,America/Chicago
+56668,48.61454,-93.3467,Ranier,America/Winnipeg
+56669,48.37718,-93.22655,Kabetogama,America/Chicago
+56670,47.85001,-94.86912,Redby,America/Chicago
+56671,47.94006,-95.31791,Redlake,America/Chicago
+56672,47.0734,-94.02267,Remer,America/Chicago
+56673,48.74365,-95.13896,Roosevelt,America/Chicago
+56676,47.52188,-95.19877,Shevlin,America/Chicago
+56678,47.4298,-95.11768,Solway,America/Chicago
+56680,47.6456,-93.96124,Spring Lake,America/Chicago
+56681,47.5488,-94.25132,Squaw Lake,America/Chicago
+56683,47.72124,-94.7512,Tenstrike,America/Chicago
+56684,47.87109,-95.70401,Trail,America/Chicago
+56685,48.23841,-94.51997,Waskish,America/Chicago
+56686,48.78595,-94.91001,Williams,America/Chicago
+56688,47.7699,-93.89172,Wirt,America/Chicago
+56701,48.12021,-96.1994,Thief River Falls,America/Chicago
+56710,48.2182,-96.99776,Alvarado,America/Chicago
+56711,49.09907,-94.97591,Angle Inlet,America/Chicago
+56713,48.3487,-96.81717,Argyle,America/Chicago
+56714,48.78845,-96.00529,Badger,America/Chicago
+56715,47.80636,-95.94904,Brooks,America/Chicago
+56716,47.74189,-96.55522,Crookston,America/Chicago
+56720,48.56788,-96.90632,Donaldson,America/Chicago
+56721,47.97108,-96.94336,East Grand Forks,America/Chicago
+56722,47.9825,-96.64644,Euclid,America/Chicago
+56723,47.80493,-96.8059,Fisher,America/Chicago
+56724,48.44534,-95.73473,Gatzke,America/Chicago
+56725,48.1477,-95.70485,Goodridge,America/Chicago
+56726,48.7258,-96.22712,Greenbush,America/Chicago
+56727,48.34945,-95.38946,Grygla,America/Chicago
+56728,48.78736,-96.99149,Hallock,America/Chicago
+56729,48.66558,-96.59438,Halma,America/Chicago
+56731,48.90771,-97.07475,Humboldt,America/Chicago
+56732,48.5863,-96.49276,Karlstad,America/Chicago
+56733,48.63342,-96.89149,Kennedy,America/Chicago
+56734,48.76776,-96.58134,Lake Bronson,America/Chicago
+56735,48.91328,-96.63659,Lancaster,America/Chicago
+56736,47.71212,-96.20567,Mentor,America/Chicago
+56737,48.41144,-96.01081,Middle River,America/Chicago
+56738,48.34448,-96.33456,Newfolden,America/Chicago
+56742,47.92728,-95.82076,Oklee,America/Chicago
+56744,48.23456,-97.1089,Oslo,America/Chicago
+56748,47.92066,-96.00743,Plummer,America/Chicago
+56750,47.89027,-96.30172,Red Lake Falls,America/Chicago
+56751,48.80929,-95.76035,Roseau,America/Chicago
+56754,47.99065,-96.18199,Saint Hilaire,America/Chicago
+56755,48.97141,-97.1152,Saint Vincent,America/Chicago
+56756,48.90302,-95.56388,Salol,America/Chicago
+56757,48.47641,-96.90596,Stephen,America/Chicago
+56758,48.46201,-96.51891,Strandquist,America/Chicago
+56759,48.55188,-96.08011,Strathcona,America/Chicago
+56760,48.24037,-96.44586,Viking,America/Chicago
+56761,48.60862,-95.69725,Wannaska,America/Chicago
+56762,48.1688,-96.7415,Warren,America/Chicago
+56763,48.80879,-95.34167,Warroad,America/Chicago
+57001,42.9981,-96.65492,Alcester,America/Chicago
+57002,44.28785,-96.67752,Aurora,America/Chicago
+57003,43.73705,-96.75784,Baltic,America/Chicago
+57004,43.07571,-96.79376,Beresford,America/Chicago
+57005,43.59281,-96.58728,Brandon,America/Chicago
+57006,44.31588,-96.79518,Brookings,America/Chicago
+57007,44.31924,-96.78408,Brookings,America/Chicago
+57010,42.8119,-96.82403,Burbank,America/Chicago
+57012,43.59683,-97.27986,Canistota,America/Chicago
+57013,43.28595,-96.62178,Canton,America/Chicago
+57014,43.11238,-96.95347,Centerville,America/Chicago
+57015,43.42182,-96.98006,Chancellor,America/Chicago
+57016,43.88874,-96.96139,Chester,America/Chicago
+57017,44.02246,-96.82788,Colman,America/Chicago
+57018,43.79995,-96.97901,Colton,America/Chicago
+57020,43.67796,-96.82665,Crooks,America/Chicago
+57021,43.2723,-96.97797,Davis,America/Chicago
+57022,43.85081,-96.7327,Dell Rapids,America/Chicago
+57024,43.98538,-96.68146,Egan,America/Chicago
+57025,42.71718,-96.68894,Elk Point,America/Chicago
+57026,44.24996,-96.50149,Elkton,America/Chicago
+57027,43.19461,-96.50933,Fairview,America/Chicago
+57028,44.05766,-96.60443,Flandreau,America/Chicago
+57029,43.33696,-97.47936,Freeman,America/Chicago
+57030,43.73435,-96.53549,Garretson,America/Chicago
+57031,42.87058,-97.18655,Gayville,America/Chicago
+57032,43.42326,-96.68708,Harrisburg,America/Chicago
+57033,43.61613,-96.96037,Hartford,America/Chicago
+57034,43.12493,-96.54575,Hudson,America/Chicago
+57035,43.64651,-97.07627,Humboldt,America/Chicago
+57036,43.27067,-97.14364,Hurley,America/Chicago
+57037,43.10146,-97.25318,Irene,America/Chicago
+57038,42.57924,-96.57957,Jefferson,America/Chicago
+57039,43.33659,-96.86755,Lennox,America/Chicago
+57040,43.06206,-97.58582,Lesterville,America/Chicago
+57041,43.72184,-96.88415,Lyons,America/Chicago
+57042,43.97744,-97.15133,Madison,America/Chicago
+57043,43.41954,-97.30889,Marion,America/Chicago
+57045,43.20051,-97.52425,Menno,America/Chicago
+57046,42.9563,-97.30113,Mission Hill,America/Chicago
+57047,43.51755,-97.21525,Monroe,America/Chicago
+57048,43.74081,-97.20034,Montrose,America/Chicago
+57049,42.52486,-96.50732,North Sioux City,America/Chicago
+57050,44.15725,-97.01467,Nunda,America/Chicago
+57051,44.21741,-97.35066,Oldham,America/Chicago
+57052,43.29471,-97.7054,Olivet,America/Chicago
+57053,43.40963,-97.13716,Parker,America/Chicago
+57054,44.12162,-97.25799,Ramona,America/Chicago
+57055,43.66638,-96.73973,Renner,America/Chicago
+57057,44.10261,-96.95717,Rutland,America/Chicago
+57058,43.74602,-97.40468,Salem,America/Chicago
+57059,43.12476,-97.76365,Scotland,America/Chicago
+57061,44.24452,-97.04399,Sinai,America/Chicago
+57062,42.85046,-97.95327,Springfield,America/Chicago
+57063,42.92483,-97.68668,Tabor,America/Chicago
+57064,43.45563,-96.87489,Tea,America/Chicago
+57065,43.90041,-96.60631,Trent,America/Chicago
+57066,42.98874,-97.86703,Tyndall,America/Chicago
+57067,43.04095,-97.47169,Utica,America/Chicago
+57068,43.57435,-96.49361,Valley Springs,America/Chicago
+57069,42.84348,-96.98774,Vermillion,America/Chicago
+57070,43.182,-97.1702,Viborg,America/Chicago
+57071,44.26986,-96.95934,Volga,America/Chicago
+57072,42.98747,-97.20363,Volin,America/Chicago
+57073,43.00227,-97.05754,Wakonda,America/Chicago
+57075,43.99605,-96.96749,Wentworth,America/Chicago
+57076,43.97673,-97.35307,Winfred,America/Chicago
+57077,43.31574,-96.75699,Worthing,America/Chicago
+57078,42.91782,-97.44702,Yankton,America/Chicago
+57103,43.538,-96.69241,Sioux Falls,America/Chicago
+57104,43.6041,-96.70442,Sioux Falls,America/Chicago
+57105,43.52125,-96.73587,Sioux Falls,America/Chicago
+57106,43.50953,-96.83919,Sioux Falls,America/Chicago
+57107,43.59468,-96.81962,Sioux Falls,America/Chicago
+57108,43.47776,-96.70571,Sioux Falls,America/Chicago
+57110,43.54445,-96.63812,Sioux Falls,America/Chicago
+57117,43.53124,-96.75497,Sioux Falls,America/Chicago
+57197,43.52455,-96.73862,Sioux Falls,America/Chicago
+57201,44.93412,-97.09424,Watertown,America/Chicago
+57212,44.38111,-97.14344,Arlington,America/Chicago
+57213,44.57112,-96.5323,Astoria,America/Chicago
+57214,44.47764,-97.19575,Badger,America/Chicago
+57216,45.30041,-96.52471,Big Stone City,America/Chicago
+57217,45.0845,-97.67004,Bradley,America/Chicago
+57218,44.65787,-96.59624,Brandt,America/Chicago
+57219,45.2877,-97.801,Bristol,America/Chicago
+57220,44.45927,-96.92022,Bruce,America/Chicago
+57221,44.60654,-97.44853,Bryant,America/Chicago
+57223,44.71019,-97.00567,Castlewood,America/Chicago
+57224,45.81332,-97.15672,Claire City,America/Chicago
+57225,44.88359,-97.72676,Clark,America/Chicago
+57226,44.78565,-96.72368,Clear Lake,America/Chicago
+57227,45.36184,-96.72105,Corona,America/Chicago
+57231,44.3749,-97.58243,De Smet,America/Chicago
+57232,45.61752,-97.38393,Eden,America/Chicago
+57233,44.50992,-97.3993,Erwin,America/Chicago
+57234,44.59719,-96.89929,Estelline,America/Chicago
+57235,45.06896,-97.31338,Florence,America/Chicago
+57236,44.98724,-97.59033,Garden City,America/Chicago
+57237,44.79323,-96.51991,Gary,America/Chicago
+57238,44.87287,-96.86231,Goodwin,America/Chicago
+57239,45.51223,-97.30938,Grenville,America/Chicago
+57241,44.69742,-97.21747,Hayti,America/Chicago
+57242,44.77352,-97.35902,Hazel,America/Chicago
+57243,44.91177,-97.42072,Henry,America/Chicago
+57245,44.89365,-96.91835,Kranzburg,America/Chicago
+57246,45.05639,-96.66914,Labolt,America/Chicago
+57247,45.71675,-97.45817,Lake City,America/Chicago
+57248,44.58063,-97.19328,Lake Norden,America/Chicago
+57249,44.37111,-97.3646,Lake Preston,America/Chicago
+57251,45.27717,-96.93677,Marvin,America/Chicago
+57252,45.20507,-96.61053,Milbank,America/Chicago
+57255,45.86702,-96.94985,New Effington,America/Chicago
+57256,45.24918,-97.20156,Ortley,America/Chicago
+57257,45.49975,-97.02982,Peever,America/Chicago
+57258,44.88434,-97.9246,Raymond,America/Chicago
+57259,45.00047,-96.56786,Revillo,America/Chicago
+57260,45.83641,-96.7172,Rosholt,America/Chicago
+57261,45.54051,-97.49412,Roslyn,America/Chicago
+57262,45.67288,-97.06641,Sisseton,America/Chicago
+57263,45.14106,-97.00589,South Shore,America/Chicago
+57264,45.10863,-96.80254,Stockholm,America/Chicago
+57265,44.98866,-96.79591,Strandburg,America/Chicago
+57266,45.28619,-97.08985,Summit,America/Chicago
+57268,44.56885,-96.68781,Toronto,America/Chicago
+57269,45.22273,-96.80182,Twin Brooks,America/Chicago
+57270,45.84824,-97.32999,Veblen,America/Chicago
+57271,44.75179,-97.55161,Vienna,America/Chicago
+57272,45.09564,-97.48002,Wallace,America/Chicago
+57273,45.33334,-97.27574,Waubay,America/Chicago
+57274,45.30943,-97.55533,Webster,America/Chicago
+57276,44.43308,-96.61983,White,America/Chicago
+57278,44.64689,-97.68227,Willow Lake,America/Chicago
+57279,45.41816,-96.87274,Wilmot,America/Chicago
+57301,43.71136,-98.04155,Mitchell,America/Chicago
+57311,43.65112,-97.76483,Alexandria,America/Chicago
+57312,44.19646,-98.38564,Alpena,America/Chicago
+57313,43.31085,-98.36327,Armour,America/Chicago
+57314,44.0509,-97.98904,Artesian,America/Chicago
+57315,42.99391,-98.04852,Avon,America/Chicago
+57317,43.13153,-98.97891,Bonesteel,America/Chicago
+57319,43.53853,-97.48353,Bridgewater,America/Chicago
+57321,43.87294,-97.54864,Canova,America/Chicago
+57322,44.63498,-97.96129,Carpenter,America/Chicago
+57323,44.16259,-97.72115,Carthage,America/Chicago
+57324,44.30154,-98.04535,Cavour,America/Chicago
+57325,43.83961,-99.31144,Chamberlain,America/Chicago
+57328,43.43413,-98.44207,Corsica,America/Chicago
+57329,42.97814,-98.1522,Dante,America/Chicago
+57330,43.26147,-98.16082,Delmont,America/Chicago
+57331,43.47337,-98.04619,Dimock,America/Chicago
+57332,43.5465,-97.64762,Emery,America/Chicago
+57334,43.54199,-97.99492,Ethan,America/Chicago
+57335,43.06005,-98.77255,Fairfax,America/Chicago
+57337,44.00108,-97.79048,Fedora,America/Chicago
+57339,44.11233,-99.47862,Fort Thompson,America/Chicago
+57340,43.79392,-97.85036,Fulton,America/Chicago
+57341,44.08077,-99.08974,Gann Valley,America/Chicago
+57342,43.24561,-98.70054,Geddes,America/Chicago
+57344,43.45575,-98.61796,Harrison,America/Chicago
+57345,44.5687,-99.45009,Highmore,America/Chicago
+57346,44.24818,-99.45756,Stephan,America/Chicago
+57348,44.62147,-98.36483,Hitchcock,America/Chicago
+57349,44.02671,-97.57521,Howard,America/Chicago
+57350,44.3948,-98.20037,Huron,America/Chicago
+57353,44.36944,-97.83438,Iroquois,America/Chicago
+57354,43.19099,-97.84236,Kaylor,America/Chicago
+57355,43.7747,-98.95045,Kimball,America/Chicago
+57356,43.1468,-98.51803,Lake Andes,America/Chicago
+57358,44.07521,-98.42201,Lane,America/Chicago
+57359,43.90105,-98.15589,Letcher,America/Chicago
+57361,42.99459,-98.43463,Marty,America/Chicago
+57362,44.47488,-99.06447,Miller,America/Chicago
+57363,43.68723,-98.25491,Mount Vernon,America/Chicago
+57364,43.43442,-98.61786,New Holland,America/Chicago
+57365,43.81148,-99.41723,Oacoma,America/Chicago
+57366,43.3855,-97.94306,Parkston,America/Chicago
+57367,43.06348,-98.5133,Pickstown,America/Chicago
+57368,43.75117,-98.47593,Plankinton,America/Chicago
+57369,43.42544,-98.94606,Platte,America/Chicago
+57370,43.80508,-99.17211,Pukwana,America/Chicago
+57371,44.43146,-99.23104,Ree Heights,America/Chicago
+57373,44.52936,-98.86987,Saint Lawrence,America/Chicago
+57374,43.75582,-97.60361,Spencer,America/Chicago
+57375,43.56222,-98.47877,Stickney,America/Chicago
+57376,43.21948,-97.94176,Tripp,America/Chicago
+57379,44.26428,-98.53795,Virgil,America/Chicago
+57380,43.03387,-98.28916,Wagner,America/Chicago
+57381,44.38717,-98.73267,Wessington,America/Chicago
+57382,44.05561,-98.67303,Wessington Springs,America/Chicago
+57383,43.7177,-98.71382,White Lake,America/Chicago
+57384,44.42044,-98.48477,Wolsey,America/Chicago
+57385,44.04433,-98.29507,Woonsocket,America/Chicago
+57386,44.50908,-97.99845,Yale,America/Chicago
+57401,45.4753,-98.53042,Aberdeen,America/Chicago
+57420,45.2852,-100.14319,Akaska,America/Chicago
+57421,45.75045,-97.90618,Amherst,America/Chicago
+57422,45.42288,-97.92199,Andover,America/Chicago
+57424,45.02012,-98.53101,Ashton,America/Chicago
+57426,45.73485,-98.4936,Barnard,America/Chicago
+57427,45.48109,-98.31786,Bath,America/Chicago
+57428,45.44984,-99.67922,Bowdle,America/Chicago
+57429,45.16116,-98.3005,Brentford,America/Chicago
+57430,45.82203,-97.72205,Britton,America/Chicago
+57432,45.6839,-98.02453,Claremont,America/Chicago
+57433,45.64311,-98.32104,Columbia,America/Chicago
+57434,45.16669,-98.07049,Conde,America/Chicago
+57435,45.16916,-98.90975,Cresbard,America/Chicago
+57436,44.84864,-98.09131,Doland,America/Chicago
+57437,45.78368,-99.618,Eureka,America/Chicago
+57438,45.06899,-99.15462,Faulkton,America/Chicago
+57439,45.33464,-98.10007,Ferney,America/Chicago
+57440,44.8502,-98.25956,Frankfort,America/Chicago
+57441,45.82275,-98.51474,Frederick,America/Chicago
+57442,45.05721,-100.14997,Gettysburg,America/Chicago
+57445,45.45828,-98.12094,Groton,America/Chicago
+57446,45.86698,-98.15423,Hecla,America/Chicago
+57448,45.61196,-99.41859,Hosmer,America/Chicago
+57449,45.73101,-98.17553,Houghton,America/Chicago
+57450,45.21599,-99.83696,Hoven,America/Chicago
+57451,45.43488,-98.93473,Ipswich,America/Chicago
+57452,45.52873,-99.87334,Java,America/Chicago
+57454,45.61058,-97.77286,Langford,America/Chicago
+57455,44.99301,-99.74011,Lebanon,America/Chicago
+57456,45.72104,-98.99589,Leola,America/Chicago
+57457,45.87281,-99.15812,Long Lake,America/Chicago
+57460,45.27323,-98.66585,Mansfield,America/Chicago
+57461,45.16085,-98.43327,Mellette,America/Chicago
+57465,45.14443,-98.68573,Northville,America/Chicago
+57466,45.20045,-99.45885,Onaka,America/Chicago
+57467,44.82754,-99.14221,Orient,America/Chicago
+57468,45.49797,-97.75318,Pierpont,America/Chicago
+57469,44.85858,-98.57535,Redfield,America/Chicago
+57470,44.87726,-98.86709,Rockham,America/Chicago
+57471,45.40967,-99.31359,Roscoe,America/Chicago
+57472,45.4284,-100.10393,Selby,America/Chicago
+57473,44.98993,-99.483,Seneca,America/Chicago
+57474,45.28577,-98.27526,Stratford,America/Chicago
+57475,45.22843,-99.62031,Tolstoy,America/Chicago
+57476,44.71277,-98.62127,Tulare,America/Chicago
+57477,45.03363,-98.15024,Turton,America/Chicago
+57479,45.30415,-98.4382,Warner,America/Chicago
+57481,45.65279,-98.66821,Westport,America/Chicago
+57501,44.53525,-100.31906,Pierre,America/Chicago
+57520,44.84159,-100.16447,Agar,America/Chicago
+57521,43.79349,-101.18682,Belvidere,America/Chicago
+57522,44.51014,-99.96352,Blunt,America/Chicago
+57523,43.24437,-99.23795,Burke,America/Chicago
+57528,43.17814,-99.75901,Colome,America/Chicago
+57529,43.22931,-99.57019,Dallas,America/Chicago
+57531,43.98038,-100.48601,Draper,America/Chicago
+57532,44.36129,-100.56405,Fort Pierre,America/Denver
+57533,43.3463,-99.41692,Gregory,America/Chicago
+57534,43.5709,-99.65975,Hamill,America/Chicago
+57536,44.41502,-99.76694,Harrold,America/Chicago
+57537,44.58366,-101.07399,Hayes,America/Denver
+57538,43.12167,-99.15551,Herrick,America/Chicago
+57540,44.46477,-99.60377,Holabird,America/Chicago
+57541,43.60001,-99.90895,Ideal,America/Chicago
+57543,43.74785,-101.52268,Kadoka,America/Denver
+57544,43.88374,-99.83647,Kennebec,America/Chicago
+57547,43.48337,-101.44054,Long Valley,America/Denver
+57548,44.08429,-99.62373,Lower Brule,America/Chicago
+57551,43.18087,-101.70012,Martin,America/Denver
+57552,44.25903,-101.20833,Midland,America/Denver
+57553,44.48547,-101.64489,Milesville,America/Denver
+57555,43.29828,-100.6601,Mission,America/Chicago
+57559,43.93654,-100.72054,Murdo,America/Chicago
+57560,43.44006,-101.21226,Norris,America/Chicago
+57562,43.89962,-100.95816,Okaton,America/Chicago
+57563,43.36039,-100.40149,Okreek,America/Chicago
+57564,44.72401,-100.0121,Onida,America/Chicago
+57566,43.31237,-101.10019,Parmelee,America/Chicago
+57567,44.13519,-101.7152,Philip,America/Denver
+57568,43.88498,-100.08857,Presho,America/Chicago
+57569,43.8605,-99.57582,Reliance,America/Chicago
+57570,43.24284,-100.87127,Rosebud,America/Chicago
+57571,43.04152,-99.09042,Saint Charles,America/Chicago
+57572,43.12009,-101.08491,Saint Francis,America/Chicago
+57574,43.10954,-101.36238,Tuthill,America/Denver
+57576,43.90804,-100.29411,Vivian,America/Chicago
+57577,43.52353,-101.66029,Wanblee,America/Denver
+57579,43.57484,-100.78578,White River,America/Chicago
+57580,43.28987,-100.05772,Winner,America/Chicago
+57584,43.49115,-100.06382,Witten,America/Chicago
+57585,43.55508,-100.39752,Wood,America/Chicago
+57601,45.36646,-100.51108,Mobridge,America/Denver
+57620,45.38425,-102.53897,Bison,America/Denver
+57621,45.76891,-101.0808,Bullhead,America/Denver
+57622,44.65177,-101.54572,Cherry Creek,America/Denver
+57623,45.01587,-101.65925,Dupree,America/Denver
+57625,44.95738,-101.00369,Eagle Butte,America/Denver
+57626,44.99662,-102.17571,Faith,America/Denver
+57630,45.36358,-100.89192,Glencross,America/Denver
+57631,45.58195,-100.28779,Glenham,America/Chicago
+57632,45.82924,-100.04927,Herreid,America/Chicago
+57633,45.44584,-101.50046,Isabel,America/Denver
+57634,45.75231,-101.87895,Keldron,America/Denver
+57636,45.02905,-101.45414,Lantry,America/Denver
+57638,45.86899,-102.20758,Lemmon,America/Denver
+57639,45.679,-100.80324,Little Eagle,America/Denver
+57640,45.7656,-102.70435,Lodgepole,America/Denver
+57641,45.89317,-101.30624,McIntosh,America/Denver
+57642,45.78609,-100.72458,McLaughlin,America/Denver
+57644,45.45155,-102.08224,Meadow,America/Denver
+57645,45.9119,-101.71855,Morristown,America/Denver
+57646,45.68753,-100.05395,Mound City,America/Chicago
+57648,45.92722,-100.31755,Pollock,America/Chicago
+57649,45.48999,-102.86149,Prairie City,America/Denver
+57650,45.8346,-103.03033,Ralph,America/Denver
+57651,45.48394,-103.07746,Reva,America/Denver
+57652,45.13787,-100.68883,Ridgeview,America/Denver
+57656,45.42387,-101.10696,Timber Lake,America/Denver
+57657,45.51599,-100.7776,Trail City,America/Denver
+57658,45.65744,-100.55835,Wakpala,America/Denver
+57659,45.8958,-101.09808,Walker,America/Denver
+57660,45.83052,-101.53311,Watauga,America/Denver
+57661,45.27005,-100.96433,Whitehorse,America/Denver
+57701,44.1209,-103.20562,Rapid City,America/Denver
+57702,44.03085,-103.38433,Rapid City,America/Denver
+57703,44.00331,-103.04528,Rapid City,America/Denver
+57706,44.1564,-103.09561,Ellsworth Afb,America/Denver
+57714,43.32689,-101.91843,Allen,America/Denver
+57716,43.07753,-102.2179,Batesland,America/Denver
+57717,44.96667,-103.92396,Belle Fourche,America/Denver
+57718,44.17925,-103.36801,Black Hawk,America/Denver
+57719,44.23059,-102.98312,Box Elder,America/Denver
+57720,45.5497,-103.60655,Buffalo,America/Denver
+57722,43.45722,-102.98149,Buffalo Gap,America/Denver
+57724,45.66696,-104.06056,Camp Crook,America/Denver
+57725,43.93723,-102.80324,Caputa,America/Denver
+57730,43.72561,-103.63733,Custer,America/Denver
+57732,44.23782,-103.64335,Deadwood,America/Denver
+57735,43.29086,-103.85626,Edgemont,America/Denver
+57737,44.55618,-102.52096,Enning,America/Denver
+57738,43.66281,-103.13024,Fairburn,America/Denver
+57741,44.41044,-103.47273,Fort Meade,America/Denver
+57744,43.7773,-103.02415,Hermosa,America/Denver
+57745,44.01304,-103.78616,Hill City,America/Denver
+57747,43.37973,-103.5231,Hot Springs,America/Denver
+57748,44.58484,-102.01082,Howes,America/Denver
+57750,43.60109,-101.94858,Interior,America/Denver
+57751,43.86767,-103.42346,Keystone,America/Denver
+57752,43.43593,-102.20738,Kyle,America/Denver
+57754,44.26193,-103.87478,Lead,America/Denver
+57755,45.83763,-103.35784,Ludlow,America/Denver
+57756,43.23729,-102.47544,Manderson,America/Denver
+57758,44.98737,-102.75985,Mud Butte,America/Denver
+57759,44.2202,-103.55373,Nemo,America/Denver
+57760,44.93063,-103.30329,Newell,America/Denver
+57761,44.21858,-102.75943,New Underwood,America/Denver
+57762,44.75285,-103.60902,Nisland,America/Denver
+57763,43.12,-103.24944,Oelrichs,America/Denver
+57764,43.23676,-102.75539,Oglala,America/Denver
+57766,43.35772,-103.18252,Oral,America/Denver
+57767,44.13841,-102.5721,Owanka,America/Denver
+57769,44.24326,-103.29704,Piedmont,America/Denver
+57770,43.07579,-102.6258,Pine Ridge,America/Denver
+57772,43.48182,-102.51903,Porcupine,America/Denver
+57773,43.59443,-103.59246,Pringle,America/Denver
+57775,44.08368,-102.00607,Quinn,America/Denver
+57776,45.24878,-103.51704,Redig,America/Denver
+57779,44.56449,-103.75969,Saint Onge,America/Denver
+57780,43.7773,-102.45844,Scenic,America/Denver
+57782,43.25182,-103.1844,Smithwick,America/Denver
+57783,44.47106,-103.9219,Spearfish,America/Denver
+57785,44.41905,-103.21534,Sturgis,America/Denver
+57787,44.6643,-102.66097,Union Center,America/Denver
+57788,44.61855,-103.2167,Vale,America/Denver
+57790,44.10378,-102.20683,Wall,America/Denver
+57791,44.24388,-102.46514,Wasta,America/Denver
+57792,44.59559,-102.36376,White Owl,America/Denver
+57793,44.51824,-103.581,Whitewood,America/Denver
+57794,43.12071,-102.40695,Wounded Knee,America/Denver
+57799,44.49817,-103.87256,Spearfish,America/Denver
+58001,46.44837,-96.74134,Abercrombie,America/Chicago
+58002,46.97562,-97.40785,Absaraka,America/Chicago
+58004,47.02713,-97.26212,Amenia,America/Chicago
+58005,47.05261,-96.951,Argusville,America/Chicago
+58006,47.09682,-97.20359,Arthur,America/Chicago
+58007,47.02519,-97.45724,Ayr,America/Chicago
+58008,46.30816,-97.00237,Barney,America/Chicago
+58009,47.32658,-97.24435,Blanchard,America/Chicago
+58011,46.92711,-97.54465,Buffalo,America/Chicago
+58012,46.93639,-97.16113,Casselton,America/Chicago
+58013,46.06037,-97.35877,Cayuga,America/Chicago
+58015,46.59225,-96.81544,Christine,America/Chicago
+58016,47.36609,-97.46293,Clifford,America/Chicago
+58017,46.04157,-97.84535,Cogswell,America/Chicago
+58018,46.43458,-96.8887,Colfax,America/Chicago
+58021,46.73837,-97.08102,Davenport,America/Chicago
+58027,46.63217,-97.61816,Enderlin,America/Chicago
+58029,47.11726,-97.39001,Erie,America/Chicago
+58030,46.03035,-96.66818,Fairmount,America/Chicago
+58031,46.76222,-97.6686,Fingal,America/Chicago
+58032,46.07071,-97.64413,Forman,America/Chicago
+58033,46.44019,-97.92628,Fort Ransom,America/Chicago
+58035,47.25599,-97.41589,Galesburg,America/Chicago
+58036,47.15463,-96.96318,Gardner,America/Chicago
+58038,47.24505,-96.99484,Grandin,America/Chicago
+58040,46.21618,-97.75204,Gwinner,America/Chicago
+58041,46.04775,-96.91006,Hankinson,America/Chicago
+58042,46.96952,-96.95719,Harwood,America/Chicago
+58043,45.97356,-97.53205,Havana,America/Chicago
+58045,47.38241,-97.02686,Hillsboro,America/Chicago
+58046,47.32203,-97.72747,Hope,America/Chicago
+58047,46.7159,-96.87946,Horace,America/Chicago
+58048,47.19882,-97.22742,Hunter,America/Chicago
+58049,46.66291,-98.00054,Kathryn,America/Chicago
+58051,46.63952,-97.0302,Kindred,America/Chicago
+58052,46.63552,-97.28011,Leonard,America/Chicago
+58053,46.05058,-97.18007,Lidgerwood,America/Chicago
+58054,46.42622,-97.66845,Lisbon,America/Chicago
+58056,47.23868,-97.93621,Luverne,America/Chicago
+58057,46.42548,-97.26747,Mcleod,America/Chicago
+58058,46.1806,-96.97159,Mantador,America/Chicago
+58059,46.83825,-97.11812,Mapleton,America/Chicago
+58060,46.26745,-97.43423,Milnor,America/Chicago
+58061,46.27721,-96.89564,Mooreton,America/Chicago
+58062,46.64361,-97.82937,Nome,America/Chicago
+58063,46.96773,-97.80471,Oriska,America/Chicago
+58064,47.15036,-97.62761,Page,America/Chicago
+58065,47.20035,-97.76612,Pillsbury,America/Chicago
+58067,46.06826,-97.48906,Rutland,America/Chicago
+58068,46.54619,-97.40896,Sheldon,America/Chicago
+58069,46.24102,-97.83194,Stirum,America/Chicago
+58071,46.9436,-97.68278,Tower City,America/Chicago
+58072,46.92731,-98.00791,Valley City,America/Chicago
+58074,46.21807,-96.87603,Wahpeton,America/Chicago
+58075,46.27426,-96.72211,Wahpeton,America/Chicago
+58076,46.27416,-96.60746,Wahpeton,America/Chicago
+58077,46.52457,-96.97593,Walcott,America/Chicago
+58078,46.86276,-96.93125,West Fargo,America/Chicago
+58079,46.86816,-97.34827,Wheatland,America/Chicago
+58081,46.31392,-97.14378,Wyndmere,America/Chicago
+58102,46.9207,-96.83175,Fargo,America/Chicago
+58103,46.85639,-96.82234,Fargo,America/Chicago
+58104,46.79371,-96.83838,Fargo,America/Chicago
+58105,46.89586,-96.80363,Fargo,America/Chicago
+58201,47.86938,-97.14013,Grand Forks,America/Chicago
+58202,47.92224,-97.07435,Grand Forks,America/Chicago
+58203,47.97181,-97.15425,Grand Forks,America/Chicago
+58204,47.96046,-97.37079,Grand Forks Afb,America/Chicago
+58205,47.95475,-97.39525,Grand Forks Afb,America/Chicago
+58210,48.4081,-98.11446,Adams,America/Chicago
+58212,47.6987,-97.99541,Aneta,America/Chicago
+58214,47.92694,-97.49747,Arvilla,America/Chicago
+58216,48.87937,-97.4429,Bathgate,America/Chicago
+58218,47.59689,-97.05412,Buxton,America/Chicago
+58219,47.47606,-96.87831,Caledonia,America/Chicago
+58220,48.79446,-97.73789,Cavalier,America/Chicago
+58222,48.61853,-97.68221,Crystal,America/Chicago
+58223,47.51384,-97.02573,Cummings,America/Chicago
+58224,48.16777,-97.94307,Dahlen,America/Chicago
+58225,48.61208,-97.21753,Drayton,America/Chicago
+58227,48.55247,-97.90549,Edinburg,America/Chicago
+58228,47.87394,-97.34278,Emerado,America/Chicago
+58229,48.5182,-98.25087,Fairdale,America/Chicago
+58230,47.49097,-97.82622,Finley,America/Chicago
+58231,48.20208,-97.82544,Fordville,America/Chicago
+58233,48.20253,-97.54982,Forest River,America/Chicago
+58235,48.09007,-97.48307,Gilby,America/Chicago
+58236,48.71848,-97.50479,Glasston,America/Chicago
+58237,48.41522,-97.40086,Grafton,America/Chicago
+58238,48.77953,-97.39791,Hamilton,America/Chicago
+58239,48.93842,-98.70877,Hannah,America/Chicago
+58240,47.63491,-97.47675,Hatton,America/Chicago
+58241,48.70442,-97.69772,Hensel,America/Chicago
+58243,48.51423,-97.67956,Hoople,America/Chicago
+58244,48.11035,-97.65752,Inkster,America/Chicago
+58249,48.82113,-98.32514,Langdon,America/Chicago
+58250,48.27496,-98.02897,Lankin,America/Chicago
+58251,47.94945,-97.6906,Larimore,America/Chicago
+58254,47.77111,-98.14748,Mcville,America/Chicago
+58255,48.99683,-98.35392,Maida,America/Winnipeg
+58256,48.08739,-97.20203,Manvel,America/Chicago
+58257,47.49033,-97.28505,Mayville,America/Chicago
+58258,48.01142,-97.33984,Mekinock,America/Chicago
+58259,48.02053,-98.12168,Michigan,America/Chicago
+58260,48.63254,-98.04709,Milton,America/Chicago
+58261,48.22385,-97.31663,Minto,America/Chicago
+58262,48.681,-97.87759,Mountain,America/Chicago
+58265,48.95321,-97.5959,Neche,America/Chicago
+58266,48.00127,-97.84967,Niagara,America/Chicago
+58267,47.75614,-97.62651,Northwood,America/Chicago
+58269,48.70158,-98.15518,Osnabrock,America/Chicago
+58270,48.39336,-97.78848,Park River,America/Chicago
+58271,48.90905,-97.28932,Pembina,America/Chicago
+58272,48.00868,-97.9854,Petersburg,America/Chicago
+58273,48.29747,-97.66275,Pisek,America/Chicago
+58274,47.49158,-97.48989,Portland,America/Chicago
+58275,47.68956,-97.10609,Reynolds,America/Chicago
+58276,48.62239,-97.45675,Saint Thomas,America/Chicago
+58277,47.61403,-97.83176,Sharon,America/Chicago
+58278,47.77761,-97.13084,Thompson,America/Chicago
+58281,48.85941,-98.61086,Wales,America/Chicago
+58282,48.90897,-97.93252,Walhalla,America/Chicago
+58301,48.13015,-98.88798,Devils Lake,America/Chicago
+58310,48.57485,-99.5307,Agate,America/Chicago
+58311,48.65111,-98.57312,Alsen,America/Chicago
+58313,48.16615,-100.03685,Balta,America/Chicago
+58316,48.83532,-99.78207,Belcourt,America/Chicago
+58317,48.62576,-99.38679,Bisbee,America/Chicago
+58318,48.85121,-100.40303,Bottineau,America/Chicago
+58321,48.2025,-98.32707,Brocket,America/Chicago
+58323,48.84252,-98.91923,Calvin,America/Chicago
+58324,48.48213,-99.21931,Cando,America/Chicago
+58325,48.28613,-99.15569,Churchs Ferry,America/Chicago
+58327,48.10137,-98.5731,Crary,America/Chicago
+58329,48.8682,-100.08927,Dunseith,America/Chicago
+58330,48.44208,-98.48275,Edmore,America/Chicago
+58331,48.64014,-99.09293,Egeland,America/Chicago
+58332,48.04596,-99.76725,Esmond,America/Chicago
+58335,47.97229,-99.00412,Fort Totten,America/Chicago
+58338,48.52879,-98.6313,Hampden,America/Chicago
+58339,48.97175,-99.32709,Hansboro,America/Chicago
+58341,47.77117,-99.85599,Harvey,America/Chicago
+58343,48.29643,-99.72583,Knox,America/Chicago
+58344,48.01471,-98.33857,Lakota,America/Chicago
+58345,48.30564,-98.37436,Lawton,America/Chicago
+58346,48.28953,-99.42218,Leeds,America/Chicago
+58348,47.95509,-99.52365,Maddock,America/Chicago
+58351,48.10218,-99.31394,Minnewaukan,America/Chicago
+58352,48.70188,-98.86099,Munich,America/Chicago
+58353,48.64005,-99.59928,Mylo,America/Chicago
+58355,48.57504,-98.38528,Nekoma,America/Chicago
+58356,47.67103,-99.07804,New Rockford,America/Chicago
+58357,47.94429,-99.21831,Oberon,America/Chicago
+58361,47.75841,-98.35458,Pekin,America/Chicago
+58362,48.23099,-99.0554,Penn,America/Chicago
+58363,48.76417,-99.46669,Perth,America/Chicago
+58365,48.83655,-99.23626,Rocklake,America/Chicago
+58366,48.65242,-99.86654,Rolette,America/Chicago
+58367,48.88179,-99.55163,Rolla,America/Chicago
+58368,48.25124,-100.04105,Rugby,America/Chicago
+58369,48.95257,-99.83603,Saint John,America/Chicago
+58370,47.9842,-98.85977,Saint Michael,America/Chicago
+58372,48.93906,-99.00628,Sarles,America/Chicago
+58374,47.82865,-99.09171,Sheyenne,America/Chicago
+58377,48.46481,-98.87416,Starkweather,America/Chicago
+58379,47.90707,-98.81907,Tokio,America/Chicago
+58380,47.82872,-98.52029,Tolna,America/Chicago
+58381,47.82731,-98.74476,Warwick,America/Chicago
+58382,48.31727,-98.79252,Webster,America/Chicago
+58384,48.59401,-100.26465,Willow City,America/Chicago
+58385,48.47945,-99.65989,Wolford,America/Chicago
+58386,48.31696,-99.59227,York,America/Chicago
+58401,46.88145,-98.76883,Jamestown,America/Chicago
+58402,46.88191,-98.68755,Jamestown,America/Chicago
+58405,46.91454,-98.69673,Jamestown,America/Chicago
+58413,46.02963,-99.34235,Ashley,America/Chicago
+58415,46.36602,-98.48587,Berlin,America/Chicago
+58416,47.54767,-98.35694,Binford,America/Chicago
+58418,47.41493,-99.63524,Bowdon,America/Chicago
+58420,47.06072,-98.86734,Buchanan,America/Chicago
+58421,47.43974,-99.06968,Carrington,America/Chicago
+58422,47.59853,-99.39531,Cathay,America/Chicago
+58423,47.41899,-99.82951,Chaseley,America/Chicago
+58424,46.87554,-99.10217,Cleveland,America/Chicago
+58425,47.45391,-98.12378,Cooperstown,America/Chicago
+58426,47.21972,-98.58075,Courtenay,America/Chicago
+58428,46.81162,-99.75809,Dawson,America/Chicago
+58429,47.18768,-98.16282,Dazey,America/Chicago
+58430,47.50831,-100.25954,Denhoff,America/Chicago
+58431,46.50522,-98.49658,Dickey,America/Chicago
+58433,46.36989,-98.72157,Edgeley,America/Chicago
+58436,46.08203,-98.58773,Ellendale,America/Chicago
+58438,47.66247,-99.57983,Fessenden,America/Chicago
+58439,45.96738,-98.82994,Forbes,America/Chicago
+58440,46.27941,-99.16324,Fredonia,America/Chicago
+58441,46.17119,-98.37844,Fullerton,America/Chicago
+58442,46.56518,-99.18184,Gackle,America/Chicago
+58443,47.46374,-98.67239,Glenfield,America/Chicago
+58444,47.48278,-100.13156,Goodrich,America/Chicago
+58445,47.57036,-98.78869,Grace City,America/Chicago
+58448,47.30944,-98.21451,Hannaford,America/Chicago
+58451,47.45167,-99.95275,Hurdsfield,America/Chicago
+58452,47.54019,-98.22911,Jessie,America/Chicago
+58454,46.5978,-98.94038,Jud,America/Chicago
+58455,47.30094,-98.72667,Kensal,America/Chicago
+58456,46.25674,-98.95475,Kulm,America/Chicago
+58458,46.36921,-98.29257,Lamoure,America/Chicago
+58460,46.30991,-99.31907,Lehr,America/Chicago
+58461,46.64958,-98.19248,Litchville,America/Chicago
+58463,47.49662,-100.46281,Mcclusky,America/Chicago
+58464,47.60786,-98.58849,Mchenry,America/Chicago
+58466,46.61489,-98.36493,Marion,America/Chicago
+58467,46.8746,-99.34103,Medina,America/Chicago
+58472,46.64135,-98.66055,Montpelier,America/Chicago
+58474,46.09588,-98.13574,Oakes,America/Chicago
+58475,47.14118,-99.53717,Pettibone,America/Chicago
+58476,47.19398,-99.00263,Pingree,America/Chicago
+58477,47.2208,-100.52294,Regan,America/Chicago
+58478,47.16008,-99.74543,Robinson,America/Chicago
+58479,47.09254,-98.19948,Rogers,America/Chicago
+58480,46.94707,-98.25685,Sanborn,America/Chicago
+58481,46.9346,-98.42814,Spiritwood,America/Chicago
+58482,46.86669,-99.90465,Steele,America/Chicago
+58483,46.66176,-99.42186,Streeter,America/Chicago
+58484,47.37821,-98.4687,Sutton,America/Chicago
+58486,47.39421,-99.39279,Sykeston,America/Chicago
+58487,46.85278,-99.60283,Tappen,America/Chicago
+58488,47.17552,-99.99709,Tuttle,America/Chicago
+58490,46.38137,-98.06063,Verona,America/Chicago
+58492,47.15793,-98.43787,Wimbledon,America/Chicago
+58494,47.16306,-100.2744,Wing,America/Chicago
+58495,46.27202,-99.60077,Wishek,America/Chicago
+58496,47.14063,-99.30794,Woodworth,America/Chicago
+58497,46.76738,-98.54076,Ypsilanti,America/Chicago
+58501,46.8189,-100.70234,Bismarck,America/Chicago
+58503,46.90587,-100.75262,Bismarck,America/Chicago
+58504,46.7273,-100.6808,Bismarck,America/Chicago
+58505,46.82035,-100.78106,Bismarck,America/Chicago
+58520,46.6758,-101.5409,Almont,America/North_Dakota/New_Salem
+58521,47.0269,-100.66963,Baldwin,America/Chicago
+58523,47.26581,-101.78138,Beulah,America/North_Dakota/Beulah
+58524,46.61297,-100.07506,Braddock,America/Chicago
+58528,46.34174,-100.62751,Cannon Ball,America/Chicago
+58529,46.30116,-101.56952,Carson,America/Denver
+58530,47.13357,-101.15257,Center,America/North_Dakota/Center
+58531,47.58387,-101.20289,Coleharbor,America/Chicago
+58532,46.84571,-100.10631,Driscoll,America/Chicago
+58533,46.39433,-101.79598,Elgin,America/Denver
+58535,46.48724,-101.24558,Flasher,America/North_Dakota/New_Salem
+58538,46.08833,-100.66983,Fort Yates,America/Chicago
+58540,47.62427,-101.72538,Garrison,America/Chicago
+58541,47.33929,-102.05177,Golden Valley,America/North_Dakota/Beulah
+58542,46.04976,-100.00269,Hague,America/Chicago
+58544,46.49833,-100.37062,Hazelton,America/Chicago
+58545,47.34916,-101.58921,Hazen,America/North_Dakota/Beulah
+58549,46.46853,-99.93305,Kintyre,America/Chicago
+58552,46.26042,-100.29955,Linton,America/Chicago
+58554,46.75148,-100.95036,Mandan,America/North_Dakota/New_Salem
+58558,46.82106,-100.52127,Menoken,America/Chicago
+58559,47.4849,-100.71295,Mercer,America/Chicago
+58560,46.65182,-100.32407,Moffit,America/Chicago
+58561,46.49706,-99.68118,Napoleon,America/Chicago
+58562,46.36354,-102.01095,New Leipzig,America/Denver
+58563,46.90178,-101.43257,New Salem,America/North_Dakota/New_Salem
+58564,46.26252,-101.35,Raleigh,America/Denver
+58565,47.49639,-101.37148,Riverdale,America/Chicago
+58566,46.57835,-100.90673,Saint Anthony,America/North_Dakota/New_Salem
+58568,46.09274,-101.01538,Selfridge,America/Chicago
+58569,46.25777,-101.19276,Shields,America/Denver
+58570,46.37243,-100.87237,Solen,America/North_Dakota/New_Salem
+58571,47.29134,-101.41043,Stanton,America/North_Dakota/Beulah
+58572,46.86455,-100.34313,Sterling,America/Chicago
+58573,46.12542,-100.20709,Strasburg,America/Chicago
+58575,47.55749,-100.89971,Turtle Lake,America/Chicago
+58576,47.4406,-101.21597,Underwood,America/Chicago
+58577,47.31983,-101.05319,Washburn,America/Chicago
+58579,47.18059,-100.74422,Wilton,America/Chicago
+58580,47.2665,-101.93301,Zap,America/North_Dakota/Beulah
+58581,46.04646,-99.7983,Zeeland,America/Chicago
+58601,46.90964,-102.82766,Dickinson,America/Denver
+58620,46.49732,-103.3551,Amidon,America/Denver
+58621,47.09771,-103.92652,Beach,America/Denver
+58622,46.88035,-103.24434,Belfield,America/Denver
+58623,46.16001,-103.42168,Bowman,America/Denver
+58625,47.28146,-102.19748,Dodge,America/Denver
+58626,47.37739,-102.60575,Dunn Center,America/Denver
+58627,47.23532,-103.29713,Fairfield,America/Denver
+58630,46.91981,-102.57603,Gladstone,America/Denver
+58631,46.7969,-101.82156,Glen Ullin,America/North_Dakota/New_Salem
+58632,46.68316,-103.95078,Golva,America/Denver
+58634,47.43683,-103.35647,Grassy Butte,America/Denver
+58636,47.38924,-102.35351,Halliday,America/Denver
+58638,46.92201,-102.04867,Hebron,America/North_Dakota/New_Salem
+58639,46.04056,-102.63905,Hettinger,America/Denver
+58640,47.44409,-102.89681,Killdeer,America/Denver
+58641,46.66732,-102.48551,Lefor,America/Denver
+58642,47.20145,-102.83667,Manning,America/Denver
+58643,46.22974,-103.95091,Marmarth,America/Denver
+58644,47.14095,-102.35867,Marshall,America/Denver
+58645,46.95845,-103.52945,Medora,America/Denver
+58646,46.39826,-102.28782,Mott,America/Denver
+58647,46.51695,-102.93466,New England,America/Denver
+58649,46.13762,-102.90857,Reeder,America/Denver
+58650,46.43241,-102.59033,Regent,America/Denver
+58651,46.26201,-103.74228,Rhame,America/Denver
+58652,46.88854,-102.27037,Richardton,America/Denver
+58653,46.09645,-103.12946,Scranton,America/Denver
+58654,46.77817,-103.81757,Sentinel Butte,America/Denver
+58655,46.77921,-103.03163,South Heart,America/Denver
+58656,46.95207,-102.46801,Taylor,America/Denver
+58701,48.14027,-101.32406,Minot,America/Chicago
+58703,48.32646,-101.31637,Minot,America/Chicago
+58704,48.4232,-101.33152,Minot Afb,America/Chicago
+58705,48.41608,-101.35182,Minot Afb,America/Chicago
+58707,48.24767,-101.30127,Minot,America/Chicago
+58710,47.86959,-100.23912,Anamoose,America/Chicago
+58711,48.93262,-101.2752,Antler,America/Chicago
+58712,47.96799,-100.54559,Balfour,America/Chicago
+58713,48.51876,-100.60497,Bantry,America/Chicago
+58716,47.80049,-101.06003,Benedict,America/Chicago
+58718,48.31128,-101.82989,Berthold,America/Chicago
+58721,48.82069,-102.25667,Bowbells,America/Chicago
+58722,48.25238,-101.50079,Burlington,America/Chicago
+58723,47.75433,-100.60281,Butte,America/Chicago
+58725,48.48699,-101.68361,Carpio,America/Chicago
+58727,48.85542,-102.80479,Columbus,America/Chicago
+58730,48.86171,-103.30652,Crosby,America/Chicago
+58731,48.44752,-100.98029,Deering,America/Chicago
+58733,48.16911,-101.59463,Des Lacs,America/Chicago
+58734,48.51508,-101.95757,Donnybrook,America/Chicago
+58735,47.87771,-101.48366,Douglas,America/Chicago
+58736,47.92804,-100.38732,Drake,America/Chicago
+58737,48.90743,-102.39392,Flaxton,America/Chicago
+58740,48.4711,-101.22744,Glenburn,America/Chicago
+58741,48.27336,-100.83352,Granville,America/Chicago
+58744,48.12073,-100.58774,Karlsruhe,America/Chicago
+58746,48.71921,-102.10115,Kenmare,America/Chicago
+58748,48.66895,-100.64487,Kramer,America/Chicago
+58750,48.6166,-101.39941,Lansford,America/Chicago
+58752,48.82146,-102.59927,Lignite,America/Chicago
+58755,48.62857,-102.94666,Mcgregor,America/Chicago
+58756,47.96746,-101.81431,Makoti,America/Chicago
+58757,47.67643,-102.54685,Mandaree,America/Chicago
+58758,47.76643,-100.10424,Martin,America/Chicago
+58759,47.84776,-101.25026,Max,America/Chicago
+58760,48.69854,-101.14158,Maxbass,America/Chicago
+58761,48.78736,-101.53019,Mohall,America/Chicago
+58762,48.67409,-100.94225,Newburg,America/Chicago
+58763,47.98362,-102.58401,New Town,America/Chicago
+58765,48.87261,-103.03805,Noonan,America/Chicago
+58768,48.25115,-101.01456,Norwich,America/Chicago
+58769,48.30082,-102.22721,Palermo,America/Chicago
+58770,47.86531,-102.16251,Parshall,America/Chicago
+58771,48.08711,-101.98534,Plaza,America/Chicago
+58772,48.96035,-102.61236,Portal,America/Chicago
+58773,48.58631,-102.66852,Powers Lake,America/Chicago
+58775,47.71424,-101.85203,Roseglen,America/Chicago
+58776,48.25079,-102.61543,Ross,America/Chicago
+58778,47.78307,-100.91268,Ruso,America/Chicago
+58779,47.85507,-101.7621,Ryder,America/Chicago
+58781,48.02451,-101.13468,Sawyer,America/Chicago
+58782,48.94055,-101.71325,Sherwood,America/Chicago
+58783,48.88375,-100.75035,Souris,America/Chicago
+58784,48.36212,-102.42273,Stanley,America/Chicago
+58785,48.31121,-101.09706,Surrey,America/Chicago
+58787,48.76057,-101.80832,Tolley,America/Chicago
+58788,48.33198,-100.48045,Towner,America/Chicago
+58789,48.54778,-100.81898,Upham,America/Chicago
+58790,48.03071,-100.93952,Velva,America/Chicago
+58792,47.97385,-100.7424,Voltaire,America/Chicago
+58793,48.86442,-101.05424,Westhope,America/Chicago
+58794,48.25916,-102.76683,White Earth,America/Chicago
+58795,48.64198,-103.15094,Wildrose,America/Chicago
+58801,48.23522,-103.76747,Williston,America/Chicago
+58830,48.60272,-103.46608,Alamo,America/Chicago
+58831,47.84878,-103.65843,Alexander,America/Chicago
+58833,48.89186,-103.52517,Ambrose,America/Chicago
+58835,47.7328,-103.45268,Arnegard,America/Chicago
+58838,47.7721,-103.90289,Cartwright,America/Denver
+58843,48.23141,-103.38142,Epping,America/Chicago
+58844,48.89167,-103.74304,Fortuna,America/Chicago
+58845,48.63928,-103.92207,Grenora,America/Chicago
+58847,47.89012,-102.90094,Keene,America/Chicago
+58849,48.30906,-103.15697,Ray,America/Chicago
+58852,48.38037,-102.93276,Tioga,America/Chicago
+58853,48.06237,-103.78588,Trenton,America/Chicago
+58854,47.81412,-103.15229,Watford City,America/Chicago
+58856,48.59123,-103.72546,Zahl,America/Chicago
+59001,45.52952,-109.54022,Absarokee,America/Denver
+59002,45.99832,-108.6649,Acton,America/Denver
+59003,45.48179,-106.20153,Ashland,America/Denver
+59006,45.90755,-108.08535,Ballantine,America/Denver
+59007,45.15555,-109.15805,Bearcreek,America/Denver
+59008,45.07982,-109.07496,Belfry,America/Denver
+59010,45.97505,-107.3037,Bighorn,America/Denver
+59011,45.92453,-109.97244,Big Timber,America/Denver
+59012,45.29922,-106.6006,Birney,America/Denver
+59013,45.46131,-109.08054,Boyd,America/Denver
+59014,45.15351,-108.66421,Bridger,America/Denver
+59015,46.08464,-108.83464,Broadview,America/Denver
+59016,45.41871,-106.93872,Busby,America/Denver
+59018,45.85791,-110.62326,Clyde Park,America/Denver
+59019,45.62995,-109.24208,Columbus,America/Denver
+59020,45.08831,-110.01499,Cooke City,America/Denver
+59022,45.57541,-107.26756,Crow Agency,America/Denver
+59024,46.20549,-107.71464,Custer,America/Denver
+59025,45.09503,-106.7178,Decker,America/Denver
+59026,45.46385,-108.78392,Edgar,America/Denver
+59027,45.26118,-110.90674,Emigrant,America/Denver
+59028,45.32093,-109.7434,Fishtail,America/Denver
+59029,45.4085,-108.80467,Fromberg,America/Denver
+59030,45.08882,-110.59376,Gardiner,America/Denver
+59031,45.50005,-107.37964,Garryowen,America/Denver
+59032,47.0106,-108.75808,Grass Range,America/Denver
+59033,45.72296,-109.73246,Greycliff,America/Denver
+59034,45.70121,-107.7078,Hardin,America/Denver
+59035,45.29814,-107.96042,Fort Smith,America/Denver
+59036,46.46606,-109.89035,Harlowton,America/Denver
+59037,45.852,-108.20927,Huntley,America/Denver
+59038,46.18917,-107.23069,Hysham,America/Denver
+59039,46.68533,-107.28458,Ingomar,America/Denver
+59041,45.50239,-108.9663,Joliet,America/Denver
+59043,45.53266,-106.6568,Lame Deer,America/Denver
+59044,45.64251,-108.74975,Laurel,America/Denver
+59046,46.39147,-108.98604,Lavina,America/Denver
+59047,45.56852,-110.55174,Livingston,America/Denver
+59050,45.25013,-107.47849,Lodge Grass,America/Denver
+59052,45.43651,-110.18676,McLeod,America/Denver
+59053,46.45713,-110.43492,Martinsdale,America/Denver
+59054,46.66809,-107.7691,Melstone,America/Denver
+59055,46.10282,-109.78662,Melville,America/Denver
+59057,45.85358,-108.95377,Molt,America/Denver
+59058,46.98517,-107.79652,Mosby,America/Denver
+59059,46.51161,-108.088,Musselshell,America/Denver
+59061,45.39634,-109.87728,Nye,America/Denver
+59062,45.15773,-106.20895,Otter,America/Denver
+59063,45.65079,-108.97028,Park City,America/Denver
+59064,45.88011,-107.87245,Pompeys Pillar,America/Denver
+59065,45.26883,-110.6784,Pray,America/Denver
+59066,45.33907,-108.49718,Pryor,America/Denver
+59067,45.96827,-109.23433,Rapelje,America/Denver
+59068,45.15929,-109.45626,Red Lodge,America/Denver
+59069,45.72204,-109.57945,Reed Point,America/Denver
+59070,45.36289,-109.17961,Roberts,America/Denver
+59071,45.26582,-109.57003,Roscoe,America/Denver
+59072,46.51839,-108.54969,Roundup,America/Denver
+59074,46.36062,-109.30181,Ryegate,America/Denver
+59075,45.40457,-107.85051,Saint Xavier,America/Denver
+59076,46.28252,-107.06847,Sanders,America/Denver
+59077,47.22224,-107.58999,Sand Springs,America/Denver
+59078,46.32585,-109.5442,Shawmut,America/Denver
+59079,46.0607,-108.36718,Shepherd,America/Denver
+59081,45.01979,-109.98295,Silver Gate,America/Denver
+59082,45.84041,-110.29227,Springdale,America/Denver
+59083,46.55133,-107.56312,Sumatra,America/Denver
+59085,46.36172,-110.14019,Two Dot,America/Denver
+59086,46.05608,-110.65293,Wilsall,America/Denver
+59087,47.16806,-108.22779,Winnett,America/Denver
+59088,46.13006,-108.02933,Worden,America/Denver
+59089,45.09259,-107.34476,Wyola,America/Denver
+59101,45.63013,-108.36445,Billings,America/Denver
+59102,45.77479,-108.58133,Billings,America/Denver
+59105,45.87708,-108.50145,Billings,America/Denver
+59106,45.80637,-108.6948,Billings,America/Denver
+59201,48.15981,-105.64647,Wolf Point,America/Denver
+59211,48.69582,-104.35493,Antelope,America/Denver
+59212,48.19231,-104.16968,Bainville,America/Denver
+59213,48.17553,-104.85612,Brockton,America/Denver
+59214,47.28325,-106.02221,Brockway,America/Denver
+59215,47.50431,-105.74543,Circle,America/Denver
+59217,47.58449,-104.24455,Crane,America/Denver
+59218,48.09993,-104.52361,Culbertson,America/Denver
+59219,48.5579,-104.15541,Dagmar,America/Denver
+59221,47.91952,-104.1816,Fairview,America/Denver
+59222,48.7007,-105.1557,Flaxville,America/Denver
+59223,47.90319,-106.19348,Fort Peck,America/Denver
+59225,48.27723,-105.97413,Frazer,America/Denver
+59226,48.34283,-104.51545,Froid,America/Denver
+59230,48.09992,-106.80196,Glasgow,America/Denver
+59231,48.40395,-106.54411,Saint Marie,America/Denver
+59240,48.84222,-106.24046,Glentana,America/Denver
+59241,48.46125,-107.04602,Hinsdale,America/Denver
+59242,48.4387,-104.55787,Homestead,America/Denver
+59243,47.76062,-104.67387,Lambert,America/Denver
+59244,48.62832,-106.30945,Larslan,America/Denver
+59247,48.51848,-104.52209,Medicine Lake,America/Denver
+59248,48.27555,-106.25841,Nashua,America/Denver
+59250,48.86715,-106.63905,Opheim,America/Denver
+59252,48.92728,-104.82152,Outlook,America/Denver
+59253,48.70422,-105.83496,Peerless,America/Denver
+59254,48.75753,-104.61123,Plentywood,America/Denver
+59255,48.23115,-105.16825,Poplar,America/Denver
+59256,48.91919,-104.54965,Raymond,America/Denver
+59257,48.75364,-104.94239,Redstone,America/Denver
+59258,48.57025,-104.735,Reserve,America/Denver
+59259,47.69109,-105.08416,Richey,America/Denver
+59260,48.84027,-106.10217,Richland,America/Denver
+59261,48.53327,-107.3599,Saco,America/Denver
+59262,47.49341,-104.50518,Savage,America/Denver
+59263,48.78921,-105.51838,Scobey,America/Denver
+59270,47.57233,-104.08264,Sidney,America/Denver
+59273,48.29491,-106.93589,Vandalia,America/Denver
+59274,47.83944,-105.42204,Vida,America/Denver
+59275,48.87415,-104.17865,Westby,America/Denver
+59276,48.92979,-105.20108,Whitetail,America/Denver
+59301,46.36022,-105.85055,Miles City,America/Denver
+59311,45.16944,-104.53017,Alzada,America/Denver
+59312,47.0541,-106.26872,Angela,America/Denver
+59313,46.27497,-104.25016,Baker,America/Denver
+59314,45.07847,-105.43933,Biddle,America/Denver
+59315,47.44241,-104.87483,Bloomfield,America/Denver
+59316,45.33726,-105.04973,Boyes,America/Denver
+59317,45.33477,-105.52106,Broadus,America/Denver
+59318,47.48955,-107.4784,Brusett,America/Denver
+59319,45.40696,-104.17379,Capitol,America/Denver
+59322,47.03521,-106.64069,Cohagen,America/Denver
+59323,45.91234,-106.7032,Colstrip,America/Denver
+59324,45.76652,-104.58732,Ekalaka,America/Denver
+59326,46.77178,-104.85183,Fallon,America/Denver
+59327,46.2389,-106.7082,Forsyth,America/Denver
+59330,47.11812,-104.76469,Glendive,America/Denver
+59332,45.37589,-104.72542,Hammond,America/Denver
+59333,46.28123,-106.24765,Hathaway,America/Denver
+59336,46.342,-104.95063,Ismay,America/Denver
+59337,47.39098,-106.81486,Jordan,America/Denver
+59338,46.63392,-105.65584,Kinsey,America/Denver
+59339,47.22587,-105.19934,Lindsay,America/Denver
+59343,45.65602,-105.43296,Olive,America/Denver
+59344,46.3516,-104.5713,Plevna,America/Denver
+59345,45.85367,-105.20436,Powderville,America/Denver
+59347,46.45434,-106.34614,Rosebud,America/Denver
+59349,46.87278,-105.48388,Terry,America/Denver
+59351,45.7633,-105.70844,Volborg,America/Denver
+59353,46.96394,-104.28218,Wibaux,America/Denver
+59354,46.18924,-104.41939,Willard,America/Denver
+59401,47.51083,-111.27691,Great Falls,America/Denver
+59404,47.63197,-111.34807,Great Falls,America/Denver
+59405,47.28102,-111.25937,Great Falls,America/Denver
+59410,47.49442,-112.64299,Augusta,America/Denver
+59411,48.88965,-113.41403,Babb,America/Denver
+59412,47.32538,-110.8762,Belt,America/Denver
+59414,47.5276,-111.26871,Black Eagle,America/Denver
+59416,48.04059,-111.52359,Brady,America/Denver
+59417,48.54483,-113.0086,Browning,America/Denver
+59418,46.80258,-109.87849,Buffalo,America/Denver
+59419,48.00641,-112.40855,Bynum,America/Denver
+59420,47.89688,-111.04034,Carter,America/Denver
+59421,47.20179,-111.72,Cascade,America/Denver
+59422,47.83957,-112.48266,Choteau,America/Denver
+59424,47.34929,-110.1022,Coffee Creek,America/Denver
+59425,48.18641,-111.88738,Conrad,America/Denver
+59427,48.77357,-112.61639,Cut Bank,America/Denver
+59430,47.43089,-109.83434,Denton,America/Denver
+59432,48.14595,-112.58853,Dupuyer,America/Denver
+59433,47.89565,-111.68483,Dutton,America/Denver
+59434,48.68682,-113.55678,East Glacier Park,America/Denver
+59435,48.5616,-112.06059,Ethridge,America/Denver
+59436,47.6135,-112.0907,Fairfield,America/Denver
+59440,47.72489,-111.14261,Floweree,America/Denver
+59441,46.852,-108.98933,Forest Grove,America/Denver
+59442,47.93005,-110.64697,Fort Benton,America/Denver
+59443,47.5621,-111.82647,Fort Shaw,America/Denver
+59444,48.65227,-111.34881,Galata,America/Denver
+59446,47.64083,-110.17894,Geraldine,America/Denver
+59447,47.28116,-110.45955,Geyser,America/Denver
+59448,48.25789,-112.86703,Heart Butte,America/Denver
+59450,47.5992,-110.73923,Highwood,America/Denver
+59451,47.38984,-109.39779,Hilger,America/Denver
+59452,46.86946,-110.09831,Hobson,America/Denver
+59453,46.65903,-109.66996,Judith Gap,America/Denver
+59454,48.74481,-111.97769,Kevin,America/Denver
+59456,48.27221,-111.35432,Ledger,America/Denver
+59457,47.08027,-109.38656,Lewistown,America/Denver
+59460,48.07682,-110.50908,Loma,America/Denver
+59461,48.4894,-111.19985,Lothair,America/Denver
+59462,47.10833,-109.88513,Moccasin,America/Denver
+59463,47.0489,-110.86668,Monarch,America/Denver
+59464,46.87409,-109.60589,Moore,America/Denver
+59465,46.93777,-110.70788,Neihart,America/Denver
+59466,48.78746,-111.69124,Oilmont,America/Denver
+59467,48.07149,-112.37794,Pendroy,America/Denver
+59468,47.71253,-111.62842,Power,America/Denver
+59469,47.19087,-110.68378,Raynesford,America/Denver
+59471,47.4161,-108.77191,Roy,America/Denver
+59472,47.37939,-111.17095,Sand Coulee,America/Denver
+59474,48.53314,-111.69254,Shelby,America/Denver
+59477,47.44467,-111.97419,Simms,America/Denver
+59479,47.016,-110.33696,Stanford,America/Denver
+59480,47.22696,-111.12013,Stockett,America/Denver
+59482,48.88446,-111.86622,Sunburst,America/Denver
+59483,47.47212,-111.72261,Sun River,America/Denver
+59484,48.95074,-111.76795,Sweet Grass,America/Denver
+59485,47.43264,-111.56667,Ulm,America/Denver
+59486,48.33709,-112.35552,Valier,America/Denver
+59487,47.58393,-111.64592,Vaughn,America/Denver
+59489,47.64007,-109.25586,Winifred,America/Denver
+59501,48.69591,-109.78556,Havre,America/Denver
+59520,48.03822,-109.93749,Big Sandy,America/Denver
+59521,48.30489,-109.972,Box Elder,America/Denver
+59522,48.56497,-110.98827,Chester,America/Denver
+59523,48.52013,-109.20829,Chinook,America/Denver
+59524,48.12273,-108.40374,Dodson,America/Denver
+59525,48.6524,-110.27405,Gildford,America/Denver
+59526,48.4414,-108.67155,Harlem,America/Denver
+59527,48.04527,-108.74677,Hays,America/Denver
+59528,48.6233,-110.42628,Hingham,America/Denver
+59529,48.79655,-108.69059,Hogeland,America/Denver
+59530,48.60212,-110.68802,Inverness,America/Denver
+59531,48.77294,-110.78334,Joplin,America/Denver
+59532,48.58837,-110.08515,Kremlin,America/Denver
+59535,47.94123,-109.26059,Lloyd,America/Denver
+59537,48.84762,-107.93725,Loring,America/Denver
+59538,48.02231,-107.8657,Malta,America/Denver
+59540,48.60665,-110.56418,Rudyard,America/Denver
+59542,48.81907,-108.33693,Turner,America/Denver
+59544,48.81294,-107.59147,Whitewater,America/Denver
+59545,48.94067,-111.21768,Whitlash,America/Denver
+59546,47.88208,-108.55654,Zortman,America/Denver
+59547,48.70576,-108.98747,Zurich,America/Denver
+59601,46.54199,-112.17474,Helena,America/Denver
+59602,46.73577,-111.90753,Helena,America/Denver
+59623,46.58991,-112.04068,Helena,America/Denver
+59625,46.60135,-112.03891,Helena,America/Denver
+59631,46.29168,-112.38687,Basin,America/Denver
+59632,46.16522,-111.99918,Boulder,America/Denver
+59633,46.82338,-112.36362,Canyon Creek,America/Denver
+59634,46.43583,-112.00986,Clancy,America/Denver
+59635,46.5546,-111.81749,East Helena,America/Denver
+59636,46.61614,-112.11399,Fort Harrison,America/Denver
+59638,46.3579,-112.02772,Jefferson City,America/Denver
+59639,47.09436,-112.69371,Lincoln,America/Denver
+59640,46.76814,-112.34922,Marysville,America/Denver
+59642,46.28045,-110.75624,Ringling,America/Denver
+59643,46.13283,-111.57884,Toston,America/Denver
+59644,46.419,-111.43885,Townsend,America/Denver
+59645,46.69476,-111.04729,White Sulphur Springs,America/Denver
+59647,46.46726,-111.65138,Winston,America/Denver
+59648,47.07221,-112.14059,Wolf Creek,America/Denver
+59701,46.03497,-112.46087,Butte,America/Denver
+59710,45.06801,-112.08613,Alder,America/Denver
+59711,46.09734,-113.10317,Anaconda,America/Denver
+59713,46.67973,-112.61228,Avon,America/Denver
+59714,45.97538,-111.13112,Belgrade,America/Denver
+59715,45.6928,-110.9065,Bozeman,America/Denver
+59716,45.28578,-111.3873,Big Sky,America/Denver
+59718,45.63999,-111.16978,Bozeman,America/Denver
+59720,44.95821,-111.59366,Cameron,America/Denver
+59721,45.85189,-111.88177,Cardwell,America/Denver
+59722,46.35143,-112.75684,Deer Lodge,America/Denver
+59724,44.67716,-112.79359,Dell,America/Denver
+59725,45.06267,-112.85714,Dillon,America/Denver
+59727,45.78797,-112.79394,Divide,America/Denver
+59728,46.50487,-112.41135,Elliston,America/Denver
+59729,45.31343,-111.64827,Ennis,America/Denver
+59730,45.30988,-111.19025,Gallatin Gateway,America/Denver
+59731,46.58455,-112.76326,Garrison,America/Denver
+59732,45.48899,-112.69457,Glen,America/Denver
+59733,46.54922,-112.94987,Gold Creek,America/Denver
+59735,45.65775,-111.84615,Harrison,America/Denver
+59736,45.34242,-113.3458,Jackson,America/Denver
+59739,44.65378,-112.16963,Lima,America/Denver
+59740,45.49871,-111.81159,McAllister,America/Denver
+59741,45.77265,-111.3638,Manhattan,America/Denver
+59743,45.60068,-112.74964,Melrose,America/Denver
+59745,45.5941,-111.60658,Norris,America/Denver
+59746,45.37137,-113.05332,Polaris,America/Denver
+59747,45.69862,-111.93281,Pony,America/Denver
+59748,46.04611,-112.69601,Ramsay,America/Denver
+59749,45.44332,-112.09548,Sheridan,America/Denver
+59750,45.91857,-112.68323,Butte,America/Denver
+59751,45.69001,-112.29755,Silver Star,America/Denver
+59752,45.92412,-111.52577,Three Forks,America/Denver
+59754,45.52435,-112.35339,Twin Bridges,America/Denver
+59755,45.27174,-111.94274,Virginia City,America/Denver
+59756,46.17418,-112.83453,Warm Springs,America/Denver
+59758,44.78962,-111.19348,West Yellowstone,America/Denver
+59759,45.83972,-112.16233,Whitehall,America/Denver
+59760,45.76267,-111.60386,Willow Creek,America/Denver
+59761,45.60427,-113.52661,Wisdom,America/Denver
+59762,45.82231,-113.15271,Wise River,America/Denver
+59801,46.85505,-114.01009,Missoula,America/Denver
+59802,46.90569,-113.92077,Missoula,America/Denver
+59803,46.77781,-113.95826,Missoula,America/Denver
+59804,46.90084,-114.25066,Missoula,America/Denver
+59808,46.97984,-114.064,Missoula,America/Denver
+59812,46.86121,-113.98442,Missoula,America/Denver
+59820,46.89803,-114.61474,Alberton,America/Denver
+59821,47.17603,-114.00431,Arlee,America/Denver
+59823,46.96334,-113.59753,Bonner,America/Denver
+59824,47.41817,-114.20362,Charlo,America/Denver
+59825,46.66009,-113.66421,Clinton,America/Denver
+59826,47.46339,-113.69827,Condon,America/Denver
+59827,45.88649,-114.08346,Conner,America/Denver
+59828,46.33478,-113.96444,Corvallis,America/Denver
+59829,45.79814,-114.2614,Darby,America/Denver
+59830,47.43419,-115.45896,De Borgia,America/Denver
+59831,47.27732,-114.36296,Dixon,America/Denver
+59832,46.67864,-113.22904,Drummond,America/Denver
+59833,46.64437,-114.07678,Florence,America/Denver
+59834,47.06979,-114.2221,Frenchtown,America/Denver
+59837,46.53898,-113.27688,Hall,America/Denver
+59840,46.17558,-114.11674,Hamilton,America/Denver
+59841,46.33384,-114.22319,Pinesdale,America/Denver
+59842,47.32526,-115.40107,Haugan,America/Denver
+59843,46.84897,-113.01114,Helmville,America/Denver
+59844,48.00803,-115.9707,Heron,America/Denver
+59845,47.65892,-114.54734,Hot Springs,America/Denver
+59846,47.14899,-114.50615,Huson,America/Denver
+59847,46.73105,-114.37782,Lolo,America/Denver
+59848,47.71526,-114.68162,Lonepine,America/Denver
+59851,46.87215,-113.87348,Milltown,America/Denver
+59853,48.0571,-115.81522,Noxon,America/Denver
+59854,47.26481,-113.18997,Ovando,America/Denver
+59855,47.60032,-114.11787,Pablo,America/Denver
+59856,47.38237,-114.73627,Paradise,America/Denver
+59858,46.29584,-113.48371,Philipsburg,America/Denver
+59859,47.5205,-114.80396,Plains,America/Denver
+59860,47.71314,-114.17832,Polson,America/Denver
+59863,47.29397,-114.17637,Ravalli,America/Denver
+59864,47.53324,-114.11741,Ronan,America/Denver
+59865,47.33184,-114.0045,Saint Ignatius,America/Denver
+59866,47.32207,-115.12329,Saint Regis,America/Denver
+59867,47.4028,-115.54993,Saltese,America/Denver
+59868,47.21401,-113.53535,Seeley Lake,America/Denver
+59870,46.51596,-114.0618,Stevensville,America/Denver
+59871,45.89666,-113.81366,Sula,America/Denver
+59872,47.10282,-114.90339,Superior,America/Denver
+59873,47.6972,-115.27357,Thompson Falls,America/Denver
+59874,47.80675,-115.60749,Trout Creek,America/Denver
+59875,46.40793,-114.26151,Victor,America/Denver
+59901,48.22873,-114.40564,Kalispell,America/Denver
+59910,47.82409,-114.23271,Big Arm,America/Denver
+59911,47.86041,-113.88552,Bigfork,America/Denver
+59912,48.43879,-114.16898,Columbia Falls,America/Denver
+59913,48.41391,-113.95045,Coram,America/Denver
+59914,47.86878,-114.29546,Dayton,America/Denver
+59915,47.82025,-114.41124,Elmo,America/Denver
+59916,48.31716,-113.65779,Essex,America/Denver
+59917,48.90614,-114.91359,Eureka,America/Denver
+59918,48.75766,-114.8077,Fortine,America/Denver
+59919,48.3776,-114.05645,Hungry Horse,America/Denver
+59920,48.06412,-114.53464,Kila,America/Denver
+59922,47.99962,-114.22227,Lakeside,America/Denver
+59923,48.26996,-115.31073,Libby,America/Denver
+59925,48.04732,-114.83045,Marion,America/Denver
+59926,48.36294,-114.00459,Martin City,America/Denver
+59927,48.56021,-114.717,Olney,America/Denver
+59928,48.79745,-114.29117,Polebridge,America/Denver
+59929,47.92365,-114.40272,Proctor,America/Denver
+59930,48.86277,-115.14514,Rexford,America/Denver
+59931,47.9208,-114.25486,Rollins,America/Denver
+59932,48.0502,-114.24624,Somers,America/Denver
+59933,48.70858,-114.76694,Stryker,America/Denver
+59934,48.63437,-114.94446,Trego,America/Denver
+59935,48.64726,-115.83505,Troy,America/Denver
+59936,48.17178,-113.46357,West Glacier,America/Denver
+59937,48.43893,-114.49769,Whitefish,America/Denver

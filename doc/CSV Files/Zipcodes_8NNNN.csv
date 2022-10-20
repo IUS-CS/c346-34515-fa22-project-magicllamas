@@ -1,0 +1,2253 @@
+zip,lat,lng,city,timezone
+80002,39.79405,-105.10845,Arvada,America/Denver
+80003,39.827,-105.06412,Arvada,America/Denver
+80004,39.81443,-105.12293,Arvada,America/Denver
+80005,39.85053,-105.13031,Arvada,America/Denver
+80007,39.8665,-105.19875,Arvada,America/Denver
+80010,39.73979,-104.86193,Aurora,America/Denver
+80011,39.74393,-104.78994,Aurora,America/Denver
+80012,39.69976,-104.83784,Aurora,America/Denver
+80013,39.66145,-104.76577,Aurora,America/Denver
+80014,39.66353,-104.83781,Aurora,America/Denver
+80015,39.62737,-104.79497,Aurora,America/Denver
+80016,39.59391,-104.72311,Aurora,America/Denver
+80017,39.69914,-104.7735,Aurora,America/Denver
+80018,39.69071,-104.68096,Aurora,America/Denver
+80019,39.78653,-104.6972,Aurora,America/Denver
+80020,39.93121,-105.07407,Broomfield,America/Denver
+80021,39.89105,-105.11448,Broomfield,America/Denver
+80022,39.86448,-104.78868,Commerce City,America/Denver
+80023,39.97407,-105.01011,Broomfield,America/Denver
+80024,39.84403,-104.91842,Dupont,America/Denver
+80025,39.92444,-105.29226,Eldorado Springs,America/Denver
+80026,40.01188,-105.0985,Lafayette,America/Denver
+80027,39.9508,-105.16354,Louisville,America/Denver
+80030,39.83006,-105.03695,Westminster,America/Denver
+80031,39.87522,-105.04039,Westminster,America/Denver
+80033,39.77315,-105.10222,Wheat Ridge,America/Denver
+80045,39.74702,-104.83843,Aurora,America/Denver
+80101,39.42503,-103.95395,Agate,America/Denver
+80102,39.73237,-104.43874,Bennett,America/Denver
+80103,39.78035,-104.09576,Byers,America/Denver
+80104,39.30213,-104.81967,Castle Rock,America/Denver
+80105,39.62679,-103.96078,Deer Trail,America/Denver
+80106,39.17646,-104.52975,Elbert,America/Denver
+80107,39.41195,-104.57226,Elizabeth,America/Denver
+80108,39.44441,-104.85321,Castle Rock,America/Denver
+80109,39.36473,-104.90056,Castle Rock,America/Denver
+80110,39.64612,-105.00928,Englewood,America/Denver
+80111,39.6124,-104.88025,Englewood,America/Denver
+80112,39.57288,-104.85854,Englewood,America/Denver
+80113,39.64224,-104.96189,Englewood,America/Denver
+80116,39.30711,-104.71947,Franktown,America/Denver
+80117,39.37203,-104.39978,Kiowa,America/Denver
+80118,39.19132,-104.8848,Larkspur,America/Denver
+80120,39.5929,-105.00949,Littleton,America/Denver
+80121,39.61045,-104.95421,Littleton,America/Denver
+80122,39.5806,-104.95573,Littleton,America/Denver
+80123,39.61578,-105.0692,Littleton,America/Denver
+80124,39.53197,-104.89173,Lone Tree,America/Denver
+80125,39.48546,-105.05737,Littleton,America/Denver
+80126,39.54127,-104.96251,Littleton,America/Denver
+80127,39.52249,-105.15773,Littleton,America/Denver
+80128,39.56167,-105.07914,Littleton,America/Denver
+80129,39.54521,-105.01203,Littleton,America/Denver
+80130,39.52918,-104.92448,Littleton,America/Denver
+80131,39.47627,-105.00899,Louviers,America/Denver
+80132,39.09183,-104.8576,Monument,America/Denver
+80133,39.1155,-104.90443,Palmer Lake,America/Denver
+80134,39.48282,-104.77957,Parker,America/Denver
+80135,39.27763,-105.13494,Sedalia,America/Denver
+80136,39.80729,-104.29613,Strasburg,America/Denver
+80137,39.70901,-104.59235,Watkins,America/Denver
+80138,39.51649,-104.67114,Parker,America/Denver
+80202,39.75156,-104.99768,Denver,America/Denver
+80203,39.73142,-104.98274,Denver,America/Denver
+80204,39.73476,-105.0207,Denver,America/Denver
+80205,39.75891,-104.96353,Denver,America/Denver
+80206,39.73041,-104.95258,Denver,America/Denver
+80207,39.76137,-104.91674,Denver,America/Denver
+80209,39.70608,-104.9656,Denver,America/Denver
+80210,39.6781,-104.96275,Denver,America/Denver
+80211,39.76715,-105.02006,Denver,America/Denver
+80212,39.77174,-105.04819,Denver,America/Denver
+80214,39.74205,-105.07123,Denver,America/Denver
+80215,39.74412,-105.1158,Denver,America/Denver
+80216,39.78659,-104.96187,Denver,America/Denver
+80218,39.73119,-104.97073,Denver,America/Denver
+80219,39.69496,-105.03432,Denver,America/Denver
+80220,39.73375,-104.91648,Denver,America/Denver
+80221,39.81555,-105.0103,Denver,America/Denver
+80222,39.6713,-104.92828,Denver,America/Denver
+80223,39.69646,-105.00216,Denver,America/Denver
+80224,39.68803,-104.91161,Denver,America/Denver
+80226,39.71081,-105.09155,Denver,America/Denver
+80227,39.66331,-105.10536,Denver,America/Denver
+80228,39.69186,-105.15726,Denver,America/Denver
+80229,39.85472,-104.95867,Denver,America/Denver
+80230,39.72032,-104.88933,Denver,America/Denver
+80231,39.67123,-104.88787,Denver,America/Denver
+80232,39.68892,-105.08983,Denver,America/Denver
+80233,39.89937,-104.94697,Denver,America/Denver
+80234,39.91208,-105.00526,Denver,America/Denver
+80235,39.64615,-105.08909,Denver,America/Denver
+80236,39.65169,-105.03966,Denver,America/Denver
+80237,39.63996,-104.90178,Denver,America/Denver
+80238,39.77722,-104.8808,Denver,America/Denver
+80239,39.78801,-104.8333,Denver,America/Denver
+80241,39.92876,-104.95492,Thornton,America/Denver
+80246,39.70461,-104.9314,Denver,America/Denver
+80247,39.69684,-104.88127,Denver,America/Denver
+80249,39.84964,-104.69496,Denver,America/Denver
+80260,39.86705,-105.00569,Denver,America/Denver
+80264,39.74248,-104.98548,Denver,America/Denver
+80266,39.79002,-104.90021,Denver,America/Denver
+80290,39.74411,-104.98675,Denver,America/Denver
+80293,39.74608,-104.98972,Denver,America/Denver
+80294,39.74979,-104.98971,Denver,America/Denver
+80301,40.04795,-105.19876,Boulder,America/Denver
+80302,40.0306,-105.35542,Boulder,America/Denver
+80303,39.97422,-105.21206,Boulder,America/Denver
+80304,40.04557,-105.29006,Boulder,America/Denver
+80305,39.97733,-105.24877,Boulder,America/Denver
+80310,40.00465,-105.26254,Boulder,America/Denver
+80401,39.71672,-105.23286,Golden,America/Denver
+80403,39.83229,-105.32013,Golden,America/Denver
+80419,39.7284,-105.20239,Golden,America/Denver
+80420,39.31451,-106.10553,Alma,America/Denver
+80421,39.48166,-105.50462,Bailey,America/Denver
+80422,39.8635,-105.53846,Black Hawk,America/Denver
+80423,39.84776,-106.55359,Bond,America/Denver
+80424,39.47089,-106.01685,Breckenridge,America/Denver
+80425,39.34714,-105.23162,Buffalo Creek,America/Denver
+80426,39.87393,-106.98452,Burns,America/Denver
+80427,39.79366,-105.52413,Central City,America/Denver
+80428,40.85326,-106.91373,Clark,America/Denver
+80430,40.50925,-106.44688,Coalmont,America/Denver
+80432,39.22256,-105.82969,Como,America/Denver
+80433,39.49636,-105.29586,Conifer,America/Denver
+80434,40.91209,-106.28228,Cowdrey,America/Denver
+80435,39.60161,-105.92452,Dillon,America/Denver
+80436,39.78203,-105.64349,Dumont,America/Denver
+80438,39.7602,-105.78356,Empire,America/Denver
+80439,39.6343,-105.42994,Evergreen,America/Denver
+80440,39.13412,-106.04137,Fairplay,America/Denver
+80442,39.91633,-105.89813,Fraser,America/Denver
+80443,39.50165,-106.16673,Frisco,America/Denver
+80444,39.63138,-105.73078,Georgetown,America/Denver
+80446,40.16335,-105.937,Granby,America/Denver
+80447,40.30116,-105.81712,Grand Lake,America/Denver
+80448,39.41769,-105.63747,Grant,America/Denver
+80449,38.93059,-105.79169,Hartsel,America/Denver
+80451,40.04007,-106.04456,Hot Sulphur Springs,America/Denver
+80452,39.70969,-105.59515,Idaho Springs,America/Denver
+80453,39.66477,-105.24285,Idledale,America/Denver
+80454,39.63109,-105.25204,Indian Hills,America/Denver
+80455,40.11071,-105.39071,Jamestown,America/Denver
+80456,39.30643,-105.69211,Jefferson,America/Denver
+80457,39.65091,-105.29972,Kittredge,America/Denver
+80459,40.1843,-106.41877,Kremmling,America/Denver
+80461,39.24244,-106.29016,Leadville,America/Denver
+80463,39.95523,-106.73888,McCoy,America/Denver
+80465,39.60437,-105.21521,Morrison,America/Denver
+80466,39.99008,-105.546,Nederland,America/Denver
+80467,40.25692,-106.87326,Oak Creek,America/Denver
+80468,39.91447,-106.10979,Parshall,America/Denver
+80469,40.21448,-106.96797,Phippsburg,America/Denver
+80470,39.40104,-105.34527,Pine,America/Denver
+80471,39.93507,-105.42048,Pinecliffe,America/Denver
+80473,40.45096,-106.1555,Rand,America/Denver
+80474,39.92353,-105.56404,Rollinsville,America/Denver
+80475,39.43012,-105.59234,Shawnee,America/Denver
+80476,39.68522,-105.80972,Silver Plume,America/Denver
+80478,40.02218,-105.85693,Tabernash,America/Denver
+80479,40.02078,-106.86356,Toponas,America/Denver
+80480,40.67188,-106.34175,Walden,America/Denver
+80481,40.10351,-105.52253,Ward,America/Denver
+80482,39.90429,-105.78404,Winter Park,America/Denver
+80483,40.12482,-106.92124,Yampa,America/Denver
+80487,40.58803,-106.89321,Steamboat Springs,America/Denver
+80498,39.7794,-106.22338,Silverthorne,America/Denver
+80501,40.16479,-105.10208,Longmont,America/Denver
+80503,40.16922,-105.20725,Longmont,America/Denver
+80504,40.16523,-105.03029,Longmont,America/Denver
+80510,40.20964,-105.57878,Allenspark,America/Denver
+80512,40.62989,-105.56828,Bellvue,America/Denver
+80513,40.29789,-105.10913,Berthoud,America/Denver
+80514,40.07152,-104.95401,Dacono,America/Denver
+80515,40.45659,-105.37726,Drake,America/Denver
+80516,40.05333,-105.01869,Erie,America/Denver
+80517,40.39731,-105.61165,Estes Park,America/Denver
+80520,40.11387,-104.93347,Firestone,America/Denver
+80521,40.59372,-105.1268,Fort Collins,America/Denver
+80524,40.64814,-105.02155,Fort Collins,America/Denver
+80525,40.52795,-105.04249,Fort Collins,America/Denver
+80526,40.5174,-105.13262,Fort Collins,America/Denver
+80528,40.49343,-105.00075,Fort Collins,America/Denver
+80530,40.10153,-104.92302,Frederick,America/Denver
+80532,40.4775,-105.46048,Glen Haven,America/Denver
+80534,40.33192,-104.93522,Johnstown,America/Denver
+80535,40.73718,-105.19292,Laporte,America/Denver
+80536,40.87458,-105.38842,Livermore,America/Denver
+80537,40.38304,-105.20277,Loveland,America/Denver
+80538,40.48174,-105.16825,Loveland,America/Denver
+80540,40.23186,-105.39341,Lyons,America/Denver
+80542,40.23431,-104.99882,Mead,America/Denver
+80543,40.34645,-104.8532,Milliken,America/Denver
+80544,40.10305,-105.17178,Niwot,America/Denver
+80545,40.85911,-105.69644,Red Feather Lakes,America/Denver
+80546,40.52415,-104.84986,Severance,America/Denver
+80547,40.52948,-104.96347,Timnath,America/Denver
+80549,40.84341,-105.05499,Wellington,America/Denver
+80550,40.48213,-104.90223,Windsor,America/Denver
+80601,39.96288,-104.80777,Brighton,America/Denver
+80602,39.96369,-104.90661,Brighton,America/Denver
+80603,39.9845,-104.74539,Brighton,America/Denver
+80610,40.66996,-104.58269,Ault,America/Denver
+80611,40.62015,-104.24964,Briggsdale,America/Denver
+80612,40.89924,-104.82287,Carr,America/Denver
+80615,40.5444,-104.64236,Eaton,America/Denver
+80620,40.37425,-104.71337,Evans,America/Denver
+80621,40.10732,-104.79841,Fort Lupton,America/Denver
+80622,40.54235,-104.44732,Galeton,America/Denver
+80623,40.28531,-104.78253,Gilcrest,America/Denver
+80624,40.45683,-104.45635,Gill,America/Denver
+80631,40.44216,-104.67809,Greeley,America/Denver
+80634,40.40075,-104.79222,Greeley,America/Denver
+80640,39.88536,-104.88202,Henderson,America/Denver
+80642,40.05353,-104.61565,Hudson,America/Denver
+80643,40.11186,-104.47164,Keenesburg,America/Denver
+80644,40.3371,-104.43866,Kersey,America/Denver
+80645,40.28409,-104.64731,La Salle,America/Denver
+80646,40.47537,-104.69761,Lucerne,America/Denver
+80648,40.76559,-104.72816,Nunn,America/Denver
+80649,40.37924,-104.17595,Orchard,America/Denver
+80650,40.6484,-104.77666,Pierce,America/Denver
+80651,40.23717,-104.81409,Platteville,America/Denver
+80652,40.11048,-104.2751,Roggen,America/Denver
+80653,40.3931,-103.97685,Weldona,America/Denver
+80654,40.13501,-104.07642,Wiggins,America/Denver
+80701,40.13494,-103.81102,Fort Morgan,America/Denver
+80705,40.27116,-103.83428,Log Lane Village,America/Denver
+80720,40.07457,-103.18878,Akron,America/Denver
+80721,40.68821,-102.15297,Amherst,America/Denver
+80722,40.49515,-103.23833,Atwood,America/Denver
+80723,40.15981,-103.55046,Brush,America/Denver
+80726,40.91044,-102.7773,Crook,America/Denver
+80727,40.02185,-102.51484,Eckley,America/Denver
+80728,40.64,-102.87285,Fleming,America/Denver
+80729,40.87439,-104.22632,Grover,America/Denver
+80731,40.58734,-102.60558,Haxtun,America/Denver
+80732,40.9884,-104.30525,Hereford,America/Denver
+80733,40.35695,-103.47989,Hillrose,America/Denver
+80734,40.52472,-102.29259,Holyoke,America/Denver
+80735,39.71549,-102.25029,Idalia,America/Denver
+80736,40.81635,-103.01907,Iliff,America/Denver
+80737,40.88974,-102.19267,Julesburg,America/Denver
+80740,39.74256,-103.38744,Lindon,America/Denver
+80741,40.5598,-103.47339,Merino,America/Denver
+80742,40.74855,-103.81371,New Raymer,America/Denver
+80743,40.21588,-102.95679,Otis,America/Denver
+80744,40.87471,-102.38355,Ovid,America/Denver
+80745,40.88801,-103.40077,Padroni,America/Denver
+80746,40.60706,-102.45695,Paoli,America/Denver
+80747,40.94709,-103.16392,Peetz,America/Denver
+80749,40.87574,-102.55354,Sedgwick,America/Denver
+80750,40.41144,-103.60681,Snyder,America/Denver
+80751,40.65263,-103.24504,Sterling,America/Denver
+80754,40.69052,-103.64694,Stoneham,America/Denver
+80755,39.89966,-102.35155,Vernon,America/Denver
+80757,39.79244,-103.58588,Woodrow,America/Denver
+80758,40.11998,-102.2122,Wray,America/Denver
+80759,40.10892,-102.68759,Yuma,America/Denver
+80801,39.73943,-103.11354,Anton,America/Denver
+80802,38.84317,-102.16393,Arapahoe,America/Denver
+80804,39.35644,-103.26331,Arriba,America/Denver
+80805,39.29378,-102.44923,Bethune,America/Denver
+80807,39.31575,-102.23303,Burlington,America/Denver
+80808,39.00043,-104.30638,Calhan,America/Denver
+80809,38.86503,-104.99733,Cascade,America/Denver
+80810,38.82589,-102.4454,Cheyenne Wells,America/Denver
+80812,39.67901,-102.89161,Cope,America/Denver
+80813,38.76307,-105.09278,Cripple Creek,America/Denver
+80814,38.94731,-105.17604,Divide,America/Denver
+80815,39.40174,-103.08191,Flagler,America/Denver
+80816,38.85162,-105.31591,Florissant,America/Denver
+80817,38.58347,-104.67412,Fountain,America/Denver
+80818,39.41539,-103.48119,Genoa,America/Denver
+80819,38.94076,-105.00249,Green Mountain Falls,America/Denver
+80820,38.77781,-105.56613,Guffey,America/Denver
+80821,38.97366,-103.43248,Hugo,America/Denver
+80822,39.67088,-102.67815,Joes,America/Denver
+80823,38.69026,-103.46738,Karval,America/Denver
+80824,39.66302,-102.49943,Kirk,America/Denver
+80825,38.81864,-102.80624,Kit Carson,America/Denver
+80826,39.21874,-103.69129,Limon,America/Denver
+80827,39.05821,-105.46272,Lake George,America/Denver
+80828,39.26643,-103.70983,Limon,America/Denver
+80829,38.82922,-104.93289,Manitou Springs,America/Denver
+80830,39.11313,-103.91139,Matheson,America/Denver
+80831,38.98867,-104.51172,Peyton,America/Denver
+80832,39.06344,-104.02769,Ramah,America/Denver
+80833,38.73874,-103.93699,Rush,America/Denver
+80834,39.29735,-102.88617,Seibert,America/Denver
+80835,39.20933,-104.07223,Simla,America/Denver
+80836,39.30518,-102.58239,Stratton,America/Denver
+80840,39.00041,-104.85446,Usaf Academy,America/Denver
+80860,38.69307,-105.09876,Victor,America/Denver
+80861,39.32645,-102.74844,Vona,America/Denver
+80862,38.90926,-103.06782,Wild Horse,America/Denver
+80863,39.03004,-105.07132,Woodland Park,America/Denver
+80864,38.69923,-104.18757,Yoder,America/Denver
+80902,38.68683,-104.8127,Colorado Springs,America/Denver
+80903,38.83249,-104.81342,Colorado Springs,America/Denver
+80904,38.86321,-104.87197,Colorado Springs,America/Denver
+80905,38.81855,-104.83649,Colorado Springs,America/Denver
+80906,38.76744,-104.87023,Colorado Springs,America/Denver
+80907,38.87912,-104.82137,Colorado Springs,America/Denver
+80908,39.0463,-104.69094,Colorado Springs,America/Denver
+80909,38.85255,-104.77434,Colorado Springs,America/Denver
+80910,38.81178,-104.7743,Colorado Springs,America/Denver
+80911,38.75325,-104.71955,Colorado Springs,America/Denver
+80913,38.70005,-104.76268,Colorado Springs,America/Denver
+80914,38.82401,-104.70546,Colorado Springs,America/Denver
+80915,38.85271,-104.71652,Colorado Springs,America/Denver
+80916,38.80327,-104.71208,Colorado Springs,America/Denver
+80917,38.88684,-104.74049,Colorado Springs,America/Denver
+80918,38.91156,-104.78032,Colorado Springs,America/Denver
+80919,38.92797,-104.88025,Colorado Springs,America/Denver
+80920,38.95579,-104.77191,Colorado Springs,America/Denver
+80921,39.02648,-104.88156,Colorado Springs,America/Denver
+80922,38.88996,-104.70084,Colorado Springs,America/Denver
+80923,38.92673,-104.71433,Colorado Springs,America/Denver
+80924,38.96727,-104.72199,Colorado Springs,America/Denver
+80925,38.76156,-104.64441,Colorado Springs,America/Denver
+80926,38.64318,-104.92439,Colorado Springs,America/Denver
+80927,38.92833,-104.65878,Colorado Springs,America/Denver
+80928,38.64517,-104.44268,Colorado Springs,America/Denver
+80929,38.82453,-104.60833,Colorado Springs,America/Denver
+80930,38.80507,-104.50644,Colorado Springs,America/Denver
+80938,38.90157,-104.65926,Colorado Springs,America/Denver
+80939,38.87772,-104.67742,Colorado Springs,America/Denver
+80951,38.88396,-104.6558,Colorado Springs,America/Denver
+81001,38.29525,-104.5378,Pueblo,America/Denver
+81003,38.27782,-104.65668,Pueblo,America/Denver
+81004,38.05121,-104.71595,Pueblo,America/Denver
+81005,38.21054,-104.84608,Pueblo,America/Denver
+81006,38.24059,-104.47413,Pueblo,America/Denver
+81007,38.35858,-104.78472,Pueblo,America/Denver
+81008,38.40765,-104.59354,Pueblo,America/Denver
+81019,37.94152,-104.83714,Colorado City,America/Denver
+81020,37.43821,-104.6253,Aguilar,America/Denver
+81021,38.43332,-103.36732,Arlington,America/Denver
+81022,38.03279,-104.43768,Avondale,America/Denver
+81023,38.06352,-104.92966,Beulah,America/Denver
+81024,37.2293,-104.71162,Boncarbo,America/Denver
+81025,38.34567,-104.26422,Boone,America/Denver
+81027,37.24687,-103.72308,Branson,America/Denver
+81029,37.08921,-102.48274,Campo,America/Denver
+81030,38.10322,-103.51876,Cheraw,America/Denver
+81033,38.19575,-103.85557,Crowley,America/Denver
+81036,38.42984,-102.79292,Eads,America/Denver
+81039,37.94079,-104.08615,Fowler,America/Denver
+81040,37.79283,-105.2493,Gardner,America/Denver
+81041,37.844,-102.3839,Granada,America/Denver
+81043,38.11982,-102.22312,Hartman,America/Denver
+81044,37.90328,-102.93628,Hasty,America/Denver
+81045,38.55956,-103.16093,Haswell,America/Denver
+81046,37.29597,-104.36867,Hoehne,America/Denver
+81047,38.03226,-102.19206,Holly,America/Denver
+81049,37.31338,-103.36308,Kim,America/Denver
+81050,37.92266,-103.51528,La Junta,America/Denver
+81052,37.94242,-102.65625,Lamar,America/Denver
+81054,37.88583,-103.19493,Las Animas,America/Denver
+81055,37.47727,-105.06635,La Veta,America/Denver
+81057,38.12525,-102.89675,McClave,America/Denver
+81058,38.10727,-103.88161,Manzanola,America/Denver
+81059,37.56259,-103.99322,Model,America/Denver
+81062,38.29345,-103.94995,Olney Springs,America/Denver
+81063,38.45232,-103.78494,Ordway,America/Denver
+81064,37.24593,-102.99753,Pritchett,America/Denver
+81067,38.01674,-103.72326,Rocky Ford,America/Denver
+81069,37.88998,-104.88951,Rye,America/Denver
+81071,38.44838,-102.2816,Sheridan Lake,America/Denver
+81073,37.42414,-102.71496,Springfield,America/Denver
+81076,38.32338,-103.6167,Sugar City,America/Denver
+81077,38.01374,-103.60985,Swink,America/Denver
+81081,37.07295,-104.14954,Trinchera,America/Denver
+81082,37.20343,-104.41717,Trinidad,America/Denver
+81084,37.57031,-102.41929,Two Buttes,America/Denver
+81087,37.39168,-102.41277,Vilas,America/Denver
+81089,37.6642,-104.66427,Walsenburg,America/Denver
+81090,37.36311,-102.22434,Walsh,America/Denver
+81091,37.14869,-104.97774,Weston,America/Denver
+81092,38.20283,-102.86779,Wiley,America/Denver
+81101,37.47197,-105.85243,Alamosa,America/Denver
+81120,37.14248,-106.26715,Antonito,America/Denver
+81121,37.01861,-107.42041,Arboles,America/Denver
+81122,37.31839,-107.50574,Bayfield,America/Denver
+81123,37.40469,-105.5659,Blanca,America/Denver
+81124,37.28543,-106.10688,Capulin,America/Denver
+81125,37.81745,-106.06678,Center,America/Denver
+81126,37.16146,-105.34724,Chama,America/Denver
+81128,37.06529,-106.65223,Chromo,America/Denver
+81129,37.10495,-106.02167,Conejos,America/Denver
+81130,37.7179,-107.04471,Creede,America/Denver
+81131,37.87706,-105.66651,Crestone,America/Denver
+81132,37.71656,-106.41009,Del Norte,America/Denver
+81133,37.44964,-105.32747,Fort Garland,America/Denver
+81136,37.72672,-105.85355,Hooper,America/Denver
+81137,37.05555,-107.61596,Ignacio,America/Denver
+81138,37.02302,-105.62737,Jaroso,America/Denver
+81140,37.28692,-106.1543,La Jara,America/Denver
+81141,37.16256,-105.89507,Manassa,America/Denver
+81143,38.14477,-105.87112,Moffat,America/Denver
+81144,37.5516,-106.14851,Monte Vista,America/Denver
+81146,37.64616,-105.6776,Mosca,America/Denver
+81147,37.28675,-107.08333,Pagosa Springs,America/Denver
+81148,37.17183,-105.98542,Romeo,America/Denver
+81149,38.1035,-106.33858,Saguache,America/Denver
+81151,37.23376,-105.71506,Sanford,America/Denver
+81152,37.12609,-105.39411,San Luis,America/Denver
+81154,37.63473,-106.67179,South Fork,America/Denver
+81155,38.26671,-106.09603,Villa Grove,America/Denver
+81201,38.55129,-106.08157,Salida,America/Denver
+81210,38.81898,-106.62219,Almont,America/Denver
+81211,38.89548,-106.24128,Buena Vista,America/Denver
+81212,38.54409,-105.42498,Canon City,America/Denver
+81220,38.29861,-107.48414,Cimarron,America/Denver
+81221,38.36243,-105.14238,Coal Creek,America/Denver
+81222,38.35492,-105.81612,Coaldale,America/Denver
+81223,38.39372,-105.6031,Cotopaxi,America/Denver
+81224,38.87985,-106.90957,Crested Butte,America/Denver
+81225,38.94115,-107.00664,Crested Butte,America/Denver
+81226,38.32213,-105.10193,Florence,America/Denver
+81227,38.54934,-106.29009,Monarch,America/Denver
+81228,39.03402,-106.27723,Granite,America/Denver
+81230,38.40752,-106.98372,Gunnison,America/Denver
+81232,38.27535,-105.60895,Hillside,America/Denver
+81233,38.49244,-105.81369,Howard,America/Denver
+81235,37.99363,-107.33098,Lake City,America/Denver
+81236,38.6955,-106.25424,Nathrop,America/Denver
+81237,38.62842,-106.59108,Ohio City,America/Denver
+81239,38.53667,-106.60825,Parlin,America/Denver
+81240,38.4995,-105.03076,Penrose,America/Denver
+81241,38.62675,-106.48848,Pitkin,America/Denver
+81242,38.47181,-106.07288,Poncha Springs,America/Denver
+81243,38.26041,-107.17654,Powderhorn,America/Denver
+81244,38.36393,-105.16495,Rockvale,America/Denver
+81248,38.3991,-106.47763,Sargents,America/Denver
+81251,39.13482,-106.43723,Twin Lakes,America/Denver
+81252,38.10891,-105.42143,Westcliffe,America/Denver
+81253,38.18763,-105.07497,Wetmore,America/Denver
+81301,37.51095,-107.82066,Durango,America/Denver
+81303,37.12903,-107.85677,Durango,America/Denver
+81320,37.70115,-108.72654,Cahone,America/Denver
+81321,37.31826,-108.76267,Cortez,America/Denver
+81323,37.64874,-108.27823,Dolores,America/Denver
+81324,37.63734,-109.02911,Dove Creek,America/Denver
+81325,37.89605,-108.72011,Egnar,America/Denver
+81326,37.14635,-108.11525,Hesperus,America/Denver
+81327,37.5155,-108.66488,Lewis,America/Denver
+81328,37.30054,-108.3101,Mancos,America/Denver
+81330,37.23484,-108.47828,Mesa Verde National Park,America/Denver
+81331,37.51387,-108.86252,Pleasant View,America/Denver
+81332,37.69857,-107.99292,Rico,America/Denver
+81334,37.11594,-108.63674,Towaoc,America/Denver
+81335,37.54381,-108.71978,Yellow Jacket,America/Denver
+81401,38.51559,-107.78472,Montrose,America/Denver
+81403,38.32308,-107.92816,Montrose,America/Denver
+81410,38.81261,-107.97595,Austin,America/Denver
+81411,38.25188,-108.97862,Bedrock,America/Denver
+81413,38.97171,-107.90845,Cedaredge,America/Denver
+81415,38.64027,-107.6368,Crawford,America/Denver
+81416,38.66482,-108.20403,Delta,America/Denver
+81418,38.90479,-108.05687,Eckert,America/Denver
+81419,38.86332,-107.74872,Hotchkiss,America/Denver
+81422,38.32039,-108.70843,Naturita,America/Denver
+81423,38.03835,-108.45816,Norwood,America/Denver
+81424,38.34098,-108.47346,Nucla,America/Denver
+81425,38.49363,-108.10469,Olathe,America/Denver
+81426,37.87339,-107.83191,Ophir,America/Denver
+81427,37.99301,-107.64387,Ouray,America/Denver
+81428,38.95928,-107.59899,Paonia,America/Denver
+81429,38.34121,-108.90732,Paradox,America/Denver
+81430,38.04013,-108.05764,Placerville,America/Denver
+81431,38.13808,-108.51429,Redvale,America/Denver
+81432,38.12494,-107.74273,Ridgway,America/Denver
+81433,37.79346,-107.59448,Silverton,America/Denver
+81434,38.95384,-107.35954,Somerset,America/Denver
+81435,37.90014,-107.92397,Telluride,America/Denver
+81501,39.07174,-108.54569,Grand Junction,America/Denver
+81503,39.03094,-108.48682,Grand Junction,America/Denver
+81504,39.1198,-108.49542,Grand Junction,America/Denver
+81505,39.18593,-108.59997,Grand Junction,America/Denver
+81506,39.15785,-108.53454,Grand Junction,America/Denver
+81507,39.0079,-108.62644,Grand Junction,America/Denver
+81520,39.10962,-108.43561,Clifton,America/Denver
+81521,39.12529,-108.85049,Fruita,America/Denver
+81522,38.66026,-108.93025,Gateway,America/Denver
+81523,38.93803,-108.87362,Glade Park,America/Denver
+81524,39.2842,-108.73257,Loma,America/Denver
+81525,39.26984,-108.95075,Mack,America/Denver
+81526,39.07741,-108.33056,Palisade,America/Denver
+81527,38.75758,-108.52466,Whitewater,America/Denver
+81601,39.59357,-107.32815,Glenwood Springs,America/Denver
+81610,40.29418,-108.82468,Dinosaur,America/Denver
+81611,39.14561,-106.74885,Aspen,America/Denver
+81612,39.05048,-106.82335,Aspen,America/Denver
+81615,39.21437,-106.94172,Snowmass Village,America/Denver
+81620,39.61485,-106.50555,Avon,America/Denver
+81621,39.37803,-106.8772,Basalt,America/Denver
+81623,39.2451,-107.20921,Carbondale,America/Denver
+81624,39.24611,-107.77259,Collbran,America/Denver
+81625,40.70295,-107.74652,Craig,America/Denver
+81630,39.45769,-108.54627,De Beque,America/Denver
+81631,39.63116,-106.77136,Eagle,America/Denver
+81632,39.62015,-106.61132,Edwards,America/Denver
+81633,40.37644,-108.50983,Dinosaur,America/Denver
+81635,39.53722,-108.06022,Parachute,America/Denver
+81637,39.77162,-107.10065,Gypsum,America/Denver
+81638,40.30589,-107.64205,Hamilton,America/Denver
+81639,40.52636,-107.24457,Hayden,America/Denver
+81640,40.69357,-108.51791,Maybell,America/Denver
+81641,40.09112,-107.84699,Meeker,America/Denver
+81642,39.31202,-106.58448,Meredith,America/Denver
+81643,39.11968,-108.15001,Mesa,America/Denver
+81645,39.47634,-106.46779,Minturn,America/Denver
+81646,39.10875,-107.99199,Molina,America/Denver
+81647,39.57972,-107.5364,New Castle,America/Denver
+81648,39.95096,-108.78498,Rangely,America/Denver
+81649,39.46433,-106.31954,Red Cliff,America/Denver
+81650,39.75926,-108.11201,Rifle,America/Denver
+81652,39.472,-107.67082,Silt,America/Denver
+81653,40.9144,-107.2242,Slater,America/Denver
+81654,39.21462,-107.02597,Snowmass,America/Denver
+81655,39.7477,-106.67821,Wolcott,America/Denver
+81656,39.27948,-106.78711,Woody Creek,America/Denver
+81657,39.64864,-106.32608,Vail,America/Denver
+82001,41.095,-104.93265,Cheyenne,America/Denver
+82005,41.14631,-104.86787,Fe Warren Afb,America/Denver
+82007,41.06231,-104.75591,Cheyenne,America/Denver
+82009,41.38431,-104.85415,Cheyenne,America/Denver
+82050,41.43517,-104.21477,Albin,America/Denver
+82051,41.60053,-105.64743,Bosler,America/Denver
+82052,41.12399,-105.34802,Buford,America/Denver
+82053,41.24392,-104.348,Burns,America/Denver
+82054,41.0647,-104.35899,Carpenter,America/Denver
+82055,41.3483,-106.18191,Centennial,America/Denver
+82058,42.13817,-105.63358,Garrett,America/Denver
+82059,41.05681,-105.17714,Granite Canon,America/Denver
+82060,41.22526,-104.51505,Hillsdale,America/Denver
+82061,41.43791,-105.15495,Horse Creek,America/Denver
+82063,40.87554,-105.9889,Jelm,America/Denver
+82070,41.21404,-105.85037,Laramie,America/Denver
+82072,41.42557,-105.55849,Laramie,America/Denver
+82073,41.16408,-105.43228,Laramie,America/Denver
+82081,41.52319,-104.40653,Meriden,America/Denver
+82082,41.2632,-104.09359,Pine Bluffs,America/Denver
+82083,41.72291,-105.99118,Rock River,America/Denver
+82084,41.04764,-105.52494,Tie Siding,America/Denver
+82190,44.57439,-110.51807,Yellowstone National Park,America/Denver
+82201,42.01049,-105.11328,Wheatland,America/Denver
+82210,41.73214,-104.77981,Chugwater,America/Denver
+82212,42.26126,-104.51995,Fort Laramie,America/Denver
+82213,42.50216,-105.00672,Glendo,America/Denver
+82214,42.26421,-104.75104,Guernsey,America/Denver
+82215,42.39738,-104.71507,Hartville,America/Denver
+82217,41.76223,-104.17504,Hawk Springs,America/Denver
+82218,41.93623,-104.14004,Huntley,America/Denver
+82219,42.4973,-104.50627,Jay Em,America/Denver
+82221,41.63816,-104.34264,Lagrange,America/Denver
+82222,43.16311,-104.64988,Lance Creek,America/Denver
+82223,42.12035,-104.38503,Lingle,America/Denver
+82224,42.93677,-104.88811,Lost Springs,America/Denver
+82225,42.95428,-104.31385,Lusk,America/Denver
+82227,42.72083,-104.72875,Manville,America/Denver
+82229,42.85613,-104.9863,Shawnee,America/Denver
+82240,42.23064,-104.17824,Torrington,America/Denver
+82242,42.67694,-104.13886,Van Tassell,America/Denver
+82243,41.99442,-104.41451,Veteran,America/Denver
+82244,41.87602,-104.44228,Yoder,America/Denver
+82301,41.98163,-107.47745,Rawlins,America/Denver
+82310,42.44566,-107.8775,Jeffrey City,America/Denver
+82321,41.15921,-107.69697,Baggs,America/Denver
+82322,42.24643,-107.54816,Bairoil,America/Denver
+82323,41.0308,-107.52201,Dixon,America/Denver
+82324,41.64509,-106.43721,Elk Mountain,America/Denver
+82325,41.1628,-106.7919,Encampment,America/Denver
+82327,42.17354,-106.69289,Hanna,America/Denver
+82329,42.09073,-106.09959,Medicine Bow,America/Denver
+82331,41.38607,-106.82252,Saratoga,America/Denver
+82332,41.06314,-107.3016,Savery,America/Denver
+82334,41.92837,-106.9679,Sinclair,America/Denver
+82335,41.76174,-106.82553,Walcott,America/Denver
+82336,41.71046,-108.16368,Wamsutter,America/Denver
+82401,44.00089,-108.1677,Worland,America/Denver
+82410,44.37297,-108.15093,Basin,America/Denver
+82411,44.44995,-108.47663,Burlington,America/Denver
+82412,44.79014,-108.55286,Byron,America/Denver
+82414,44.45727,-109.59671,Cody,America/Denver
+82420,44.92254,-108.46149,Cowley,America/Denver
+82421,44.88399,-108.60497,Deaver,America/Denver
+82422,44.49768,-108.37943,Emblem,America/Denver
+82423,44.98029,-108.58432,Frannie,America/Denver
+82426,44.51595,-108.02938,Greybull,America/Denver
+82428,44.29866,-107.59032,Hyattville,America/Denver
+82430,43.80433,-108.17898,Kirby,America/Denver
+82431,44.87059,-108.16218,Lovell,America/Denver
+82432,44.23641,-107.88175,Manderson,America/Denver
+82433,44.0616,-109.12558,Meeteetse,America/Denver
+82434,44.34726,-108.30767,Otto,America/Denver
+82435,44.82409,-109.0348,Powell,America/Denver
+82440,44.71743,-108.86781,Ralston,America/Denver
+82441,44.58025,-107.60799,Shell,America/Denver
+82442,43.92096,-107.31087,Ten Sleep,America/Denver
+82443,43.71794,-108.48023,Thermopolis,America/Denver
+82450,44.50398,-109.43379,Wapiti,America/Denver
+82501,43.03325,-108.24936,Riverton,America/Denver
+82510,42.99294,-108.6055,Arapahoe,America/Denver
+82512,43.1639,-109.24974,Crowheart,America/Denver
+82513,43.59737,-109.61913,Dubois,America/Denver
+82514,43.01997,-109.01,Fort Washakie,America/Denver
+82515,42.89717,-108.56688,Hudson,America/Denver
+82516,43.21485,-108.83195,Kinnear,America/Denver
+82520,42.65919,-108.63282,Lander,America/Denver
+82523,43.41253,-108.85636,Pavillion,America/Denver
+82601,43.0655,-106.34618,Casper,America/Denver
+82604,42.91751,-106.7084,Casper,America/Denver
+82609,42.77773,-106.18937,Casper,America/Denver
+82620,42.52434,-107.08132,Alcova,America/Denver
+82630,43.33432,-107.25595,Arminto,America/Denver
+82633,42.99525,-105.39874,Douglas,America/Denver
+82635,43.4218,-106.21834,Edgerton,America/Denver
+82636,42.83473,-106.14286,Evansville,America/Denver
+82637,42.76679,-105.88228,Glenrock,America/Denver
+82638,43.0667,-107.25585,Hiland,America/Denver
+82639,43.73555,-106.6978,Kaycee,America/Denver
+82640,43.55214,-106.11811,Linch,America/Denver
+82642,43.2799,-107.65797,Lysite,America/Denver
+82643,43.43973,-106.27359,Midwest,America/Denver
+82644,42.84303,-106.37437,Mills,America/Denver
+82646,42.96297,-106.79617,Natrona,America/Denver
+82648,43.14749,-107.04194,Powder River,America/Denver
+82649,43.27229,-108.04155,Shoshoni,America/Denver
+82701,43.71185,-104.4451,Newcastle,America/Denver
+82710,44.71488,-104.28465,Aladdin,America/Denver
+82711,44.71157,-104.48062,Alva,America/Denver
+82712,44.52594,-104.12372,Beulah,America/Denver
+82714,44.5519,-104.68009,Devils Tower,America/Denver
+82716,44.54033,-105.64601,Gillette,America/Denver
+82718,43.91777,-105.61603,Gillette,America/Denver
+82720,44.79324,-104.67241,Hulett,America/Denver
+82721,44.46199,-104.89808,Moorcroft,America/Denver
+82723,43.98898,-104.42397,Osage,America/Denver
+82725,44.87752,-105.70974,Recluse,America/Denver
+82727,44.33595,-105.19426,Rozet,America/Denver
+82729,44.36384,-104.38734,Sundance,America/Denver
+82730,44.04378,-104.70031,Upton,America/Denver
+82731,44.80203,-105.23982,Weston,America/Denver
+82732,43.725,-105.57871,Wright,America/Denver
+82801,44.83618,-106.89258,Sheridan,America/Denver
+82831,44.66424,-106.0669,Arvada,America/Denver
+82832,44.59442,-106.75233,Banner,America/Denver
+82833,44.61601,-107.12966,Big Horn,America/Denver
+82834,44.25386,-106.74481,Buffalo,America/Denver
+82835,44.75856,-106.36918,Clearmont,America/Denver
+82836,44.83701,-107.57589,Dayton,America/Denver
+82837,44.72549,-106.28169,Leiter,America/Denver
+82838,44.93793,-107.4839,Parkman,America/Denver
+82839,44.92887,-107.15762,Ranchester,America/Denver
+82842,44.57143,-106.93956,Story,America/Denver
+82844,44.80405,-107.19965,Wolf,America/Denver
+82845,44.76416,-106.70382,Wyarno,America/Denver
+82901,41.38121,-109.02469,Rock Springs,America/Denver
+82922,43.13507,-110.43426,Bondurant,America/Denver
+82923,42.61609,-109.40099,Boulder,America/Denver
+82925,43.23123,-109.89386,Cora,America/Denver
+82929,41.54765,-109.87134,Little America,America/Denver
+82930,40.98028,-110.5964,Evanston,America/Denver
+82932,42.1219,-109.38993,Farson,America/Denver
+82933,41.2686,-110.45446,Fort Bridger,America/Denver
+82934,41.61247,-109.99564,Granger,America/Denver
+82935,41.67746,-109.66001,Green River,America/Denver
+82936,41.05725,-110.18239,Lonetree,America/Denver
+82937,41.3491,-110.2634,Lyman,America/Denver
+82938,41.09622,-109.73764,McKinnon,America/Denver
+82939,41.22068,-110.32357,Mountain View,America/Denver
+82941,42.99919,-109.90869,Pinedale,America/Denver
+82942,41.70234,-108.77539,Point Of Rocks,America/Denver
+82943,41.70197,-109.18399,Reliance,America/Denver
+82944,41.12199,-110.49746,Robertson,America/Denver
+82945,41.72007,-108.9389,Superior,America/Denver
+83001,43.4094,-110.60884,Jackson,America/Denver
+83011,43.58837,-110.43192,Kelly,America/Denver
+83012,43.7073,-110.75036,Moose,America/Denver
+83013,43.95666,-110.45191,Moran,America/Denver
+83014,43.458,-110.93746,Wilson,America/Denver
+83025,43.59371,-110.82814,Teton Village,America/Denver
+83101,41.97455,-110.5468,Kemmerer,America/Denver
+83110,42.72421,-110.90108,Afton,America/Denver
+83111,42.819,-111.01143,Auburn,America/Denver
+83112,42.88191,-110.8833,Bedford,America/Denver
+83113,42.55189,-110.25204,Big Piney,America/Denver
+83114,42.09736,-110.956,Cokeville,America/Denver
+83115,42.92003,-110.24036,Daniel,America/Denver
+83116,41.76333,-110.54415,Diamondville,America/Denver
+83118,43.06638,-110.9246,Etna,America/Denver
+83119,42.64394,-110.98828,Fairview,America/Denver
+83120,43.06595,-111.13529,Freedom,America/Boise
+83121,41.84982,-110.54023,Frontier,America/Denver
+83122,42.82175,-110.95843,Grover,America/Denver
+83123,42.23985,-110.25947,La Barge,America/Denver
+83124,41.75002,-110.20865,Opal,America/Denver
+83126,42.58697,-110.90916,Smoot,America/Denver
+83127,42.91815,-110.99756,Thayne,America/Denver
+83128,43.14762,-110.7918,Alpine,America/Denver
+83201,42.88949,-112.38324,Pocatello,America/Boise
+83202,42.97057,-112.34734,Pocatello,America/Boise
+83203,43.0252,-112.42813,Fort Hall,America/Boise
+83204,42.79219,-112.51877,Pocatello,America/Boise
+83209,42.85782,-112.42619,Pocatello,America/Boise
+83210,43.02069,-112.86048,Aberdeen,America/Boise
+83211,42.66257,-113.06186,American Falls,America/Boise
+83212,42.50847,-112.54828,Arbon,America/Boise
+83213,43.55171,-113.35809,Arco,America/Boise
+83214,42.54495,-112.29362,Arimo,America/Boise
+83215,43.44314,-112.81239,Atomic City,America/Boise
+83217,42.77525,-111.93559,Bancroft,America/Boise
+83218,43.31803,-112.16453,Basalt,America/Boise
+83220,42.34465,-111.38008,Bern,America/Boise
+83221,43.30874,-112.53217,Blackfoot,America/Boise
+83223,42.18249,-111.40327,Bloomington,America/Boise
+83226,44.40775,-114.06951,Challis,America/Boise
+83227,44.16563,-114.49424,Clayton,America/Boise
+83228,42.19496,-112.03658,Clifton,America/Boise
+83232,42.13341,-111.97245,Dayton,America/Boise
+83233,42.15664,-111.25256,Dingle,America/Boise
+83234,42.41661,-112.09482,Downey,America/Boise
+83235,44.60163,-114.03404,Ellis,America/Boise
+83236,43.22819,-111.94894,Firth,America/Boise
+83237,42.02737,-111.77626,Franklin,America/Boise
+83238,42.37942,-111.10593,Geneva,America/Boise
+83239,42.53167,-111.36528,Georgetown,America/Boise
+83241,42.51527,-111.76214,Grace,America/Boise
+83243,42.24444,-112.67292,Holbrook,America/Boise
+83244,43.94076,-113.11287,Howe,America/Boise
+83245,42.82286,-112.21713,Inkom,America/Boise
+83246,42.60616,-112.03051,Lava Hot Springs,America/Boise
+83250,42.67228,-112.20865,Mccammon,America/Boise
+83251,43.90738,-113.86425,Mackay,America/Boise
+83252,42.18979,-112.38411,Malad City,America/Boise
+83253,44.54647,-113.77167,May,America/Boise
+83254,42.36403,-111.2655,Montpelier,America/Boise
+83255,43.72829,-113.45702,Moore,America/Boise
+83261,42.22112,-111.40661,Paris,America/Boise
+83262,43.18419,-112.7658,Pingree,America/Boise
+83263,42.17757,-111.76101,Preston,America/Boise
+83271,42.4574,-112.84551,Rockland,America/Boise
+83272,42.09156,-111.36835,Saint Charles,America/Boise
+83274,43.35049,-112.09904,Shelley,America/Boise
+83276,42.75942,-111.44451,Soda Springs,America/Boise
+83277,43.07429,-112.68127,Springfield,America/Boise
+83278,44.36917,-114.85619,Stanley,America/Boise
+83281,42.31044,-111.95953,Swanlake,America/Boise
+83283,42.35709,-111.66445,Thatcher,America/Boise
+83285,43.061,-111.37199,Wayan,America/Boise
+83286,42.0533,-112.0148,Weston,America/Boise
+83287,42.03671,-111.45894,Fish Haven,America/Boise
+83301,42.39472,-114.52203,Twin Falls,America/Boise
+83302,42.10012,-114.82857,Rogerson,America/Boise
+83311,42.40396,-113.55864,Albion,America/Boise
+83312,42.10296,-113.6319,Almo,America/Boise
+83313,43.3586,-114.20511,Bellevue,America/Boise
+83314,42.97376,-114.95228,Bliss,America/Boise
+83316,42.60622,-114.88507,Buhl,America/Boise
+83318,42.43434,-113.82007,Burley,America/Boise
+83320,43.40515,-113.88309,Carey,America/Boise
+83321,42.35955,-114.86312,Castleford,America/Boise
+83322,43.31475,-114.96811,Corral,America/Boise
+83323,42.46902,-113.4081,Declo,America/Boise
+83324,42.87725,-114.2615,Dietrich,America/Boise
+83325,42.58675,-114.24282,Eden,America/Boise
+83327,43.51145,-114.7961,Fairfield,America/Boise
+83328,42.56962,-114.61665,Filer,America/Boise
+83330,42.94207,-114.69291,Gooding,America/Boise
+83332,42.79758,-114.92962,Hagerman,America/Boise
+83333,43.57589,-114.2214,Hailey,America/Boise
+83334,42.4243,-114.29126,Hansen,America/Boise
+83335,42.58726,-114.07347,Hazelton,America/Boise
+83336,42.5626,-113.81699,Heyburn,America/Boise
+83337,43.21807,-115.1575,Hill City,America/Boise
+83338,42.72501,-114.43273,Jerome,America/Boise
+83340,43.77178,-114.58138,Ketchum,America/Boise
+83341,42.42875,-114.37052,Kimberly,America/Boise
+83342,42.15014,-113.22915,Malta,America/Boise
+83344,42.40437,-114.11768,Murtaugh,America/Boise
+83346,42.19491,-113.9046,Oakley,America/Boise
+83347,42.73812,-113.87705,Paul,America/Boise
+83348,43.28489,-114.10592,Picabo,America/Boise
+83349,43.10148,-114.17784,Richfield,America/Boise
+83350,42.70996,-113.59812,Rupert,America/Boise
+83352,43.05133,-114.40584,Shoshone,America/Boise
+83353,43.68625,-114.33354,Sun Valley,America/Boise
+83354,43.67012,-114.32235,Sun Valley,America/Boise
+83355,42.75515,-114.72676,Wendell,America/Boise
+83401,43.53222,-111.86516,Idaho Falls,America/Boise
+83402,43.53011,-112.16786,Idaho Falls,America/Boise
+83404,43.42818,-112.01432,Idaho Falls,America/Boise
+83406,43.43768,-111.93382,Idaho Falls,America/Boise
+83414,43.88847,-110.94924,Alta,America/Denver
+83420,44.06001,-111.32243,Ashton,America/Boise
+83421,44.00349,-111.54057,Chester,America/Boise
+83422,43.70463,-111.23914,Driggs,America/Boise
+83423,44.33967,-112.33199,Dubois,America/Boise
+83424,43.90488,-111.19136,Felt,America/Boise
+83425,43.93106,-112.21677,Hamer,America/Boise
+83427,43.35936,-111.75064,Iona,America/Boise
+83428,43.3833,-111.16093,Irwin,America/Boise
+83429,44.48674,-111.37366,Island Park,America/Boise
+83431,43.68808,-112.03012,Lewisville,America/Boise
+83433,44.49284,-111.31788,Macks Inn,America/Boise
+83434,43.75636,-112.00758,Menan,America/Boise
+83435,43.98469,-112.58043,Monteview,America/Boise
+83436,43.8588,-111.46665,Newdale,America/Boise
+83438,43.9597,-111.75932,Parker,America/Boise
+83440,43.81092,-111.80779,Rexburg,America/Boise
+83442,43.62931,-111.82507,Rigby,America/Boise
+83443,43.50942,-111.56155,Ririe,America/Boise
+83444,43.69748,-112.24406,Roberts,America/Boise
+83445,44.07014,-111.73075,Saint Anthony,America/Boise
+83446,44.37841,-112.21887,Spencer,America/Boise
+83448,43.85082,-111.70529,Sugar City,America/Boise
+83449,43.42487,-111.35966,Swan Valley,America/Boise
+83450,43.8463,-112.41356,Terreton,America/Boise
+83451,43.86595,-111.63489,Teton,America/Boise
+83452,43.83619,-111.21239,Tetonia,America/Boise
+83454,43.5946,-111.95698,Ucon,America/Boise
+83455,43.60638,-111.14077,Victor,America/Boise
+83460,43.81639,-111.7826,Rexburg,America/Boise
+83462,45.30698,-113.81069,Carmen,America/Boise
+83463,45.5706,-113.97716,Gibbonsville,America/Boise
+83464,44.48105,-113.20271,Leadore,America/Boise
+83465,44.77581,-113.69949,Lemhi,America/Boise
+83466,45.44184,-114.05549,North Fork,America/Boise
+83467,45.02006,-113.89828,Salmon,America/Boise
+83468,44.92444,-113.61293,Tendoy,America/Boise
+83469,45.1127,-114.47772,Shoup,America/Boise
+83501,46.2283,-116.90608,Lewiston,America/Los_Angeles
+83520,46.53936,-116.32366,Ahsahka,America/Los_Angeles
+83522,45.91273,-116.50102,Cottonwood,America/Boise
+83523,46.22939,-116.47224,Craigmont,America/Los_Angeles
+83524,46.3586,-116.65439,Culdesac,America/Los_Angeles
+83525,45.73798,-115.39367,Elk City,America/Los_Angeles
+83526,46.14759,-116.4169,Ferdinand,America/Los_Angeles
+83530,45.91516,-116.02117,Grangeville,America/Los_Angeles
+83533,46.11707,-116.24063,Greencreek,America/Los_Angeles
+83535,46.54011,-116.72599,Juliaetta,America/Los_Angeles
+83536,46.21794,-116.02665,Kamiah,America/Los_Angeles
+83537,46.62877,-116.52348,Kendrick,America/Los_Angeles
+83539,46.20361,-114.93684,Kooskia,America/Los_Angeles
+83540,46.34649,-116.78273,Lapwai,America/Los_Angeles
+83541,46.49297,-116.50156,Lenore,America/Los_Angeles
+83542,45.55291,-116.3115,Lucile,America/Boise
+83543,46.27358,-116.23815,Nezperce,America/Los_Angeles
+83544,46.49365,-116.1525,Orofino,America/Los_Angeles
+83545,46.42664,-116.4213,Peck,America/Los_Angeles
+83546,46.57326,-115.81115,Pierce,America/Los_Angeles
+83547,45.31165,-116.33062,Pollock,America/Boise
+83548,46.34878,-116.50843,Reubens,America/Los_Angeles
+83549,45.36641,-116.2549,Riggins,America/Boise
+83552,45.9777,-115.93948,Stites,America/Los_Angeles
+83553,46.38365,-115.9038,Weippe,America/Los_Angeles
+83554,45.68522,-116.29936,White Bird,America/Los_Angeles
+83555,46.08662,-116.72221,Winchester,America/Los_Angeles
+83602,44.09676,-116.15049,Banks,America/Boise
+83604,42.52727,-115.84966,Bruneau,America/Boise
+83605,43.66442,-116.65171,Caldwell,America/Boise
+83607,43.7116,-116.74362,Caldwell,America/Boise
+83610,44.70231,-116.78239,Cambridge,America/Boise
+83611,45.03935,-115.24709,Cascade,America/Boise
+83612,44.8438,-116.53296,Council,America/Boise
+83615,44.70288,-116.0484,Donnelly,America/Boise
+83616,43.77667,-116.38977,Eagle,America/Boise
+83617,43.93303,-116.50368,Emmett,America/Boise
+83619,43.96982,-116.91204,Fruitland,America/Boise
+83622,44.1065,-115.88953,Garden Valley,America/Boise
+83623,43.04932,-115.39485,Glenns Ferry,America/Boise
+83624,42.92441,-116.14266,Grand View,America/Boise
+83626,43.66876,-116.82815,Greenleaf,America/Boise
+83627,42.91336,-115.53238,Hammett,America/Boise
+83628,43.57934,-116.96975,Homedale,America/Boise
+83629,43.91115,-116.16947,Horseshoe Bend,America/Boise
+83631,43.88543,-115.77369,Idaho City,America/Boise
+83632,44.53228,-116.40994,Indian Valley,America/Boise
+83633,43.0297,-115.21253,King Hill,America/Boise
+83634,43.44824,-116.33287,Kuna,America/Boise
+83636,43.90832,-116.66097,Letha,America/Boise
+83637,44.13249,-115.29625,Lowman,America/Boise
+83638,45.1504,-115.82001,Mccall,America/Boise
+83639,43.36878,-116.92472,Marsing,America/Boise
+83641,43.35079,-116.6357,Melba,America/Boise
+83642,43.57334,-116.40116,Meridian,America/Boise
+83643,44.62983,-116.45439,Mesa,America/Boise
+83644,43.74823,-116.58455,Middleton,America/Boise
+83645,44.36016,-116.56454,Midvale,America/Boise
+83646,43.65,-116.43247,Meridian,America/Boise
+83647,43.39487,-115.51159,Mountain Home,America/Boise
+83648,43.04962,-115.86554,Mountain Home Afb,America/Boise
+83650,42.87041,-116.65518,Murphy,America/Boise
+83651,43.58438,-116.62884,Nampa,America/Boise
+83654,45.13647,-116.39626,New Meadows,America/Boise
+83655,43.95135,-116.79171,New Plymouth,America/Boise
+83656,43.7255,-116.79852,Notus,America/Boise
+83657,44.23554,-116.30057,Ola,America/Boise
+83660,43.80016,-116.9301,Parma,America/Boise
+83661,44.10617,-116.69337,Payette,America/Boise
+83666,43.96157,-115.97398,Placerville,America/Boise
+83669,43.71899,-116.50147,Star,America/Boise
+83670,44.0189,-116.30793,Sweet,America/Boise
+83672,44.38095,-116.97188,Weiser,America/Boise
+83676,43.65743,-116.91156,Wilder,America/Boise
+83677,45.03763,-115.38691,Yellow Pine,America/Boise
+83686,43.49643,-116.61207,Nampa,America/Boise
+83687,43.60998,-116.52997,Nampa,America/Boise
+83702,43.66821,-116.16493,Boise,America/Boise
+83703,43.66189,-116.23906,Boise,America/Boise
+83704,43.62765,-116.28716,Boise,America/Boise
+83705,43.55609,-116.22002,Boise,America/Boise
+83706,43.59108,-116.19427,Boise,America/Boise
+83709,43.55212,-116.28847,Boise,America/Boise
+83712,43.61663,-116.11766,Boise,America/Boise
+83713,43.63897,-116.33464,Boise,America/Boise
+83714,43.72444,-116.27017,Garden City,America/Boise
+83716,43.67271,-115.6548,Boise,America/Boise
+83720,43.61771,-116.19973,Boise,America/Boise
+83725,43.60484,-116.20569,Boise,America/Boise
+83801,47.95631,-116.6434,Athol,America/Los_Angeles
+83802,47.26665,-115.72815,Avery,America/Los_Angeles
+83803,48.02261,-116.39878,Bayview,America/Los_Angeles
+83804,48.03714,-116.97315,Blanchard,America/Los_Angeles
+83805,48.83203,-116.49248,Bonners Ferry,America/Los_Angeles
+83806,46.88243,-116.37038,Bovill,America/Los_Angeles
+83808,47.31276,-116.07659,Calder,America/Los_Angeles
+83809,48.06234,-116.58116,Careywood,America/Los_Angeles
+83810,47.54326,-116.45525,Cataldo,America/Los_Angeles
+83811,48.11296,-116.15574,Clark Fork,America/Los_Angeles
+83812,47.00311,-116.28295,Clarkia,America/Los_Angeles
+83813,48.10462,-116.63734,Cocolalla,America/Los_Angeles
+83814,47.63717,-116.75811,Coeur D Alene,America/Los_Angeles
+83815,47.72498,-116.78732,Coeur D Alene,America/Los_Angeles
+83821,48.59365,-116.8367,Coolin,America/Los_Angeles
+83822,48.16785,-117.0014,Oldtown,America/Los_Angeles
+83823,46.80554,-116.51934,Deary,America/Los_Angeles
+83824,47.10638,-116.93901,Desmet,America/Los_Angeles
+83825,48.24694,-116.6076,Dover,America/Los_Angeles
+83826,48.98382,-116.15188,Eastport,America/Los_Angeles
+83827,46.78035,-116.17469,Elk River,America/Los_Angeles
+83830,47.07651,-116.35272,Fernwood,America/Los_Angeles
+83832,46.55223,-116.90666,Genesee,America/Los_Angeles
+83833,47.51484,-116.73284,Harrison,America/Los_Angeles
+83834,46.97566,-116.67484,Harvard,America/Los_Angeles
+83835,47.79557,-116.66843,Hayden,America/Los_Angeles
+83836,48.27046,-116.24804,Hope,America/Los_Angeles
+83837,47.52835,-116.09103,Kellogg,America/Los_Angeles
+83839,47.61647,-116.17949,Kingston,America/Los_Angeles
+83840,48.31263,-116.51506,Kootenai,America/Los_Angeles
+83841,48.19911,-116.77851,Laclede,America/Los_Angeles
+83842,47.44046,-116.55056,Medimont,America/Los_Angeles
+83843,46.72257,-116.94132,Moscow,America/Los_Angeles
+83844,46.72823,-117.01946,Moscow,America/Los_Angeles
+83845,48.74854,-116.11302,Moyie Springs,America/Los_Angeles
+83846,47.47308,-115.75009,Mullan,America/Los_Angeles
+83847,48.57699,-116.43207,Naples,America/Los_Angeles
+83848,48.7067,-116.92766,Nordman,America/Los_Angeles
+83849,47.51723,-115.99531,Osburn,America/Los_Angeles
+83850,47.4421,-116.20674,Pinehurst,America/Los_Angeles
+83851,47.29899,-116.90513,Plummer,America/Los_Angeles
+83852,48.31105,-116.53933,Ponderay,America/Los_Angeles
+83854,47.7267,-116.97511,Post Falls,America/Los_Angeles
+83855,46.97188,-116.92464,Potlatch,America/Los_Angeles
+83856,48.34228,-116.91058,Priest River,America/Los_Angeles
+83857,46.8895,-116.79776,Princeton,America/Los_Angeles
+83858,47.85245,-116.90173,Rathdrum,America/Los_Angeles
+83860,48.19234,-116.52918,Sagle,America/Los_Angeles
+83861,47.2488,-116.57821,Saint Maries,America/Los_Angeles
+83864,48.43432,-116.50559,Sandpoint,America/Los_Angeles
+83866,47.14286,-116.43995,Santa,America/Los_Angeles
+83867,47.50624,-115.94696,Silverton,America/Los_Angeles
+83868,47.52441,-116.18439,Smelterville,America/Los_Angeles
+83869,47.98095,-116.89239,Spirit Lake,America/Los_Angeles
+83870,47.13862,-116.85372,Tensed,America/Los_Angeles
+83871,46.74589,-116.73865,Troy,America/Los_Angeles
+83872,46.85772,-116.97251,Viola,America/Los_Angeles
+83873,47.5982,-115.90899,Wallace,America/Los_Angeles
+83874,47.63563,-115.78882,Murray,America/Los_Angeles
+83876,47.44842,-116.93161,Worley,America/Los_Angeles
+84001,40.34525,-110.27241,Altamont,America/Denver
+84002,40.42467,-110.27784,Altonah,America/Denver
+84003,40.46629,-111.69334,American Fork,America/Denver
+84004,40.48444,-111.74447,Alpine,America/Denver
+84005,40.32277,-111.99942,Eagle Mountain,America/Denver
+84006,40.59682,-112.12373,Bingham Canyon,America/Denver
+84007,40.34115,-110.21717,Bluebell,America/Denver
+84008,40.03341,-109.19376,Bonanza,America/Denver
+84009,40.55221,-112.05362,South Jordan,America/Denver
+84010,40.87433,-111.83042,Bountiful,America/Denver
+84013,40.2958,-112.0913,Cedar Valley,America/Denver
+84014,40.93311,-111.85308,Centerville,America/Denver
+84015,41.12073,-112.06129,Clearfield,America/Denver
+84017,40.9549,-111.20582,Coalville,America/Denver
+84018,41.20535,-111.42716,Croydon,America/Denver
+84020,40.49885,-111.8635,Draper,America/Denver
+84021,40.10998,-110.51593,Duchesne,America/Denver
+84022,40.17921,-112.81371,Dugway,America/Denver
+84023,40.83781,-109.20665,Dutch John,America/Denver
+84024,41.00765,-111.44721,Echo,America/Denver
+84025,40.97667,-111.89874,Farmington,America/Denver
+84026,40.29122,-109.83882,Fort Duchesne,America/Denver
+84027,40.15643,-110.79453,Fruitland,America/Denver
+84028,41.93107,-111.38267,Garden City,America/Denver
+84029,40.6483,-112.98298,Grantsville,America/Denver
+84031,40.60493,-110.63735,Hanna,America/Denver
+84032,40.35839,-111.188,Heber City,America/Denver
+84033,40.98002,-111.49148,Henefer,America/Denver
+84034,39.99427,-113.9575,Ibapah,America/Denver
+84035,40.39024,-109.28208,Jensen,America/Denver
+84036,40.66022,-111.1093,Kamas,America/Denver
+84037,40.99281,-111.91444,Kaysville,America/Denver
+84038,41.87926,-111.29692,Laketown,America/Denver
+84039,40.44602,-109.80972,Lapoint,America/Denver
+84040,41.09121,-111.89674,Layton,America/Denver
+84041,41.07137,-111.98416,Layton,America/Denver
+84042,40.34113,-111.72466,Lindon,America/Denver
+84043,40.41209,-111.87377,Lehi,America/Denver
+84044,40.73,-112.1474,Magna,America/Denver
+84045,40.28574,-111.91384,Saratoga Springs,America/Denver
+84046,40.95339,-109.82786,Manila,America/Denver
+84047,40.61533,-111.89176,Midvale,America/Denver
+84049,40.5136,-111.51657,Midway,America/Denver
+84050,41.02244,-111.67229,Morgan,America/Denver
+84051,40.39552,-110.43131,Mountain Home,America/Denver
+84052,40.16829,-109.99089,Myton,America/Denver
+84053,40.43325,-109.98941,Neola,America/Denver
+84054,40.84078,-111.91754,North Salt Lake,America/Denver
+84055,40.71889,-111.16106,Oakley,America/Denver
+84056,41.12679,-111.99084,Hill Afb,America/Denver
+84057,40.31427,-111.70948,Orem,America/Denver
+84058,40.27474,-111.71468,Orem,America/Denver
+84059,40.30353,-111.74853,Vineyard,America/Denver
+84060,40.6418,-111.50332,Park City,America/Denver
+84061,40.74721,-111.3417,Peoa,America/Denver
+84062,40.38586,-111.68421,Pleasant Grove,America/Denver
+84063,40.21007,-109.69285,Randlett,America/Denver
+84064,41.67086,-111.12293,Randolph,America/Denver
+84065,40.495,-111.9444,Riverton,America/Denver
+84066,40.34671,-110.05171,Roosevelt,America/Denver
+84067,41.17189,-112.04803,Roy,America/Denver
+84069,40.36521,-112.48548,Rush Valley,America/Denver
+84070,40.57707,-111.88916,Sandy,America/Denver
+84071,40.4191,-112.32475,Stockton,America/Denver
+84072,40.3641,-110.633,Tabiona,America/Denver
+84073,40.3456,-110.41394,Talmage,America/Denver
+84074,40.57379,-112.29914,Tooele,America/Denver
+84075,41.05975,-112.06933,Syracuse,America/Denver
+84076,40.44718,-109.84017,Tridell,America/Denver
+84078,40.46403,-109.5084,Vernal,America/Denver
+84080,40.02168,-112.44818,Vernon,America/Denver
+84081,40.60275,-112.03821,West Jordan,America/Denver
+84082,40.3404,-111.36184,Wallsburg,America/Denver
+84083,40.84354,-113.6944,Wendover,America/Denver
+84084,40.62139,-111.96603,West Jordan,America/Denver
+84085,40.58609,-109.92642,Whiterocks,America/Denver
+84086,41.41644,-111.20858,Woodruff,America/Denver
+84087,40.8891,-111.92898,Woods Cross,America/Denver
+84088,40.59507,-111.96077,West Jordan,America/Denver
+84092,40.55803,-111.74205,Sandy,America/Denver
+84093,40.59473,-111.82863,Sandy,America/Denver
+84094,40.57177,-111.86201,Sandy,America/Denver
+84095,40.55856,-111.94165,South Jordan,America/Denver
+84096,40.50539,-112.08546,Herriman,America/Denver
+84097,40.3048,-111.67318,Orem,America/Denver
+84098,40.73988,-111.53504,Park City,America/Denver
+84101,40.75628,-111.89996,Salt Lake City,America/Denver
+84102,40.75992,-111.86367,Salt Lake City,America/Denver
+84103,40.8034,-111.84708,Salt Lake City,America/Denver
+84104,40.74846,-111.98286,Salt Lake City,America/Denver
+84105,40.73841,-111.85982,Salt Lake City,America/Denver
+84106,40.70678,-111.85571,Salt Lake City,America/Denver
+84107,40.65799,-111.88447,Salt Lake City,America/Denver
+84108,40.78811,-111.7365,Salt Lake City,America/Denver
+84109,40.70196,-111.7051,Salt Lake City,America/Denver
+84111,40.75575,-111.88431,Salt Lake City,America/Denver
+84112,40.7652,-111.84123,Salt Lake City,America/Denver
+84113,40.76248,-111.83291,Salt Lake City,America/Denver
+84114,40.77794,-111.88831,Salt Lake City,America/Denver
+84115,40.71467,-111.89266,Salt Lake City,America/Denver
+84116,40.83258,-112.01691,Salt Lake City,America/Denver
+84117,40.66167,-111.83561,Salt Lake City,America/Denver
+84118,40.65598,-112.03812,Salt Lake City,America/Denver
+84119,40.70289,-111.94591,West Valley City,America/Denver
+84120,40.69686,-112.00178,West Valley City,America/Denver
+84121,40.62557,-111.69864,Salt Lake City,America/Denver
+84123,40.65837,-111.92177,Salt Lake City,America/Denver
+84124,40.67113,-111.80705,Salt Lake City,America/Denver
+84128,40.70518,-112.04259,West Valley City,America/Denver
+84129,40.6536,-111.96209,Salt Lake City,America/Denver
+84138,40.76675,-111.88724,Salt Lake City,America/Denver
+84150,40.77151,-111.89107,Salt Lake City,America/Denver
+84180,40.77044,-111.9011,Salt Lake City,America/Denver
+84301,41.61368,-112.12723,Bear River City,America/Denver
+84302,41.57956,-112.04769,Brigham City,America/Denver
+84304,41.82722,-111.99867,Cache Junction,America/Denver
+84305,41.94388,-112.05804,Clarkston,America/Denver
+84306,41.78272,-112.06323,Collinston,America/Denver
+84307,41.5535,-112.49192,Corinne,America/Denver
+84308,41.9656,-111.96681,Cornish,America/Denver
+84309,41.71375,-112.09908,Deweyville,America/Denver
+84310,41.3371,-111.84598,Eden,America/Denver
+84311,41.82012,-112.1106,Fielding,America/Denver
+84312,41.77976,-112.15681,Garland,America/Denver
+84313,41.34615,-113.71268,Grouse Creek,America/Denver
+84314,41.64929,-112.09292,Honeyville,America/Denver
+84315,41.16681,-112.13672,Hooper,America/Denver
+84316,41.77328,-112.44504,Howell,America/Denver
+84317,41.30359,-111.62178,Huntsville,America/Denver
+84318,41.80167,-111.80422,Hyde Park,America/Denver
+84319,41.59401,-111.659,Hyrum,America/Denver
+84320,41.96011,-111.85252,Lewiston,America/Denver
+84321,41.77938,-111.68316,Logan,America/Denver
+84322,41.75822,-111.81256,Logan,America/Denver
+84324,41.49253,-111.93868,Mantua,America/Denver
+84325,41.73869,-111.99303,Mendon,America/Denver
+84326,41.67228,-111.81772,Millville,America/Denver
+84327,41.86555,-111.99512,Newton,America/Denver
+84328,41.53937,-111.8444,Paradise,America/Denver
+84329,41.79229,-113.47079,Park Valley,America/Denver
+84330,41.9063,-112.17019,Plymouth,America/Denver
+84331,41.94354,-112.35869,Portage,America/Denver
+84332,41.70313,-111.81205,Providence,America/Denver
+84333,41.91008,-111.79882,Richmond,America/Denver
+84334,41.78955,-112.15189,Riverside,America/Denver
+84335,41.82907,-111.88074,Smithfield,America/Denver
+84336,41.87159,-112.74697,Snowville,America/Denver
+84337,41.69223,-112.28486,Tremonton,America/Denver
+84338,41.91133,-111.93527,Trenton,America/Denver
+84339,41.62546,-111.939,Wellsville,America/Denver
+84340,41.39312,-112.15705,Willard,America/Denver
+84341,41.77197,-111.81128,Logan,America/Denver
+84401,41.21962,-112.03352,Ogden,America/Denver
+84403,41.19379,-111.9038,Ogden,America/Denver
+84404,41.27198,-112.11705,Ogden,America/Denver
+84405,41.15747,-111.96499,Ogden,America/Denver
+84408,41.19252,-111.93966,Ogden,America/Denver
+84414,41.32578,-111.96547,Ogden,America/Denver
+84501,39.53214,-110.80393,Price,America/Denver
+84511,37.52687,-109.42054,Blanding,America/Denver
+84512,37.16255,-109.55921,Bluff,America/Denver
+84513,39.24932,-111.00912,Castle Dale,America/Denver
+84515,38.96824,-109.23876,Cisco,America/Denver
+84516,39.12842,-111.06703,Clawson,America/Denver
+84518,39.3917,-110.88478,Cleveland,America/Denver
+84520,39.53392,-110.41949,East Carbon,America/Denver
+84521,39.4213,-110.78709,Elmo,America/Denver
+84522,38.90991,-111.20987,Emery,America/Denver
+84523,39.0946,-111.2014,Ferron,America/Denver
+84525,38.87947,-110.33217,Green River,America/Denver
+84526,39.72395,-111.04571,Helper,America/Denver
+84528,39.43404,-111.08778,Huntington,America/Denver
+84529,39.71151,-110.7733,Kenilworth,America/Denver
+84530,38.23736,-109.40846,La Sal,America/Denver
+84531,37.0683,-109.86371,Mexican Hat,America/Denver
+84532,38.53898,-109.45916,Moab,America/Denver
+84533,37.40827,-110.56844,Lake Powell,America/Denver
+84534,37.21283,-109.26826,Montezuma Creek,America/Denver
+84535,37.84244,-109.28673,Monticello,America/Denver
+84536,37.14017,-110.23104,Monument Valley,America/Denver
+84537,39.29966,-111.17345,Orangeville,America/Denver
+84539,39.5761,-110.4007,Sunnyside,America/Denver
+84540,39.20039,-109.55281,Thompson,America/Denver
+84542,39.64433,-110.59916,Wellington,America/Denver
+84601,40.22593,-111.6955,Provo,America/Denver
+84602,40.25412,-111.65009,Provo,America/Denver
+84604,40.3313,-111.57284,Provo,America/Denver
+84606,40.2149,-111.62619,Provo,America/Denver
+84620,38.92244,-111.92427,Aurora,America/Denver
+84621,39.05109,-111.82959,Axtell,America/Denver
+84622,39.09816,-111.81353,Centerfield,America/Denver
+84623,39.45608,-111.59063,Chester,America/Denver
+84624,39.38429,-112.58756,Delta,America/Denver
+84626,39.93359,-111.98545,Elberta,America/Denver
+84627,39.35515,-111.58457,Ephraim,America/Denver
+84628,39.93583,-112.13419,Eureka,America/Denver
+84629,39.76574,-111.44752,Fairview,America/Denver
+84630,39.31069,-111.8342,Fayette,America/Denver
+84631,38.99771,-112.39675,Fillmore,America/Denver
+84632,39.64498,-111.64649,Fountain Green,America/Denver
+84633,39.94026,-111.89281,Goshen,America/Denver
+84634,39.18028,-111.83561,Gunnison,America/Denver
+84635,39.39181,-112.72132,Hinckley,America/Denver
+84636,39.13961,-112.3389,Holden,America/Denver
+84637,38.72183,-112.48706,Kanosh,America/Denver
+84638,39.50192,-112.25773,Leamington,America/Denver
+84639,39.51071,-111.90225,Levan,America/Denver
+84640,39.47622,-112.39942,Lynndyl,America/Denver
+84642,39.20135,-111.60893,Manti,America/Denver
+84643,39.12873,-111.68485,Mayfield,America/Denver
+84644,38.87008,-112.37511,Meadow,America/Denver
+84645,39.85159,-111.83946,Mona,America/Denver
+84646,39.54565,-111.61121,Moroni,America/Denver
+84647,39.52708,-111.40658,Mount Pleasant,America/Denver
+84648,39.68659,-111.86819,Nephi,America/Denver
+84649,39.34661,-112.32992,Oak City,America/Denver
+84651,39.95633,-111.69342,Payson,America/Denver
+84652,39.01706,-111.8785,Redmond,America/Denver
+84653,40.04803,-111.66804,Salem,America/Denver
+84654,38.89144,-111.64442,Salina,America/Denver
+84655,39.97427,-111.80716,Santaquin,America/Denver
+84656,39.23513,-112.1088,Scipio,America/Denver
+84657,38.81817,-111.94022,Sigurd,America/Denver
+84660,40.00724,-111.4268,Spanish Fork,America/Denver
+84662,39.43978,-111.48573,Spring City,America/Denver
+84663,40.19266,-111.48917,Springville,America/Denver
+84664,40.12627,-111.57712,Mapleton,America/Denver
+84665,39.19527,-111.66109,Sterling,America/Denver
+84667,39.48926,-111.65115,Wales,America/Denver
+84701,38.69586,-111.90474,Richfield,America/Denver
+84710,37.46925,-112.51251,Alton,America/Denver
+84711,38.71294,-112.0606,Annabella,America/Denver
+84712,38.14076,-111.97783,Antimony,America/Denver
+84713,38.3292,-112.54441,Beaver,America/Denver
+84714,37.84815,-113.75547,Beryl,America/Denver
+84715,38.33221,-111.60317,Bicknell,America/Denver
+84716,37.97152,-111.4493,Boulder,America/Denver
+84718,37.57954,-112.08306,Cannonville,America/Denver
+84719,37.65532,-112.76974,Brian Head,America/Denver
+84720,37.55477,-113.25665,Cedar City,America/Denver
+84721,37.77021,-113.13308,Cedar City,America/Denver
+84722,37.48553,-113.57582,Central,America/Denver
+84723,38.17611,-112.2519,Circleville,America/Denver
+84724,38.67417,-112.15015,Elsinore,America/Denver
+84725,37.53928,-113.78042,Enterprise,America/Denver
+84726,37.7514,-111.57911,Escalante,America/Denver
+84728,39.23887,-113.95719,Garrison,America/Denver
+84729,37.35858,-112.61527,Glendale,America/Denver
+84730,38.74504,-112.00084,Glenwood,America/Denver
+84731,38.19714,-112.76195,Greenville,America/Denver
+84732,38.4453,-111.90408,Greenwich,America/Denver
+84733,37.29597,-113.79775,Gunlock,America/Denver
+84734,38.36353,-110.5658,Hanksville,America/Denver
+84735,37.64627,-112.44997,Hatch,America/Denver
+84736,37.63732,-111.7938,Henrieville,America/Denver
+84737,37.08321,-113.26032,Hurricane,America/Denver
+84738,37.20987,-113.70888,Ivins,America/Denver
+84739,38.64204,-112.22299,Joseph,America/Denver
+84740,38.27504,-112.26689,Junction,America/Denver
+84741,37.19749,-112.25533,Kanab,America/Denver
+84742,37.52102,-113.14592,Kanarraville,America/Denver
+84743,38.20827,-112.18572,Kingston,America/Denver
+84744,38.64207,-111.93627,Koosharem,America/Denver
+84745,37.20838,-113.26266,La Verkin,America/Denver
+84746,37.23867,-113.35055,Leeds,America/Denver
+84747,38.44628,-111.63773,Loa,America/Denver
+84749,38.36687,-111.47667,Lyman,America/Denver
+84750,38.44205,-112.1947,Marysvale,America/Denver
+84751,38.44392,-113.0618,Milford,America/Denver
+84752,38.24975,-112.88434,Minersville,America/Denver
+84753,37.95019,-113.87967,Modena,America/Denver
+84754,38.60521,-112.11747,Monroe,America/Denver
+84755,37.22652,-112.78532,Mount Carmel,America/Denver
+84756,37.74249,-113.54772,Newcastle,America/Denver
+84757,37.45227,-113.25166,New Harmony,America/Denver
+84758,37.27041,-112.68529,Orderville,America/Denver
+84759,37.92238,-112.38423,Panguitch,America/Denver
+84760,37.96299,-112.68551,Paragonah,America/Denver
+84761,37.84603,-112.87124,Parowan,America/Denver
+84762,37.46882,-112.72644,Duck Creek Village,America/Denver
+84763,37.14667,-113.06947,Rockville,America/Denver
+84764,37.72035,-112.06689,Bryce,America/Denver
+84765,37.31012,-113.92535,Santa Clara,America/Denver
+84766,38.59762,-112.33567,Sevier,America/Denver
+84767,37.20152,-112.9858,Springdale,America/Denver
+84770,37.13818,-113.6294,Saint George,America/Denver
+84772,37.79706,-112.94168,Summit,America/Denver
+84773,38.24958,-111.47045,Teasdale,America/Denver
+84774,37.24324,-113.28089,Toquerville,America/Denver
+84775,38.28881,-111.04073,Torrey,America/Denver
+84776,37.62956,-112.08217,Tropic,America/Denver
+84779,37.33381,-113.11869,Virgin,America/Denver
+84780,37.12798,-113.48108,Washington,America/Denver
+84781,37.41197,-113.47217,Pine Valley,America/Denver
+84782,37.35939,-113.67522,Veyo,America/Denver
+84783,37.28556,-113.65639,Dammeron Valley,America/Denver
+84784,37.01858,-112.96941,Hildale,America/Denver
+84790,37.04615,-113.55738,Saint George,America/Denver
+85003,33.45059,-112.07833,Phoenix,America/Phoenix
+85004,33.45159,-112.06988,Phoenix,America/Phoenix
+85006,33.46511,-112.04778,Phoenix,America/Phoenix
+85007,33.44682,-112.09073,Phoenix,America/Phoenix
+85008,33.46355,-111.98746,Phoenix,America/Phoenix
+85009,33.44457,-112.12661,Phoenix,America/Phoenix
+85012,33.50719,-112.07024,Phoenix,America/Phoenix
+85013,33.51001,-112.08294,Phoenix,America/Phoenix
+85014,33.50903,-112.05665,Phoenix,America/Phoenix
+85015,33.50908,-112.10184,Phoenix,America/Phoenix
+85016,33.50953,-112.03041,Phoenix,America/Phoenix
+85017,33.50898,-112.12381,Phoenix,America/Phoenix
+85018,33.5194,-111.99309,Phoenix,America/Phoenix
+85019,33.50952,-112.14307,Phoenix,America/Phoenix
+85020,33.56766,-112.05485,Phoenix,America/Phoenix
+85021,33.56046,-112.09442,Phoenix,America/Phoenix
+85022,33.62685,-112.05113,Phoenix,America/Phoenix
+85023,33.63156,-112.09452,Phoenix,America/Phoenix
+85024,33.69042,-112.04632,Phoenix,America/Phoenix
+85026,33.44891,-111.97356,Phoenix,America/Phoenix
+85027,33.6771,-112.10206,Phoenix,America/Phoenix
+85028,33.5816,-112.00811,Phoenix,America/Phoenix
+85029,33.59546,-112.11002,Phoenix,America/Phoenix
+85031,33.49491,-112.16835,Phoenix,America/Phoenix
+85032,33.62624,-112.00368,Phoenix,America/Phoenix
+85033,33.49443,-112.21193,Phoenix,America/Phoenix
+85034,33.43465,-112.01989,Phoenix,America/Phoenix
+85035,33.47167,-112.19538,Phoenix,America/Phoenix
+85037,33.49038,-112.26487,Phoenix,America/Phoenix
+85040,33.40585,-112.02658,Phoenix,America/Phoenix
+85041,33.38643,-112.10928,Phoenix,America/Phoenix
+85042,33.35911,-112.04949,Phoenix,America/Phoenix
+85043,33.4323,-112.19744,Phoenix,America/Phoenix
+85044,33.33997,-112.00617,Phoenix,America/Phoenix
+85045,33.29976,-112.1062,Phoenix,America/Phoenix
+85048,33.30362,-112.03192,Phoenix,America/Phoenix
+85050,33.68739,-111.99854,Phoenix,America/Phoenix
+85051,33.55914,-112.13324,Phoenix,America/Phoenix
+85053,33.6296,-112.13184,Phoenix,America/Phoenix
+85054,33.67515,-111.94763,Phoenix,America/Phoenix
+85083,33.74032,-112.16308,Phoenix,America/Phoenix
+85085,33.75637,-112.07426,Phoenix,America/Phoenix
+85086,33.82639,-112.12876,Phoenix,America/Phoenix
+85087,33.92635,-112.14908,New River,America/Phoenix
+85118,33.3737,-111.36545,Gold Canyon,America/Phoenix
+85119,33.38682,-111.50824,Apache Junction,America/Phoenix
+85120,33.38706,-111.56311,Apache Junction,America/Phoenix
+85121,33.13751,-111.91316,Bapchule,America/Phoenix
+85122,32.91672,-111.74798,Casa Grande,America/Phoenix
+85123,32.70917,-111.6802,Arizona City,America/Phoenix
+85128,32.96468,-111.51028,Coolidge,America/Phoenix
+85131,32.65542,-111.57649,Eloy,America/Phoenix
+85132,32.92358,-111.19119,Florence,America/Phoenix
+85135,32.9987,-110.78242,Hayden,America/Phoenix
+85137,33.11275,-110.98353,Kearny,America/Phoenix
+85138,33.0151,-111.98681,Maricopa,America/Phoenix
+85139,32.92096,-112.21117,Maricopa,America/Phoenix
+85140,33.24805,-111.48921,San Tan Valley,America/Phoenix
+85141,32.64707,-111.42792,Picacho,America/Phoenix
+85142,33.19302,-111.66645,Queen Creek,America/Phoenix
+85143,33.15602,-111.51974,San Tan Valley,America/Phoenix
+85145,32.54322,-111.39415,Red Rock,America/Phoenix
+85147,33.09454,-111.7209,Sacaton,America/Phoenix
+85172,32.89974,-111.95205,Stanfield,America/Phoenix
+85173,33.26827,-111.13651,Superior,America/Phoenix
+85191,32.98498,-111.44686,Valley Farms,America/Phoenix
+85192,32.96134,-110.66501,Winkelman,America/Phoenix
+85193,32.79822,-111.82809,Casa Grande,America/Phoenix
+85194,32.89675,-111.62439,Casa Grande,America/Phoenix
+85201,33.4336,-111.84929,Mesa,America/Phoenix
+85202,33.38252,-111.87482,Mesa,America/Phoenix
+85203,33.44997,-111.80403,Mesa,America/Phoenix
+85204,33.39666,-111.78786,Mesa,America/Phoenix
+85205,33.43227,-111.71804,Mesa,America/Phoenix
+85206,33.39685,-111.71758,Mesa,America/Phoenix
+85207,33.45362,-111.63631,Mesa,America/Phoenix
+85208,33.40301,-111.63194,Mesa,America/Phoenix
+85209,33.37877,-111.63476,Mesa,America/Phoenix
+85210,33.38955,-111.84337,Mesa,America/Phoenix
+85212,33.32064,-111.63088,Mesa,America/Phoenix
+85213,33.44764,-111.76962,Mesa,America/Phoenix
+85215,33.51101,-111.58027,Mesa,America/Phoenix
+85224,33.32351,-111.87616,Chandler,America/Phoenix
+85225,33.31748,-111.83167,Chandler,America/Phoenix
+85226,33.26519,-111.94641,Chandler,America/Phoenix
+85233,33.35242,-111.8115,Gilbert,America/Phoenix
+85234,33.36479,-111.73924,Gilbert,America/Phoenix
+85236,33.32301,-111.71951,Higley,America/Phoenix
+85248,33.2145,-111.86667,Chandler,America/Phoenix
+85249,33.22652,-111.79918,Chandler,America/Phoenix
+85250,33.52986,-111.88991,Scottsdale,America/Phoenix
+85251,33.49406,-111.92025,Scottsdale,America/Phoenix
+85253,33.54479,-111.95873,Paradise Valley,America/Phoenix
+85254,33.61474,-111.95176,Scottsdale,America/Phoenix
+85255,33.6824,-111.8177,Scottsdale,America/Phoenix
+85256,33.50053,-111.83524,Scottsdale,America/Phoenix
+85257,33.46354,-111.91486,Scottsdale,America/Phoenix
+85258,33.56337,-111.89268,Scottsdale,America/Phoenix
+85259,33.60105,-111.80952,Scottsdale,America/Phoenix
+85260,33.60943,-111.89113,Scottsdale,America/Phoenix
+85262,33.85834,-111.80169,Scottsdale,America/Phoenix
+85263,33.90026,-111.62412,Rio Verde,America/Phoenix
+85264,33.69996,-111.50123,Fort Mcdowell,America/Phoenix
+85266,33.76034,-111.92503,Scottsdale,America/Phoenix
+85268,33.60717,-111.73999,Fountain Hills,America/Phoenix
+85281,33.42805,-111.93157,Tempe,America/Phoenix
+85282,33.3943,-111.93242,Tempe,America/Phoenix
+85283,33.36461,-111.93196,Tempe,America/Phoenix
+85284,33.33719,-111.93443,Tempe,America/Phoenix
+85286,33.27146,-111.83156,Chandler,America/Phoenix
+85295,33.30639,-111.73804,Gilbert,America/Phoenix
+85296,33.33554,-111.74006,Gilbert,America/Phoenix
+85297,33.27843,-111.73638,Gilbert,America/Phoenix
+85298,33.23983,-111.72819,Gilbert,America/Phoenix
+85301,33.53219,-112.17817,Glendale,America/Phoenix
+85302,33.56777,-112.17819,Glendale,America/Phoenix
+85303,33.53398,-112.22084,Glendale,America/Phoenix
+85304,33.59566,-112.17815,Glendale,America/Phoenix
+85305,33.52996,-112.25563,Glendale,America/Phoenix
+85306,33.62333,-112.17569,Glendale,America/Phoenix
+85307,33.53396,-112.30867,Glendale,America/Phoenix
+85308,33.66029,-112.18486,Glendale,America/Phoenix
+85309,33.53556,-112.37637,Luke Air Force Base,America/Phoenix
+85310,33.69532,-112.17162,Glendale,America/Phoenix
+85320,33.83563,-113.23214,Aguila,America/Phoenix
+85321,32.30062,-112.63169,Ajo,America/Phoenix
+85322,33.1766,-112.85207,Arlington,America/Phoenix
+85323,33.41888,-112.32615,Avondale,America/Phoenix
+85324,34.10456,-112.07094,Black Canyon City,America/Phoenix
+85325,33.98328,-113.84323,Bouse,America/Phoenix
+85326,33.23735,-112.58538,Buckeye,America/Phoenix
+85328,33.22795,-114.63413,Cibola,America/Phoenix
+85329,33.43171,-112.2965,Cashion,America/Phoenix
+85331,33.88685,-111.94276,Cave Creek,America/Phoenix
+85332,34.19209,-112.89444,Congress,America/Phoenix
+85333,32.97896,-113.30714,Dateland,America/Phoenix
+85334,33.60535,-114.4075,Ehrenberg,America/Phoenix
+85335,33.58721,-112.32836,El Mirage,America/Phoenix
+85336,32.51904,-114.77977,San Luis,America/Phoenix
+85337,32.97553,-112.866,Gila Bend,America/Phoenix
+85338,33.37252,-112.40826,Goodyear,America/Phoenix
+85339,33.23985,-112.14322,Laveen,America/Phoenix
+85340,33.5179,-112.42361,Litchfield Park,America/Phoenix
+85341,31.9726,-112.71943,Lukeville,America/Phoenix
+85342,33.95308,-112.48358,Morristown,America/Phoenix
+85343,33.33774,-112.69087,Palo Verde,America/Phoenix
+85344,33.98527,-114.23267,Parker,America/Phoenix
+85345,33.57215,-112.24838,Peoria,America/Phoenix
+85346,33.60992,-114.15835,Quartzsite,America/Phoenix
+85347,32.78612,-113.80633,Roll,America/Phoenix
+85348,33.69914,-113.66372,Salome,America/Phoenix
+85349,32.47983,-114.69647,San Luis,America/Phoenix
+85350,32.56651,-114.70896,Somerton,America/Phoenix
+85351,33.60638,-112.28213,Sun City,America/Phoenix
+85352,32.69118,-113.8963,Tacna,America/Phoenix
+85353,33.41721,-112.27283,Tolleson,America/Phoenix
+85354,33.40735,-113.06637,Tonopah,America/Phoenix
+85355,33.57519,-112.45374,Waddell,America/Phoenix
+85356,32.68933,-114.1852,Wellton,America/Phoenix
+85357,34.02498,-113.49055,Wenden,America/Phoenix
+85360,34.54833,-113.57275,Wikieup,America/Phoenix
+85361,33.76617,-112.63093,Wittmann,America/Phoenix
+85362,34.28558,-112.84337,Yarnell,America/Phoenix
+85363,33.58458,-112.30489,Youngtown,America/Phoenix
+85364,32.70469,-114.65664,Yuma,America/Phoenix
+85365,33.07067,-114.13801,Yuma,America/Phoenix
+85367,32.66082,-114.39361,Yuma,America/Phoenix
+85371,33.96732,-114.39005,Poston,America/Phoenix
+85373,33.67257,-112.29983,Sun City,America/Phoenix
+85374,33.64449,-112.395,Surprise,America/Phoenix
+85375,33.6716,-112.3565,Sun City West,America/Phoenix
+85377,33.82376,-111.91515,Carefree,America/Phoenix
+85378,33.64162,-112.32012,Surprise,America/Phoenix
+85379,33.60207,-112.3736,Surprise,America/Phoenix
+85381,33.60957,-112.23175,Peoria,America/Phoenix
+85382,33.65548,-112.24771,Peoria,America/Phoenix
+85383,33.80297,-112.31734,Peoria,America/Phoenix
+85387,33.71025,-112.44869,Surprise,America/Phoenix
+85388,33.60743,-112.43413,Surprise,America/Phoenix
+85390,33.92391,-112.86739,Wickenburg,America/Phoenix
+85392,33.47713,-112.30981,Avondale,America/Phoenix
+85395,33.48208,-112.40518,Goodyear,America/Phoenix
+85396,33.5376,-112.64635,Buckeye,America/Phoenix
+85501,33.54569,-110.74788,Globe,America/Phoenix
+85530,33.09361,-110.23109,Bylas,America/Phoenix
+85531,32.87392,-109.7849,Central,America/Phoenix
+85532,33.40779,-110.8454,Claypool,America/Phoenix
+85533,33.29208,-109.40219,Clifton,America/Phoenix
+85534,32.72939,-109.14475,Duncan,America/Phoenix
+85535,32.98583,-109.91284,Eden,America/Phoenix
+85536,33.14063,-110.00331,Fort Thomas,America/Phoenix
+85539,33.33282,-110.92883,Miami,America/Phoenix
+85540,32.9781,-109.35704,Morenci,America/Phoenix
+85541,34.21921,-111.34387,Payson,America/Phoenix
+85542,33.28633,-110.30145,Peridot,America/Phoenix
+85543,32.9593,-109.90123,Pima,America/Phoenix
+85544,34.38609,-111.4732,Pine,America/Phoenix
+85545,33.53759,-111.11955,Roosevelt,America/Phoenix
+85546,32.71743,-109.58175,Safford,America/Phoenix
+85550,33.54833,-110.51244,San Carlos,America/Phoenix
+85551,32.73048,-109.56252,Solomon,America/Phoenix
+85552,32.81399,-109.78953,Thatcher,America/Phoenix
+85553,33.79932,-111.22438,Tonto Basin,America/Phoenix
+85554,33.99679,-110.97834,Young,America/Phoenix
+85601,31.58453,-111.33359,Arivaca,America/Phoenix
+85602,32.17296,-110.3865,Benson,America/Phoenix
+85603,31.43525,-109.91127,Bisbee,America/Phoenix
+85605,32.29784,-109.47644,Bowie,America/Phoenix
+85606,32.01521,-109.93326,Cochise,America/Phoenix
+85607,31.49008,-109.34052,Douglas,America/Phoenix
+85608,31.45624,-109.58635,Douglas,America/Phoenix
+85609,32.06867,-110.09714,Dragoon,America/Phoenix
+85610,31.73144,-109.65957,Elfrida,America/Phoenix
+85611,31.64266,-110.51334,Elgin,America/Phoenix
+85613,31.55393,-110.38305,Fort Huachuca,America/Phoenix
+85614,31.81241,-110.92972,Green Valley,America/Phoenix
+85615,31.39678,-110.2108,Hereford,America/Phoenix
+85616,31.70768,-110.32184,Huachuca City,America/Phoenix
+85617,31.55767,-109.71548,McNeal,America/Phoenix
+85618,32.77631,-110.69433,Mammoth,America/Phoenix
+85619,32.39574,-110.73663,Mount Lemmon,America/Phoenix
+85620,31.33835,-109.9431,Naco,America/Phoenix
+85621,31.42345,-111.03764,Nogales,America/Phoenix
+85622,31.80301,-111.09104,Green Valley,America/Phoenix
+85623,32.65407,-110.78447,Oracle,America/Phoenix
+85624,31.51768,-110.71039,Patagonia,America/Phoenix
+85625,31.88021,-109.66692,Pearce,America/Phoenix
+85626,31.35932,-109.56827,Pirtleville,America/Phoenix
+85627,32.00707,-110.24695,Pomerene,America/Phoenix
+85629,31.91413,-111.01334,Sahuarita,America/Phoenix
+85630,31.88335,-110.19447,Saint David,America/Phoenix
+85631,32.58133,-110.5627,San Manuel,America/Phoenix
+85632,32.05855,-109.18305,San Simon,America/Phoenix
+85633,31.60632,-111.52827,Sasabe,America/Phoenix
+85634,32.02817,-112.03296,Sells,America/Phoenix
+85635,31.55322,-110.17304,Sierra Vista,America/Phoenix
+85637,31.72108,-110.69258,Sonoita,America/Phoenix
+85638,31.68588,-110.05887,Tombstone,America/Phoenix
+85639,31.77175,-111.68228,Topawa,America/Phoenix
+85640,31.56755,-111.04473,Tumacacori,America/Phoenix
+85641,32.02125,-110.64617,Vail,America/Phoenix
+85643,32.43757,-109.98521,Willcox,America/Phoenix
+85645,31.69497,-111.14655,Amado,America/Phoenix
+85646,31.62009,-111.05192,Tubac,America/Phoenix
+85648,31.51262,-111.00807,Rio Rico,America/Phoenix
+85650,31.49759,-110.19906,Sierra Vista,America/Phoenix
+85653,32.38979,-111.37908,Marana,America/Phoenix
+85654,32.41529,-111.15467,Rillito,America/Phoenix
+85658,32.52455,-111.13603,Marana,America/Phoenix
+85701,32.21702,-110.97138,Tucson,America/Phoenix
+85704,32.33885,-110.98483,Tucson,America/Phoenix
+85705,32.27119,-110.99172,Tucson,America/Phoenix
+85706,32.14783,-110.93541,Tucson,America/Phoenix
+85707,32.18022,-110.88966,Tucson,America/Phoenix
+85708,32.17575,-110.86019,Tucson,America/Phoenix
+85709,32.14136,-110.99008,Tucson,America/Phoenix
+85710,32.21439,-110.82365,Tucson,America/Phoenix
+85711,32.21504,-110.88348,Tucson,America/Phoenix
+85712,32.25229,-110.88636,Tucson,America/Phoenix
+85713,32.19525,-111.0151,Tucson,America/Phoenix
+85714,32.16997,-110.94653,Tucson,America/Phoenix
+85715,32.24898,-110.83118,Tucson,America/Phoenix
+85716,32.24222,-110.92351,Tucson,America/Phoenix
+85718,32.31078,-110.91819,Tucson,America/Phoenix
+85719,32.2462,-110.94876,Tucson,America/Phoenix
+85721,32.23107,-110.94957,Tucson,America/Phoenix
+85723,32.18189,-110.96496,Tucson,America/Phoenix
+85724,32.24072,-110.94555,Tucson,America/Phoenix
+85726,32.20437,-110.94529,Tucson,America/Phoenix
+85730,32.19064,-110.72976,Tucson,America/Phoenix
+85734,32.06761,-110.86717,Tucson,America/Phoenix
+85735,32.10389,-111.33437,Tucson,America/Phoenix
+85736,31.87623,-111.37472,Tucson,America/Phoenix
+85737,32.41425,-110.94683,Tucson,America/Phoenix
+85739,32.6137,-111.00758,Tucson,America/Phoenix
+85741,32.3364,-111.04077,Tucson,America/Phoenix
+85742,32.3898,-111.05113,Tucson,America/Phoenix
+85743,32.30501,-111.18548,Tucson,America/Phoenix
+85745,32.25014,-111.06253,Tucson,America/Phoenix
+85746,32.06964,-111.09047,Tucson,America/Phoenix
+85747,32.09318,-110.7723,Tucson,America/Phoenix
+85748,32.21904,-110.75205,Tucson,America/Phoenix
+85749,32.28129,-110.72604,Tucson,America/Phoenix
+85750,32.29952,-110.84288,Tucson,America/Phoenix
+85755,32.46836,-110.98152,Tucson,America/Phoenix
+85756,32.07034,-110.90625,Tucson,America/Phoenix
+85757,32.12835,-111.12228,Tucson,America/Phoenix
+85901,34.29348,-109.99878,Show Low,America/Phoenix
+85902,34.11509,-110.16233,Show Low,America/Phoenix
+85911,34.14844,-110.4588,Cibecue,America/Phoenix
+85912,34.41962,-109.91624,White Mountain Lake,America/Phoenix
+85920,33.85995,-109.1753,Alpine,America/Phoenix
+85922,33.49535,-109.18864,Blue,America/Phoenix
+85923,34.32313,-110.34036,Clay Springs,America/Phoenix
+85924,34.5635,-109.67553,Concho,America/Phoenix
+85925,34.0162,-109.3557,Eagar,America/Phoenix
+85926,33.77507,-109.9788,Fort Apache,America/Phoenix
+85927,33.99572,-109.48079,Greer,America/Phoenix
+85928,34.52276,-110.5506,Heber,America/Phoenix
+85929,34.16512,-109.95948,Lakeside,America/Phoenix
+85930,34.02744,-109.77141,Mcnary,America/Phoenix
+85931,34.45238,-110.87003,Forest Lakes,America/Phoenix
+85932,33.95958,-109.1943,Nutrioso,America/Phoenix
+85933,34.36089,-110.50955,Overgaard,America/Phoenix
+85934,34.30251,-110.24432,Pinedale,America/Phoenix
+85935,34.14166,-109.90453,Pinetop,America/Phoenix
+85936,34.60662,-109.29134,Saint Johns,America/Phoenix
+85937,34.56927,-110.01285,Snowflake,America/Phoenix
+85938,34.17814,-109.40089,Springerville,America/Phoenix
+85939,34.43729,-110.08754,Taylor,America/Phoenix
+85940,34.25265,-109.69729,Vernon,America/Phoenix
+85941,33.88756,-110.0648,Whiteriver,America/Phoenix
+85942,34.77442,-110.03549,Woodruff,America/Phoenix
+86001,35.35119,-111.75607,Flagstaff,America/Phoenix
+86003,35.24259,-111.20202,Flagstaff,America/Denver
+86004,35.37546,-111.37515,Flagstaff,America/Phoenix
+86005,35.08125,-111.62832,Flagstaff,America/Phoenix
+86011,35.18953,-111.65469,Flagstaff,America/Phoenix
+86015,35.22408,-111.80972,Bellemont,America/Phoenix
+86016,35.74486,-111.6373,Gray Mountain,America/Denver
+86017,34.91938,-111.66077,Munds Park,America/Phoenix
+86018,35.24716,-111.96204,Parks,America/Phoenix
+86020,36.00133,-111.51263,Cameron,America/Denver
+86021,36.92707,-113.10205,Colorado City,America/Phoenix
+86022,36.7702,-112.5449,Fredonia,America/Phoenix
+86023,36.13498,-112.23438,Grand Canyon,America/Phoenix
+86024,34.68509,-111.20244,Happy Jack,America/Phoenix
+86025,34.90484,-110.08557,Holbrook,America/Phoenix
+86028,35.02873,-109.81056,Petrified Forest Natl Pk,America/Phoenix
+86029,34.96834,-110.01175,Sun Valley,America/Phoenix
+86030,35.87005,-110.80709,Hotevilla,America/Phoenix
+86031,35.3534,-110.0647,Indian Wells,America/Denver
+86032,35.04288,-110.32234,Joseph City,America/Phoenix
+86033,36.67692,-110.25536,Kayenta,America/Denver
+86034,35.77145,-110.138,Keams Canyon,America/Denver
+86035,35.39631,-111.02806,Leupp,America/Denver
+86036,36.72434,-111.82083,Marble Canyon,America/Phoenix
+86038,34.9018,-111.49161,Mormon Lake,America/Phoenix
+86039,35.98813,-110.56688,Kykotsmovi Village,America/Phoenix
+86040,36.66294,-111.3852,Page,America/Denver
+86042,35.86498,-110.38447,Polacca,America/Phoenix
+86043,35.81049,-110.52904,Second Mesa,America/Phoenix
+86044,36.75137,-110.82626,Tonalea,America/Denver
+86045,36.14775,-111.13344,Tuba City,America/Denver
+86046,35.43882,-112.17428,Williams,America/Phoenix
+86047,35.18181,-110.63785,Winslow,America/Denver
+86052,36.29112,-112.12543,North Rim,America/Phoenix
+86053,36.75699,-111.05597,Kaibeto,America/Denver
+86054,36.67546,-110.61259,Shonto,America/Denver
+86301,34.59452,-112.42454,Prescott,America/Phoenix
+86303,34.4894,-112.42897,Prescott,America/Phoenix
+86305,34.7906,-112.75229,Prescott,America/Phoenix
+86313,34.55416,-112.45288,Prescott,America/Phoenix
+86314,34.59823,-112.33079,Prescott Valley,America/Phoenix
+86315,34.67403,-112.2891,Prescott Valley,America/Phoenix
+86320,35.36745,-112.63995,Ash Fork,America/Phoenix
+86321,34.55367,-113.08895,Bagdad,America/Phoenix
+86322,34.47486,-111.80587,Camp Verde,America/Phoenix
+86323,34.76606,-112.40424,Chino Valley,America/Phoenix
+86324,34.836,-112.1304,Clarkdale,America/Phoenix
+86325,34.73347,-111.89884,Cornville,America/Phoenix
+86326,34.69857,-112.01383,Cottonwood,America/Phoenix
+86327,34.55682,-112.11089,Dewey,America/Phoenix
+86329,34.48589,-112.27666,Humboldt,America/Phoenix
+86331,34.76009,-112.11704,Jerome,America/Phoenix
+86332,34.30403,-112.61809,Kirkland,America/Phoenix
+86333,34.32195,-112.08352,Mayer,America/Phoenix
+86334,34.94847,-112.53946,Paulden,America/Phoenix
+86335,34.65216,-111.68044,Rimrock,America/Phoenix
+86336,34.8902,-111.85157,Sedona,America/Phoenix
+86337,35.24422,-113.0505,Seligman,America/Phoenix
+86338,34.57306,-112.75756,Skull Valley,America/Phoenix
+86343,34.17937,-112.31236,Crown King,America/Phoenix
+86351,34.77846,-111.78514,Sedona,America/Phoenix
+86401,35.11024,-113.70423,Kingman,America/Phoenix
+86403,34.47703,-114.34423,Lake Havasu City,America/Los_Angeles
+86404,34.61156,-114.29452,Lake Havasu City,America/Phoenix
+86406,34.42269,-114.12418,Lake Havasu City,America/Phoenix
+86409,35.46429,-114.03245,Kingman,America/Phoenix
+86411,35.44761,-113.74381,Hackberry,America/Phoenix
+86413,35.16995,-114.25695,Golden Valley,America/Phoenix
+86426,35.0134,-114.54968,Fort Mohave,America/Phoenix
+86429,35.28769,-114.51261,Bullhead City,America/Phoenix
+86431,35.42521,-114.24738,Chloride,America/Phoenix
+86432,36.79085,-113.73783,Littlefield,America/Phoenix
+86433,34.92862,-114.35853,Oatman,America/Phoenix
+86434,35.65959,-113.58538,Peach Springs,America/Phoenix
+86435,36.00915,-112.94567,Supai,America/Phoenix
+86436,34.73914,-114.42273,Topock,America/Phoenix
+86437,35.39511,-113.59784,Valentine,America/Phoenix
+86438,34.68595,-113.98175,Yucca,America/Phoenix
+86440,34.88855,-114.54071,Mohave Valley,America/Phoenix
+86441,35.56205,-114.30384,Dolan Springs,America/Phoenix
+86442,35.09139,-114.57731,Bullhead City,America/Phoenix
+86443,35.97186,-114.46386,Temple Bar Marina,America/Phoenix
+86444,35.90199,-114.05969,Meadview,America/Phoenix
+86445,35.70747,-114.53764,Willow Beach,America/Phoenix
+86502,35.1212,-109.61705,Chambers,America/Phoenix
+86503,36.20258,-109.68224,Chinle,America/Denver
+86504,35.86087,-109.13995,Fort Defiance,America/Denver
+86505,35.61872,-109.71274,Ganado,America/Denver
+86506,35.35206,-109.25868,Houck,America/Denver
+86507,36.41985,-109.28019,Lukachukai,America/Denver
+86508,35.35086,-109.08737,Lupton,America/Denver
+86510,36.23061,-110.27182,Pinon,America/Denver
+86511,35.66536,-109.26397,Saint Michaels,America/Denver
+86512,35.079,-109.24737,Sanders,America/Phoenix
+86514,36.90487,-109.32028,Teec Nos Pos,America/Denver
+86515,35.70301,-108.99057,Window Rock,America/Denver
+86520,36.05891,-109.95208,Blue Gap,America/Denver
+86535,36.82372,-109.86199,Dennehotso,America/Denver
+86538,36.43323,-109.63752,Many Farms,America/Denver
+86540,35.93953,-109.44886,Nazlini,America/Denver
+86544,36.58162,-109.13818,Red Valley,America/Denver
+86545,36.71125,-109.58943,Rock Point,America/Denver
+86547,36.52759,-109.46019,Round Rock,America/Denver
+86556,36.24093,-109.21631,Tsaile,America/Denver
+87001,35.41231,-106.37944,Algodones,America/Denver
+87002,34.63619,-106.82517,Belen,America/Denver
+87004,35.38555,-106.58493,Bernalillo,America/Denver
+87005,35.25669,-107.98867,Bluewater,America/Denver
+87006,34.48616,-106.84202,Bosque,America/Denver
+87007,34.96582,-107.46717,Casa Blanca,America/Denver
+87008,35.14779,-106.39133,Cedar Crest,America/Denver
+87010,35.40517,-106.13493,Cerrillos,America/Denver
+87011,34.08236,-105.97225,Claunch,America/Denver
+87012,36.13341,-106.67312,Coyote,America/Denver
+87013,35.90014,-107.33509,Cuba,America/Denver
+87014,35.1372,-107.45315,Cubero,America/Denver
+87015,35.07535,-106.19123,Edgewood,America/Denver
+87016,34.75117,-106.01074,Estancia,America/Denver
+87017,36.30624,-106.73759,Gallina,America/Denver
+87018,36.11644,-107.51745,Counselor,America/Denver
+87020,35.0589,-107.92797,Grants,America/Denver
+87021,35.19673,-107.88621,Milan,America/Denver
+87022,34.90986,-106.69501,Isleta,America/Denver
+87023,34.59583,-106.7633,Jarales,America/Denver
+87024,35.6765,-106.75031,Jemez Pueblo,America/Denver
+87025,35.84308,-106.61862,Jemez Springs,America/Denver
+87026,34.97119,-107.17556,Laguna,America/Denver
+87027,36.12734,-106.94737,La Jara,America/Denver
+87028,34.35076,-106.78789,La Joya,America/Denver
+87029,36.39394,-107.03949,Lindrith,America/Denver
+87031,34.78007,-106.72649,Los Lunas,America/Denver
+87032,34.86786,-106.04201,Mcintosh,America/Denver
+87034,34.91939,-107.6559,Pueblo Of Acoma,America/Denver
+87035,34.95116,-105.90273,Moriarty,America/Denver
+87036,34.35591,-106.24227,Mountainair,America/Denver
+87037,36.18392,-107.78087,Nageezi,America/Denver
+87038,35.0944,-107.43259,New Laguna,America/Denver
+87040,35.14192,-107.39887,Paguate,America/Denver
+87041,35.60202,-106.31054,Pena Blanca,America/Denver
+87042,34.82827,-106.68619,Peralta,America/Denver
+87043,35.28978,-106.44418,Placitas,America/Denver
+87044,35.71254,-106.65652,Ponderosa,America/Denver
+87045,35.40018,-108.00182,Prewitt,America/Denver
+87046,36.27773,-106.91643,Regina,America/Denver
+87047,35.24866,-106.27629,Sandia Park,America/Denver
+87048,35.23624,-106.61977,Corrales,America/Denver
+87049,35.11699,-107.61026,San Fidel,America/Denver
+87051,35.06188,-107.85426,San Rafael,America/Denver
+87052,35.52867,-106.36935,Santo Domingo Pueblo,America/Denver
+87053,35.57537,-106.87832,San Ysidro,America/Denver
+87056,35.16197,-105.89566,Stanley,America/Denver
+87059,34.99647,-106.29764,Tijeras,America/Denver
+87060,34.74292,-106.73571,Tome,America/Denver
+87061,34.705,-106.38145,Torreon,America/Denver
+87062,34.46187,-106.69719,Veguita,America/Denver
+87063,34.49265,-105.85432,Willard,America/Denver
+87064,36.1849,-106.53923,Youngsville,America/Denver
+87068,34.90354,-106.64321,Bosque Farms,America/Denver
+87070,35.02255,-105.74037,Clines Corners,America/Denver
+87072,35.60828,-106.3955,Cochiti Pueblo,America/Denver
+87083,35.64496,-106.36366,Cochiti Lake,America/Denver
+87101,35.09669,-106.64339,Albuquerque,America/Denver
+87102,35.08116,-106.64636,Albuquerque,America/Denver
+87104,35.10278,-106.67492,Albuquerque,America/Denver
+87105,34.99512,-106.68644,Albuquerque,America/Denver
+87106,35.00818,-106.61185,Albuquerque,America/Denver
+87107,35.13747,-106.64363,Albuquerque,America/Denver
+87108,35.07235,-106.57835,Albuquerque,America/Denver
+87109,35.15285,-106.57543,Albuquerque,America/Denver
+87110,35.10812,-106.57816,Albuquerque,America/Denver
+87111,35.13824,-106.51589,Albuquerque,America/Denver
+87112,35.10093,-106.51622,Albuquerque,America/Denver
+87113,35.19249,-106.5708,Albuquerque,America/Denver
+87114,35.19718,-106.68216,Albuquerque,America/Denver
+87116,35.05056,-106.56028,Albuquerque,America/Denver
+87117,34.99486,-106.51697,Kirtland Afb,America/Denver
+87120,35.14097,-106.76522,Albuquerque,America/Denver
+87121,35.01031,-106.87816,Albuquerque,America/Denver
+87122,35.18685,-106.48827,Albuquerque,America/Denver
+87123,35.06206,-106.46991,Albuquerque,America/Denver
+87124,35.27144,-106.79627,Rio Rancho,America/Denver
+87144,35.33074,-106.71248,Rio Rancho,America/Denver
+87151,35.00772,-106.86035,Albuquerque,America/Denver
+87301,35.52153,-108.76524,Gallup,America/Denver
+87305,35.40327,-108.73151,Gallup,America/Denver
+87310,35.75365,-108.60267,Brimhall,America/Denver
+87311,35.60501,-108.50061,Church Rock,America/Denver
+87312,35.4291,-108.34543,Continental Divide,America/Denver
+87313,35.79538,-108.22129,Crownpoint,America/Denver
+87315,34.66247,-108.55075,Fence Lake,America/Denver
+87316,35.48684,-108.53328,Fort Wingate,America/Denver
+87317,35.58024,-108.75244,Gamerco,America/Denver
+87319,35.4769,-108.94232,Mentmore,America/Denver
+87320,35.80762,-108.87136,Mexican Springs,America/Denver
+87321,35.06791,-108.40638,Ramah,America/Denver
+87322,35.48531,-108.66253,Rehoboth,America/Denver
+87323,35.45214,-108.17531,Thoreau,America/Denver
+87325,35.97495,-108.58746,Tohatchi,America/Denver
+87326,35.27223,-108.88765,Vanderwagen,America/Denver
+87327,35.06529,-108.77813,Zuni,America/Denver
+87328,36.02541,-109.03638,Navajo,America/Denver
+87347,35.38502,-108.47052,Jamestown,America/Denver
+87357,34.82644,-108.41435,Pinehill,America/Denver
+87364,36.13538,-108.70875,Sheep Springs,America/Denver
+87365,35.53585,-108.13796,Smith Lake,America/Denver
+87375,35.66114,-108.79477,Yatahey,America/Denver
+87401,36.73824,-108.18377,Farmington,America/Denver
+87402,36.79174,-108.14831,Farmington,America/Denver
+87410,36.86708,-107.89433,Aztec,America/Denver
+87412,36.6569,-107.51956,Blanco,America/Denver
+87413,36.45914,-107.96408,Bloomfield,America/Denver
+87415,36.82823,-108.10125,Flora Vista,America/Denver
+87416,36.58687,-108.43897,Fruitland,America/Denver
+87417,36.74456,-108.34551,Kirtland,America/Denver
+87418,36.94938,-108.14728,La Plata,America/Denver
+87419,36.88767,-107.55195,Navajo Dam,America/Denver
+87420,36.72142,-108.84406,Shiprock,America/Denver
+87421,36.7772,-108.53676,Waterflow,America/Denver
+87455,36.27109,-108.71936,Newcomb,America/Denver
+87461,36.43717,-108.91099,Sanostee,America/Denver
+87499,36.32165,-108.24657,Farmington,America/Denver
+87501,35.71273,-105.86523,Santa Fe,America/Denver
+87505,35.62307,-105.86891,Santa Fe,America/Denver
+87506,35.82119,-105.96802,Santa Fe,America/Denver
+87507,35.621,-106.11061,Santa Fe,America/Denver
+87508,35.52064,-105.94593,Santa Fe,America/Denver
+87510,36.35906,-106.48312,Abiquiu,America/Denver
+87511,36.08905,-105.96448,Alcalde,America/Denver
+87512,36.90885,-105.36515,Amalia,America/Denver
+87513,36.58367,-105.70121,Arroyo Hondo,America/Denver
+87514,36.52957,-105.60055,Arroyo Seco,America/Denver
+87515,36.56257,-106.3696,Canjilon,America/Denver
+87516,36.18116,-106.46149,Canones,America/Denver
+87517,36.39035,-105.79269,Carson,America/Denver
+87518,36.51197,-106.54235,Cebolla,America/Denver
+87519,36.76472,-105.63502,Cerro,America/Denver
+87520,36.88419,-106.63552,Chama,America/Denver
+87521,36.08506,-105.70477,Chamisal,America/Denver
+87522,35.96889,-105.84639,Chimayo,America/Denver
+87523,36.01115,-105.86273,Cordova,America/Denver
+87524,36.96986,-105.5375,Costilla,America/Denver
+87525,36.5985,-105.49812,Taos Ski Valley,America/Denver
+87527,36.16875,-105.86352,Dixon,America/Denver
+87528,36.79432,-106.87989,Dulce,America/Denver
+87529,36.45001,-105.66147,El Prado,America/Denver
+87530,36.34088,-106.20198,El Rito,America/Denver
+87531,36.25326,-105.84584,Embudo,America/Denver
+87532,35.97965,-106.1048,Espanola,America/Denver
+87535,35.56675,-105.74719,Glorieta,America/Denver
+87537,36.1043,-106.2454,Hernandez,America/Denver
+87538,35.49323,-105.53767,Ilfeld,America/Denver
+87539,36.41192,-106.02393,La Madera,America/Denver
+87540,35.39987,-105.8759,Lamy,America/Denver
+87543,36.10399,-105.65781,Llano,America/Denver
+87544,35.7869,-106.31914,Los Alamos,America/Denver
+87547,35.81046,-106.20579,White Rock,America/Denver
+87548,36.1756,-106.18491,Medanales,America/Denver
+87549,36.23237,-106.0568,Ojo Caliente,America/Denver
+87551,36.6925,-106.66872,Los Ojos,America/Denver
+87552,35.67026,-105.61382,Pecos,America/Denver
+87553,36.20389,-105.72094,Penasco,America/Denver
+87554,36.54573,-106.0633,Petaca,America/Denver
+87556,36.81848,-105.5575,Questa,America/Denver
+87557,36.28603,-105.6331,Ranchos De Taos,America/Denver
+87558,36.67279,-105.40523,Red River,America/Denver
+87560,35.22567,-105.50185,Ribera,America/Denver
+87562,35.40668,-105.65522,Rowe,America/Denver
+87564,36.61566,-105.61797,San Cristobal,America/Denver
+87565,35.4442,-105.49384,San Jose,America/Denver
+87566,36.07242,-106.07185,Ohkay Owingeh,America/Denver
+87567,35.99401,-106.01872,Santa Cruz,America/Denver
+87569,35.35026,-105.30509,Serafina,America/Denver
+87571,36.42507,-105.48523,Taos,America/Denver
+87573,35.77176,-105.70715,Tererro,America/Denver
+87575,36.64203,-106.59341,Tierra Amarilla,America/Denver
+87577,36.63237,-105.97755,Tres Piedras,America/Denver
+87578,36.04392,-105.78539,Truchas,America/Denver
+87579,36.12885,-105.56729,Vadito,America/Denver
+87580,36.55956,-105.57459,Valdez,America/Denver
+87581,36.51531,-106.16017,Vallecitos,America/Denver
+87582,36.15323,-106.00246,Velarde,America/Denver
+87583,35.28221,-105.35226,Villanueva,America/Denver
+87701,35.53091,-104.94419,Las Vegas,America/Denver
+87710,36.3729,-105.23873,Angel Fire,America/Denver
+87711,35.22458,-105.14673,Anton Chico,America/Denver
+87712,35.88076,-105.17612,Buena Vista,America/Denver
+87713,36.1708,-105.36111,Chacon,America/Denver
+87714,36.4463,-104.99079,Cimarron,America/Denver
+87715,36.01839,-105.42535,Cleveland,America/Denver
+87718,36.59931,-105.24097,Eagle Nest,America/Denver
+87722,36.12837,-105.24424,Guadalupita,America/Denver
+87723,36.05883,-105.37556,Holman,America/Denver
+87724,35.16044,-104.97133,La Loma,America/Denver
+87728,36.60334,-104.59473,Maxwell,America/Denver
+87729,36.31405,-104.80642,Miami,America/Denver
+87730,36.10704,-104.23485,Mills,America/Denver
+87731,35.70411,-105.39881,Montezuma,America/Denver
+87732,35.942,-105.47009,Mora,America/Denver
+87733,35.77075,-103.82959,Mosquero,America/Denver
+87734,36.17323,-105.09363,Ocate,America/Denver
+87735,36.04867,-105.11978,Ojo Feliz,America/Denver
+87736,35.98431,-105.19238,Rainsville,America/Denver
+87740,36.76707,-104.37953,Raton,America/Denver
+87742,35.87161,-105.44427,Rociada,America/Denver
+87743,35.96714,-104.01174,Roy,America/Denver
+87745,35.7877,-105.26635,Sapello,America/Denver
+87746,35.66271,-104.12715,Solano,America/Denver
+87747,36.35856,-104.44472,Springer,America/Denver
+87749,36.57827,-105.13028,Ute Park,America/Denver
+87750,35.82498,-104.92704,Valmora,America/Denver
+87752,36.01339,-104.62763,Wagon Mound,America/Denver
+87753,35.85796,-104.95477,Watrous,America/Denver
+87801,34.04824,-106.96668,Socorro,America/Denver
+87820,33.90448,-108.55837,Aragon,America/Denver
+87821,33.93515,-108.0929,Datil,America/Denver
+87823,34.18348,-106.95901,Lemitar,America/Denver
+87824,33.82708,-108.97731,Luna,America/Denver
+87825,33.94509,-107.6603,Magdalena,America/Denver
+87827,34.36366,-108.12546,Pie Town,America/Denver
+87828,34.20567,-106.92056,Polvadera,America/Denver
+87829,34.25215,-108.64369,Quemado,America/Denver
+87830,33.70362,-108.73884,Reserve,America/Denver
+87831,34.28303,-106.88722,San Acacia,America/Denver
+87832,33.83949,-106.83284,San Antonio,America/Denver
+87901,33.1753,-107.01908,Truth Or Consequences,America/Denver
+87930,32.84962,-107.33762,Arrey,America/Denver
+87931,32.93379,-107.33657,Caballo,America/Denver
+87933,32.79115,-107.27885,Derry,America/Denver
+87935,33.25423,-107.22903,Elephant Butte,America/Denver
+87936,32.7544,-107.26284,Garfield,America/Denver
+87937,32.60008,-107.1972,Hatch,America/Denver
+87939,33.40339,-107.36566,Monticello,America/Denver
+87940,32.60986,-106.99465,Rincon,America/Denver
+87941,32.7055,-107.21424,Salem,America/Denver
+87942,33.09447,-107.42951,Williamsburg,America/Denver
+87943,33.44312,-107.6817,Winston,America/Denver
+88001,32.29026,-106.75318,Las Cruces,America/Denver
+88002,32.38275,-106.45804,White Sands Missile Range,America/Denver
+88003,32.27868,-106.74566,Las Cruces,America/Denver
+88004,32.25022,-106.94908,Las Cruces,America/Denver
+88005,32.22757,-106.99027,Las Cruces,America/Denver
+88007,32.37103,-106.9984,Las Cruces,America/Denver
+88008,31.81867,-106.74188,Santa Teresa,America/Denver
+88009,31.91248,-108.53627,Playas,America/Denver
+88011,32.39533,-106.58519,Las Cruces,America/Denver
+88012,32.58898,-106.77135,Las Cruces,America/Denver
+88020,31.78203,-108.82192,Animas,America/Denver
+88021,31.97338,-106.81639,Anthony,America/Denver
+88022,32.80238,-108.18766,Arenas Valley,America/Denver
+88023,32.71106,-108.07749,Bayard,America/Denver
+88024,32.06539,-106.61803,Berino,America/Denver
+88025,33.10087,-108.71984,Buckhorn,America/Denver
+88026,32.75833,-108.15741,Santa Clara,America/Denver
+88027,32.03625,-106.68143,Chamberino,America/Denver
+88028,32.95131,-108.67807,Cliff,America/Denver
+88029,31.84339,-107.70225,Columbus,America/Denver
+88030,32.19039,-107.72768,Deming,America/Denver
+88034,32.58114,-107.96764,Faywood,America/Denver
+88038,33.0722,-108.42625,Gila,America/Denver
+88039,33.35081,-108.71909,Glenwood,America/Denver
+88040,31.6197,-108.44025,Hachita,America/Denver
+88041,32.78367,-107.89654,Hanover,America/Denver
+88042,32.80979,-107.56385,Hillsboro,America/Denver
+88043,32.61358,-108.11762,Hurley,America/Denver
+88044,32.01977,-107.08116,La Mesa,America/Denver
+88045,32.3298,-108.71057,Lordsburg,America/Denver
+88046,32.26797,-106.79674,Mesilla,America/Denver
+88047,32.21444,-106.71556,Mesilla Park,America/Denver
+88048,32.14966,-106.6581,Mesquite,America/Denver
+88049,33.04814,-108.06782,Mimbres,America/Denver
+88051,33.01471,-108.94299,Mule Creek,America/Denver
+88052,32.45034,-106.60186,Organ,America/Denver
+88053,32.89601,-108.21378,Pinos Altos,America/Denver
+88055,32.7497,-108.73985,Redrock,America/Denver
+88056,31.84062,-109.00295,Rodeo,America/Denver
+88061,32.6211,-108.40888,Silver City,America/Denver
+88063,31.80715,-106.58259,Sunland Park,America/Denver
+88065,32.71375,-108.30231,Tyrone,America/Denver
+88072,32.14242,-106.61329,Vado,America/Denver
+88081,32.24958,-106.28821,Chaparral,America/Denver
+88101,34.50114,-103.26616,Clovis,America/Denver
+88103,34.38418,-103.31551,Cannon Afb,America/Denver
+88112,34.91023,-103.15863,Broadview,America/Denver
+88113,33.81968,-103.08894,Causey,America/Denver
+88114,33.51026,-103.43052,Crossroads,America/Denver
+88115,33.93185,-103.34466,Dora,America/Denver
+88116,33.89425,-103.82335,Elida,America/Denver
+88118,34.23626,-103.6645,Floyd,America/Denver
+88119,34.34782,-104.40041,Fort Sumner,America/Denver
+88120,34.90329,-103.42523,Grady,America/Denver
+88121,34.67979,-103.97721,House,America/Denver
+88124,34.52771,-103.6473,Melrose,America/Denver
+88125,33.67137,-103.24997,Milnesand,America/Denver
+88126,33.81642,-103.35359,Pep,America/Denver
+88130,34.1285,-103.31825,Portales,America/Denver
+88132,33.92382,-103.18855,Rogers,America/Denver
+88134,34.37413,-104.00487,Taiban,America/Denver
+88135,34.5623,-103.08204,Texico,America/Denver
+88136,34.25356,-104.83347,Yeso,America/Denver
+88201,33.66517,-104.48932,Roswell,America/Denver
+88203,33.22169,-104.43904,Roswell,America/Denver
+88210,32.77272,-104.22567,Artesia,America/Denver
+88220,32.31421,-104.41732,Carlsbad,America/Denver
+88230,33.21396,-104.39764,Dexter,America/Denver
+88231,32.42376,-103.26873,Eunice,America/Denver
+88232,33.06398,-104.1568,Hagerman,America/Denver
+88240,32.67285,-103.43454,Hobbs,America/Denver
+88242,32.81654,-103.16014,Hobbs,America/Denver
+88244,32.76412,-103.22498,Hobbs,America/Denver
+88250,32.72882,-104.91851,Hope,America/Denver
+88252,32.16345,-103.39452,Jal,America/Denver
+88253,32.98767,-104.54852,Lake Arthur,America/Denver
+88254,32.62876,-104.40779,Lakewood,America/Denver
+88255,32.81091,-103.99923,Loco Hills,America/Denver
+88256,32.19543,-103.88924,Loving,America/Denver
+88260,32.98698,-103.39801,Lovington,America/Denver
+88262,33.12871,-103.40694,Mcdonald,America/Denver
+88263,32.09091,-104.09006,Malaga,America/Denver
+88264,32.86351,-103.70089,Maljamar,America/Denver
+88265,32.58421,-103.34642,Monument,America/Denver
+88267,33.30983,-103.39329,Tatum,America/Denver
+88268,32.17632,-104.37939,Whites City,America/Denver
+88301,33.7494,-105.85191,Carrizozo,America/Denver
+88310,32.71809,-106.07231,Alamogordo,America/Denver
+88311,32.80689,-105.98875,Alamogordo,America/Denver
+88312,33.43186,-105.64397,Alto,America/Denver
+88314,33.10061,-105.86725,Bent,America/Denver
+88316,33.77306,-105.36895,Capitan,America/Denver
+88317,32.86081,-105.67442,Cloudcroft,America/Denver
+88318,34.22491,-105.44166,Corona,America/Denver
+88321,34.76815,-105.45564,Encino,America/Denver
+88323,33.48534,-105.56488,Fort Stanton,America/Denver
+88324,33.38666,-105.47268,Glencoe,America/Denver
+88325,32.8529,-105.86027,High Rolls Mountain Park,America/Denver
+88330,32.87046,-106.09951,Holloman Air Force Base,America/Denver
+88336,33.31883,-105.28552,Hondo,America/Denver
+88337,32.99141,-105.89025,La Luz,America/Denver
+88338,33.53723,-105.38468,Lincoln,America/Denver
+88339,32.9561,-105.32141,Mayhill,America/Denver
+88340,33.17859,-105.61211,Mescalero,America/Denver
+88341,33.50811,-105.79161,Nogal,America/Denver
+88342,32.38926,-106.10469,Orogrande,America/Denver
+88343,33.23504,-105.06772,Picacho,America/Denver
+88344,32.5105,-105.2235,Pinon,America/Denver
+88345,33.35127,-105.67092,Ruidoso,America/Denver
+88346,33.34814,-105.54073,Ruidoso Downs,America/Denver
+88347,32.72757,-105.64704,Sacramento,America/Denver
+88348,33.41675,-105.39858,San Patricio,America/Denver
+88349,32.795,-105.80313,Sunspot,America/Denver
+88350,32.6031,-105.67669,Timberon,America/Denver
+88351,33.47154,-105.09777,Tinnie,America/Denver
+88352,33.18745,-106.00712,Tularosa,America/Denver
+88353,34.49912,-105.1034,Vaughn,America/Denver
+88354,32.73771,-105.49297,Weed,America/Denver
+88355,33.36288,-105.6694,Ruidoso,America/Denver
+88401,35.08984,-103.80942,Tucumcari,America/Denver
+88410,35.90263,-103.30767,Amistad,America/Denver
+88411,35.23488,-103.16248,Bard,America/Denver
+88414,36.77484,-104.02073,Capulin,America/Denver
+88415,36.35171,-103.32643,Clayton,America/Denver
+88416,35.44255,-104.21511,Conchas Dam,America/Denver
+88417,34.93076,-104.25309,Cuervo,America/Denver
+88418,36.74995,-103.63874,Des Moines,America/Denver
+88419,36.91839,-103.54734,Folsom,America/Denver
+88421,35.32691,-104.49731,Garita,America/Denver
+88422,36.33791,-103.98655,Gladstone,America/Denver
+88424,36.43714,-103.6554,Grenville,America/Denver
+88426,35.52366,-103.47607,Logan,America/Denver
+88427,34.78172,-103.76417,Mcalister,America/Denver
+88430,35.65348,-103.21357,Nara Visa,America/Denver
+88431,35.21256,-104.33677,Newkirk,America/Denver
+88434,35.12367,-103.34013,San Jon,America/Denver
+88435,34.90262,-104.8133,Santa Rosa,America/Denver
+88436,36.14965,-103.13345,Sedan,America/Denver
+88439,35.48908,-104.35627,Trementina,America/Denver
+89001,37.40035,-115.39564,Alamo,America/Los_Angeles
+89002,35.99846,-114.96181,Henderson,America/Los_Angeles
+89003,36.94925,-116.7331,Beatty,America/Los_Angeles
+89004,36.04164,-115.41261,Blue Diamond,America/Los_Angeles
+89005,36.00875,-114.84805,Boulder City,America/Los_Angeles
+89007,36.68605,-114.22915,Bunkerville,America/Los_Angeles
+89008,37.26441,-114.50414,Caliente,America/Los_Angeles
+89010,37.82511,-118.08079,Dyer,America/Los_Angeles
+89011,36.0848,-114.9651,Henderson,America/Los_Angeles
+89012,36.01192,-115.04314,Henderson,America/Los_Angeles
+89013,37.34574,-117.34393,Goldfield,America/Los_Angeles
+89014,36.06153,-115.0577,Henderson,America/Los_Angeles
+89015,36.03887,-114.9282,Henderson,America/Los_Angeles
+89017,37.70485,-115.30344,Hiko,America/Los_Angeles
+89018,36.57063,-115.66802,Indian Springs,America/Los_Angeles
+89019,35.76949,-115.51606,Jean,America/Los_Angeles
+89020,36.56232,-116.42454,Amargosa Valley,America/Los_Angeles
+89021,36.6255,-114.47863,Logandale,America/Los_Angeles
+89022,38.51839,-117.01489,Manhattan,America/Los_Angeles
+89025,36.71387,-114.74777,Moapa,America/Los_Angeles
+89026,35.74922,-115.28475,Jean,America/Los_Angeles
+89027,36.81374,-114.08857,Mesquite,America/Los_Angeles
+89029,35.12561,-114.68607,Laughlin,America/Los_Angeles
+89030,36.21235,-115.12313,North Las Vegas,America/Los_Angeles
+89031,36.25846,-115.17075,North Las Vegas,America/Los_Angeles
+89032,36.22239,-115.17358,North Las Vegas,America/Los_Angeles
+89034,36.80924,-114.14978,Mesquite,America/Los_Angeles
+89039,35.26581,-114.8725,Cal Nev Ari,America/Los_Angeles
+89040,36.35322,-114.53541,Overton,America/Los_Angeles
+89042,37.79819,-114.35862,Panaca,America/Los_Angeles
+89043,38.30434,-114.39018,Pioche,America/Los_Angeles
+89044,35.93986,-115.05632,Henderson,America/Los_Angeles
+89045,38.85618,-117.06987,Round Mountain,America/Los_Angeles
+89046,35.51207,-114.8338,Searchlight,America/Los_Angeles
+89047,37.75776,-117.6386,Silverpeak,America/Los_Angeles
+89048,36.16452,-115.98833,Pahrump,America/Los_Angeles
+89049,38.37741,-116.41205,Tonopah,America/Los_Angeles
+89052,35.97988,-115.10788,Henderson,America/Los_Angeles
+89054,35.92093,-115.19055,Sloan,America/Los_Angeles
+89060,36.38854,-116.05769,Pahrump,America/Los_Angeles
+89061,36.07143,-115.89957,Pahrump,America/Los_Angeles
+89070,36.50083,-115.63952,Indian Springs,America/Los_Angeles
+89074,36.03639,-115.08113,Henderson,America/Los_Angeles
+89081,36.2586,-115.10703,North Las Vegas,America/Los_Angeles
+89084,36.29749,-115.1569,North Las Vegas,America/Los_Angeles
+89085,36.30955,-115.19817,North Las Vegas,America/Los_Angeles
+89086,36.28361,-115.10997,North Las Vegas,America/Los_Angeles
+89101,36.17279,-115.12234,Las Vegas,America/Los_Angeles
+89102,36.1453,-115.18662,Las Vegas,America/Los_Angeles
+89103,36.11236,-115.21215,Las Vegas,America/Los_Angeles
+89104,36.15118,-115.10932,Las Vegas,America/Los_Angeles
+89106,36.18207,-115.16253,Las Vegas,America/Los_Angeles
+89107,36.17049,-115.209,Las Vegas,America/Los_Angeles
+89108,36.20508,-115.2237,Las Vegas,America/Los_Angeles
+89109,36.12603,-115.16327,Las Vegas,America/Los_Angeles
+89110,36.17367,-115.05549,Las Vegas,America/Los_Angeles
+89113,36.06017,-115.26236,Las Vegas,America/Los_Angeles
+89115,36.25374,-115.04285,Las Vegas,America/Los_Angeles
+89117,36.14267,-115.28001,Las Vegas,America/Los_Angeles
+89118,36.07778,-115.21306,Las Vegas,America/Los_Angeles
+89119,36.08452,-115.14606,Las Vegas,America/Los_Angeles
+89120,36.08065,-115.09585,Las Vegas,America/Los_Angeles
+89121,36.12141,-115.09135,Las Vegas,America/Los_Angeles
+89122,36.10399,-115.03783,Las Vegas,America/Los_Angeles
+89123,36.0352,-115.14908,Las Vegas,America/Los_Angeles
+89124,36.34074,-115.60096,Las Vegas,America/Los_Angeles
+89128,36.19678,-115.26439,Las Vegas,America/Los_Angeles
+89129,36.23325,-115.29025,Las Vegas,America/Los_Angeles
+89130,36.25348,-115.22671,Las Vegas,America/Los_Angeles
+89131,36.3064,-115.24256,Las Vegas,America/Los_Angeles
+89134,36.20262,-115.3078,Las Vegas,America/Los_Angeles
+89135,36.09531,-115.37163,Las Vegas,America/Los_Angeles
+89138,36.20212,-115.36499,Las Vegas,America/Los_Angeles
+89139,36.03429,-115.21117,Las Vegas,America/Los_Angeles
+89141,35.98813,-115.2074,Las Vegas,America/Los_Angeles
+89142,36.14812,-115.031,Las Vegas,America/Los_Angeles
+89143,36.32168,-115.29288,Las Vegas,America/Los_Angeles
+89144,36.17746,-115.31943,Las Vegas,America/Los_Angeles
+89145,36.16748,-115.27618,Las Vegas,America/Los_Angeles
+89146,36.14323,-115.22679,Las Vegas,America/Los_Angeles
+89147,36.11289,-115.27985,Las Vegas,America/Los_Angeles
+89148,36.06337,-115.29676,Las Vegas,America/Los_Angeles
+89149,36.2708,-115.29462,Las Vegas,America/Los_Angeles
+89156,36.15906,-114.98176,Las Vegas,America/Los_Angeles
+89158,36.10481,-115.17665,Las Vegas,America/Los_Angeles
+89161,36.03552,-115.48284,Las Vegas,America/Los_Angeles
+89166,36.33733,-115.4686,Las Vegas,America/Los_Angeles
+89169,36.12405,-115.14184,Las Vegas,America/Los_Angeles
+89178,35.98783,-115.29541,Las Vegas,America/Los_Angeles
+89179,35.8916,-115.32794,Las Vegas,America/Los_Angeles
+89183,35.99619,-115.15799,Las Vegas,America/Los_Angeles
+89191,36.2473,-115.00407,Nellis Afb,America/Los_Angeles
+89301,39.52872,-114.76615,Ely,America/Los_Angeles
+89310,39.47836,-117.13758,Austin,America/Los_Angeles
+89311,39.16715,-114.19288,Baker,America/Los_Angeles
+89314,38.86222,-115.64186,Duckwater,America/Los_Angeles
+89315,39.1855,-114.84489,Ely,America/Los_Angeles
+89316,39.67956,-116.01497,Eureka,America/Los_Angeles
+89317,38.87915,-115.08418,Lund,America/Los_Angeles
+89318,39.43783,-114.8188,McGill,America/Los_Angeles
+89319,39.27915,-114.98724,Ruth,America/Los_Angeles
+89402,39.23075,-120.00259,Crystal Bay,America/Los_Angeles
+89403,39.25838,-119.48633,Dayton,America/Los_Angeles
+89404,41.80704,-118.88807,Denio,America/Los_Angeles
+89405,40.45057,-119.46926,Empire,America/Los_Angeles
+89406,39.46614,-118.27364,Fallon,America/Los_Angeles
+89408,39.71675,-119.02706,Fernley,America/Los_Angeles
+89409,38.83828,-117.98088,Gabbs,America/Los_Angeles
+89410,38.78368,-119.54802,Gardnerville,America/Los_Angeles
+89411,39.01837,-119.85301,Genoa,America/Los_Angeles
+89412,41.13904,-119.69501,Gerlach,America/Los_Angeles
+89413,39.07389,-119.92095,Glenbrook,America/Los_Angeles
+89414,41.04934,-117.22765,Golconda,America/Los_Angeles
+89415,38.50993,-118.77958,Hawthorne,America/Los_Angeles
+89418,40.5669,-118.03851,Imlay,America/Los_Angeles
+89419,40.34309,-118.29831,Lovelock,America/Los_Angeles
+89420,38.50802,-118.18051,Luning,America/Los_Angeles
+89421,42.04485,-117.94724,McDermitt,America/Los_Angeles
+89422,38.42008,-118.17911,Mina,America/Los_Angeles
+89423,39.01561,-119.74636,Minden,America/Los_Angeles
+89424,40.10964,-119.49396,Nixon,America/Los_Angeles
+89425,41.65695,-117.88461,Orovada,America/Los_Angeles
+89426,41.45402,-117.59307,Paradise Valley,America/Los_Angeles
+89427,38.94556,-118.70553,Schurz,America/Los_Angeles
+89428,39.25691,-119.63099,Silver City,America/Los_Angeles
+89429,39.36221,-119.29063,Silver Springs,America/Los_Angeles
+89430,38.79567,-119.31785,Smith,America/Los_Angeles
+89431,39.53865,-119.75005,Sparks,America/Los_Angeles
+89433,39.59758,-119.77817,Sun Valley,America/Los_Angeles
+89434,39.54019,-119.53318,Sparks,America/Los_Angeles
+89436,39.61086,-119.69854,Sparks,America/Los_Angeles
+89437,39.50101,-119.46864,Sparks,America/Los_Angeles
+89438,40.79671,-117.12004,Valmy,America/Los_Angeles
+89439,39.52291,-119.99008,Verdi,America/Los_Angeles
+89440,39.29597,-119.66212,Virginia City,America/Los_Angeles
+89441,39.68131,-119.68755,Sparks,America/Los_Angeles
+89442,39.69511,-119.35082,Wadsworth,America/Los_Angeles
+89444,38.72695,-119.35101,Wellington,America/Los_Angeles
+89445,41.06767,-118.02515,Winnemucca,America/Los_Angeles
+89446,40.87879,-117.9532,Winnemucca,America/Los_Angeles
+89447,38.83148,-119.11712,Yerington,America/Los_Angeles
+89448,39.00789,-119.92412,Zephyr Cove,America/Los_Angeles
+89449,38.96433,-119.90688,Stateline,America/Los_Angeles
+89450,39.24135,-119.93832,Incline Village,America/Los_Angeles
+89451,39.26775,-119.94534,Incline Village,America/Los_Angeles
+89460,38.90136,-119.79085,Gardnerville,America/Los_Angeles
+89496,39.19949,-118.57103,Fallon,America/Los_Angeles
+89501,39.52602,-119.81262,Reno,America/Los_Angeles
+89502,39.49383,-119.74701,Reno,America/Los_Angeles
+89503,39.54112,-119.83991,Reno,America/Los_Angeles
+89506,39.70084,-119.82646,Reno,America/Los_Angeles
+89508,39.78504,-119.92728,Reno,America/Los_Angeles
+89509,39.49637,-119.8273,Reno,America/Los_Angeles
+89510,39.93619,-119.73734,Reno,America/Los_Angeles
+89511,39.40747,-119.88822,Reno,America/Los_Angeles
+89512,39.55322,-119.80074,Reno,America/Los_Angeles
+89519,39.48518,-119.86003,Reno,America/Los_Angeles
+89521,39.37215,-119.67611,Reno,America/Los_Angeles
+89523,39.52387,-119.91309,Reno,America/Los_Angeles
+89557,39.54247,-119.81584,Reno,America/Los_Angeles
+89701,39.13944,-119.72087,Carson City,America/Los_Angeles
+89703,39.15359,-119.8486,Carson City,America/Los_Angeles
+89704,39.26789,-119.81712,Washoe Valley,America/Los_Angeles
+89705,39.09003,-119.83689,Carson City,America/Los_Angeles
+89706,39.22002,-119.69974,Carson City,America/Los_Angeles
+89801,41.18096,-115.76076,Elko,America/Los_Angeles
+89815,40.56652,-115.59504,Spring Creek,America/Los_Angeles
+89820,40.43192,-116.97134,Battle Mountain,America/Los_Angeles
+89821,40.55585,-116.41218,Crescent Valley,America/Los_Angeles
+89822,40.49237,-116.189,Carlin,America/Los_Angeles
+89823,40.96431,-115.22821,Deeth,America/Los_Angeles
+89825,41.90422,-114.71103,Jackpot,America/Los_Angeles
+89826,41.93262,-115.41386,Jarbidge,America/Los_Angeles
+89828,40.77384,-115.36403,Lamoille,America/Los_Angeles
+89830,41.32794,-114.22677,Montello,America/Los_Angeles
+89831,41.75992,-116.03935,Mountain City,America/Los_Angeles
+89832,41.98001,-116.19537,Owyhee,America/Los_Angeles
+89833,40.4692,-115.34201,Ruby Valley,America/Los_Angeles
+89834,41.42358,-116.24843,Tuscarora,America/Los_Angeles
+89835,41.2848,-114.87765,Wells,America/Los_Angeles
+89883,40.84711,-114.18217,West Wendover,America/Los_Angeles

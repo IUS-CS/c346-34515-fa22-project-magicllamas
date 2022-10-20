@@ -21,7 +21,7 @@ public class Responder {
         builder.enableIntents(GatewayIntent.GUILD_MESSAGES, GatewayIntent.MESSAGE_CONTENT, GatewayIntent.DIRECT_MESSAGES);
         shardManager = builder.build();
         shardManager.addEventListener(new InsultGenerator());
-
+        shardManager.addEventListener(new CurrentTime());
     }
 
     public Dotenv getConfig() {
