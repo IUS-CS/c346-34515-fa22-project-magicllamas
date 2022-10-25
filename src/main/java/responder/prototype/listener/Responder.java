@@ -1,10 +1,11 @@
 package responder.prototype.listener;
+
 import io.github.cdimascio.dotenv.Dotenv;
+import net.dv8tion.jda.api.OnlineStatus;
 import net.dv8tion.jda.api.entities.Activity;
 import net.dv8tion.jda.api.requests.GatewayIntent;
 import net.dv8tion.jda.api.sharding.DefaultShardManagerBuilder;
 import net.dv8tion.jda.api.sharding.ShardManager;
-import responder.prototype.listener.InsultGenerator;
 
 import javax.security.auth.login.LoginException;
 
@@ -17,10 +18,11 @@ public class Responder {
         config = Dotenv.configure().load();
         String token = config.get("TOKEN");
         DefaultShardManagerBuilder builder= DefaultShardManagerBuilder.createDefault(token);
+        builder.setStatus(OnlineStatus.ONLINE);
         builder.setActivity(Activity.listening("to your conversation"));
         builder.enableIntents(GatewayIntent.GUILD_MESSAGES, GatewayIntent.MESSAGE_CONTENT, GatewayIntent.DIRECT_MESSAGES);
         shardManager = builder.build();
-        shardManager.addEventListener(new InsultGenerator());
+        shardManager.addEventListener(new InsultGenerator(), new RickRoll());
         shardManager.addEventListener(new CurrentTime());
     }
 
