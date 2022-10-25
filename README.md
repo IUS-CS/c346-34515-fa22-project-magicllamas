@@ -20,6 +20,14 @@ The Discord Bot is a useful assitant on a Discord server. It is really cool that
 8. Ping Spam person of user choosing
 9. Pull up default browser and rick roll user
 
+
+## Resources
+-USA Zipcode Data Acquired from simplemaps.com:
+    
+Link to USA Zipcode Data: https://simplemaps.com/data/us-zips
+
+-OpenCSV was used to compile data from CSV files
+
 ## Contributing
 The Discord Bot is built by AUTHORS. 
 ## License

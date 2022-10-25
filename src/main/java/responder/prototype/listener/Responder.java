@@ -20,9 +20,9 @@ public class Responder {
         builder.setActivity(Activity.listening("to your conversation"));
         builder.enableIntents(GatewayIntent.GUILD_MESSAGES, GatewayIntent.MESSAGE_CONTENT, GatewayIntent.DIRECT_MESSAGES);
         shardManager = builder.build();
-        shardManager.addEventListener(new InsultGenerator());
-        shardManager.addEventListener(new CatSender());
+        shardManager.addEventListener(new InsultGenerator(), new CatSender, new CurrentTime);
 
+    main
     }
 
     public Dotenv getConfig() {

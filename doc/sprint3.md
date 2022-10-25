@@ -8,37 +8,36 @@ Members present:
 * Jack Copenhaver
 * Christianne 
 * Louis Wiley
+
   
   ## Demo
   
   This sprint, We
   
-  * Met twice outside of class on each week to figure out
-  * We got out bot online
-  * Our code interacted with out bot and he responded. 
-  
+  * Created Design Pattern documentation
+  * Update To-Do board
+  * Created new features
     ## Retro
   
   [What is a Sprint Retrospective](https://www.scrum.org/resources/what-is-a-sprint-retrospective)
   
   ### Good
   
-  * We figured out that we are working with JDA
-  * We got the insult Generator working
-  * We met twice, once every week outside of class.
-  * The prototype bot is online and on a server.
-  * Our to do list was more specific and we got things done.
+  * Added prototype features to discord bot
+  * Established a good meeting schedule 
+  * Better understanding of the JDA API 
   
   
   ### Bad
-  * Some functions were not implemented. We did have the skeleton code. 
-  * Inconsistent meetings times. 
+  * Failure to create test cases
+  * Need to implement more feature protypes
+  
   
   ### Actionable Commitments
  
-  * Work on or improve skeleton code for bot functions.
-  * Work on implement bot functions.
-  * Work on designpattern.md
+  * Make test cases for Insult Generator
+  * Make test cases for Cat Launcher
+  * Make test cases for Local Time
   
   ## Planning
   

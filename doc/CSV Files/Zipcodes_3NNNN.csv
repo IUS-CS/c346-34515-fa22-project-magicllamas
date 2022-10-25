@@ -1,0 +1,3482 @@
+zip,lat,lng,city,timezone
+30002,33.77309,-84.26093,Avondale Estates,America/New_York
+30004,34.14352,-84.29926,Alpharetta,America/New_York
+30005,34.08582,-84.22158,Alpharetta,America/New_York
+30008,33.8966,-84.58847,Marietta,America/New_York
+30009,34.07711,-84.3029,Alpharetta,America/New_York
+30011,34.02281,-83.8364,Auburn,America/New_York
+30012,33.71739,-83.99913,Conyers,America/New_York
+30013,33.643,-83.97147,Conyers,America/New_York
+30014,33.58109,-83.8191,Covington,America/New_York
+30016,33.51836,-83.93073,Covington,America/New_York
+30017,33.88939,-83.96348,Grayson,America/New_York
+30018,33.71737,-83.80034,Jersey,America/New_York
+30019,33.97642,-83.88252,Dacula,America/New_York
+30021,33.80803,-84.23909,Clarkston,America/New_York
+30022,34.02745,-84.24643,Alpharetta,America/New_York
+30024,34.06341,-84.09116,Suwanee,America/New_York
+30025,33.65689,-83.69869,Social Circle,America/New_York
+30028,34.28928,-84.17985,Cumming,America/New_York
+30030,33.7721,-84.29135,Decatur,America/New_York
+30032,33.73987,-84.2641,Decatur,America/New_York
+30033,33.81342,-84.28355,Decatur,America/New_York
+30034,33.69198,-84.24835,Decatur,America/New_York
+30035,33.72563,-84.20541,Decatur,America/New_York
+30038,33.67078,-84.14209,Lithonia,America/New_York
+30039,33.79871,-84.03414,Snellville,America/New_York
+30040,34.21622,-84.17978,Cumming,America/New_York
+30041,34.20166,-84.09371,Cumming,America/New_York
+30043,34.00353,-84.00703,Lawrenceville,America/New_York
+30044,33.92207,-84.06924,Lawrenceville,America/New_York
+30045,33.93046,-83.93019,Lawrenceville,America/New_York
+30046,33.9497,-83.99389,Lawrenceville,America/New_York
+30047,33.87104,-84.11304,Lilburn,America/New_York
+30052,33.81654,-83.89538,Loganville,America/New_York
+30054,33.67651,-83.87558,Oxford,America/New_York
+30055,33.49055,-83.74224,Mansfield,America/New_York
+30056,33.49496,-83.65068,Newborn,America/New_York
+30058,33.7377,-84.10779,Lithonia,America/New_York
+30060,33.9209,-84.543,Marietta,America/New_York
+30062,33.99977,-84.46899,Marietta,America/New_York
+30064,33.93809,-84.61691,Marietta,America/New_York
+30066,34.034,-84.50798,Marietta,America/New_York
+30067,33.93286,-84.46187,Marietta,America/New_York
+30068,33.96887,-84.43273,Marietta,America/New_York
+30070,33.5733,-83.89546,Porterdale,America/New_York
+30071,33.93977,-84.20561,Norcross,America/New_York
+30072,33.79115,-84.20598,Pine Lake,America/New_York
+30075,34.05282,-84.38739,Roswell,America/New_York
+30076,34.02777,-84.31723,Roswell,America/New_York
+30078,33.86118,-84.01795,Snellville,America/New_York
+30079,33.79173,-84.25839,Scottdale,America/New_York
+30080,33.87864,-84.5053,Smyrna,America/New_York
+30082,33.85517,-84.5373,Smyrna,America/New_York
+30083,33.79641,-84.19231,Stone Mountain,America/New_York
+30084,33.85457,-84.21657,Tucker,America/New_York
+30087,33.81087,-84.13135,Stone Mountain,America/New_York
+30088,33.75959,-84.17918,Stone Mountain,America/New_York
+30090,33.953,-84.54837,Marietta,America/New_York
+30092,33.97145,-84.23537,Peachtree Corners,America/New_York
+30093,33.90879,-84.17839,Norcross,America/New_York
+30094,33.61243,-84.0555,Conyers,America/New_York
+30096,33.97691,-84.14791,Duluth,America/New_York
+30097,34.0271,-84.14702,Duluth,America/New_York
+30101,34.04355,-84.71244,Acworth,America/New_York
+30102,34.10857,-84.64622,Acworth,America/New_York
+30103,34.36457,-84.92014,Adairsville,America/New_York
+30104,34.0879,-85.06982,Aragon,America/New_York
+30105,34.47012,-85.15532,Armuchee,America/New_York
+30106,33.83476,-84.62947,Austell,America/New_York
+30107,34.3352,-84.34744,Ball Ground,America/New_York
+30108,33.53172,-85.26242,Bowdon,America/New_York
+30110,33.74071,-85.137,Bremen,America/New_York
+30111,33.8318,-84.65499,Clarkdale,America/New_York
+30113,33.8531,-85.20967,Buchanan,America/New_York
+30114,34.24433,-84.5393,Canton,America/New_York
+30115,34.21296,-84.40138,Canton,America/New_York
+30116,33.55224,-85.01298,Carrollton,America/New_York
+30117,33.58113,-85.13197,Carrollton,America/New_York
+30118,33.57288,-85.09938,Carrollton,America/New_York
+30120,34.16639,-84.85597,Cartersville,America/New_York
+30121,34.21073,-84.77802,Cartersville,America/New_York
+30122,33.76329,-84.6386,Lithia Springs,America/New_York
+30124,34.12872,-85.35589,Cave Spring,America/New_York
+30125,34.00067,-85.27331,Cedartown,America/New_York
+30126,33.81588,-84.55171,Mableton,America/New_York
+30127,33.87647,-84.69648,Powder Springs,America/New_York
+30132,33.99042,-84.85279,Dallas,America/New_York
+30134,33.77436,-84.78241,Douglasville,America/New_York
+30135,33.67285,-84.74523,Douglasville,America/New_York
+30137,34.11657,-84.7657,Emerson,America/New_York
+30139,34.43346,-84.70575,Fairmount,America/New_York
+30141,33.86244,-84.77521,Hiram,America/New_York
+30143,34.46198,-84.42385,Jasper,America/New_York
+30144,34.03672,-84.59174,Kennesaw,America/New_York
+30145,34.24177,-84.98076,Kingston,America/New_York
+30147,34.13751,-85.21877,Lindale,America/New_York
+30148,34.46009,-84.2648,Marble Hill,America/New_York
+30149,34.31107,-85.21691,Mount Berry,America/New_York
+30152,33.99435,-84.6474,Kennesaw,America/New_York
+30153,33.96678,-85.05425,Rockmart,America/New_York
+30157,33.88641,-84.8731,Dallas,America/New_York
+30161,34.23758,-85.17319,Rome,America/New_York
+30165,34.30279,-85.27233,Rome,America/New_York
+30168,33.78354,-84.58765,Austell,America/New_York
+30170,33.43065,-85.16821,Roopville,America/New_York
+30171,34.36122,-84.73584,Rydal,America/New_York
+30173,34.13541,-85.14217,Silver Creek,America/New_York
+30175,34.54239,-84.52793,Talking Rock,America/New_York
+30176,33.76972,-85.30398,Tallapoosa,America/New_York
+30177,34.40705,-84.37401,Tate,America/New_York
+30178,34.09709,-84.97051,Taylorsville,America/New_York
+30179,33.78088,-85.01961,Temple,America/New_York
+30180,33.72018,-84.91956,Villa Rica,America/New_York
+30182,33.65603,-85.24628,Waco,America/New_York
+30183,34.33854,-84.59762,Waleska,America/New_York
+30184,34.26042,-84.71603,White,America/New_York
+30185,33.51975,-84.90879,Whitesburg,America/New_York
+30187,33.65736,-84.85454,Winston,America/New_York
+30188,34.11873,-84.45526,Woodstock,America/New_York
+30189,34.12835,-84.57148,Woodstock,America/New_York
+30204,33.05844,-84.12343,Barnesville,America/New_York
+30205,33.26911,-84.46634,Brooks,America/New_York
+30206,33.09671,-84.46303,Concord,America/New_York
+30213,33.59113,-84.6333,Fairburn,America/New_York
+30214,33.49222,-84.48697,Fayetteville,America/New_York
+30215,33.3888,-84.45709,Fayetteville,America/New_York
+30216,33.23951,-83.88162,Flovilla,America/New_York
+30217,33.28671,-85.13309,Franklin,America/New_York
+30218,33.12706,-84.58093,Gay,America/New_York
+30220,33.22849,-84.82463,Grantville,America/New_York
+30222,33.04113,-84.74294,Greenville,America/New_York
+30223,33.28635,-84.28012,Griffin,America/New_York
+30224,33.20411,-84.23587,Griffin,America/New_York
+30228,33.40374,-84.30575,Hampton,America/New_York
+30229,33.22791,-84.57033,Haralson,America/New_York
+30230,33.16699,-84.92071,Hogansville,America/New_York
+30233,33.29492,-83.97501,Jackson,America/New_York
+30234,33.33001,-84.02617,Jenkinsburg,America/New_York
+30236,33.52157,-84.32405,Jonesboro,America/New_York
+30238,33.4949,-84.38181,Jonesboro,America/New_York
+30240,33.03757,-85.12222,Lagrange,America/New_York
+30241,33.02115,-84.95285,Lagrange,America/New_York
+30248,33.34975,-84.10838,Locust Grove,America/New_York
+30250,33.43473,-84.30603,Lovejoy,America/New_York
+30251,33.18871,-84.69983,Luthersville,America/New_York
+30252,33.47206,-84.06416,Mcdonough,America/New_York
+30253,33.45028,-84.18579,Mcdonough,America/New_York
+30256,33.01654,-84.31515,Meansville,America/New_York
+30257,33.14218,-84.18606,Milner,America/New_York
+30258,32.99278,-84.47024,Molena,America/New_York
+30259,33.26522,-84.74073,Moreland,America/New_York
+30260,33.5862,-84.33046,Morrow,America/New_York
+30263,33.38852,-84.85911,Newnan,America/New_York
+30265,33.41649,-84.70749,Newnan,America/New_York
+30268,33.54357,-84.72262,Palmetto,America/New_York
+30269,33.39375,-84.56974,Peachtree City,America/New_York
+30272,33.62313,-84.50175,Red Oak,America/New_York
+30273,33.58365,-84.27208,Rex,America/New_York
+30274,33.55583,-84.40091,Riverdale,America/New_York
+30275,33.43066,-84.86798,Sargent,America/New_York
+30276,33.26552,-84.582,Senoia,America/New_York
+30277,33.37962,-84.64767,Sharpsburg,America/New_York
+30281,33.56338,-84.1961,Stockbridge,America/New_York
+30284,33.34032,-84.28858,Sunny Side,America/New_York
+30285,32.98647,-84.25255,The Rock,America/New_York
+30286,32.88078,-84.33334,Thomaston,America/New_York
+30288,33.65502,-84.32813,Conley,America/New_York
+30289,33.32358,-84.63368,Turin,America/New_York
+30290,33.47675,-84.58804,Tyrone,America/New_York
+30291,33.57569,-84.5408,Union City,America/New_York
+30292,33.17207,-84.39438,Williamson,America/New_York
+30293,32.97581,-84.59612,Woodbury,America/New_York
+30294,33.6371,-84.26289,Ellenwood,America/New_York
+30295,33.09319,-84.31819,Zebulon,America/New_York
+30296,33.56351,-84.44254,Riverdale,America/New_York
+30297,33.61511,-84.37145,Forest Park,America/New_York
+30303,33.75284,-84.39028,Atlanta,America/New_York
+30305,33.83518,-84.38931,Atlanta,America/New_York
+30306,33.78867,-84.35136,Atlanta,America/New_York
+30307,33.77053,-84.33419,Atlanta,America/New_York
+30308,33.77094,-84.37773,Atlanta,America/New_York
+30309,33.798,-84.38774,Atlanta,America/New_York
+30310,33.72695,-84.42726,Atlanta,America/New_York
+30311,33.72345,-84.47442,Atlanta,America/New_York
+30312,33.74463,-84.37577,Atlanta,America/New_York
+30313,33.76369,-84.39761,Atlanta,America/New_York
+30314,33.75787,-84.43193,Atlanta,America/New_York
+30315,33.70312,-84.38272,Atlanta,America/New_York
+30316,33.71277,-84.33218,Atlanta,America/New_York
+30317,33.74913,-84.31537,Atlanta,America/New_York
+30318,33.79235,-84.44831,Atlanta,America/New_York
+30319,33.87875,-84.33596,Atlanta,America/New_York
+30322,33.7948,-84.32539,Atlanta,America/New_York
+30324,33.8196,-84.3572,Atlanta,America/New_York
+30326,33.84957,-84.36342,Atlanta,America/New_York
+30327,33.86708,-84.42358,Atlanta,America/New_York
+30328,33.93194,-84.38617,Atlanta,America/New_York
+30329,33.82625,-84.32282,Atlanta,America/New_York
+30331,33.70627,-84.54439,Atlanta,America/New_York
+30332,33.77757,-84.40429,Atlanta,America/New_York
+30334,33.74855,-84.38804,Atlanta,America/New_York
+30336,33.73718,-84.56768,Atlanta,America/New_York
+30337,33.64019,-84.44962,Atlanta,America/New_York
+30338,33.9437,-84.31801,Atlanta,America/New_York
+30339,33.86786,-84.46483,Atlanta,America/New_York
+30340,33.89808,-84.25113,Atlanta,America/New_York
+30341,33.88711,-84.28992,Atlanta,America/New_York
+30342,33.88227,-84.37429,Atlanta,America/New_York
+30344,33.67508,-84.46029,Atlanta,America/New_York
+30345,33.85082,-84.28317,Atlanta,America/New_York
+30346,33.92425,-84.33881,Atlanta,America/New_York
+30349,33.62346,-84.52591,Atlanta,America/New_York
+30350,33.97881,-84.33366,Atlanta,America/New_York
+30354,33.66058,-84.38609,Atlanta,America/New_York
+30360,33.93198,-84.27302,Atlanta,America/New_York
+30363,33.79147,-84.39887,Atlanta,America/New_York
+30401,32.604,-82.34825,Swainsboro,America/New_York
+30410,32.18655,-82.51767,Ailey,America/New_York
+30411,32.1254,-82.79362,Alamo,America/New_York
+30412,32.07973,-82.48643,Alston,America/New_York
+30413,32.88467,-82.51393,Bartow,America/New_York
+30414,32.15618,-81.98522,Bellville,America/New_York
+30415,32.32773,-81.6008,Brooklet,America/New_York
+30417,32.16953,-81.91978,Claxton,America/New_York
+30420,32.30363,-82.12958,Cobbtown,America/New_York
+30421,32.18401,-82.11096,Collins,America/New_York
+30423,32.14601,-81.82301,Daisy,America/New_York
+30425,32.64732,-82.02337,Garfield,America/New_York
+30426,33.03546,-81.65159,Girard,America/New_York
+30427,31.92271,-81.96622,Glennville,America/New_York
+30428,32.21706,-82.71436,Glenwood,America/New_York
+30429,32.15897,-81.93714,Hagan,America/New_York
+30434,33.02867,-82.3727,Louisville,America/New_York
+30436,32.1494,-82.29026,Lyons,America/New_York
+30439,32.4169,-82.07112,Metter,America/New_York
+30441,32.81467,-82.23682,Midville,America/New_York
+30442,32.81677,-81.97549,Millen,America/New_York
+30445,32.16715,-82.58413,Mount Vernon,America/New_York
+30446,32.5599,-81.46734,Newington,America/New_York
+30448,32.48754,-82.36444,Nunez,America/New_York
+30449,32.52254,-81.52987,Oliver,America/New_York
+30450,32.55964,-81.93322,Portal,America/New_York
+30451,32.39325,-81.95622,Pulaski,America/New_York
+30452,32.31706,-81.89417,Register,America/New_York
+30453,32.01926,-82.11899,Reidsville,America/New_York
+30454,32.43857,-82.73421,Rockledge,America/New_York
+30455,32.70111,-81.80652,Rocky Ford,America/New_York
+30456,32.98137,-81.79246,Sardis,America/New_York
+30457,32.39852,-82.56498,Soperton,America/New_York
+30458,32.39732,-81.82694,Statesboro,America/New_York
+30460,32.42718,-81.78272,Statesboro,America/New_York
+30461,32.5072,-81.71941,Statesboro,America/New_York
+30464,32.43509,-82.22186,Stillmore,America/New_York
+30467,32.75114,-81.60468,Sylvania,America/New_York
+30470,32.33018,-82.51818,Tarrytown,America/New_York
+30471,32.53816,-82.18563,Twin City,America/New_York
+30473,32.01613,-82.47198,Uvalda,America/New_York
+30474,32.22393,-82.41381,Vidalia,America/New_York
+30477,32.86279,-82.3979,Wadley,America/New_York
+30501,34.31844,-83.81636,Gainesville,America/New_York
+30504,34.26639,-83.88751,Gainesville,America/New_York
+30506,34.34918,-83.89486,Gainesville,America/New_York
+30507,34.26082,-83.76622,Gainesville,America/New_York
+30510,34.44194,-83.58446,Alto,America/New_York
+30511,34.45674,-83.47474,Baldwin,America/New_York
+30512,34.85667,-83.97204,Blairsville,America/New_York
+30513,34.82469,-84.31891,Blue Ridge,America/New_York
+30516,34.37535,-83.03748,Bowersville,America/New_York
+30517,34.13047,-83.7975,Braselton,America/New_York
+30518,34.132,-84.02578,Buford,America/New_York
+30519,34.08792,-83.9423,Buford,America/New_York
+30520,34.33833,-83.08661,Canon,America/New_York
+30521,34.36202,-83.29355,Carnesville,America/New_York
+30522,34.78351,-84.34233,Cherry Log,America/New_York
+30523,34.72012,-83.54166,Clarkesville,America/New_York
+30525,34.91289,-83.35853,Clayton,America/New_York
+30527,34.47948,-83.7863,Clermont,America/New_York
+30528,34.6083,-83.77589,Cleveland,America/New_York
+30529,34.2155,-83.482,Commerce,America/New_York
+30530,34.22691,-83.38433,Commerce,America/New_York
+30531,34.51017,-83.59103,Cornelia,America/New_York
+30533,34.57344,-84.01576,Dahlonega,America/New_York
+30534,34.43085,-84.1439,Dawsonville,America/New_York
+30535,34.58063,-83.57652,Demorest,America/New_York
+30536,34.65151,-84.35223,Ellijay,America/New_York
+30537,34.97855,-83.32975,Dillard,America/New_York
+30538,34.5035,-83.26888,Eastanollee,America/New_York
+30539,34.68061,-84.47016,East Ellijay,America/New_York
+30540,34.72313,-84.54421,Ellijay,America/New_York
+30541,34.91164,-84.53482,Epworth,America/New_York
+30542,34.17846,-83.90915,Flowery Branch,America/New_York
+30543,34.29781,-83.64971,Gillsville,America/New_York
+30545,34.74208,-83.75813,Helen,America/New_York
+30546,34.90673,-83.71016,Hiawassee,America/New_York
+30547,34.35737,-83.46095,Homer,America/New_York
+30548,34.09311,-83.7646,Hoschton,America/New_York
+30549,34.10731,-83.57684,Jefferson,America/New_York
+30552,34.76965,-83.44575,Lakemont,America/New_York
+30553,34.44473,-83.08771,Lavonia,America/New_York
+30554,34.40093,-83.65926,Lula,America/New_York
+30555,34.97216,-84.42459,McCaysville,America/New_York
+30557,34.48143,-83.18484,Martin,America/New_York
+30558,34.2683,-83.56787,Maysville,America/New_York
+30559,34.95233,-84.26612,Mineral Bluff,America/New_York
+30560,34.87785,-84.19528,Morganton,America/New_York
+30562,34.91937,-83.38177,Mountain City,America/New_York
+30563,34.5596,-83.46283,Mount Airy,America/New_York
+30564,34.47251,-83.8826,Murrayville,America/New_York
+30565,34.08802,-83.41203,Nicholson,America/New_York
+30566,34.23747,-83.89477,Oakwood,America/New_York
+30567,34.18326,-83.6814,Pendergrass,America/New_York
+30568,34.95348,-83.41218,Rabun Gap,America/New_York
+30571,34.71219,-83.68322,Sautee Nacoochee,America/New_York
+30572,34.73539,-84.07364,Suches,America/New_York
+30573,34.74242,-83.39986,Tallulah Falls,America/New_York
+30575,34.20353,-83.71556,Talmo,America/New_York
+30576,34.82682,-83.44539,Tiger,America/New_York
+30577,34.55549,-83.32632,Toccoa,America/New_York
+30581,34.80195,-83.42405,Wiley,America/New_York
+30582,34.9494,-83.89869,Young Harris,America/New_York
+30597,34.52762,-83.98462,Dahlonega,America/New_York
+30598,34.59663,-83.35411,Toccoa Falls,America/New_York
+30601,34.00032,-83.34851,Athens,America/New_York
+30602,33.94252,-83.37256,Athens,America/New_York
+30605,33.90551,-83.32405,Athens,America/New_York
+30606,33.93873,-83.43305,Athens,America/New_York
+30607,34.01895,-83.44774,Athens,America/New_York
+30609,33.93289,-83.37223,Athens,America/New_York
+30619,33.85752,-83.2403,Arnoldsville,America/New_York
+30620,33.92917,-83.75958,Bethlehem,America/New_York
+30621,33.80194,-83.4791,Bishop,America/New_York
+30622,33.92041,-83.53076,Bogart,America/New_York
+30623,33.73113,-83.51592,Bostwick,America/New_York
+30624,34.18097,-83.03885,Bowman,America/New_York
+30625,33.52128,-83.34211,Buckhead,America/New_York
+30627,33.98264,-82.96265,Carlton,America/New_York
+30628,34.03115,-83.21364,Colbert,America/New_York
+30629,34.07779,-83.11625,Comer,America/New_York
+30630,33.89894,-83.14366,Crawford,America/New_York
+30631,33.56553,-82.87034,Crawfordville,America/New_York
+30633,34.17896,-83.24612,Danielsville,America/New_York
+30634,34.20307,-82.94522,Dewy Rose,America/New_York
+30635,34.10346,-82.80145,Elberton,America/New_York
+30639,34.28283,-83.15232,Franklin Springs,America/New_York
+30641,33.77872,-83.56456,Good Hope,America/New_York
+30642,33.5446,-83.1832,Greensboro,America/New_York
+30643,34.36464,-82.91143,Hartwell,America/New_York
+30646,34.08011,-83.31254,Hull,America/New_York
+30648,33.87577,-83.03319,Lexington,America/New_York
+30650,33.5907,-83.46693,Madison,America/New_York
+30655,33.78214,-83.69072,Monroe,America/New_York
+30656,33.86302,-83.71903,Monroe,America/New_York
+30660,33.78237,-82.94369,Rayle,America/New_York
+30662,34.26383,-83.14624,Royston,America/New_York
+30663,33.61572,-83.60357,Rutledge,America/New_York
+30664,33.55786,-82.79904,Sharon,America/New_York
+30665,33.53707,-83.07475,Siloam,America/New_York
+30666,33.95891,-83.58266,Statham,America/New_York
+30667,33.78526,-83.16634,Stephens,America/New_York
+30668,33.90835,-82.69486,Tignall,America/New_York
+30669,33.67159,-83.11187,Union Point,America/New_York
+30673,33.72716,-82.71594,Washington,America/New_York
+30677,33.7929,-83.38186,Watkinsville,America/New_York
+30678,33.44626,-83.07598,White Plains,America/New_York
+30680,33.99725,-83.69743,Winder,America/New_York
+30683,33.94703,-83.25775,Winterville,America/New_York
+30701,34.49535,-84.95385,Calhoun,America/New_York
+30705,34.74711,-84.74929,Chatsworth,America/New_York
+30707,34.77943,-85.36028,Chickamauga,America/New_York
+30708,34.93985,-84.66754,Cisco,America/New_York
+30710,34.95002,-84.91993,Cohutta,America/New_York
+30711,34.92905,-84.76259,Crandall,America/New_York
+30720,34.73472,-85.00289,Dalton,America/New_York
+30721,34.79168,-84.91187,Dalton,America/New_York
+30724,34.8253,-84.75795,Eton,America/New_York
+30725,34.92443,-85.35359,Flintstone,America/New_York
+30726,34.97579,-85.13959,Graysville,America/New_York
+30728,34.68015,-85.23417,La Fayette,America/New_York
+30730,34.36017,-85.42172,Lyerly,America/New_York
+30731,34.58317,-85.47894,Menlo,America/New_York
+30733,34.41574,-85.04349,Plainville,America/New_York
+30734,34.53361,-84.71346,Ranger,America/New_York
+30735,34.60183,-84.89375,Resaca,America/New_York
+30736,34.90244,-85.13306,Ringgold,America/New_York
+30738,34.79534,-85.47846,Rising Fawn,America/New_York
+30739,34.80345,-85.21515,Rock Spring,America/New_York
+30740,34.75407,-85.07786,Rocky Face,America/New_York
+30741,34.95168,-85.28213,Rossville,America/New_York
+30742,34.93566,-85.24482,Fort Oglethorpe,America/New_York
+30746,34.59214,-85.03285,Sugar Valley,America/New_York
+30747,34.50179,-85.29407,Summerville,America/New_York
+30750,34.93681,-85.3882,Lookout Mountain,America/New_York
+30751,34.98212,-84.73743,Tennga,America/New_York
+30752,34.91136,-85.53079,Trenton,America/New_York
+30753,34.57896,-85.28806,Trion,America/New_York
+30755,34.86944,-85.04072,Tunnel Hill,America/New_York
+30756,34.90103,-84.97458,Varnell,America/New_York
+30757,34.94164,-85.4324,Wildwood,America/New_York
+30802,33.60215,-82.31832,Appling,America/New_York
+30803,33.13878,-82.55013,Avera,America/New_York
+30805,33.28012,-82.19936,Blythe,America/New_York
+30807,33.45517,-82.64777,Camak,America/New_York
+30808,33.38234,-82.40237,Dearing,America/New_York
+30809,33.55522,-82.16357,Evans,America/New_York
+30810,33.23247,-82.58849,Gibson,America/New_York
+30812,33.36731,-82.0291,Gracewood,America/New_York
+30813,33.47037,-82.2193,Grovetown,America/New_York
+30814,33.43604,-82.31879,Harlem,America/New_York
+30815,33.2869,-82.0829,Hephzibah,America/New_York
+30816,33.1639,-82.17061,Keysville,America/New_York
+30817,33.7746,-82.43469,Lincolnton,America/New_York
+30818,33.26765,-82.32646,Matthews,America/New_York
+30820,33.22457,-82.71989,Mitchell,America/New_York
+30821,33.48502,-82.73121,Norwood,America/New_York
+30822,32.91866,-81.94439,Perkins,America/New_York
+30823,33.222,-82.45647,Stapleton,America/New_York
+30824,33.51586,-82.51467,Thomson,America/New_York
+30828,33.37281,-82.65351,Warrenton,America/New_York
+30830,33.08204,-81.9751,Waynesboro,America/New_York
+30833,33.18934,-82.36014,Wrens,America/New_York
+30901,33.43811,-81.95327,Augusta,America/New_York
+30904,33.47864,-82.01315,Augusta,America/New_York
+30905,33.4087,-82.15073,Augusta,America/New_York
+30906,33.34842,-81.97239,Augusta,America/New_York
+30907,33.52193,-82.08596,Augusta,America/New_York
+30909,33.47068,-82.08376,Augusta,America/New_York
+30912,33.47021,-81.98789,Augusta,America/New_York
+31001,31.97595,-83.33979,Abbeville,America/New_York
+31002,32.54802,-82.59012,Adrian,America/New_York
+31003,32.59688,-83.22299,Allentown,America/New_York
+31004,32.95167,-83.80536,Bolingbroke,America/New_York
+31005,32.54533,-83.59497,Bonaire,America/New_York
+31006,32.58164,-84.25531,Butler,America/New_York
+31007,32.18917,-83.93377,Byromville,America/New_York
+31008,32.65479,-83.78287,Byron,America/New_York
+31009,32.27636,-83.00564,Cadwell,America/New_York
+31011,32.13315,-83.0556,Chauncey,America/New_York
+31012,32.39422,-83.17717,Chester,America/New_York
+31014,32.41439,-83.34504,Cochran,America/New_York
+31015,31.93729,-83.77444,Cordele,America/New_York
+31016,32.83656,-84.11477,Culloden,America/New_York
+31017,32.62075,-83.23305,Danville,America/New_York
+31018,32.97888,-82.62012,Davisboro,America/New_York
+31019,32.42622,-83.0534,Dexter,America/New_York
+31020,32.65376,-83.501,Dry Branch,America/New_York
+31021,32.49002,-82.93435,Dublin,America/New_York
+31022,32.51216,-83.10954,Dudley,America/New_York
+31023,32.18288,-83.1991,Eastman,America/New_York
+31024,33.32344,-83.36987,Eatonton,America/New_York
+31025,32.33833,-83.73876,Elko,America/New_York
+31027,32.57405,-82.81959,East Dublin,America/New_York
+31028,32.63164,-83.68459,Centerville,America/New_York
+31029,33.03894,-83.92977,Forsyth,America/New_York
+31030,32.56861,-83.89103,Fort Valley,America/New_York
+31031,32.87424,-83.32555,Gordon,America/New_York
+31032,33.01039,-83.57292,Gray,America/New_York
+31033,33.07661,-83.43643,Haddock,America/New_York
+31034,33.05473,-83.22538,Hardwick,America/New_York
+31035,32.84601,-82.7062,Harrison,America/New_York
+31036,32.27055,-83.49597,Hawkinsville,America/New_York
+31037,32.12056,-82.93245,McRae Helena,America/New_York
+31038,33.15554,-83.61644,Hillsboro,America/New_York
+31039,32.6024,-84.38036,Howard,America/New_York
+31041,32.37905,-84.1721,Ideal,America/New_York
+31042,32.74421,-83.16964,Irwinton,America/New_York
+31044,32.66857,-83.37612,Jeffersonville,America/New_York
+31045,33.28484,-82.78933,Jewell,America/New_York
+31046,33.05237,-83.78302,Juliette,America/New_York
+31047,32.46786,-83.58009,Kathleen,America/New_York
+31049,32.68281,-82.52634,Kite,America/New_York
+31050,32.72924,-83.94096,Knoxville,America/New_York
+31051,32.14456,-83.87812,Lilly,America/New_York
+31052,32.7743,-83.84664,Lizella,America/New_York
+31054,32.88214,-83.20723,McIntyre,America/New_York
+31055,31.98248,-82.89046,McRae Helena,America/New_York
+31057,32.43319,-83.94324,Marshallville,America/New_York
+31058,32.4911,-84.41273,Mauk,America/New_York
+31060,31.98333,-83.05673,Milan,America/New_York
+31061,33.06041,-83.22816,Milledgeville,America/New_York
+31062,33.04336,-83.21563,Milledgeville,America/New_York
+31063,32.29249,-83.9648,Montezuma,America/New_York
+31064,33.29031,-83.69986,Monticello,America/New_York
+31065,32.56301,-83.16642,Montrose,America/New_York
+31066,32.80757,-83.98953,Musella,America/New_York
+31067,32.85229,-82.96471,Oconee,America/New_York
+31068,32.33226,-84.10704,Oglethorpe,America/New_York
+31069,32.4406,-83.74373,Perry,America/New_York
+31070,32.18801,-83.78669,Pinehurst,America/New_York
+31071,32.13325,-83.52255,Pineview,America/New_York
+31072,31.96582,-83.56619,Pitts,America/New_York
+31075,32.35428,-82.95277,Rentz,America/New_York
+31076,32.54709,-84.10762,Reynolds,America/New_York
+31077,31.93489,-83.17727,Rhine,America/New_York
+31078,32.6987,-84.06456,Roberta,America/New_York
+31079,31.94104,-83.46303,Rochelle,America/New_York
+31081,32.40824,-84.27725,Rupert,America/New_York
+31082,32.992,-82.89815,Sandersville,America/New_York
+31083,32.04473,-82.81957,Scotland,America/New_York
+31084,31.96152,-83.6028,Seville,America/New_York
+31085,33.42557,-83.631,Shady Dale,America/New_York
+31087,33.26609,-83.00712,Sparta,America/New_York
+31088,32.58587,-83.65528,Warner Robins,America/New_York
+31089,32.85239,-82.86361,Tennille,America/New_York
+31090,32.79599,-83.0512,Toomsboro,America/New_York
+31091,32.23653,-83.69966,Unadilla,America/New_York
+31092,32.08984,-83.78304,Vienna,America/New_York
+31093,32.64815,-83.65688,Warner Robins,America/New_York
+31094,33.11378,-82.79892,Warthen,America/New_York
+31096,32.71875,-82.70636,Wrightsville,America/New_York
+31097,32.89947,-84.15554,Yatesville,America/New_York
+31098,32.61898,-83.57357,Warner Robins,America/New_York
+31201,32.81433,-83.61846,Macon,America/New_York
+31204,32.84996,-83.67609,Macon,America/New_York
+31206,32.79383,-83.6832,Macon,America/New_York
+31207,32.82859,-83.64928,Macon,America/New_York
+31210,32.90486,-83.7356,Macon,America/New_York
+31211,32.90665,-83.60435,Macon,America/New_York
+31213,32.84009,-83.63937,Macon,America/New_York
+31216,32.72885,-83.67914,Macon,America/New_York
+31217,32.84506,-83.50568,Macon,America/New_York
+31220,32.87813,-83.8209,Macon,America/New_York
+31301,31.7581,-81.60386,Allenhurst,America/New_York
+31302,32.12567,-81.34134,Bloomingdale,America/New_York
+31303,32.49631,-81.30616,Clyo,America/New_York
+31305,31.39057,-81.39054,Darien,America/New_York
+31307,32.17979,-81.3967,Eden,America/New_York
+31308,32.1758,-81.48024,Ellabell,America/New_York
+31309,31.88382,-81.44358,Fleming,America/New_York
+31312,32.3211,-81.40126,Guyton,America/New_York
+31313,31.83534,-81.6183,Hinesville,America/New_York
+31314,31.90628,-81.61671,Fort Stewart,America/New_York
+31315,31.88768,-81.60598,Fort Stewart,America/New_York
+31316,31.7183,-81.73457,Ludowici,America/New_York
+31318,32.13575,-81.37566,Meldrim,America/New_York
+31320,31.76707,-81.36231,Midway,America/New_York
+31321,32.18185,-81.66472,Pembroke,America/New_York
+31322,32.10265,-81.25626,Pooler,America/New_York
+31323,31.67359,-81.45304,Riceboro,America/New_York
+31324,31.85707,-81.26951,Richmond Hill,America/New_York
+31326,32.29653,-81.22824,Rincon,America/New_York
+31327,31.44909,-81.25132,Sapelo Island,America/New_York
+31328,32.01046,-80.89009,Tybee Island,America/New_York
+31329,32.4251,-81.34314,Springfield,America/New_York
+31331,31.5159,-81.42042,Townsend,America/New_York
+31333,31.76786,-81.62758,Walthourville,America/New_York
+31401,32.06831,-81.09252,Savannah,America/New_York
+31404,32.05064,-81.05367,Savannah,America/New_York
+31405,32.0392,-81.17352,Savannah,America/New_York
+31406,31.97783,-81.08517,Savannah,America/New_York
+31407,32.18232,-81.19942,Port Wentworth,America/New_York
+31408,32.11164,-81.18158,Savannah,America/New_York
+31409,32.0106,-81.15539,Savannah,America/New_York
+31410,32.01821,-80.99215,Savannah,America/New_York
+31411,31.94002,-81.03511,Savannah,America/New_York
+31415,32.0802,-81.126,Savannah,America/New_York
+31419,31.98479,-81.23867,Savannah,America/New_York
+31421,32.08712,-81.08016,Savannah,America/New_York
+31501,31.22693,-82.34852,Waycross,America/New_York
+31503,31.17687,-82.40173,Waycross,America/New_York
+31510,31.54729,-82.43992,Alma,America/New_York
+31512,31.54535,-83.01255,Ambrose,America/New_York
+31513,31.77792,-82.34622,Baxley,America/New_York
+31516,31.30946,-82.2565,Blackshear,America/New_York
+31518,31.51272,-82.18325,Bristol,America/New_York
+31519,31.67641,-82.86946,Broxton,America/New_York
+31520,31.17745,-81.48729,Brunswick,America/New_York
+31522,31.23595,-81.35528,Saint Simons Island,America/New_York
+31523,31.21113,-81.61519,Brunswick,America/New_York
+31524,31.24098,-81.47449,Brunswick,America/New_York
+31525,31.3114,-81.5229,Brunswick,America/New_York
+31527,31.07155,-81.42225,Jekyll Island,America/New_York
+31532,31.72462,-82.74889,Denton,America/New_York
+31533,31.55021,-82.8287,Douglas,America/New_York
+31535,31.45841,-82.86504,Douglas,America/New_York
+31537,30.89223,-82.12492,Folkston,America/New_York
+31539,31.82393,-82.60658,Hazlehurst,America/New_York
+31542,31.1528,-82.12166,Hoboken,America/New_York
+31543,31.34455,-81.82697,Hortense,America/New_York
+31544,31.83802,-82.95561,Jacksonville,America/New_York
+31545,31.64867,-81.9405,Jesup,America/New_York
+31546,31.52521,-81.8113,Jesup,America/New_York
+31547,30.79096,-81.53443,Kings Bay,America/New_York
+31548,30.7953,-81.71043,Kingsland,America/New_York
+31549,31.94503,-82.70922,Lumber City,America/New_York
+31550,31.13924,-82.59575,Manor,America/New_York
+31551,31.49223,-82.27322,Mershon,America/New_York
+31552,31.29144,-82.5996,Millwood,America/New_York
+31553,31.17307,-81.98026,Nahunta,America/New_York
+31554,31.48265,-82.61861,Nicholls,America/New_York
+31555,31.70275,-82.06647,Odum,America/New_York
+31556,31.40508,-82.1152,Offerman,America/New_York
+31557,31.3745,-82.09711,Patterson,America/New_York
+31558,30.80173,-81.51606,Saint Marys,America/New_York
+31560,31.50312,-82.02896,Screven,America/New_York
+31561,31.20199,-81.3373,Sea Island,America/New_York
+31562,30.47778,-82.10755,Saint George,America/New_York
+31563,31.73653,-82.18288,Surrency,America/New_York
+31564,31.24872,-82.47093,Waresboro,America/New_York
+31565,31.06868,-81.64783,Waverly,America/New_York
+31566,31.18357,-81.8084,Waynesville,America/New_York
+31567,31.63011,-82.70705,West Green,America/New_York
+31568,31.00975,-81.82218,White Oak,America/New_York
+31569,30.90167,-81.68249,Woodbine,America/New_York
+31599,31.56333,-81.90271,Jesup,America/New_York
+31601,30.74772,-83.33968,Valdosta,America/New_York
+31602,30.86734,-83.34269,Valdosta,America/New_York
+31605,30.93334,-83.23482,Valdosta,America/New_York
+31606,30.7963,-83.18647,Valdosta,America/New_York
+31620,31.11861,-83.43731,Adel,America/New_York
+31622,31.37446,-83.2023,Alapaha,America/New_York
+31623,31.07137,-82.644,Argyle,America/New_York
+31624,31.29911,-82.72612,Axson,America/New_York
+31625,30.9918,-83.52556,Barney,America/New_York
+31626,30.77609,-83.80208,Boston,America/New_York
+31627,31.03923,-83.39238,Cecil,America/New_York
+31629,30.82051,-83.68809,Dixie,America/New_York
+31630,30.92354,-82.85667,Du Pont,America/New_York
+31631,30.71119,-82.64657,Fargo,America/New_York
+31632,30.9876,-83.36006,Hahira,America/New_York
+31634,31.02867,-82.7321,Homerville,America/New_York
+31635,31.103,-83.04317,Lakeland,America/New_York
+31636,30.7337,-83.1096,Lake Park,America/New_York
+31637,31.293,-83.44092,Lenox,America/New_York
+31638,30.90627,-83.51589,Morven,America/New_York
+31639,31.21239,-83.19248,Nashville,America/New_York
+31641,30.93182,-83.09672,Naylor,America/New_York
+31642,31.25989,-82.88273,Pearson,America/New_York
+31643,30.77061,-83.55859,Quitman,America/New_York
+31645,31.06245,-83.21846,Ray City,America/New_York
+31647,31.21033,-83.43158,Sparks,America/New_York
+31648,30.70834,-83.00838,Statenville,America/New_York
+31649,30.94349,-83.00781,Stockton,America/New_York
+31650,31.38327,-83.02761,Willacoochee,America/New_York
+31698,30.84749,-83.29051,Valdosta,America/New_York
+31699,30.96666,-83.19237,Moody Afb,America/New_York
+31701,31.57376,-84.15508,Albany,America/New_York
+31704,31.551,-84.05634,Albany,America/New_York
+31705,31.51169,-84.05333,Albany,America/New_York
+31707,31.58736,-84.20689,Albany,America/New_York
+31709,32.05071,-84.14011,Americus,America/New_York
+31711,32.18766,-84.12258,Andersonville,America/New_York
+31712,31.8215,-83.72806,Arabi,America/New_York
+31714,31.71075,-83.67496,Ashburn,America/New_York
+31716,31.36512,-84.11445,Baconton,America/New_York
+31719,32.08261,-84.29768,Americus,America/New_York
+31720,30.87986,-83.72297,Barwick,America/New_York
+31721,31.5087,-84.30331,Albany,America/New_York
+31722,31.05492,-83.61559,Berlin,America/New_York
+31727,31.41778,-83.3874,Brookfield,America/New_York
+31730,31.20749,-84.28438,Camilla,America/New_York
+31733,31.59293,-83.48599,Chula,America/New_York
+31735,31.97195,-83.96446,Cobb,America/New_York
+31738,31.01133,-83.87502,Coolidge,America/New_York
+31743,31.90089,-84.00604,De Soto,America/New_York
+31744,31.33709,-83.90646,Doerun,America/New_York
+31747,31.1753,-83.58736,Ellenton,America/New_York
+31749,31.42128,-83.3315,Enigma,America/New_York
+31750,31.73391,-83.21752,Fitzgerald,America/New_York
+31753,31.20044,-83.87287,Funston,America/New_York
+31756,31.17558,-83.96224,Hartsfield,America/New_York
+31757,30.87291,-83.89945,Thomasville,America/New_York
+31763,31.73889,-84.14711,Leesburg,America/New_York
+31764,31.9772,-84.08135,Leslie,America/New_York
+31765,31.09514,-84.0346,Meigs,America/New_York
+31768,31.19329,-83.84047,Moultrie,America/New_York
+31771,31.24332,-83.64775,Norman Park,America/New_York
+31772,31.72213,-83.96504,Oakfield,America/New_York
+31773,30.97795,-84.04624,Ochlocknee,America/New_York
+31774,31.56102,-83.27125,Ocilla,America/New_York
+31775,31.33418,-83.60366,Omega,America/New_York
+31778,30.9754,-83.70931,Pavo,America/New_York
+31779,31.10032,-84.19117,Pelham,America/New_York
+31780,32.02898,-84.39024,Plains,America/New_York
+31781,31.56062,-83.79316,Poulan,America/New_York
+31783,31.76416,-83.4738,Rebecca,America/New_York
+31784,31.25671,-84.0431,Sale City,America/New_York
+31787,31.89994,-84.24947,Smithville,America/New_York
+31788,31.10891,-83.68099,Moultrie,America/New_York
+31789,31.47858,-83.73257,Sumner,America/New_York
+31790,31.64823,-83.5693,Sycamore,America/New_York
+31791,31.53383,-83.87833,Sylvester,America/New_York
+31792,30.77079,-84.04238,Thomasville,America/New_York
+31793,31.46104,-83.58386,Tifton,America/New_York
+31794,31.44418,-83.45151,Tifton,America/New_York
+31795,31.47611,-83.67633,Ty Ty,America/New_York
+31796,31.77351,-83.87659,Warwick,America/New_York
+31798,31.64117,-83.04333,Wray,America/New_York
+31801,32.51765,-84.5906,Box Springs,America/New_York
+31803,32.30501,-84.51682,Buena Vista,America/New_York
+31804,32.66199,-84.88402,Cataula,America/New_York
+31805,32.26621,-84.74612,Cusseta,America/New_York
+31806,32.26147,-84.30043,Ellaville,America/New_York
+31807,32.64054,-84.80142,Ellerslie,America/New_York
+31808,32.63545,-85.00707,Fortson,America/New_York
+31810,32.56775,-84.53236,Geneva,America/New_York
+31811,32.74522,-84.93327,Hamilton,America/New_York
+31812,32.63173,-84.42019,Junction City,America/New_York
+31814,32.20531,-84.8614,Louvale,America/New_York
+31815,32.04117,-84.85407,Lumpkin,America/New_York
+31816,32.8762,-84.60169,Manchester,America/New_York
+31820,32.57576,-84.82947,Midland,America/New_York
+31821,32.14048,-84.97083,Omaha,America/Chicago
+31822,32.86708,-84.91107,Pine Mountain,America/New_York
+31823,32.80061,-84.81377,Pine Mountain Valley,America/New_York
+31824,32.05687,-84.5229,Preston,America/New_York
+31825,32.1081,-84.6693,Richland,America/New_York
+31826,32.79526,-84.70292,Shiloh,America/New_York
+31827,32.69821,-84.49847,Talbotton,America/New_York
+31829,32.56681,-84.72787,Upatoi,America/New_York
+31830,32.8951,-84.72689,Warm Springs,America/New_York
+31831,32.66486,-84.70701,Waverly Hall,America/New_York
+31832,31.95501,-84.61709,Weston,America/New_York
+31833,32.84963,-85.09202,West Point,America/New_York
+31836,32.79189,-84.54891,Woodland,America/New_York
+31901,32.46461,-84.97986,Columbus,America/New_York
+31903,32.41484,-84.95321,Columbus,America/New_York
+31904,32.55189,-85.00009,Columbus,America/New_York
+31905,32.37304,-84.84331,Fort Benning,America/New_York
+31906,32.46815,-84.94963,Columbus,America/New_York
+31907,32.48388,-84.89976,Columbus,America/New_York
+31909,32.54517,-84.92385,Columbus,America/New_York
+32003,30.09813,-81.71255,Fleming Island,America/New_York
+32008,29.90351,-82.90311,Branford,America/New_York
+32009,30.42078,-81.97252,Bryceville,America/New_York
+32011,30.56985,-81.83975,Callahan,America/New_York
+32013,30.19366,-83.29116,Day,America/New_York
+32024,30.0793,-82.72597,Lake City,America/New_York
+32025,30.11266,-82.57072,Lake City,America/New_York
+32033,29.78851,-81.44263,Elkton,America/New_York
+32034,30.624,-81.49392,Fernandina Beach,America/New_York
+32038,29.93617,-82.69924,Fort White,America/New_York
+32040,30.24696,-82.23531,Glen Saint Mary,America/New_York
+32043,29.92991,-81.74304,Green Cove Springs,America/New_York
+32044,29.85344,-82.16425,Hampton,America/New_York
+32046,30.70253,-81.91718,Hilliard,America/New_York
+32052,30.48683,-82.94499,Jasper,America/New_York
+32053,30.56417,-83.1519,Jennings,America/New_York
+32054,30.0281,-82.39143,Lake Butler,America/New_York
+32055,30.27031,-82.62507,Lake City,America/New_York
+32058,30.07988,-82.10743,Lawtey,America/New_York
+32059,30.38672,-83.27066,Lee,America/New_York
+32060,30.27554,-83.04935,Live Oak,America/New_York
+32061,30.08311,-82.51666,Lulu,America/New_York
+32062,30.13276,-82.9754,McAlpin,America/New_York
+32063,30.27045,-82.11974,Macclenny,America/New_York
+32064,30.28907,-83.02375,Live Oak,America/New_York
+32065,30.15613,-81.81762,Orange Park,America/New_York
+32066,30.04423,-83.22495,Mayo,America/New_York
+32068,30.08218,-81.88245,Middleburg,America/New_York
+32071,30.04097,-82.945,O'Brien,America/New_York
+32073,30.16766,-81.74069,Orange Park,America/New_York
+32079,29.97814,-81.80563,Penney Farms,America/New_York
+32080,29.82453,-81.27412,Saint Augustine,America/New_York
+32081,30.12143,-81.42089,Ponte Vedra,America/New_York
+32082,30.12488,-81.36577,Ponte Vedra Beach,America/New_York
+32083,30.09074,-82.23222,Raiford,America/New_York
+32084,29.91412,-81.36417,Saint Augustine,America/New_York
+32086,29.75656,-81.30282,Saint Augustine,America/New_York
+32087,30.36999,-82.29741,Sanderson,America/New_York
+32091,29.93205,-82.11324,Starke,America/New_York
+32092,29.92849,-81.52209,Saint Augustine,America/New_York
+32094,30.19797,-82.82767,Wellborn,America/New_York
+32095,30.01693,-81.40927,Saint Augustine,America/New_York
+32096,30.43678,-82.7011,White Springs,America/New_York
+32097,30.65851,-81.64478,Yulee,America/New_York
+32102,29.1359,-81.52544,Astor,America/New_York
+32110,29.44456,-81.36131,Bunnell,America/New_York
+32112,29.42664,-81.55649,Crescent City,America/New_York
+32113,29.39836,-82.08127,Citra,America/New_York
+32114,29.19312,-81.04915,Daytona Beach,America/New_York
+32117,29.23351,-81.06727,Daytona Beach,America/New_York
+32118,29.21035,-81.00425,Daytona Beach,America/New_York
+32119,29.16001,-81.02707,Daytona Beach,America/New_York
+32124,29.15802,-81.15732,Daytona Beach,America/New_York
+32127,29.10866,-80.97907,Port Orange,America/New_York
+32128,29.09773,-81.07467,Port Orange,America/New_York
+32129,29.13721,-81.02381,Port Orange,America/New_York
+32130,29.15704,-81.34501,De Leon Springs,America/New_York
+32131,29.67803,-81.56785,East Palatka,America/New_York
+32132,28.97731,-80.92345,Edgewater,America/New_York
+32133,29.01061,-81.92036,Eastlake Weir,America/New_York
+32134,29.37177,-81.82562,Fort McCoy,America/New_York
+32136,29.45252,-81.14025,Flagler Beach,America/New_York
+32137,29.58057,-81.22455,Palm Coast,America/New_York
+32139,29.37693,-81.61431,Georgetown,America/New_York
+32140,29.76274,-81.86306,Florahome,America/New_York
+32141,28.92322,-80.90196,Edgewater,America/New_York
+32145,29.67899,-81.41973,Hastings,America/New_York
+32147,29.63157,-81.79577,Hollister,America/New_York
+32148,29.60088,-81.88191,Interlachen,America/New_York
+32157,29.46296,-81.58165,Lake Como,America/New_York
+32159,28.92456,-81.90528,Lady Lake,America/New_York
+32162,28.91629,-81.99374,The Villages,America/New_York
+32163,28.81878,-81.98663,The Villages,America/New_York
+32164,29.48316,-81.2174,Palm Coast,America/New_York
+32168,28.98214,-81.03721,New Smyrna Beach,America/New_York
+32169,28.97934,-80.87386,New Smyrna Beach,America/New_York
+32174,29.28928,-81.16446,Ormond Beach,America/New_York
+32176,29.33216,-81.06327,Ormond Beach,America/New_York
+32177,29.69011,-81.70565,Palatka,America/New_York
+32179,29.09631,-81.89686,Ocklawaha,America/New_York
+32180,29.23437,-81.44521,Pierson,America/New_York
+32181,29.50658,-81.60126,Pomona Park,America/New_York
+32182,29.50926,-81.94113,Orange Springs,America/New_York
+32187,29.57827,-81.55392,San Mateo,America/New_York
+32189,29.54991,-81.64819,Satsuma,America/New_York
+32190,29.33289,-81.49056,Seville,America/New_York
+32192,29.35005,-82.11109,Sparr,America/New_York
+32193,29.47605,-81.6647,Welaka,America/New_York
+32195,28.9854,-81.89814,Weirsdale,America/New_York
+32202,30.32505,-81.64786,Jacksonville,America/New_York
+32203,30.33702,-81.67129,Jacksonville,America/New_York
+32204,30.31636,-81.68095,Jacksonville,America/New_York
+32205,30.30275,-81.72257,Jacksonville,America/New_York
+32206,30.35069,-81.63865,Jacksonville,America/New_York
+32207,30.29,-81.64018,Jacksonville,America/New_York
+32208,30.39351,-81.68245,Jacksonville,America/New_York
+32209,30.36141,-81.69573,Jacksonville,America/New_York
+32210,30.26491,-81.74746,Jacksonville,America/New_York
+32211,30.33276,-81.58428,Jacksonville,America/New_York
+32212,30.21916,-81.67869,Jacksonville,America/New_York
+32214,30.20749,-81.68334,Jacksonville,America/New_York
+32216,30.27891,-81.58305,Jacksonville,America/New_York
+32217,30.2394,-81.62722,Jacksonville,America/New_York
+32218,30.48673,-81.66959,Jacksonville,America/New_York
+32219,30.41815,-81.81367,Jacksonville,America/New_York
+32220,30.33693,-81.85335,Jacksonville,America/New_York
+32221,30.26043,-81.86764,Jacksonville,America/New_York
+32222,30.21651,-81.8293,Jacksonville,America/New_York
+32223,30.1549,-81.64821,Jacksonville,America/New_York
+32224,30.26815,-81.4642,Jacksonville,America/New_York
+32225,30.35768,-81.50592,Jacksonville,America/New_York
+32226,30.46444,-81.50999,Jacksonville,America/New_York
+32227,30.38792,-81.40571,Jacksonville,America/New_York
+32228,30.39158,-81.40022,Jacksonville,America/New_York
+32233,30.35943,-81.42098,Atlantic Beach,America/New_York
+32234,30.20784,-82.01096,Jacksonville,America/New_York
+32244,30.2171,-81.75384,Jacksonville,America/New_York
+32246,30.29422,-81.51782,Jacksonville,America/New_York
+32250,30.27846,-81.41035,Jacksonville Beach,America/New_York
+32254,30.34164,-81.73549,Jacksonville,America/New_York
+32256,30.1929,-81.50309,Jacksonville,America/New_York
+32257,30.19515,-81.6123,Jacksonville,America/New_York
+32258,30.13874,-81.54941,Jacksonville,America/New_York
+32259,30.07109,-81.6029,Saint Johns,America/New_York
+32266,30.31648,-81.41177,Neptune Beach,America/New_York
+32277,30.3728,-81.59465,Jacksonville,America/New_York
+32301,30.42701,-84.25799,Tallahassee,America/New_York
+32303,30.51237,-84.34386,Tallahassee,America/New_York
+32304,30.45346,-84.35314,Tallahassee,America/New_York
+32305,30.3337,-84.26977,Tallahassee,America/New_York
+32306,30.44227,-84.29455,Tallahassee,America/New_York
+32307,30.42173,-84.28686,Tallahassee,America/New_York
+32308,30.4781,-84.21968,Tallahassee,America/New_York
+32309,30.57174,-84.10128,Tallahassee,America/New_York
+32310,30.39924,-84.50694,Tallahassee,America/New_York
+32311,30.39647,-84.16843,Tallahassee,America/New_York
+32312,30.60421,-84.23996,Tallahassee,America/New_York
+32313,30.44168,-84.30287,Tallahassee,America/New_York
+32317,30.46746,-84.11442,Tallahassee,America/New_York
+32320,29.74232,-85.06938,Apalachicola,America/New_York
+32321,30.26196,-84.9891,Bristol,America/New_York
+32322,29.89948,-84.62327,Carrabelle,America/New_York
+32323,29.89185,-84.6122,Lanark Village,America/New_York
+32324,30.65635,-84.79126,Chattahoochee,America/New_York
+32327,30.18705,-84.30472,Crawfordville,America/New_York
+32328,29.8463,-84.90991,Eastpoint,America/New_York
+32330,30.57859,-84.74799,Greensboro,America/New_York
+32331,30.45851,-83.6294,Greenville,America/New_York
+32332,30.61168,-84.6657,Gretna,America/New_York
+32333,30.60677,-84.41249,Havana,America/New_York
+32334,30.2612,-84.75835,Hosford,America/New_York
+32336,30.26371,-83.86319,Lamont,America/New_York
+32337,30.48307,-84.02104,Lloyd,America/New_York
+32340,30.45651,-83.42667,Madison,America/New_York
+32343,30.48515,-84.47652,Midway,America/New_York
+32344,30.44645,-83.91902,Monticello,America/New_York
+32346,29.97919,-84.38387,Panacea,America/New_York
+32347,30.14416,-83.64268,Perry,America/New_York
+32348,29.94808,-83.56762,Perry,America/New_York
+32350,30.58662,-83.32242,Pinetta,America/New_York
+32351,30.52358,-84.68362,Quincy,America/New_York
+32352,30.6499,-84.58535,Quincy,America/New_York
+32355,30.1695,-84.21002,Saint Marks,America/New_York
+32356,29.85387,-83.40018,Salem,America/New_York
+32358,30.09535,-84.54468,Sopchoppy,America/New_York
+32359,29.66181,-83.37047,Steinhatchee,America/New_York
+32360,30.36506,-84.81238,Telogia,America/New_York
+32361,30.35765,-83.98865,Wacissa,America/New_York
+32399,30.40162,-84.24426,Tallahassee,America/New_York
+32401,30.14477,-85.67448,Panama City,America/Chicago
+32403,30.05337,-85.55679,Panama City,America/Chicago
+32404,30.19075,-85.51122,Panama City,America/Chicago
+32405,30.20002,-85.66869,Panama City,America/Chicago
+32407,30.20276,-85.7912,Panama City Beach,America/Chicago
+32408,30.1593,-85.75324,Panama City,America/Chicago
+32409,30.33447,-85.70516,Panama City,America/Chicago
+32410,29.94805,-85.41812,Mexico Beach,America/Chicago
+32413,30.30975,-85.88745,Panama City Beach,America/Chicago
+32420,30.63637,-85.38123,Alford,America/Chicago
+32421,30.52973,-85.19308,Altha,America/Chicago
+32423,30.94496,-85.06073,Bascom,America/Chicago
+32424,30.38901,-85.08232,Blountstown,America/Chicago
+32425,30.85538,-85.72225,Bonifay,America/Chicago
+32426,30.94861,-85.36714,Campbellton,America/Chicago
+32427,30.71587,-85.79311,Caryville,America/Chicago
+32428,30.61797,-85.57154,Chipley,America/Chicago
+32430,30.41872,-85.22562,Clarksville,America/Chicago
+32431,30.78609,-85.40982,Cottondale,America/Chicago
+32432,30.71415,-85.07727,Cypress,America/Chicago
+32433,30.84848,-86.19822,Defuniak Springs,America/Chicago
+32435,30.65367,-86.11597,Defuniak Springs,America/Chicago
+32437,30.43315,-85.90694,Ebro,America/Chicago
+32438,30.51251,-85.41744,Fountain,America/Chicago
+32439,30.49082,-86.12933,Freeport,America/Chicago
+32440,30.92025,-85.52588,Graceville,America/Chicago
+32442,30.68531,-85.00829,Grand Ridge,America/Chicago
+32443,30.86586,-85.11695,Greenwood,America/Chicago
+32444,30.23854,-85.65185,Lynn Haven,America/Chicago
+32445,30.96924,-85.19504,Malone,America/Chicago
+32446,30.84493,-85.23017,Marianna,America/Chicago
+32448,30.66663,-85.21616,Marianna,America/Chicago
+32449,30.27611,-85.20607,Wewahitchka,America/Chicago
+32455,30.63831,-85.96395,Ponce De Leon,America/Chicago
+32456,29.84586,-85.3188,Port Saint Joe,America/New_York
+32459,30.36527,-86.18429,Santa Rosa Beach,America/Chicago
+32460,30.77565,-84.94949,Sneads,America/Chicago
+32461,30.30905,-86.03508,Inlet Beach,America/Chicago
+32462,30.55753,-85.83241,Vernon,America/Chicago
+32463,30.6279,-85.58728,Wausau,America/Chicago
+32464,30.89687,-85.95592,Westville,America/Chicago
+32465,30.00239,-85.18615,Wewahitchka,America/Chicago
+32466,30.38618,-85.464,Youngstown,America/Chicago
+32501,30.42826,-87.22277,Pensacola,America/Chicago
+32502,30.40928,-87.22636,Pensacola,America/Chicago
+32503,30.46022,-87.21372,Pensacola,America/Chicago
+32504,30.48495,-87.19093,Pensacola,America/Chicago
+32505,30.45575,-87.26082,Pensacola,America/Chicago
+32506,30.39152,-87.37167,Pensacola,America/Chicago
+32507,30.34035,-87.37706,Pensacola,America/Chicago
+32508,30.35614,-87.29866,Pensacola,America/Chicago
+32509,30.47096,-87.34115,Pensacola,America/Chicago
+32511,30.4064,-87.29129,Pensacola,America/Chicago
+32512,30.399,-87.29925,Pensacola,America/Chicago
+32514,30.53209,-87.22235,Pensacola,America/Chicago
+32526,30.49824,-87.36543,Pensacola,America/Chicago
+32530,30.5926,-87.02344,Bagdad,America/Chicago
+32531,30.88513,-86.696,Baker,America/Chicago
+32533,30.61329,-87.32561,Cantonment,America/Chicago
+32534,30.53276,-87.28374,Pensacola,America/Chicago
+32535,30.96515,-87.34673,Century,America/Chicago
+32536,30.75399,-86.59491,Crestview,America/Chicago
+32539,30.78128,-86.46646,Crestview,America/Chicago
+32541,30.39666,-86.47486,Destin,America/Chicago
+32542,30.58743,-86.59296,Eglin Afb,America/Chicago
+32544,30.42801,-86.70441,Hurlburt Field,America/Chicago
+32547,30.46649,-86.65513,Fort Walton Beach,America/Chicago
+32548,30.4094,-86.6494,Fort Walton Beach,America/Chicago
+32550,30.38541,-86.34438,Miramar Beach,America/Chicago
+32561,30.35165,-87.10906,Gulf Breeze,America/Chicago
+32563,30.38782,-87.0331,Gulf Breeze,America/Chicago
+32564,30.72755,-86.7875,Holt,America/Chicago
+32565,30.89241,-87.14071,Jay,America/Chicago
+32566,30.4253,-86.8843,Navarre,America/Chicago
+32567,30.92207,-86.43396,Laurel Hill,America/Chicago
+32568,30.87085,-87.46792,McDavid,America/Chicago
+32569,30.40666,-86.72962,Mary Esther,America/Chicago
+32570,30.80022,-86.98158,Milton,America/Chicago
+32571,30.67162,-87.20004,Milton,America/Chicago
+32577,30.73453,-87.37471,Molino,America/Chicago
+32578,30.50871,-86.4535,Niceville,America/Chicago
+32579,30.44553,-86.57401,Shalimar,America/Chicago
+32580,30.50337,-86.50942,Valparaiso,America/Chicago
+32583,30.60084,-86.97513,Milton,America/Chicago
+32601,29.64886,-82.32506,Gainesville,America/New_York
+32603,29.65305,-82.35054,Gainesville,America/New_York
+32605,29.67659,-82.37351,Gainesville,America/New_York
+32606,29.68169,-82.44391,Gainesville,America/New_York
+32607,29.64524,-82.41923,Gainesville,America/New_York
+32608,29.59271,-82.3935,Gainesville,America/New_York
+32609,29.76296,-82.27978,Gainesville,America/New_York
+32610,29.64077,-82.34326,Gainesville,America/New_York
+32612,29.64469,-82.35307,Gainesville,America/New_York
+32615,29.81706,-82.49065,Alachua,America/New_York
+32616,29.78205,-82.49933,Alachua,America/New_York
+32617,29.30659,-82.07553,Anthony,America/New_York
+32618,29.53789,-82.52295,Archer,America/New_York
+32619,29.75661,-82.86668,Bell,America/New_York
+32621,29.426,-82.62936,Bronson,America/New_York
+32622,29.89914,-82.31216,Brooker,America/New_York
+32625,29.23005,-82.98331,Cedar Key,America/New_York
+32626,29.42146,-82.89464,Chiefland,America/New_York
+32628,29.65471,-83.16247,Cross City,America/New_York
+32631,29.71719,-82.10225,Earleton,America/New_York
+32634,29.3646,-82.25419,Fairfield,America/New_York
+32639,29.23092,-82.72007,Gulf Hammock,America/New_York
+32640,29.56889,-82.08021,Hawthorne,America/New_York
+32641,29.62956,-82.22557,Gainesville,America/New_York
+32643,29.81845,-82.64155,High Springs,America/New_York
+32648,29.50515,-83.24498,Horseshoe Beach,America/New_York
+32653,29.74506,-82.40546,Gainesville,America/New_York
+32656,29.82533,-81.95287,Keystone Heights,America/New_York
+32658,29.84817,-82.41214,La Crosse,America/New_York
+32664,29.44986,-82.22187,McIntosh,America/New_York
+32666,29.72301,-81.99145,Melrose,America/New_York
+32667,29.49484,-82.31084,Micanopy,America/New_York
+32668,29.26327,-82.50321,Morriston,America/New_York
+32669,29.63666,-82.60015,Newberry,America/New_York
+32680,29.58144,-83.08041,Old Town,America/New_York
+32681,29.42694,-82.21527,Orange Lake,America/New_York
+32683,29.29519,-82.76743,Otter Creek,America/New_York
+32686,29.36214,-82.26236,Reddick,America/New_York
+32692,29.32519,-83.15995,Suwannee,America/New_York
+32693,29.62814,-82.79446,Trenton,America/New_York
+32694,29.79086,-82.15367,Waldo,America/New_York
+32696,29.39544,-82.46728,Williston,America/New_York
+32697,29.92831,-82.42538,Worthington Springs,America/New_York
+32701,28.66509,-81.36916,Altamonte Springs,America/New_York
+32702,29.04642,-81.6259,Altoona,America/New_York
+32703,28.65579,-81.52139,Apopka,America/New_York
+32707,28.66255,-81.31403,Casselberry,America/New_York
+32708,28.68751,-81.27086,Winter Springs,America/New_York
+32709,28.49266,-80.98801,Christmas,America/New_York
+32712,28.72917,-81.54103,Apopka,America/New_York
+32713,28.8816,-81.3238,Debary,America/New_York
+32714,28.66237,-81.4115,Altamonte Springs,America/New_York
+32720,29.01775,-81.37802,Deland,America/New_York
+32723,29.03454,-81.30452,Deland,America/New_York
+32724,29.0506,-81.23284,Deland,America/New_York
+32725,28.88368,-81.25061,Deltona,America/New_York
+32726,28.8541,-81.68,Eustis,America/New_York
+32730,28.65242,-81.34301,Casselberry,America/New_York
+32732,28.74565,-81.10563,Geneva,America/New_York
+32735,28.89099,-81.73718,Grand Island,America/New_York
+32736,28.89831,-81.49317,Eustis,America/New_York
+32738,28.90755,-81.18862,Deltona,America/New_York
+32744,28.98497,-81.21899,Lake Helen,America/New_York
+32746,28.76297,-81.35499,Lake Mary,America/New_York
+32750,28.7074,-81.34955,Longwood,America/New_York
+32751,28.631,-81.36457,Maitland,America/New_York
+32754,28.68565,-80.9208,Mims,America/New_York
+32757,28.77954,-81.637,Mount Dora,America/New_York
+32759,28.84004,-80.9034,Oak Hill,America/New_York
+32763,28.94291,-81.30593,Orange City,America/New_York
+32764,28.83883,-81.07239,Osteen,America/New_York
+32765,28.66732,-81.20033,Oviedo,America/New_York
+32766,28.64761,-81.08124,Oviedo,America/New_York
+32767,29.01957,-81.52065,Paisley,America/New_York
+32768,28.69577,-81.55795,Plymouth,America/New_York
+32771,28.81496,-81.31751,Sanford,America/New_York
+32773,28.75264,-81.24659,Sanford,America/New_York
+32775,28.76704,-80.8767,Scottsmoor,America/New_York
+32776,28.81033,-81.4872,Sorrento,America/New_York
+32778,28.77554,-81.72884,Tavares,America/New_York
+32779,28.71632,-81.41343,Longwood,America/New_York
+32780,28.54672,-80.7841,Titusville,America/New_York
+32784,28.97626,-81.7232,Umatilla,America/New_York
+32789,28.59977,-81.35235,Winter Park,America/New_York
+32792,28.61066,-81.29923,Winter Park,America/New_York
+32796,28.62591,-80.84051,Titusville,America/New_York
+32798,28.72647,-81.58648,Zellwood,America/New_York
+32801,28.542,-81.37343,Orlando,America/New_York
+32803,28.55592,-81.34895,Orlando,America/New_York
+32804,28.57688,-81.39748,Orlando,America/New_York
+32805,28.52981,-81.40614,Orlando,America/New_York
+32806,28.5123,-81.36031,Orlando,America/New_York
+32807,28.55245,-81.30165,Orlando,America/New_York
+32808,28.57932,-81.44342,Orlando,America/New_York
+32809,28.46301,-81.38428,Orlando,America/New_York
+32810,28.62113,-81.42863,Orlando,America/New_York
+32811,28.51624,-81.44516,Orlando,America/New_York
+32812,28.4848,-81.32767,Orlando,America/New_York
+32814,28.57002,-81.32663,Orlando,America/New_York
+32816,28.60075,-81.19511,Orlando,America/New_York
+32817,28.59002,-81.2445,Orlando,America/New_York
+32818,28.58518,-81.48716,Orlando,America/New_York
+32819,28.45565,-81.472,Orlando,America/New_York
+32820,28.58493,-81.12127,Orlando,America/New_York
+32821,28.38095,-81.47719,Orlando,America/New_York
+32822,28.49001,-81.29056,Orlando,America/New_York
+32824,28.38991,-81.34471,Orlando,America/New_York
+32825,28.53681,-81.24243,Orlando,America/New_York
+32826,28.58543,-81.18263,Orlando,America/New_York
+32827,28.41399,-81.29032,Orlando,America/New_York
+32828,28.53052,-81.17022,Orlando,America/New_York
+32829,28.47639,-81.22478,Orlando,America/New_York
+32830,28.38643,-81.56732,Orlando,America/New_York
+32831,28.47439,-81.14729,Orlando,America/New_York
+32832,28.39843,-81.18407,Orlando,America/New_York
+32833,28.4948,-81.081,Orlando,America/New_York
+32835,28.52182,-81.48473,Orlando,America/New_York
+32836,28.41734,-81.51536,Orlando,America/New_York
+32837,28.38074,-81.41998,Orlando,America/New_York
+32839,28.48833,-81.40689,Orlando,America/New_York
+32899,28.58331,-80.63544,Orlando,America/New_York
+32901,28.07887,-80.62268,Melbourne,America/New_York
+32903,28.10818,-80.58709,Indialantic,America/New_York
+32904,28.01,-80.79104,Melbourne,America/New_York
+32905,28.03136,-80.59997,Palm Bay,America/New_York
+32907,28.01565,-80.68187,Palm Bay,America/New_York
+32908,27.95622,-80.69827,Palm Bay,America/New_York
+32909,27.90435,-80.65515,Palm Bay,America/New_York
+32920,28.44603,-80.58503,Cape Canaveral,America/New_York
+32922,28.37252,-80.74279,Cocoa,America/New_York
+32925,28.24272,-80.62287,Patrick Afb,America/New_York
+32926,28.39051,-80.81773,Cocoa,America/New_York
+32927,28.46372,-80.80709,Cocoa,America/New_York
+32931,28.32193,-80.62731,Cocoa Beach,America/New_York
+32934,28.13532,-80.71153,Melbourne,America/New_York
+32935,28.1444,-80.64832,Melbourne,America/New_York
+32937,28.17464,-80.61146,Satellite Beach,America/New_York
+32940,28.21813,-80.7543,Melbourne,America/New_York
+32948,27.75901,-80.61826,Fellsmere,America/New_York
+32949,27.92005,-80.55203,Grant,America/New_York
+32950,27.9757,-80.57839,Malabar,America/New_York
+32951,27.9595,-80.51498,Melbourne Beach,America/New_York
+32952,28.31749,-80.66832,Merritt Island,America/New_York
+32953,28.45613,-80.69916,Merritt Island,America/New_York
+32955,28.29414,-80.77528,Rockledge,America/New_York
+32958,27.79364,-80.49135,Sebastian,America/New_York
+32959,28.44513,-80.7637,Sharpes,America/New_York
+32960,27.64069,-80.40366,Vero Beach,America/New_York
+32962,27.5865,-80.38414,Vero Beach,America/New_York
+32963,27.71951,-80.39646,Vero Beach,America/New_York
+32966,27.68716,-80.70693,Vero Beach,America/New_York
+32967,27.71359,-80.46015,Vero Beach,America/New_York
+32968,27.58808,-80.50993,Vero Beach,America/New_York
+32970,27.75402,-80.45136,Wabasso,America/New_York
+32976,27.86198,-80.53721,Sebastian,America/New_York
+33001,24.82041,-80.80992,Long Key,America/New_York
+33004,26.05939,-80.13637,Dania,America/New_York
+33009,25.98531,-80.1466,Hallandale,America/New_York
+33010,25.83309,-80.27902,Hialeah,America/New_York
+33012,25.86583,-80.30247,Hialeah,America/New_York
+33013,25.86209,-80.27032,Hialeah,America/New_York
+33014,25.90332,-80.30173,Hialeah,America/New_York
+33015,25.94116,-80.31761,Hialeah,America/New_York
+33016,25.89361,-80.33186,Hialeah,America/New_York
+33018,25.92,-80.39274,Hialeah,America/New_York
+33019,26.02346,-80.1236,Hollywood,America/New_York
+33020,26.01911,-80.15251,Hollywood,America/New_York
+33021,26.02277,-80.18742,Hollywood,America/New_York
+33022,26.01385,-80.14407,Hollywood,America/New_York
+33023,25.98812,-80.21263,Hollywood,America/New_York
+33024,26.02501,-80.24475,Hollywood,America/New_York
+33025,25.98737,-80.28134,Hollywood,America/New_York
+33026,26.02575,-80.29625,Hollywood,America/New_York
+33027,25.98245,-80.34359,Hollywood,America/New_York
+33028,26.01852,-80.34488,Pembroke Pines,America/New_York
+33029,25.99184,-80.40794,Hollywood,America/New_York
+33030,25.4848,-80.50857,Homestead,America/New_York
+33031,25.52709,-80.50312,Homestead,America/New_York
+33032,25.52963,-80.39234,Homestead,America/New_York
+33033,25.47858,-80.4057,Homestead,America/New_York
+33034,25.4195,-80.86342,Homestead,America/New_York
+33035,25.4216,-80.4036,Homestead,America/New_York
+33036,24.9227,-80.6385,Islamorada,America/New_York
+33037,25.19779,-80.38634,Key Largo,America/New_York
+33039,25.49796,-80.39818,Homestead,America/New_York
+33040,24.5855,-81.74904,Key West,America/New_York
+33042,24.67481,-81.50717,Summerland Key,America/New_York
+33043,24.70563,-81.3587,Big Pine Key,America/New_York
+33050,24.72843,-81.03405,Marathon,America/New_York
+33051,24.72328,-81.02155,Key Colony Beach,America/New_York
+33054,25.90775,-80.25753,Opa Locka,America/New_York
+33055,25.94812,-80.27809,Opa Locka,America/New_York
+33056,25.94922,-80.24562,Miami Gardens,America/New_York
+33060,26.23513,-80.12084,Pompano Beach,America/New_York
+33062,26.24101,-80.09399,Pompano Beach,America/New_York
+33063,26.25138,-80.21014,Pompano Beach,America/New_York
+33064,26.27806,-80.11524,Pompano Beach,America/New_York
+33065,26.27318,-80.26029,Coral Springs,America/New_York
+33066,26.25347,-80.17753,Pompano Beach,America/New_York
+33067,26.307,-80.2257,Pompano Beach,America/New_York
+33068,26.21644,-80.21535,Pompano Beach,America/New_York
+33069,26.23565,-80.15808,Pompano Beach,America/New_York
+33070,25.00873,-80.52501,Tavernier,America/New_York
+33071,26.24395,-80.26627,Coral Springs,America/New_York
+33073,26.29818,-80.1827,Pompano Beach,America/New_York
+33076,26.31788,-80.27431,Pompano Beach,America/New_York
+33101,25.77976,-80.19877,Miami,America/New_York
+33109,25.7616,-80.14197,Miami Beach,America/New_York
+33122,25.80523,-80.31706,Miami,America/New_York
+33125,25.7839,-80.23738,Miami,America/New_York
+33126,25.78061,-80.30054,Miami,America/New_York
+33127,25.81307,-80.20553,Miami,America/New_York
+33128,25.77661,-80.20407,Miami,America/New_York
+33129,25.7527,-80.20046,Miami,America/New_York
+33130,25.76805,-80.20291,Miami,America/New_York
+33131,25.76417,-80.18459,Miami,America/New_York
+33132,25.77719,-80.17395,Miami,America/New_York
+33133,25.72983,-80.24327,Miami,America/New_York
+33134,25.75338,-80.2712,Miami,America/New_York
+33135,25.76657,-80.23495,Miami,America/New_York
+33136,25.78703,-80.20444,Miami,America/New_York
+33137,25.81538,-80.17798,Miami,America/New_York
+33138,25.85388,-80.17846,Miami,America/New_York
+33139,25.78523,-80.15085,Miami Beach,America/New_York
+33140,25.81606,-80.13895,Miami Beach,America/New_York
+33141,25.85116,-80.14147,Miami Beach,America/New_York
+33142,25.80665,-80.25517,Miami,America/New_York
+33143,25.70255,-80.29792,Miami,America/New_York
+33144,25.76335,-80.31228,Miami,America/New_York
+33145,25.75322,-80.23461,Miami,America/New_York
+33146,25.72059,-80.27274,Miami,America/New_York
+33147,25.85104,-80.23861,Miami,America/New_York
+33149,25.72479,-80.16118,Key Biscayne,America/New_York
+33150,25.85196,-80.20702,Miami,America/New_York
+33154,25.88609,-80.13332,Miami Beach,America/New_York
+33155,25.73672,-80.31117,Miami,America/New_York
+33156,25.66779,-80.29728,Miami,America/New_York
+33157,25.60671,-80.34314,Miami,America/New_York
+33158,25.63744,-80.30945,Miami,America/New_York
+33160,25.93234,-80.13583,North Miami Beach,America/New_York
+33161,25.89357,-80.18285,Miami,America/New_York
+33162,25.92845,-80.17844,Miami,America/New_York
+33165,25.73437,-80.35862,Miami,America/New_York
+33166,25.8253,-80.31049,Miami,America/New_York
+33167,25.8848,-80.23631,Miami,America/New_York
+33168,25.89318,-80.2093,Miami,America/New_York
+33169,25.94298,-80.2147,Miami,America/New_York
+33170,25.55827,-80.45313,Miami,America/New_York
+33172,25.78655,-80.3623,Miami,America/New_York
+33173,25.70163,-80.35765,Miami,America/New_York
+33174,25.76199,-80.36029,Miami,America/New_York
+33175,25.73435,-80.40621,Miami,America/New_York
+33176,25.65876,-80.35919,Miami,America/New_York
+33177,25.59703,-80.40458,Miami,America/New_York
+33178,25.83578,-80.4213,Miami,America/New_York
+33179,25.95821,-80.17981,Miami,America/New_York
+33180,25.96145,-80.1415,Miami,America/New_York
+33181,25.89717,-80.1531,Miami,America/New_York
+33182,25.78252,-80.40182,Miami,America/New_York
+33183,25.70047,-80.40578,Miami,America/New_York
+33184,25.7597,-80.4066,Miami,America/New_York
+33185,25.73035,-80.45448,Miami,America/New_York
+33186,25.65565,-80.41062,Miami,America/New_York
+33187,25.54889,-80.57638,Miami,America/New_York
+33189,25.57314,-80.33929,Miami,America/New_York
+33190,25.55734,-80.34897,Miami,America/New_York
+33193,25.70175,-80.46672,Miami,America/New_York
+33194,25.7163,-80.62799,Miami,America/New_York
+33196,25.64505,-80.55524,Miami,America/New_York
+33301,26.12128,-80.12745,Fort Lauderdale,America/New_York
+33304,26.13845,-80.12166,Fort Lauderdale,America/New_York
+33305,26.15375,-80.123,Fort Lauderdale,America/New_York
+33306,26.16548,-80.11404,Fort Lauderdale,America/New_York
+33308,26.18952,-80.10859,Fort Lauderdale,America/New_York
+33309,26.18793,-80.17385,Fort Lauderdale,America/New_York
+33311,26.14412,-80.17319,Fort Lauderdale,America/New_York
+33312,26.08835,-80.18166,Fort Lauderdale,America/New_York
+33313,26.15069,-80.22634,Fort Lauderdale,America/New_York
+33314,26.06822,-80.22391,Fort Lauderdale,America/New_York
+33315,26.08703,-80.15297,Fort Lauderdale,America/New_York
+33316,26.09913,-80.12398,Fort Lauderdale,America/New_York
+33317,26.11268,-80.22607,Fort Lauderdale,America/New_York
+33319,26.1826,-80.22641,Fort Lauderdale,America/New_York
+33321,26.2121,-80.2697,Fort Lauderdale,America/New_York
+33322,26.14997,-80.27429,Fort Lauderdale,America/New_York
+33323,26.14988,-80.32222,Fort Lauderdale,America/New_York
+33324,26.11205,-80.27469,Fort Lauderdale,America/New_York
+33325,26.11032,-80.32261,Fort Lauderdale,America/New_York
+33326,26.11033,-80.37403,Fort Lauderdale,America/New_York
+33327,26.24429,-80.39267,Fort Lauderdale,America/New_York
+33328,26.06673,-80.27301,Fort Lauderdale,America/New_York
+33330,26.06034,-80.32333,Fort Lauderdale,America/New_York
+33331,26.0587,-80.36989,Fort Lauderdale,America/New_York
+33332,26.03825,-80.44352,Fort Lauderdale,America/New_York
+33334,26.18316,-80.13456,Fort Lauderdale,America/New_York
+33351,26.17938,-80.27463,Fort Lauderdale,America/New_York
+33388,26.11715,-80.25409,Plantation,America/New_York
+33401,26.71805,-80.0685,West Palm Beach,America/New_York
+33403,26.8032,-80.07562,West Palm Beach,America/New_York
+33404,26.78248,-80.06567,West Palm Beach,America/New_York
+33405,26.66774,-80.0584,West Palm Beach,America/New_York
+33406,26.66503,-80.09093,West Palm Beach,America/New_York
+33407,26.75841,-80.09195,West Palm Beach,America/New_York
+33408,26.84115,-80.05677,North Palm Beach,America/New_York
+33409,26.7161,-80.0965,West Palm Beach,America/New_York
+33410,26.84629,-80.08823,Palm Beach Gardens,America/New_York
+33411,26.71517,-80.20305,West Palm Beach,America/New_York
+33412,26.80561,-80.21557,West Palm Beach,America/New_York
+33413,26.66397,-80.1553,West Palm Beach,America/New_York
+33414,26.64829,-80.24943,Wellington,America/New_York
+33415,26.66002,-80.12742,West Palm Beach,America/New_York
+33417,26.71994,-80.12495,West Palm Beach,America/New_York
+33418,26.86077,-80.16641,Palm Beach Gardens,America/New_York
+33426,26.53359,-80.08295,Boynton Beach,America/New_York
+33428,26.35054,-80.22792,Boca Raton,America/New_York
+33430,26.61415,-80.57952,Belle Glade,America/New_York
+33431,26.37996,-80.1028,Boca Raton,America/New_York
+33432,26.34546,-80.0838,Boca Raton,America/New_York
+33433,26.34706,-80.15919,Boca Raton,America/New_York
+33434,26.38139,-80.16913,Boca Raton,America/New_York
+33435,26.52565,-80.06297,Boynton Beach,America/New_York
+33436,26.52423,-80.10758,Boynton Beach,America/New_York
+33437,26.51164,-80.14917,Boynton Beach,America/New_York
+33438,26.95443,-80.56524,Canal Point,America/New_York
+33440,26.54065,-81.04325,Clewiston,America/New_York
+33441,26.31096,-80.09885,Deerfield Beach,America/New_York
+33442,26.31012,-80.14503,Deerfield Beach,America/New_York
+33444,26.45781,-80.08002,Delray Beach,America/New_York
+33445,26.4548,-80.1063,Delray Beach,America/New_York
+33446,26.45444,-80.18353,Delray Beach,America/New_York
+33449,26.59272,-80.2339,Lake Worth,America/New_York
+33455,27.05748,-80.1703,Hobe Sound,America/New_York
+33458,26.93477,-80.12906,Jupiter,America/New_York
+33460,26.61872,-80.05527,Lake Worth Beach,America/New_York
+33461,26.61936,-80.09048,Lake Worth,America/New_York
+33462,26.58027,-80.07337,Lake Worth,America/New_York
+33463,26.59508,-80.12968,Lake Worth,America/New_York
+33467,26.59472,-80.17567,Lake Worth,America/New_York
+33469,26.98275,-80.1092,Jupiter,America/New_York
+33470,26.7832,-80.38063,Loxahatchee,America/New_York
+33471,26.9105,-81.19754,Moore Haven,America/New_York
+33472,26.53974,-80.18903,Boynton Beach,America/New_York
+33473,26.50328,-80.19225,Boynton Beach,America/New_York
+33476,26.80109,-80.65305,Pahokee,America/New_York
+33477,26.91401,-80.0799,Jupiter,America/New_York
+33478,26.93788,-80.26298,Jupiter,America/New_York
+33480,26.69796,-80.04075,Palm Beach,America/New_York
+33483,26.46157,-80.0638,Delray Beach,America/New_York
+33484,26.45432,-80.13434,Delray Beach,America/New_York
+33486,26.34729,-80.11449,Boca Raton,America/New_York
+33487,26.40991,-80.09169,Boca Raton,America/New_York
+33493,26.47559,-80.72306,South Bay,America/New_York
+33496,26.40887,-80.16139,Boca Raton,America/New_York
+33498,26.39529,-80.21982,Boca Raton,America/New_York
+33503,27.76375,-82.27425,Balm,America/New_York
+33510,27.95564,-82.29986,Brandon,America/New_York
+33511,27.9099,-82.29405,Brandon,America/New_York
+33513,28.66849,-82.17143,Bushnell,America/New_York
+33514,28.65771,-81.99886,Center Hill,America/New_York
+33521,28.79788,-82.0752,Coleman,America/New_York
+33523,28.41787,-82.26476,Dade City,America/New_York
+33525,28.33503,-82.18383,Dade City,America/New_York
+33527,27.97571,-82.2138,Dover,America/New_York
+33530,27.90773,-82.17236,Durant,America/New_York
+33534,27.82273,-82.37505,Gibsonton,America/New_York
+33538,28.84679,-82.18218,Lake Panasoffkee,America/New_York
+33540,28.21936,-82.14866,Zephyrhills,America/New_York
+33541,28.23029,-82.22073,Zephyrhills,America/New_York
+33542,28.23562,-82.17708,Zephyrhills,America/New_York
+33543,28.20279,-82.30503,Wesley Chapel,America/New_York
+33544,28.25132,-82.37039,Wesley Chapel,America/New_York
+33545,28.26578,-82.28832,Wesley Chapel,America/New_York
+33547,27.77239,-82.13665,Lithia,America/New_York
+33548,28.13788,-82.48184,Lutz,America/New_York
+33549,28.1392,-82.44624,Lutz,America/New_York
+33550,27.97956,-82.30698,Mango,America/New_York
+33556,28.17029,-82.59264,Odessa,America/New_York
+33558,28.15871,-82.51597,Lutz,America/New_York
+33559,28.15788,-82.41007,Lutz,America/New_York
+33563,28.01694,-82.12544,Plant City,America/New_York
+33565,28.08858,-82.15595,Plant City,America/New_York
+33566,27.99241,-82.1172,Plant City,America/New_York
+33567,27.92159,-82.1217,Plant City,America/New_York
+33569,27.84429,-82.29069,Riverview,America/New_York
+33570,27.69354,-82.45861,Ruskin,America/New_York
+33572,27.7659,-82.39999,Apollo Beach,America/New_York
+33573,27.72179,-82.36,Sun City Center,America/New_York
+33574,28.33811,-82.257,Saint Leo,America/New_York
+33576,28.32472,-82.31682,San Antonio,America/New_York
+33578,27.86187,-82.34775,Riverview,America/New_York
+33579,27.79585,-82.28376,Riverview,America/New_York
+33584,28.00637,-82.28959,Seffner,America/New_York
+33585,28.74089,-82.03347,Sumterville,America/New_York
+33592,28.10087,-82.28698,Thonotosassa,America/New_York
+33594,27.94081,-82.24207,Valrico,America/New_York
+33596,27.88765,-82.23591,Valrico,America/New_York
+33597,28.52675,-82.08613,Webster,America/New_York
+33598,27.69531,-82.29025,Wimauma,America/New_York
+33602,27.95371,-82.45675,Tampa,America/New_York
+33603,27.98526,-82.46458,Tampa,America/New_York
+33604,28.01686,-82.45519,Tampa,America/New_York
+33605,27.95121,-82.42924,Tampa,America/New_York
+33606,27.93209,-82.46493,Tampa,America/New_York
+33607,27.96677,-82.51408,Tampa,America/New_York
+33609,27.94307,-82.51108,Tampa,America/New_York
+33610,27.9972,-82.38015,Tampa,America/New_York
+33611,27.89059,-82.50632,Tampa,America/New_York
+33612,28.05071,-82.451,Tampa,America/New_York
+33613,28.08344,-82.44873,Tampa,America/New_York
+33614,28.00619,-82.50598,Tampa,America/New_York
+33615,28.00546,-82.58144,Tampa,America/New_York
+33616,27.86712,-82.5287,Tampa,America/New_York
+33617,28.03893,-82.39327,Tampa,America/New_York
+33618,28.07313,-82.49781,Tampa,America/New_York
+33619,27.93536,-82.37841,Tampa,America/New_York
+33620,28.06112,-82.41172,Tampa,America/New_York
+33621,27.8436,-82.50089,Tampa,America/New_York
+33624,28.07903,-82.52608,Tampa,America/New_York
+33625,28.06807,-82.56016,Tampa,America/New_York
+33626,28.06256,-82.61526,Tampa,America/New_York
+33629,27.92181,-82.51007,Tampa,America/New_York
+33634,28.00769,-82.54614,Tampa,America/New_York
+33635,28.02408,-82.61882,Tampa,America/New_York
+33637,28.04715,-82.36118,Tampa,America/New_York
+33647,28.13401,-82.36017,Tampa,America/New_York
+33701,27.7705,-82.63566,Saint Petersburg,America/New_York
+33702,27.84567,-82.63251,Saint Petersburg,America/New_York
+33703,27.81756,-82.62433,Saint Petersburg,America/New_York
+33704,27.79666,-82.63292,Saint Petersburg,America/New_York
+33705,27.73641,-82.64265,Saint Petersburg,America/New_York
+33706,27.74396,-82.75014,Saint Petersburg,America/New_York
+33707,27.74913,-82.72293,Saint Petersburg,America/New_York
+33708,27.81192,-82.7933,Saint Petersburg,America/New_York
+33709,27.81721,-82.73075,Saint Petersburg,America/New_York
+33710,27.7898,-82.73069,Saint Petersburg,America/New_York
+33711,27.73884,-82.68845,Saint Petersburg,America/New_York
+33712,27.73719,-82.66535,Saint Petersburg,America/New_York
+33713,27.78882,-82.67753,Saint Petersburg,America/New_York
+33714,27.81696,-82.67794,Saint Petersburg,America/New_York
+33715,27.66323,-82.72214,Saint Petersburg,America/New_York
+33716,27.8774,-82.65119,Saint Petersburg,America/New_York
+33744,27.8084,-82.77451,Bay Pines,America/New_York
+33755,27.9793,-82.78007,Clearwater,America/New_York
+33756,27.94421,-82.79216,Clearwater,America/New_York
+33759,27.98095,-82.7145,Clearwater,America/New_York
+33760,27.90535,-82.71389,Clearwater,America/New_York
+33761,28.03103,-82.72511,Clearwater,America/New_York
+33762,27.89685,-82.67946,Clearwater,America/New_York
+33763,28.00298,-82.74347,Clearwater,America/New_York
+33764,27.93679,-82.7424,Clearwater,America/New_York
+33765,27.97452,-82.74419,Clearwater,America/New_York
+33767,27.97022,-82.82329,Clearwater Beach,America/New_York
+33770,27.91477,-82.8035,Largo,America/New_York
+33771,27.90585,-82.7583,Largo,America/New_York
+33772,27.84286,-82.79666,Seminole,America/New_York
+33773,27.88156,-82.75594,Largo,America/New_York
+33774,27.88275,-82.8278,Largo,America/New_York
+33776,27.84975,-82.82634,Seminole,America/New_York
+33777,27.85257,-82.76026,Seminole,America/New_York
+33778,27.88266,-82.79843,Largo,America/New_York
+33781,27.83861,-82.71512,Pinellas Park,America/New_York
+33782,27.85964,-82.70901,Pinellas Park,America/New_York
+33785,27.88559,-82.84425,Indian Rocks Beach,America/New_York
+33786,27.92385,-82.83635,Belleair Beach,America/New_York
+33801,28.0401,-81.8947,Lakeland,America/New_York
+33803,28.00887,-81.93604,Lakeland,America/New_York
+33805,28.09829,-81.91279,Lakeland,America/New_York
+33809,28.20291,-81.96597,Lakeland,America/New_York
+33810,28.13027,-82.03989,Lakeland,America/New_York
+33811,27.97933,-82.01866,Lakeland,America/New_York
+33812,27.97262,-81.89304,Lakeland,America/New_York
+33813,27.94789,-81.92701,Lakeland,America/New_York
+33815,28.04067,-81.99634,Lakeland,America/New_York
+33823,28.09041,-81.81267,Auburndale,America/New_York
+33825,27.62704,-81.44343,Avon Park,America/New_York
+33827,27.81445,-81.51484,Babson Park,America/New_York
+33830,27.88234,-81.80565,Bartow,America/New_York
+33834,27.62778,-81.92115,Bowling Green,America/New_York
+33835,27.78829,-81.97256,Bradley,America/New_York
+33837,28.19012,-81.59163,Davenport,America/New_York
+33838,28.01851,-81.60956,Dundee,America/New_York
+33839,27.97481,-81.75365,Eagle Lake,America/New_York
+33840,28.00915,-81.90506,Eaton Park,America/New_York
+33841,27.7381,-81.7674,Fort Meade,America/New_York
+33843,27.73131,-81.5108,Frostproof,America/New_York
+33844,28.08616,-81.58717,Haines City,America/New_York
+33847,27.80864,-81.82381,Homeland,America/New_York
+33848,28.27594,-81.50824,Intercession City,America/New_York
+33849,28.21613,-82.07414,Kathleen,America/New_York
+33850,28.11886,-81.73191,Lake Alfred,America/New_York
+33851,28.04439,-81.62677,Lake Hamilton,America/New_York
+33852,27.25904,-81.37844,Lake Placid,America/New_York
+33853,27.90023,-81.58556,Lake Wales,America/New_York
+33854,27.85608,-81.41033,Lakeshore,America/New_York
+33855,27.79104,-81.35971,Indian Lake Estates,America/New_York
+33856,27.85648,-81.42828,Nalcrest,America/New_York
+33857,27.35647,-81.16517,Lorida,America/New_York
+33858,28.24506,-81.55832,Loughman,America/New_York
+33859,27.88428,-81.63106,Lake Wales,America/New_York
+33860,27.8056,-81.99511,Mulberry,America/New_York
+33865,27.42944,-81.96262,Ona,America/New_York
+33867,27.78249,-81.20136,River Ranch,America/New_York
+33868,28.25882,-81.84769,Polk City,America/New_York
+33870,27.50571,-81.36071,Sebring,America/New_York
+33872,27.50911,-81.53147,Sebring,America/New_York
+33873,27.56181,-81.77855,Wauchula,America/New_York
+33875,27.41813,-81.49198,Sebring,America/New_York
+33876,27.4269,-81.35086,Sebring,America/New_York
+33877,27.98766,-81.61985,Waverly,America/New_York
+33880,27.9914,-81.77448,Winter Haven,America/New_York
+33881,28.05439,-81.70081,Winter Haven,America/New_York
+33884,27.97669,-81.67653,Winter Haven,America/New_York
+33890,27.4558,-81.68354,Zolfo Springs,America/New_York
+33896,28.24663,-81.57526,Davenport,America/New_York
+33897,28.28088,-81.69533,Davenport,America/New_York
+33898,27.83946,-81.34943,Lake Wales,America/New_York
+33901,26.62304,-81.88228,Fort Myers,America/New_York
+33903,26.68217,-81.90688,North Fort Myers,America/New_York
+33904,26.57601,-81.94536,Cape Coral,America/New_York
+33905,26.66873,-81.76166,Fort Myers,America/New_York
+33907,26.56447,-81.87171,Fort Myers,America/New_York
+33908,26.48857,-81.91319,Fort Myers,America/New_York
+33909,26.72032,-81.96443,Cape Coral,America/New_York
+33912,26.53288,-81.82502,Fort Myers,America/New_York
+33913,26.51718,-81.69712,Fort Myers,America/New_York
+33914,26.57052,-82.01944,Cape Coral,America/New_York
+33916,26.63998,-81.84104,Fort Myers,America/New_York
+33917,26.75403,-81.84779,North Fort Myers,America/New_York
+33919,26.55607,-81.90388,Fort Myers,America/New_York
+33920,26.72903,-81.6529,Alva,America/New_York
+33921,26.77919,-82.25386,Boca Grande,America/New_York
+33922,26.66476,-82.15897,Bokeelia,America/New_York
+33924,26.54521,-82.19832,Captiva,America/New_York
+33928,26.43545,-81.71002,Estero,America/New_York
+33930,26.55916,-81.40069,Felda,America/New_York
+33931,26.44036,-81.90974,Fort Myers Beach,America/New_York
+33935,26.75692,-81.41966,Labelle,America/New_York
+33936,26.6292,-81.5602,Lehigh Acres,America/New_York
+33944,26.97163,-81.36924,Palmdale,America/New_York
+33946,26.853,-82.26958,Placida,America/New_York
+33947,26.89015,-82.27184,Rotonda West,America/New_York
+33948,26.98411,-82.15126,Port Charlotte,America/New_York
+33950,26.91166,-82.04009,Punta Gorda,America/New_York
+33952,26.99008,-82.0972,Port Charlotte,America/New_York
+33953,26.99991,-82.21222,Port Charlotte,America/New_York
+33954,27.02506,-82.12167,Port Charlotte,America/New_York
+33955,26.82528,-81.97007,Punta Gorda,America/New_York
+33956,26.54622,-82.09589,Saint James City,America/New_York
+33957,26.4534,-82.10228,Sanibel,America/New_York
+33960,27.07709,-81.41682,Venus,America/New_York
+33965,26.46126,-81.76862,Fort Myers,America/New_York
+33966,26.58234,-81.83206,Fort Myers,America/New_York
+33967,26.47226,-81.81231,Fort Myers,America/New_York
+33971,26.63856,-81.69948,Lehigh Acres,America/New_York
+33972,26.64954,-81.61721,Lehigh Acres,America/New_York
+33973,26.6014,-81.73012,Lehigh Acres,America/New_York
+33974,26.56205,-81.60271,Lehigh Acres,America/New_York
+33976,26.59128,-81.68543,Lehigh Acres,America/New_York
+33980,26.98062,-82.05206,Punta Gorda,America/New_York
+33981,26.87544,-82.21047,Port Charlotte,America/New_York
+33982,26.91587,-81.75753,Punta Gorda,America/New_York
+33983,27.00712,-82.01508,Punta Gorda,America/New_York
+33990,26.62875,-81.94602,Cape Coral,America/New_York
+33991,26.63074,-82.01065,Cape Coral,America/New_York
+33993,26.67194,-82.04522,Cape Coral,America/New_York
+34101,26.05694,-81.78056,Naples,America/New_York
+34102,26.13783,-81.79654,Naples,America/New_York
+34103,26.19197,-81.80207,Naples,America/New_York
+34104,26.15321,-81.74214,Naples,America/New_York
+34105,26.18938,-81.7626,Naples,America/New_York
+34108,26.24533,-81.80694,Naples,America/New_York
+34109,26.24073,-81.76365,Naples,America/New_York
+34110,26.29619,-81.78505,Naples,America/New_York
+34112,26.12053,-81.73908,Naples,America/New_York
+34113,26.05685,-81.73523,Naples,America/New_York
+34114,25.98902,-81.58517,Naples,America/New_York
+34116,26.18816,-81.71058,Naples,America/New_York
+34117,26.11864,-81.548,Naples,America/New_York
+34119,26.26658,-81.71493,Naples,America/New_York
+34120,26.31382,-81.58344,Naples,America/New_York
+34134,26.36634,-81.83503,Bonita Springs,America/New_York
+34135,26.36923,-81.73303,Bonita Springs,America/New_York
+34137,26.03542,-81.40757,Copeland,America/New_York
+34138,25.82255,-81.37084,Chokoloskee,America/New_York
+34139,25.85449,-81.38253,Everglades City,America/New_York
+34140,25.92531,-81.65888,Goodland,America/New_York
+34141,25.91774,-81.07706,Ochopee,America/New_York
+34142,26.31392,-81.28601,Immokalee,America/New_York
+34145,25.91903,-81.69506,Marco Island,America/New_York
+34201,27.4029,-82.46784,Bradenton,America/New_York
+34202,27.40722,-82.39254,Bradenton,America/New_York
+34203,27.44319,-82.50834,Bradenton,America/New_York
+34205,27.48418,-82.5835,Bradenton,America/New_York
+34207,27.43762,-82.57993,Bradenton,America/New_York
+34208,27.48693,-82.51404,Bradenton,America/New_York
+34209,27.49489,-82.6433,Bradenton,America/New_York
+34210,27.43897,-82.63117,Bradenton,America/New_York
+34211,27.44944,-82.37738,Bradenton,America/New_York
+34212,27.49559,-82.40528,Bradenton,America/New_York
+34215,27.47444,-82.68409,Cortez,America/New_York
+34216,27.52837,-82.7331,Anna Maria,America/New_York
+34217,27.48916,-82.7044,Bradenton Beach,America/New_York
+34219,27.58041,-82.26094,Parrish,America/New_York
+34221,27.57777,-82.54285,Palmetto,America/New_York
+34222,27.53474,-82.50699,Ellenton,America/New_York
+34223,26.97963,-82.33257,Englewood,America/New_York
+34224,26.91902,-82.30581,Englewood,America/New_York
+34228,27.39258,-82.63407,Longboat Key,America/New_York
+34229,27.19159,-82.48309,Osprey,America/New_York
+34231,27.26651,-82.51626,Sarasota,America/New_York
+34232,27.32601,-82.47239,Sarasota,America/New_York
+34233,27.2836,-82.47311,Sarasota,America/New_York
+34234,27.36934,-82.5574,Sarasota,America/New_York
+34235,27.36673,-82.47724,Sarasota,America/New_York
+34236,27.32964,-82.55874,Sarasota,America/New_York
+34237,27.33761,-82.51409,Sarasota,America/New_York
+34238,27.23049,-82.4687,Sarasota,America/New_York
+34239,27.31094,-82.52179,Sarasota,America/New_York
+34240,27.34218,-82.35177,Sarasota,America/New_York
+34241,27.24944,-82.37305,Sarasota,America/New_York
+34242,27.26237,-82.53997,Sarasota,America/New_York
+34243,27.40264,-82.52809,Sarasota,America/New_York
+34250,27.57168,-82.58923,Terra Ceia,America/New_York
+34251,27.37819,-82.17152,Myakka City,America/New_York
+34266,27.19895,-81.80304,Arcadia,America/New_York
+34267,27.0893,-81.9543,Fort Ogden,America/New_York
+34268,27.14459,-81.91775,Nocatee,America/New_York
+34269,27.08865,-81.9639,Arcadia,America/New_York
+34275,27.15203,-82.41966,Nokomis,America/New_York
+34285,27.0918,-82.43408,Venice,America/New_York
+34286,27.09099,-82.14147,North Port,America/New_York
+34287,27.05735,-82.24677,North Port,America/New_York
+34288,27.05385,-82.11161,North Port,America/New_York
+34289,27.08587,-82.13664,North Port,America/New_York
+34291,27.11494,-82.21722,North Port,America/New_York
+34292,27.10308,-82.33496,Venice,America/New_York
+34293,27.04642,-82.35595,Venice,America/New_York
+34420,29.05359,-82.04008,Belleview,America/New_York
+34428,28.9608,-82.63421,Crystal River,America/New_York
+34429,28.85737,-82.65152,Crystal River,America/New_York
+34431,29.1339,-82.52963,Dunnellon,America/New_York
+34432,29.06588,-82.36353,Dunnellon,America/New_York
+34433,28.996,-82.52383,Dunnellon,America/New_York
+34434,28.99535,-82.43775,Dunnellon,America/New_York
+34436,28.72672,-82.29134,Floral City,America/New_York
+34442,28.93084,-82.39122,Hernando,America/New_York
+34445,28.97143,-82.42414,Holder,America/New_York
+34446,28.74904,-82.52344,Homosassa,America/New_York
+34448,28.77009,-82.61201,Homosassa,America/New_York
+34449,29.10451,-82.68694,Inglis,America/New_York
+34450,28.82699,-82.25767,Inverness,America/New_York
+34452,28.76231,-82.37986,Inverness,America/New_York
+34453,28.89276,-82.33663,Inverness,America/New_York
+34461,28.81544,-82.48029,Lecanto,America/New_York
+34465,28.92869,-82.49092,Beverly Hills,America/New_York
+34470,29.20098,-82.08262,Ocala,America/New_York
+34471,29.16054,-82.12786,Ocala,America/New_York
+34472,29.11187,-81.99625,Ocala,America/New_York
+34473,29.00506,-82.18833,Ocala,America/New_York
+34474,29.15515,-82.21106,Ocala,America/New_York
+34475,29.25282,-82.16065,Ocala,America/New_York
+34476,29.08579,-82.19279,Ocala,America/New_York
+34479,29.25285,-82.10945,Ocala,America/New_York
+34480,29.10178,-82.09975,Ocala,America/New_York
+34481,29.11902,-82.30769,Ocala,America/New_York
+34482,29.24984,-82.27702,Ocala,America/New_York
+34484,28.93417,-82.08867,Oxford,America/New_York
+34487,28.78148,-82.61272,Homosassa,America/New_York
+34488,29.22584,-81.93226,Silver Springs,America/New_York
+34491,28.99634,-82.04665,Summerfield,America/New_York
+34498,29.03299,-82.734,Yankeetown,America/New_York
+34601,28.5892,-82.36857,Brooksville,America/New_York
+34602,28.50252,-82.28007,Brooksville,America/New_York
+34604,28.4781,-82.43322,Brooksville,America/New_York
+34606,28.46961,-82.59759,Spring Hill,America/New_York
+34607,28.57528,-82.62715,Spring Hill,America/New_York
+34608,28.48258,-82.5532,Spring Hill,America/New_York
+34609,28.4792,-82.50818,Spring Hill,America/New_York
+34610,28.38339,-82.50058,Spring Hill,America/New_York
+34613,28.56183,-82.53803,Brooksville,America/New_York
+34614,28.64627,-82.51324,Brooksville,America/New_York
+34637,28.29589,-82.46368,Land O'Lakes,America/New_York
+34638,28.26035,-82.52036,Land O'Lakes,America/New_York
+34639,28.24456,-82.42475,Land O'Lakes,America/New_York
+34652,28.2368,-82.73661,New Port Richey,America/New_York
+34653,28.24266,-82.69308,New Port Richey,America/New_York
+34654,28.29757,-82.62904,New Port Richey,America/New_York
+34655,28.21201,-82.65516,New Port Richey,America/New_York
+34661,28.62108,-82.26507,Nobleton,America/New_York
+34667,28.38926,-82.65654,Hudson,America/New_York
+34668,28.30176,-82.70516,Port Richey,America/New_York
+34669,28.3577,-82.61476,Hudson,America/New_York
+34677,28.05293,-82.67549,Oldsmar,America/New_York
+34679,28.42226,-82.67716,Aripeka,America/New_York
+34681,28.0903,-82.77801,Crystal Beach,America/New_York
+34683,28.08626,-82.76025,Palm Harbor,America/New_York
+34684,28.08122,-82.72779,Palm Harbor,America/New_York
+34685,28.09995,-82.68851,Palm Harbor,America/New_York
+34688,28.14445,-82.68543,Tarpon Springs,America/New_York
+34689,28.14971,-82.75956,Tarpon Springs,America/New_York
+34690,28.19228,-82.72726,Holiday,America/New_York
+34691,28.19042,-82.76603,Holiday,America/New_York
+34695,28.00927,-82.69673,Safety Harbor,America/New_York
+34698,28.03204,-82.78433,Dunedin,America/New_York
+34705,28.69367,-81.71138,Astatula,America/New_York
+34711,28.52724,-81.75349,Clermont,America/New_York
+34714,28.40406,-81.80132,Clermont,America/New_York
+34715,28.6242,-81.73019,Clermont,America/New_York
+34729,28.61764,-81.69901,Ferndale,America/New_York
+34731,28.86788,-81.89638,Fruitland Park,America/New_York
+34734,28.5376,-81.52204,Gotha,America/New_York
+34736,28.57883,-81.88844,Groveland,America/New_York
+34737,28.69638,-81.80243,Howey In The Hills,America/New_York
+34739,27.92236,-81.10762,Kenansville,America/New_York
+34741,28.30544,-81.42567,Kissimmee,America/New_York
+34743,28.33066,-81.35441,Kissimmee,America/New_York
+34744,28.2954,-81.34675,Kissimmee,America/New_York
+34746,28.24233,-81.4423,Kissimmee,America/New_York
+34747,28.31111,-81.59107,Kissimmee,America/New_York
+34748,28.77366,-81.88552,Leesburg,America/New_York
+34753,28.58684,-81.89624,Mascotte,America/New_York
+34756,28.58651,-81.68214,Montverde,America/New_York
+34758,28.19142,-81.4871,Kissimmee,America/New_York
+34759,28.09113,-81.43774,Kissimmee,America/New_York
+34760,28.55694,-81.62916,Oakland,America/New_York
+34761,28.57975,-81.53386,Ocoee,America/New_York
+34762,28.75772,-81.9152,Okahumpka,America/New_York
+34769,28.24366,-81.29412,Saint Cloud,America/New_York
+34771,28.26647,-81.11908,Saint Cloud,America/New_York
+34772,28.16534,-81.27273,Saint Cloud,America/New_York
+34773,28.14695,-80.99968,Saint Cloud,America/New_York
+34785,28.84516,-82.06065,Wildwood,America/New_York
+34786,28.48161,-81.55501,Windermere,America/New_York
+34787,28.48309,-81.62833,Winter Garden,America/New_York
+34788,28.88542,-81.79678,Leesburg,America/New_York
+34797,28.73517,-81.81813,Yalaha,America/New_York
+34945,27.45219,-80.55213,Fort Pierce,America/New_York
+34946,27.50456,-80.36106,Fort Pierce,America/New_York
+34947,27.44903,-80.37633,Fort Pierce,America/New_York
+34949,27.4668,-80.30417,Fort Pierce,America/New_York
+34950,27.44341,-80.32969,Fort Pierce,America/New_York
+34951,27.52268,-80.41783,Fort Pierce,America/New_York
+34952,27.2969,-80.29748,Port Saint Lucie,America/New_York
+34953,27.24938,-80.38137,Port Saint Lucie,America/New_York
+34956,27.07969,-80.50074,Indiantown,America/New_York
+34957,27.28399,-80.24252,Jensen Beach,America/New_York
+34972,27.48016,-80.90926,Okeechobee,America/New_York
+34974,27.15062,-80.91371,Okeechobee,America/New_York
+34981,27.39329,-80.37163,Fort Pierce,America/New_York
+34982,27.37669,-80.31082,Fort Pierce,America/New_York
+34983,27.32295,-80.35052,Port Saint Lucie,America/New_York
+34984,27.24784,-80.33456,Port Saint Lucie,America/New_York
+34986,27.32804,-80.40524,Port Saint Lucie,America/New_York
+34987,27.28637,-80.50953,Port Saint Lucie,America/New_York
+34990,27.13623,-80.35655,Palm City,America/New_York
+34994,27.19954,-80.2557,Stuart,America/New_York
+34996,27.20071,-80.19644,Stuart,America/New_York
+34997,27.05085,-80.27268,Stuart,America/New_York
+35004,33.60369,-86.49333,Moody,America/Chicago
+35005,33.59215,-86.99833,Adamsville,America/Chicago
+35006,33.43159,-87.19961,Adger,America/Chicago
+35007,33.21751,-86.79307,Alabaster,America/Chicago
+35010,32.91433,-85.93816,Alexander City,America/Chicago
+35013,33.90166,-86.51785,Allgood,America/Chicago
+35014,33.36097,-86.25909,Alpine,America/Chicago
+35016,34.32545,-86.5033,Arab,America/Chicago
+35019,34.29828,-86.63496,Baileyton,America/Chicago
+35020,33.40502,-86.95436,Bessemer,America/Chicago
+35022,33.33107,-86.95959,Bessemer,America/Chicago
+35023,33.46674,-87.08891,Bessemer,America/Chicago
+35031,34.10256,-86.5455,Blountsville,America/Chicago
+35032,33.26321,-86.33408,Bon Air,America/Chicago
+35033,33.94517,-87.02904,Bremen,America/Chicago
+35034,32.9016,-87.26948,Brent,America/Chicago
+35035,33.04423,-86.97149,Brierfield,America/Chicago
+35036,33.64095,-86.91601,Brookside,America/Chicago
+35040,33.10487,-86.72958,Calera,America/Chicago
+35042,32.93297,-87.12542,Centreville,America/Chicago
+35043,33.30926,-86.66028,Chelsea,America/Chicago
+35044,33.26859,-86.36324,Childersburg,America/Chicago
+35045,32.81127,-86.67249,Clanton,America/Chicago
+35046,32.923,-86.54127,Clanton,America/Chicago
+35049,33.95674,-86.59904,Cleveland,America/Chicago
+35051,33.20457,-86.61523,Columbiana,America/Chicago
+35052,33.59228,-86.40771,Cook Springs,America/Chicago
+35053,34.05495,-87.06527,Crane Hill,America/Chicago
+35054,33.50417,-86.32693,Cropwell,America/Chicago
+35055,34.1542,-86.75932,Cullman,America/Chicago
+35057,34.13788,-86.95876,Cullman,America/Chicago
+35058,34.23082,-86.73265,Cullman,America/Chicago
+35060,33.55768,-86.92822,Docena,America/Chicago
+35061,33.47529,-86.9469,Dolomite,America/Chicago
+35062,33.72862,-87.02775,Dora,America/Chicago
+35063,33.8221,-87.00765,Empire,America/Chicago
+35064,33.47474,-86.91964,Fairfield,America/Chicago
+35068,33.60933,-86.83174,Fultondale,America/Chicago
+35070,34.01394,-86.74443,Garden City,America/Chicago
+35071,33.70376,-86.84286,Gardendale,America/Chicago
+35072,33.08985,-86.06057,Goodwater,America/Chicago
+35073,33.65377,-86.98051,Graysville,America/Chicago
+35074,33.22235,-87.12415,Green Pond,America/Chicago
+35077,34.01984,-86.83108,Hanceville,America/Chicago
+35078,33.32279,-86.44116,Harpersville,America/Chicago
+35079,33.94118,-86.75261,Hayden,America/Chicago
+35080,33.25508,-86.91894,Helena,America/Chicago
+35082,33.1563,-86.15456,Hollins,America/Chicago
+35083,34.19718,-86.5931,Holly Pond,America/Chicago
+35085,32.97975,-86.73584,Jemison,America/Chicago
+35087,34.30556,-86.58252,Joppa,America/Chicago
+35089,32.9426,-86.07457,Kellyton,America/Chicago
+35091,33.78344,-86.78963,Kimberly,America/Chicago
+35094,33.52057,-86.56127,Leeds,America/Chicago
+35096,33.62141,-86.10849,Lincoln,America/Chicago
+35097,33.89871,-86.62526,Locust Fork,America/Chicago
+35098,34.12779,-87.04626,Logan,America/Chicago
+35111,33.28309,-87.09002,McCalla,America/Chicago
+35112,33.69374,-86.47248,Margaret,America/Chicago
+35114,33.22274,-86.86739,Alabaster,America/Chicago
+35115,33.12133,-86.89605,Montevallo,America/Chicago
+35116,33.73167,-86.76819,Morris,America/Chicago
+35117,33.67085,-86.89678,Mount Olive,America/Chicago
+35118,33.53916,-87.05212,Mulga,America/Chicago
+35119,33.63809,-86.77864,New Castle,America/Chicago
+35120,33.66777,-86.42064,Odenville,America/Chicago
+35121,33.9397,-86.454,Oneonta,America/Chicago
+35124,33.31368,-86.76194,Pelham,America/Chicago
+35125,33.62567,-86.29594,Pell City,America/Chicago
+35126,33.73071,-86.65385,Pinson,America/Chicago
+35127,33.49118,-86.97581,Pleasant Grove,America/Chicago
+35128,33.54738,-86.34596,Pell City,America/Chicago
+35130,33.63235,-87.13313,Quinton,America/Chicago
+35131,33.72062,-86.19965,Ragland,America/Chicago
+35133,33.81969,-86.59878,Remlap,America/Chicago
+35135,33.61814,-86.1991,Riverside,America/Chicago
+35136,32.87877,-86.28965,Rockford,America/Chicago
+35143,33.08797,-86.55369,Shelby,America/Chicago
+35146,33.79275,-86.43258,Springville,America/Chicago
+35147,33.41233,-86.53164,Sterrett,America/Chicago
+35148,33.75643,-87.04556,Sumiton,America/Chicago
+35149,33.24378,-86.20709,Sycamore,America/Chicago
+35150,33.18581,-86.24454,Sylacauga,America/Chicago
+35151,33.108,-86.36704,Sylacauga,America/Chicago
+35160,33.36898,-86.1005,Talladega,America/Chicago
+35171,32.87823,-86.74636,Thorsby,America/Chicago
+35172,33.84389,-86.69788,Trafford,America/Chicago
+35173,33.65284,-86.56337,Trussville,America/Chicago
+35175,34.43731,-86.51673,Union Grove,America/Chicago
+35176,33.4817,-86.50221,Vandiver,America/Chicago
+35178,33.42003,-86.39993,Vincent,America/Chicago
+35179,34.27004,-86.96847,Vinemont,America/Chicago
+35180,33.82388,-86.83987,Warrior,America/Chicago
+35181,33.62647,-86.87999,Watson,America/Chicago
+35183,33.00675,-86.35706,Weogufka,America/Chicago
+35184,33.1152,-87.13931,West Blocton,America/Chicago
+35185,33.34903,-86.53871,Westover,America/Chicago
+35186,33.25699,-86.51442,Wilsonville,America/Chicago
+35188,33.18326,-87.17322,Woodstock,America/Chicago
+35203,33.51847,-86.80999,Birmingham,America/Chicago
+35204,33.52203,-86.84067,Birmingham,America/Chicago
+35205,33.49509,-86.8084,Birmingham,America/Chicago
+35206,33.57024,-86.71328,Birmingham,America/Chicago
+35207,33.5682,-86.8223,Birmingham,America/Chicago
+35208,33.49717,-86.87909,Birmingham,America/Chicago
+35209,33.46507,-86.81107,Birmingham,America/Chicago
+35210,33.5431,-86.6661,Birmingham,America/Chicago
+35211,33.45262,-86.87046,Birmingham,America/Chicago
+35212,33.54765,-86.75272,Birmingham,America/Chicago
+35213,33.50659,-86.74241,Birmingham,America/Chicago
+35214,33.57322,-86.89081,Birmingham,America/Chicago
+35215,33.64911,-86.70435,Birmingham,America/Chicago
+35216,33.41995,-86.78746,Birmingham,America/Chicago
+35217,33.60711,-86.7613,Birmingham,America/Chicago
+35218,33.50771,-86.89388,Birmingham,America/Chicago
+35221,33.4497,-86.89901,Birmingham,America/Chicago
+35222,33.52378,-86.76994,Birmingham,America/Chicago
+35223,33.48777,-86.73605,Birmingham,America/Chicago
+35224,33.52965,-86.94518,Birmingham,America/Chicago
+35226,33.39823,-86.84421,Birmingham,America/Chicago
+35228,33.45606,-86.92165,Birmingham,America/Chicago
+35229,33.46434,-86.79399,Birmingham,America/Chicago
+35233,33.50916,-86.80132,Birmingham,America/Chicago
+35234,33.54005,-86.80382,Birmingham,America/Chicago
+35235,33.61723,-86.65008,Birmingham,America/Chicago
+35242,33.42371,-86.67073,Birmingham,America/Chicago
+35243,33.44185,-86.74055,Birmingham,America/Chicago
+35244,33.35205,-86.8267,Birmingham,America/Chicago
+35249,33.50657,-86.80316,Birmingham,America/Chicago
+35254,33.51375,-86.85282,Birmingham,America/Chicago
+35401,33.179,-87.61586,Tuscaloosa,America/Chicago
+35404,33.21661,-87.48655,Tuscaloosa,America/Chicago
+35405,33.12087,-87.55082,Tuscaloosa,America/Chicago
+35406,33.33194,-87.4683,Tuscaloosa,America/Chicago
+35441,32.85616,-87.73114,Akron,America/Chicago
+35442,33.06016,-88.20159,Aliceville,America/Chicago
+35443,32.76538,-88.01908,Boligee,America/Chicago
+35444,33.33474,-87.30387,Brookwood,America/Chicago
+35446,33.21642,-87.74833,Buhl,America/Chicago
+35447,33.25701,-88.15716,Carrollton,America/Chicago
+35452,33.28349,-87.6854,Coker,America/Chicago
+35453,33.16176,-87.387,Cottondale,America/Chicago
+35456,33.05651,-87.43515,Duncanville,America/Chicago
+35457,33.29891,-87.77229,Echola,America/Chicago
+35458,33.3814,-87.79713,Elrod,America/Chicago
+35459,32.79337,-88.3003,Emelle,America/Chicago
+35460,32.71882,-88.19452,Epes,America/Chicago
+35461,33.41749,-88.21158,Ethelsville,America/Chicago
+35462,32.93389,-87.94183,Eutaw,America/Chicago
+35463,33.0563,-87.68687,Fosters,America/Chicago
+35464,32.78369,-88.14383,Gainesville,America/Chicago
+35466,33.25904,-87.91554,Gordo,America/Chicago
+35469,33.01447,-87.80578,Knoxville,America/Chicago
+35470,32.56801,-88.09894,Livingston,America/Chicago
+35473,33.27236,-87.58481,Northport,America/Chicago
+35474,32.93679,-87.57226,Moundville,America/Chicago
+35475,33.42792,-87.5854,Northport,America/Chicago
+35476,33.2271,-87.60464,Northport,America/Chicago
+35477,32.96304,-88.23121,Panola,America/Chicago
+35480,33.09794,-87.80734,Ralph,America/Chicago
+35481,33.39852,-88.03934,Reform,America/Chicago
+35487,33.21426,-87.54782,Tuscaloosa,America/Chicago
+35490,33.21607,-87.24546,Vance,America/Chicago
+35491,32.93665,-88.09774,West Greene,America/Chicago
+35501,33.82145,-87.29544,Jasper,America/Chicago
+35503,33.93664,-87.30147,Jasper,America/Chicago
+35504,33.89311,-87.16672,Jasper,America/Chicago
+35540,34.23066,-87.18374,Addison,America/Chicago
+35541,34.07936,-87.1801,Arley,America/Chicago
+35542,33.7083,-87.68161,Bankston,America/Chicago
+35543,34.21219,-87.75197,Bear Creek,America/Chicago
+35544,33.95392,-88.02022,Beaverton,America/Chicago
+35545,33.6421,-87.93147,Belk,America/Chicago
+35546,33.60555,-87.54763,Berry,America/Chicago
+35548,34.06263,-87.75251,Brilliant,America/Chicago
+35549,33.83474,-87.55001,Carbon Hill,America/Chicago
+35550,33.74249,-87.16534,Cordova,America/Chicago
+35552,34.07311,-88.14266,Detroit,America/Chicago
+35553,34.12471,-87.38794,Double Springs,America/Chicago
+35554,33.89745,-87.65593,Eldridge,America/Chicago
+35555,33.66829,-87.82309,Fayette,America/Chicago
+35559,33.91166,-87.73537,Glen Allen,America/Chicago
+35563,33.99678,-87.90149,Guin,America/Chicago
+35564,34.25733,-87.84306,Hackleburg,America/Chicago
+35565,34.23555,-87.56309,Haleyville,America/Chicago
+35570,34.16532,-87.99466,Hamilton,America/Chicago
+35571,34.35153,-87.94672,Hodges,America/Chicago
+35572,34.20672,-87.29447,Houston,America/Chicago
+35573,33.90137,-87.54999,Kansas,America/Chicago
+35574,33.5683,-87.95757,Kennedy,America/Chicago
+35575,34.04521,-87.57716,Lynn,America/Chicago
+35576,33.582,-88.1315,Millport,America/Chicago
+35577,34.09175,-87.59931,Natural Bridge,America/Chicago
+35578,33.982,-87.46638,Nauvoo,America/Chicago
+35579,33.63069,-87.34441,Oakman,America/Chicago
+35580,33.7011,-87.27331,Parrish,America/Chicago
+35581,34.35789,-87.71267,Phil Campbell,America/Chicago
+35582,34.48577,-88.09536,Red Bay,America/Chicago
+35584,33.82161,-87.08692,Sipsey,America/Chicago
+35585,34.41868,-87.82008,Spruce Pine,America/Chicago
+35586,33.87332,-88.13837,Sulligent,America/Chicago
+35587,33.80071,-87.4521,Townley,America/Chicago
+35592,33.74315,-88.09672,Vernon,America/Chicago
+35593,34.35721,-88.07328,Vina,America/Chicago
+35594,33.92222,-87.7813,Winfield,America/Chicago
+35601,34.60616,-87.00795,Decatur,America/Chicago
+35603,34.53712,-86.96717,Decatur,America/Chicago
+35610,34.95361,-87.23714,Anderson,America/Chicago
+35611,34.76554,-87.08418,Athens,America/Chicago
+35613,34.82336,-86.88001,Athens,America/Chicago
+35614,34.86433,-87.08457,Athens,America/Chicago
+35615,34.66229,-86.87596,Belle Mina,America/Chicago
+35616,34.7382,-88.01889,Cherokee,America/Chicago
+35618,34.64334,-87.30552,Courtland,America/Chicago
+35619,34.38606,-87.14545,Danville,America/Chicago
+35620,34.93141,-86.99086,Elkmont,America/Chicago
+35621,34.34967,-86.7239,Eva,America/Chicago
+35622,34.34491,-86.89535,Falkville,America/Chicago
+35630,34.82526,-87.66018,Florence,America/Chicago
+35632,34.80763,-87.68043,Florence,America/Chicago
+35633,34.87586,-87.79645,Florence,America/Chicago
+35634,34.92306,-87.60738,Florence,America/Chicago
+35640,34.4414,-86.94315,Hartselle,America/Chicago
+35643,34.66882,-87.20707,Hillsboro,America/Chicago
+35645,34.89605,-87.4936,Killen,America/Chicago
+35646,34.66988,-87.53165,Leighton,America/Chicago
+35647,34.96539,-87.11933,Lester,America/Chicago
+35648,34.95857,-87.38022,Lexington,America/Chicago
+35649,34.62091,-86.87965,Mooresville,America/Chicago
+35650,34.45176,-87.30289,Moulton,America/Chicago
+35651,34.46254,-87.48044,Mount Hope,America/Chicago
+35652,34.84742,-87.31137,Rogersville,America/Chicago
+35653,34.53131,-87.86974,Russellville,America/Chicago
+35654,34.49971,-87.62,Russellville,America/Chicago
+35660,34.75837,-87.69847,Sheffield,America/Chicago
+35661,34.77737,-87.56331,Muscle Shoals,America/Chicago
+35670,34.46318,-86.72356,Somerville,America/Chicago
+35671,34.66607,-86.95191,Tanner,America/Chicago
+35672,34.65106,-87.40705,Town Creek,America/Chicago
+35673,34.58601,-87.13166,Trinity,America/Chicago
+35674,34.66343,-87.75996,Tuscumbia,America/Chicago
+35677,34.95367,-88.02529,Waterloo,America/Chicago
+35739,34.96914,-86.79501,Ardmore,America/Chicago
+35740,34.95009,-85.75855,Bridgeport,America/Chicago
+35741,34.7242,-86.47745,Brownsboro,America/Chicago
+35744,34.61435,-85.90603,Dutton,America/Chicago
+35745,34.94101,-86.20002,Estillfork,America/Chicago
+35746,34.8287,-85.99868,Fackler,America/Chicago
+35747,34.49414,-86.30497,Grant,America/Chicago
+35748,34.71925,-86.39036,Gurley,America/Chicago
+35749,34.82314,-86.75662,Harvest,America/Chicago
+35750,34.95407,-86.5951,Hazel Green,America/Chicago
+35751,34.81066,-86.27931,Hollytree,America/Chicago
+35752,34.75593,-85.95119,Hollywood,America/Chicago
+35754,34.51819,-86.61099,Laceys Spring,America/Chicago
+35755,34.50676,-86.12609,Langston,America/Chicago
+35756,34.64287,-86.82114,Madison,America/Chicago
+35757,34.78426,-86.74419,Madison,America/Chicago
+35758,34.71417,-86.74707,Madison,America/Chicago
+35759,34.86856,-86.55262,Meridianville,America/Chicago
+35760,34.54768,-86.38324,New Hope,America/Chicago
+35761,34.914,-86.41001,New Market,America/Chicago
+35763,34.62022,-86.46615,Owens Cross Roads,America/Chicago
+35764,34.73102,-86.31381,Paint Rock,America/Chicago
+35765,34.69393,-85.82423,Pisgah,America/Chicago
+35766,34.87342,-86.27661,Princeton,America/Chicago
+35768,34.77852,-86.10383,Scottsboro,America/Chicago
+35769,34.59255,-86.09472,Scottsboro,America/Chicago
+35771,34.53635,-85.99843,Section,America/Chicago
+35772,34.89152,-85.88614,Stevenson,America/Chicago
+35773,34.89431,-86.71282,Toney,America/Chicago
+35774,34.7611,-86.22805,Trenton,America/Chicago
+35775,34.5477,-86.69623,Valhermoso Springs,America/Chicago
+35776,34.66083,-86.24338,Woodville,America/Chicago
+35801,34.72497,-86.56304,Huntsville,America/Chicago
+35802,34.67398,-86.55449,Huntsville,America/Chicago
+35803,34.56476,-86.52185,Huntsville,America/Chicago
+35805,34.70875,-86.6219,Huntsville,America/Chicago
+35806,34.76615,-86.68324,Huntsville,America/Chicago
+35808,34.63236,-86.65579,Huntsville,America/Chicago
+35810,34.80183,-86.60264,Huntsville,America/Chicago
+35811,34.79925,-86.50386,Huntsville,America/Chicago
+35816,34.73923,-86.62985,Huntsville,America/Chicago
+35824,34.64458,-86.75193,Huntsville,America/Chicago
+35896,34.75318,-86.65213,Huntsville,America/Chicago
+35901,34.04848,-85.92395,Gadsden,America/Chicago
+35903,34.03144,-85.85703,Gadsden,America/Chicago
+35904,34.07569,-85.98519,Gadsden,America/Chicago
+35905,33.93667,-85.89842,Gadsden,America/Chicago
+35906,33.93159,-86.09033,Rainbow City,America/Chicago
+35907,33.89874,-86.02408,Gadsden,America/Chicago
+35950,34.25273,-86.26023,Albertville,America/Chicago
+35951,34.33713,-86.1553,Albertville,America/Chicago
+35952,34.05322,-86.3082,Altoona,America/Chicago
+35953,33.81058,-86.20986,Ashville,America/Chicago
+35954,34.08952,-86.05771,Attalla,America/Chicago
+35956,34.1433,-86.14799,Boaz,America/Chicago
+35957,34.19105,-86.19531,Boaz,America/Chicago
+35958,34.91796,-85.64731,Bryant,America/Chicago
+35959,34.23968,-85.60575,Cedar Bluff,America/Chicago
+35960,34.12515,-85.56786,Centre,America/Chicago
+35961,34.27753,-85.86241,Collinsville,America/Chicago
+35962,34.29916,-86.03795,Crossville,America/Chicago
+35963,34.35812,-85.93114,Dawson,America/Chicago
+35966,34.79696,-85.68833,Flat Rock,America/Chicago
+35967,34.3981,-85.69698,Fort Payne,America/Chicago
+35968,34.48095,-85.77232,Fort Payne,America/Chicago
+35971,34.45603,-85.9466,Fyffe,America/Chicago
+35972,33.98797,-86.24943,Gallant,America/Chicago
+35973,34.34222,-85.5554,Gaylesville,America/Chicago
+35974,34.36284,-86.0099,Geraldine,America/Chicago
+35975,34.43832,-86.06655,Groveoak,America/Chicago
+35976,34.34819,-86.32919,Guntersville,America/Chicago
+35978,34.64239,-85.72983,Henagar,America/Chicago
+35979,34.82994,-85.6125,Higdon,America/Chicago
+35980,34.17719,-86.38335,Horton,America/Chicago
+35981,34.72218,-85.64072,Ider,America/Chicago
+35983,34.17088,-85.76746,Leesburg,America/Chicago
+35984,34.52781,-85.56594,Mentone,America/Chicago
+35986,34.50524,-85.84012,Rainsville,America/Chicago
+35987,33.91557,-86.23889,Steele,America/Chicago
+35988,34.5589,-85.79994,Sylvania,America/Chicago
+35989,34.60858,-85.63162,Valley Head,America/Chicago
+35990,34.06676,-86.3052,Walnut Grove,America/Chicago
+36003,32.44651,-86.72536,Autaugaville,America/Chicago
+36005,31.88137,-85.72802,Banks,America/Chicago
+36006,32.63831,-86.72531,Billingsley,America/Chicago
+36008,32.49747,-86.56416,Booth,America/Chicago
+36009,31.58395,-86.30531,Brantley,America/Chicago
+36010,31.66751,-85.81439,Brundidge,America/Chicago
+36013,32.2976,-85.97959,Cecil,America/Chicago
+36016,31.84562,-85.4255,Clayton,America/Chicago
+36017,31.68142,-85.55411,Clio,America/Chicago
+36020,32.49616,-86.31858,Coosada,America/Chicago
+36022,32.61951,-86.40492,Deatsville,America/Chicago
+36024,32.6654,-86.03312,Eclectic,America/Chicago
+36025,32.54664,-86.33941,Elmore,America/Chicago
+36026,32.77587,-86.13269,Equality,America/Chicago
+36027,31.93307,-85.20968,Eufaula,America/Chicago
+36028,31.49031,-86.38271,Dozier,America/Chicago
+36029,32.18479,-85.92953,Fitzpatrick,America/Chicago
+36030,31.86044,-86.85697,Forest Home,America/Chicago
+36031,32.24944,-85.75157,Fort Davis,America/Chicago
+36032,31.99857,-86.57179,Fort Deposit,America/Chicago
+36033,31.66983,-86.771,Georgiana,America/Chicago
+36034,31.62308,-86.11155,Glenwood,America/Chicago
+36035,31.79285,-86.12415,Goshen,America/Chicago
+36036,31.97541,-86.16063,Grady,America/Chicago
+36037,31.79384,-86.62356,Greenville,America/Chicago
+36038,31.40788,-86.4869,Gantt,America/Chicago
+36039,32.28939,-85.82789,Hardaway,America/Chicago
+36040,32.17795,-86.66972,Hayneville,America/Chicago
+36041,31.92361,-86.32172,Highland Home,America/Chicago
+36042,31.86655,-86.44897,Honoraville,America/Chicago
+36043,32.1939,-86.42811,Hope Hull,America/Chicago
+36046,31.9994,-86.33948,Lapine,America/Chicago
+36047,32.07868,-86.52474,Letohatchee,America/Chicago
+36048,31.79011,-85.59066,Louisville,America/Chicago
+36049,31.76612,-86.28092,Luverne,America/Chicago
+36051,32.68771,-86.488,Marbury,America/Chicago
+36052,32.17935,-86.04309,Mathews,America/Chicago
+36053,32.03514,-85.43945,Midway,America/Chicago
+36054,32.46821,-86.35962,Millbrook,America/Chicago
+36057,32.37464,-86.08461,Mount Meigs,America/Chicago
+36064,32.3008,-86.08186,Pike Road,America/Chicago
+36066,32.48216,-86.42431,Prattville,America/Chicago
+36067,32.51134,-86.57084,Prattville,America/Chicago
+36069,32.0905,-86.16008,Ramer,America/Chicago
+36071,31.70534,-86.39815,Rutledge,America/Chicago
+36075,32.38913,-85.91257,Shorter,America/Chicago
+36078,32.53991,-85.93328,Tallassee,America/Chicago
+36079,31.76605,-86.01206,Troy,America/Chicago
+36080,32.70497,-86.28662,Titus,America/Chicago
+36081,31.90663,-85.89804,Troy,America/Chicago
+36082,31.80271,-85.95514,Troy,America/Chicago
+36083,32.39512,-85.68672,Tuskegee,America/Chicago
+36088,32.41911,-85.718,Tuskegee Institute,America/Chicago
+36089,32.15745,-85.69872,Union Springs,America/Chicago
+36091,32.74881,-86.52021,Verbena,America/Chicago
+36092,32.61401,-86.19619,Wetumpka,America/Chicago
+36093,32.49584,-86.13956,Wetumpka,America/Chicago
+36101,32.38177,-86.29763,Montgomery,America/Chicago
+36104,32.39889,-86.31593,Montgomery,America/Chicago
+36105,32.21808,-86.28778,Montgomery,America/Chicago
+36106,32.35264,-86.25793,Montgomery,America/Chicago
+36107,32.38434,-86.2795,Montgomery,America/Chicago
+36108,32.33956,-86.40602,Montgomery,America/Chicago
+36109,32.38682,-86.24052,Montgomery,America/Chicago
+36110,32.44899,-86.25566,Montgomery,America/Chicago
+36111,32.33755,-86.27154,Montgomery,America/Chicago
+36112,32.38343,-86.36,Montgomery,America/Chicago
+36113,32.38146,-86.34172,Montgomery,America/Chicago
+36114,32.40484,-86.24568,Montgomery,America/Chicago
+36115,32.40688,-86.24685,Montgomery,America/Chicago
+36116,32.27312,-86.21765,Montgomery,America/Chicago
+36117,32.37831,-86.14627,Montgomery,America/Chicago
+36130,32.37778,-86.29926,Montgomery,America/Chicago
+36201,33.65082,-85.88264,Anniston,America/Chicago
+36203,33.58205,-85.83312,Oxford,America/Chicago
+36205,33.70037,-85.78898,Anniston,America/Chicago
+36206,33.73225,-85.81638,Anniston,America/Chicago
+36207,33.68196,-85.71356,Anniston,America/Chicago
+36250,33.76564,-85.89675,Alexandria,America/Chicago
+36251,33.22996,-85.86532,Ashland,America/Chicago
+36255,33.18094,-85.73933,Cragford,America/Chicago
+36256,33.04181,-85.70775,Daviston,America/Chicago
+36258,33.47795,-85.716,Delta,America/Chicago
+36260,33.58662,-86.00025,Eastaboga,America/Chicago
+36262,33.7965,-85.46741,Fruithurst,America/Chicago
+36263,33.46727,-85.36016,Graham,America/Chicago
+36264,33.59305,-85.53817,Heflin,America/Chicago
+36265,33.84659,-85.78662,Jacksonville,America/Chicago
+36266,33.35338,-85.75062,Lineville,America/Chicago
+36267,33.19513,-85.94659,Millerville,America/Chicago
+36268,33.49469,-85.94016,Munford,America/Chicago
+36269,33.73569,-85.38314,Muscadine,America/Chicago
+36271,33.78215,-86.01624,Ohatchee,America/Chicago
+36272,33.94441,-85.60454,Piedmont,America/Chicago
+36273,33.53904,-85.37742,Ranburne,America/Chicago
+36274,33.17687,-85.36283,Roanoke,America/Chicago
+36276,33.12644,-85.57772,Wadley,America/Chicago
+36277,33.7609,-85.81541,Weaver,America/Chicago
+36278,33.31885,-85.5253,Wedowee,America/Chicago
+36279,33.87237,-85.88645,Wellington,America/Chicago
+36280,33.38427,-85.3891,Woodland,America/Chicago
+36301,31.14387,-85.40321,Dothan,America/Chicago
+36303,31.26389,-85.39213,Dothan,America/Chicago
+36305,31.20229,-85.49798,Dothan,America/Chicago
+36310,31.60296,-85.21229,Abbeville,America/Chicago
+36311,31.60092,-85.68372,Ariton,America/Chicago
+36312,31.16748,-85.23867,Ashford,America/Chicago
+36313,31.18024,-85.79368,Bellwood,America/Chicago
+36314,31.02141,-85.77645,Black,America/Chicago
+36316,31.17835,-85.86496,Chancellor,America/Chicago
+36317,31.63532,-85.38748,Clopton,America/Chicago
+36318,31.17612,-85.95653,Coffee Springs,America/Chicago
+36319,31.32367,-85.14931,Columbia,America/Chicago
+36320,31.05105,-85.31765,Cottonwood,America/Chicago
+36321,31.20558,-85.30093,Cowarts,America/Chicago
+36322,31.25575,-85.73249,Daleville,America/Chicago
+36323,31.42702,-86.07221,Elba,America/Chicago
+36330,31.30743,-85.85854,Enterprise,America/Chicago
+36340,31.05391,-85.89155,Geneva,America/Chicago
+36343,31.05753,-85.11812,Gordon,America/Chicago
+36344,31.1007,-85.70931,Hartford,America/Chicago
+36345,31.3741,-85.31,Headland,America/Chicago
+36346,31.55783,-85.9331,Jack,America/Chicago
+36350,31.3435,-85.49669,Midland City,America/Chicago
+36351,31.41469,-85.90596,New Brockton,America/Chicago
+36352,31.25682,-85.61629,Newton,America/Chicago
+36353,31.4817,-85.36208,Newville,America/Chicago
+36360,31.46648,-85.61641,Ozark,America/Chicago
+36362,31.35072,-85.69027,Fort Rucker,America/Chicago
+36370,31.13175,-85.15688,Pansey,America/Chicago
+36371,31.3208,-85.54738,Pinckard,America/Chicago
+36373,31.52131,-85.10355,Shorterville,America/New_York
+36374,31.5723,-85.48956,Skipperville,America/Chicago
+36375,31.07681,-85.54111,Slocomb,America/Chicago
+36376,31.25213,-85.26961,Webb,America/Chicago
+36401,31.47123,-86.94928,Evergreen,America/Chicago
+36420,31.18092,-86.57618,Andalusia,America/Chicago
+36421,31.32769,-86.50903,Andalusia,America/Chicago
+36425,31.75884,-87.19731,Beatrice,America/Chicago
+36426,31.14386,-87.076,Brewton,America/Chicago
+36432,31.30055,-87.03888,Castleberry,America/Chicago
+36435,31.87889,-87.45564,Coy,America/Chicago
+36436,31.76636,-87.6614,Dickinson,America/Chicago
+36439,31.42252,-87.34512,Excel,America/Chicago
+36441,31.04064,-87.25885,Flomaton,America/Chicago
+36442,31.07312,-86.36355,Florala,America/Chicago
+36444,31.65935,-87.4651,Franklin,America/Chicago
+36445,31.44397,-87.44982,Frisco City,America/Chicago
+36446,31.79146,-87.72446,Fulton,America/Chicago
+36451,31.69769,-87.80664,Grove Hill,America/Chicago
+36453,31.19788,-86.14726,Kinston,America/Chicago
+36454,31.34368,-87.20185,Lenox,America/Chicago
+36455,31.01212,-86.35321,Lockhart,America/Chicago
+36456,31.57103,-86.82556,McKenzie,America/Chicago
+36460,31.52679,-87.30786,Monroeville,America/Chicago
+36467,31.2795,-86.25579,Opp,America/Chicago
+36470,31.51602,-87.55518,Perdue Hill,America/Chicago
+36471,31.62616,-87.22861,Peterman,America/Chicago
+36473,31.32009,-87.21967,Range,America/Chicago
+36474,31.42664,-86.62022,Red Level,America/Chicago
+36475,31.38511,-87.22717,Repton,America/Chicago
+36476,31.35359,-86.54633,River Falls,America/Chicago
+36477,31.08741,-86.05407,Samson,America/Chicago
+36480,31.32976,-87.61125,Uriah,America/Chicago
+36481,31.77356,-87.37553,Vredenburgh,America/Chicago
+36482,31.6223,-87.63424,Whatley,America/Chicago
+36483,31.04273,-86.68494,Wing,America/Chicago
+36502,31.14498,-87.49303,Atmore,America/Chicago
+36503,31.15674,-87.4654,Atmore,America/Chicago
+36505,30.94978,-88.0225,Axis,America/Chicago
+36507,30.85893,-87.74188,Bay Minette,America/Chicago
+36509,30.4077,-88.24726,Bayou La Batre,America/Chicago
+36511,30.31173,-87.74259,Bon Secour,America/Chicago
+36512,31.00327,-88.01023,Bucks,America/Chicago
+36513,31.15516,-87.99021,Calvert,America/Chicago
+36518,31.47082,-88.27546,Chatom,America/Chicago
+36521,30.96241,-88.18526,Chunchula,America/Chicago
+36522,31.08296,-88.27795,Citronelle,America/Chicago
+36523,30.37852,-88.16536,Coden,America/Chicago
+36524,31.80868,-88.0203,Coffeeville,America/Chicago
+36525,30.8898,-88.02329,Creola,America/Chicago
+36526,30.61187,-87.86151,Daphne,America/Chicago
+36527,30.69679,-87.87734,Daphne,America/Chicago
+36528,30.25253,-88.14381,Dauphin Island,America/Chicago
+36529,31.29279,-88.27281,Deer Park,America/Chicago
+36530,30.41192,-87.55445,Elberta,America/Chicago
+36532,30.48197,-87.86207,Fairhope,America/Chicago
+36535,30.38562,-87.72514,Foley,America/Chicago
+36538,31.65948,-88.13836,Frankville,America/Chicago
+36539,31.3475,-88.39358,Fruitdale,America/Chicago
+36540,31.44702,-87.66487,Gainestown,America/Chicago
+36541,30.49084,-88.34384,Grand Bay,America/Chicago
+36542,30.27683,-87.73867,Gulf Shores,America/Chicago
+36543,31.22129,-87.46592,Huxford,America/Chicago
+36544,30.47436,-88.234,Irvington,America/Chicago
+36545,31.48767,-87.87424,Jackson,America/Chicago
+36547,30.25278,-87.65405,Gulf Shores,America/Chicago
+36548,31.48326,-87.97226,Leroy,America/Chicago
+36549,30.41377,-87.44951,Lillian,America/Chicago
+36550,31.25212,-87.74294,Little River,America/Chicago
+36551,30.63982,-87.7504,Loxley,America/Chicago
+36553,31.22852,-88.08658,McIntosh,America/Chicago
+36555,30.40006,-87.77312,Magnolia Springs,America/Chicago
+36556,31.20649,-87.97127,Malcolm,America/Chicago
+36558,31.61606,-88.33034,Millry,America/Chicago
+36559,30.56894,-87.90393,Montrose,America/Chicago
+36560,31.08553,-88.04991,Mount Vernon,America/Chicago
+36561,30.28813,-87.57142,Orange Beach,America/Chicago
+36562,31.03738,-87.66274,Perdido,America/Chicago
+36564,30.46983,-87.91467,Point Clear,America/Chicago
+36567,30.61483,-87.55792,Robertsdale,America/Chicago
+36568,30.51291,-88.27067,Saint Elmo,America/Chicago
+36569,31.54418,-88.07907,Saint Stephens,America/Chicago
+36571,30.85055,-88.10415,Saraland,America/Chicago
+36572,30.85617,-88.05956,Satsuma,America/Chicago
+36574,30.5141,-87.48258,Seminole,America/Chicago
+36575,30.76825,-88.27276,Semmes,America/Chicago
+36576,30.52654,-87.76654,Silverhill,America/Chicago
+36578,30.73867,-87.77275,Stapleton,America/Chicago
+36579,31.11395,-87.78616,Stockton,America/Chicago
+36580,30.48085,-87.70321,Summerdale,America/Chicago
+36581,31.36645,-88.0098,Sunflower,America/Chicago
+36582,30.51616,-88.17719,Theodore,America/Chicago
+36583,31.36677,-88.1869,Tibbie,America/Chicago
+36584,31.19579,-88.38385,Vinegar Bend,America/Chicago
+36585,31.36985,-88.02338,Wagarville,America/Chicago
+36587,30.83599,-88.35006,Wilmer,America/Chicago
+36602,30.69834,-88.03815,Mobile,America/Chicago
+36603,30.68426,-88.05273,Mobile,America/Chicago
+36604,30.68229,-88.06837,Mobile,America/Chicago
+36605,30.60649,-88.09064,Mobile,America/Chicago
+36606,30.67088,-88.10617,Mobile,America/Chicago
+36607,30.699,-88.10552,Mobile,America/Chicago
+36608,30.68115,-88.29593,Mobile,America/Chicago
+36609,30.66086,-88.16378,Mobile,America/Chicago
+36610,30.73721,-88.07389,Mobile,America/Chicago
+36611,30.7702,-88.07747,Mobile,America/Chicago
+36612,30.75283,-88.11285,Mobile,America/Chicago
+36613,30.81175,-88.18176,Eight Mile,America/Chicago
+36615,30.63563,-88.06717,Mobile,America/Chicago
+36617,30.71544,-88.09518,Mobile,America/Chicago
+36618,30.73612,-88.17333,Mobile,America/Chicago
+36619,30.59488,-88.19302,Mobile,America/Chicago
+36652,30.69586,-88.0803,Mobile,America/Chicago
+36663,30.73683,-88.10896,Mobile,America/Chicago
+36688,30.69559,-88.18783,Mobile,America/Chicago
+36693,30.62676,-88.14989,Mobile,America/Chicago
+36695,30.6309,-88.27775,Mobile,America/Chicago
+36701,32.49672,-87.0568,Selma,America/Chicago
+36703,32.43387,-86.91118,Selma,America/Chicago
+36720,32.16493,-87.34684,Alberta,America/Chicago
+36722,32.08124,-87.57661,Arlington,America/Chicago
+36723,32.06633,-87.2907,Boykin,America/Chicago
+36726,31.97043,-87.27532,Camden,America/Chicago
+36727,31.91193,-88.02054,Campbell,America/Chicago
+36728,32.16625,-87.48416,Catherine,America/Chicago
+36732,32.41638,-87.91367,Demopolis,America/Chicago
+36736,32.07832,-87.76444,Dixons Mills,America/Chicago
+36738,32.43421,-87.62481,Faunsdale,America/Chicago
+36740,32.62421,-87.83209,Forkland,America/Chicago
+36741,32.02198,-87.02594,Furman,America/Chicago
+36742,32.45836,-87.74215,Gallion,America/Chicago
+36744,32.69178,-87.59845,Greensboro,America/Chicago
+36748,32.27084,-87.77728,Linden,America/Chicago
+36749,32.54759,-86.85303,Jones,America/Chicago
+36750,32.78396,-86.84361,Maplesville,America/Chicago
+36751,31.80808,-87.54865,Lower Peach Tree,America/Chicago
+36752,32.30628,-86.62544,Lowndesboro,America/Chicago
+36753,31.83698,-87.10762,McWilliams,America/Chicago
+36754,32.15731,-87.70238,Magnolia,America/Chicago
+36756,32.69327,-87.29873,Marion,America/Chicago
+36758,32.6491,-86.89975,Plantersville,America/Chicago
+36759,32.42977,-87.28722,Marion Junction,America/Chicago
+36761,32.07872,-86.97602,Minter,America/Chicago
+36763,32.26184,-87.96509,Myrtlewood,America/Chicago
+36764,32.11518,-87.98526,Nanafalia,America/Chicago
+36765,32.59278,-87.51933,Newbern,America/Chicago
+36766,31.95505,-87.08668,Oak Hill,America/Chicago
+36767,32.25083,-87.21042,Orrville,America/Chicago
+36768,31.8837,-87.01186,Pine Apple,America/Chicago
+36769,31.99306,-87.55049,Pine Hill,America/Chicago
+36773,32.28252,-87.38607,Safford,America/Chicago
+36775,32.20066,-86.95487,Sardis,America/Chicago
+36776,32.74513,-87.74488,Sawyerville,America/Chicago
+36782,32.11684,-87.90996,Sweet Water,America/Chicago
+36783,32.24085,-87.6081,Thomaston,America/Chicago
+36784,31.94208,-87.82271,Thomasville,America/Chicago
+36785,32.27615,-86.82683,Tyler,America/Chicago
+36786,32.43832,-87.49002,Uniontown,America/Chicago
+36790,32.72758,-86.9107,Stanton,America/Chicago
+36792,32.92146,-86.91147,Randolph,America/Chicago
+36793,32.8292,-87.00947,Lawley,America/Chicago
+36801,32.701,-85.39243,Opelika,America/Chicago
+36804,32.53045,-85.33875,Opelika,America/Chicago
+36830,32.5339,-85.49449,Auburn,America/Chicago
+36832,32.59447,-85.58163,Auburn,America/Chicago
+36849,32.59953,-85.48858,Auburn University,America/Chicago
+36850,32.78857,-85.65336,Camp Hill,America/Chicago
+36851,32.15039,-85.08094,Cottonton,America/Chicago
+36852,32.75343,-85.27942,Cusseta,America/Chicago
+36853,32.80557,-85.76809,Dadeville,America/Chicago
+36854,32.75257,-85.18484,Valley,America/Chicago
+36855,33.03709,-85.30516,Five Points,America/Chicago
+36856,32.26897,-84.99757,Fort Mitchell,America/Chicago
+36858,32.30061,-85.30138,Hatchechubbee,America/Chicago
+36860,32.26118,-85.42064,Hurtsboro,America/Chicago
+36861,32.88585,-85.83232,Jacksons Gap,America/Chicago
+36862,32.90612,-85.44283,Lafayette,America/Chicago
+36863,32.89722,-85.25916,Lanett,America/Chicago
+36865,32.60259,-85.58946,Loachapoka,America/Chicago
+36866,32.55468,-85.71459,Notasulga,America/Chicago
+36867,32.49823,-85.02304,Phenix City,America/Chicago
+36869,32.41891,-85.0779,Phenix City,America/Chicago
+36870,32.48308,-85.11942,Phenix City,America/Chicago
+36871,32.17455,-85.14892,Pittsview,America/Chicago
+36874,32.56603,-85.20322,Salem,America/Chicago
+36875,32.32632,-85.16295,Seale,America/Chicago
+36877,32.55465,-85.0974,Smiths Station,America/Chicago
+36879,32.73091,-85.55449,Waverly,America/Chicago
+36901,32.42284,-88.1465,Bellamy,America/Chicago
+36904,32.10287,-88.25596,Butler,America/Chicago
+36907,32.43895,-88.34797,Cuba,America/Chicago
+36908,31.89818,-88.30807,Gilbertown,America/Chicago
+36910,32.23078,-88.15928,Jachin,America/Chicago
+36912,32.23825,-88.30369,Lisman,America/Chicago
+36913,31.96069,-88.44667,Melvin,America/Chicago
+36915,31.95894,-88.36019,Needham,America/Chicago
+36916,32.23788,-88.04143,Pennington,America/Chicago
+36919,31.76765,-88.2894,Silas,America/Chicago
+36921,31.96956,-88.19108,Toxey,America/Chicago
+36922,32.30061,-88.15068,Ward,America/Chicago
+36925,32.43468,-88.1791,York,America/Chicago
+37010,36.5675,-87.10894,Adams,America/Chicago
+37012,36.07112,-86.00563,Alexandria,America/Chicago
+37013,36.04658,-86.63445,Antioch,America/Chicago
+37014,35.8725,-86.6532,Arrington,America/Chicago
+37015,36.28798,-87.08113,Ashland City,America/Chicago
+37016,35.96355,-86.11364,Auburntown,America/Chicago
+37018,35.64255,-86.19876,Beechgrove,America/Chicago
+37019,35.39094,-86.70943,Belfast,America/Chicago
+37020,35.62563,-86.39927,Bell Buckle,America/Chicago
+37022,36.4997,-86.31017,Bethpage,America/Chicago
+37023,36.58409,-87.78302,Big Rock,America/Chicago
+37025,35.95263,-87.30855,Bon Aqua,America/Chicago
+37026,35.69578,-86.10746,Bradyville,America/Chicago
+37027,35.99978,-86.78439,Brentwood,America/Chicago
+37028,36.62793,-87.85723,Bumpus Mills,America/Chicago
+37029,36.04253,-87.2678,Burns,America/Chicago
+37030,36.27374,-85.95035,Carthage,America/Chicago
+37031,36.3721,-86.30328,Castalian Springs,America/Chicago
+37032,36.52518,-87.01647,Cedar Hill,America/Chicago
+37033,35.73493,-87.55365,Centerville,America/Chicago
+37034,35.63977,-86.69158,Chapel Hill,America/Chicago
+37035,36.3849,-87.12602,Chapmansboro,America/Chicago
+37036,36.23979,-87.27182,Charlotte,America/Chicago
+37037,35.70272,-86.35318,Christiana,America/Chicago
+37040,36.52408,-87.33287,Clarksville,America/Chicago
+37042,36.56894,-87.41225,Clarksville,America/Chicago
+37043,36.49842,-87.23197,Clarksville,America/Chicago
+37046,35.77995,-86.71582,College Grove,America/Chicago
+37047,35.31291,-86.83191,Cornersville,America/Chicago
+37048,36.4904,-86.59112,Cottontown,America/Chicago
+37049,36.55985,-86.67887,Cross Plains,America/Chicago
+37050,36.3713,-87.63586,Cumberland City,America/Chicago
+37051,36.30426,-87.41405,Cumberland Furnace,America/Chicago
+37052,36.37534,-87.40095,Cunningham,America/Chicago
+37055,36.07921,-87.44238,Dickson,America/Chicago
+37057,36.40466,-86.02726,Dixon Springs,America/Chicago
+37058,36.47872,-87.8807,Dover,America/Chicago
+37059,35.98611,-85.90798,Dowelltown,America/Chicago
+37060,35.74924,-86.63428,Eagleville,America/Chicago
+37061,36.28918,-87.66528,Erin,America/Chicago
+37062,35.98833,-87.13483,Fairview,America/Chicago
+37064,35.88966,-86.96112,Franklin,America/Chicago
+37066,36.39871,-86.45594,Gallatin,America/Chicago
+37067,35.91314,-86.77461,Franklin,America/Chicago
+37069,35.98753,-86.90664,Franklin,America/Chicago
+37072,36.35686,-86.74494,Goodlettsville,America/Chicago
+37073,36.42834,-86.81414,Greenbrier,America/Chicago
+37074,36.41552,-86.14724,Hartsville,America/Chicago
+37075,36.34085,-86.60845,Hendersonville,America/Chicago
+37076,36.14512,-86.57977,Hermitage,America/Chicago
+37078,35.92366,-87.77138,Hurricane Mills,America/Chicago
+37079,36.4826,-87.65939,Indian Mound,America/Chicago
+37080,36.32901,-86.91633,Joelton,America/Chicago
+37082,36.09717,-87.11484,Kingston Springs,America/Chicago
+37083,36.54357,-86.00149,Lafayette,America/Chicago
+37085,35.95308,-86.27912,Lascassas,America/Chicago
+37086,36.02177,-86.55971,La Vergne,America/Chicago
+37087,36.2733,-86.27224,Lebanon,America/Chicago
+37090,36.12439,-86.29707,Lebanon,America/Chicago
+37091,35.48546,-86.76405,Lewisburg,America/Chicago
+37095,35.98295,-85.95919,Liberty,America/Chicago
+37096,35.60487,-87.86054,Linden,America/Chicago
+37097,35.7785,-87.8303,Lobelville,America/Chicago
+37098,35.87142,-87.31075,Lyles,America/Chicago
+37101,36.06625,-87.63741,McEwen,America/Chicago
+37110,35.6436,-85.74314,Mcminnville,America/Chicago
+37115,36.25444,-86.69636,Madison,America/Chicago
+37118,35.92569,-86.18903,Milton,America/Chicago
+37122,36.17791,-86.48872,Mount Juliet,America/Chicago
+37127,35.77947,-86.32723,Murfreesboro,America/Chicago
+37128,35.80343,-86.47483,Murfreesboro,America/Chicago
+37129,35.92556,-86.44098,Murfreesboro,America/Chicago
+37130,35.8809,-86.33003,Murfreesboro,America/Chicago
+37132,35.84873,-86.36284,Murfreesboro,America/Chicago
+37134,36.0014,-87.95063,New Johnsonville,America/Chicago
+37135,35.93562,-86.6625,Nolensville,America/Chicago
+37137,35.87912,-87.50276,Nunnelly,America/Chicago
+37138,36.24652,-86.61938,Old Hickory,America/Chicago
+37140,35.86345,-87.65245,Only,America/Chicago
+37141,36.6145,-86.69894,Orlinda,America/Chicago
+37142,36.41164,-87.50112,Palmyra,America/Chicago
+37143,36.13137,-87.03038,Pegram,America/Chicago
+37144,35.30516,-86.65585,Petersburg,America/Chicago
+37145,36.38179,-85.91203,Pleasant Shade,America/Chicago
+37146,36.4047,-87.03123,Pleasant View,America/Chicago
+37148,36.57694,-86.50224,Portland,America/Chicago
+37149,35.80876,-86.19311,Readyville,America/Chicago
+37150,36.54437,-85.81082,Red Boiling Springs,America/Chicago
+37151,36.31288,-86.04536,Riddleton,America/Chicago
+37153,35.7645,-86.55531,Rockvale,America/Chicago
+37160,35.46562,-86.48268,Shelbyville,America/Chicago
+37165,36.29005,-87.46943,Slayden,America/Chicago
+37166,35.92444,-85.78978,Smithville,America/Chicago
+37167,35.96325,-86.52922,Smyrna,America/Chicago
+37171,36.36442,-87.30365,Southside,America/Chicago
+37172,36.53661,-86.86005,Springfield,America/Chicago
+37174,35.72197,-86.8995,Spring Hill,America/Chicago
+37175,36.32349,-87.89678,Stewart,America/Chicago
+37178,36.3195,-87.78694,Tennessee Ridge,America/Chicago
+37179,35.8073,-86.91517,Thompsons Station,America/Chicago
+37180,35.6189,-86.57679,Unionville,America/Chicago
+37181,36.241,-87.49706,Vanleer,America/Chicago
+37183,35.5104,-86.30162,Wartrace,America/Chicago
+37184,36.08682,-86.14524,Watertown,America/Chicago
+37185,36.07118,-87.8392,Waverly,America/Chicago
+37186,36.58644,-86.22868,Westmoreland,America/Chicago
+37187,36.1471,-87.19885,White Bluff,America/Chicago
+37188,36.48048,-86.68101,White House,America/Chicago
+37189,36.27875,-86.82983,Whites Creek,America/Chicago
+37190,35.82599,-86.0424,Woodbury,America/Chicago
+37191,36.50726,-87.52392,Woodlawn,America/Chicago
+37201,36.16662,-86.77799,Nashville,America/Chicago
+37203,36.14937,-86.78986,Nashville,America/Chicago
+37204,36.10669,-86.77463,Nashville,America/Chicago
+37205,36.11075,-86.87274,Nashville,America/Chicago
+37206,36.18085,-86.73117,Nashville,America/Chicago
+37207,36.23278,-86.77765,Nashville,America/Chicago
+37208,36.17691,-86.80901,Nashville,America/Chicago
+37209,36.15591,-86.91638,Nashville,America/Chicago
+37210,36.1442,-86.73374,Nashville,America/Chicago
+37211,36.06704,-86.72345,Nashville,America/Chicago
+37212,36.13376,-86.80167,Nashville,America/Chicago
+37213,36.16654,-86.76731,Nashville,America/Chicago
+37214,36.16789,-86.66296,Nashville,America/Chicago
+37215,36.08197,-86.83492,Nashville,America/Chicago
+37216,36.21589,-86.72676,Nashville,America/Chicago
+37217,36.10836,-86.66178,Nashville,America/Chicago
+37218,36.20814,-86.89158,Nashville,America/Chicago
+37219,36.1663,-86.78299,Nashville,America/Chicago
+37220,36.06759,-86.78127,Nashville,America/Chicago
+37221,36.05991,-86.97189,Nashville,America/Chicago
+37228,36.19513,-86.80418,Nashville,America/Chicago
+37232,36.1411,-86.8029,Nashville,America/Chicago
+37238,36.1657,-86.77946,Nashville,America/Chicago
+37301,35.42765,-85.80295,Altamont,America/Chicago
+37302,35.01303,-85.01961,Apison,America/New_York
+37303,35.4403,-84.64051,Athens,America/New_York
+37305,35.45795,-85.70195,Beersheba Springs,America/Chicago
+37306,35.09776,-86.18928,Belvidere,America/Chicago
+37307,35.16676,-84.62158,Benton,America/New_York
+37308,35.3476,-84.99728,Birchwood,America/New_York
+37309,35.30595,-84.74453,Calhoun,America/New_York
+37310,35.26237,-84.77767,Charleston,America/New_York
+37311,35.10054,-84.92298,Cleveland,America/New_York
+37312,35.2286,-84.87344,Cleveland,America/New_York
+37313,35.37703,-85.70245,Coalmont,America/Chicago
+37315,35.04722,-85.05158,Collegedale,America/New_York
+37316,35.00161,-84.72975,Conasauga,America/New_York
+37317,35.03079,-84.44341,Copperhill,America/New_York
+37318,35.17879,-85.97994,Cowan,America/Chicago
+37321,35.50239,-85.00801,Dayton,America/New_York
+37322,35.49562,-84.81512,Decatur,America/New_York
+37323,35.09627,-84.81984,Cleveland,America/New_York
+37324,35.25251,-86.00044,Decherd,America/Chicago
+37325,35.24726,-84.61108,Delano,America/New_York
+37326,35.04023,-84.38329,Ducktown,America/New_York
+37327,35.42251,-85.39993,Dunlap,America/Chicago
+37328,35.02825,-86.36876,Elora,America/Chicago
+37329,35.39201,-84.46017,Englewood,America/New_York
+37330,35.28411,-86.12967,Estill Springs,America/Chicago
+37331,35.31662,-84.5336,Etowah,America/New_York
+37332,35.59418,-84.96277,Evensville,America/New_York
+37333,35.14844,-84.35981,Farner,America/New_York
+37334,35.16532,-86.57966,Fayetteville,America/Chicago
+37335,35.06584,-86.40548,Flintville,America/Chicago
+37336,35.30117,-84.93413,Georgetown,America/New_York
+37337,35.78594,-84.86651,Grandview,America/Chicago
+37338,35.42356,-85.20942,Graysville,America/Chicago
+37339,35.37386,-85.63222,Gruetli Laager,America/Chicago
+37340,35.02085,-85.53179,Guild,America/Chicago
+37341,35.21386,-85.0834,Harrison,America/New_York
+37342,35.38175,-85.94937,Hillsboro,America/Chicago
+37343,35.16904,-85.20899,Hixson,America/New_York
+37345,35.0366,-86.24299,Huntland,America/Chicago
+37347,35.06088,-85.61894,Jasper,America/Chicago
+37348,35.11935,-86.44222,Kelso,America/Chicago
+37350,34.99445,-85.3516,Lookout Mountain,America/New_York
+37351,35.10073,-85.26135,Lupton City,America/New_York
+37352,35.27981,-86.35417,Lynchburg,America/Chicago
+37353,35.12288,-84.9855,McDonald,America/New_York
+37354,35.50195,-84.34387,Madisonville,America/New_York
+37355,35.50843,-86.07866,Manchester,America/Chicago
+37356,35.22952,-85.82393,Monteagle,America/Chicago
+37357,35.59454,-85.92003,Morrison,America/Chicago
+37359,35.19776,-86.4119,Mulberry,America/Chicago
+37360,35.44702,-86.25586,Normandy,America/Chicago
+37361,35.08543,-84.6551,Ocoee,America/New_York
+37362,35.03152,-84.70028,Old Fort,America/New_York
+37363,35.11551,-85.0549,Ooltewah,America/New_York
+37365,35.37287,-85.54013,Palmer,America/Chicago
+37366,35.32054,-85.84224,Pelham,America/Chicago
+37367,35.62959,-85.21832,Pikeville,America/Chicago
+37369,35.19908,-84.47707,Reliance,America/New_York
+37370,35.35903,-84.70064,Riceville,America/New_York
+37373,35.39476,-85.10373,Sale Creek,America/New_York
+37374,35.16404,-85.65818,Sequatchie,America/Chicago
+37375,35.15355,-85.88173,Sewanee,America/Chicago
+37376,35.04748,-85.95834,Sherwood,America/Chicago
+37377,35.21243,-85.3389,Signal Mountain,America/Chicago
+37379,35.29407,-85.17429,Soddy Daisy,America/New_York
+37380,35.07265,-85.75754,South Pittsburg,America/Chicago
+37381,35.68533,-84.8775,Spring City,America/New_York
+37383,35.20984,-85.91373,Sewanee,America/Chicago
+37385,35.33494,-84.22933,Tellico Plains,America/New_York
+37387,35.27745,-85.71427,Tracy City,America/Chicago
+37388,35.35141,-86.19747,Tullahoma,America/Chicago
+37391,35.09049,-84.35327,Turtletown,America/New_York
+37394,35.53918,-85.86047,Viola,America/Chicago
+37396,35.00198,-85.50353,Whiteside,America/New_York
+37397,35.21046,-85.51819,Whitwell,America/Chicago
+37398,35.18182,-86.13808,Winchester,America/Chicago
+37402,35.04672,-85.31553,Chattanooga,America/New_York
+37403,35.0476,-85.29448,Chattanooga,America/New_York
+37404,35.02827,-85.27331,Chattanooga,America/New_York
+37405,35.11757,-85.40429,Chattanooga,America/Chicago
+37406,35.07246,-85.24541,Chattanooga,America/New_York
+37407,35.002,-85.28941,Chattanooga,America/New_York
+37408,35.03048,-85.31237,Chattanooga,America/New_York
+37409,35.0012,-85.34466,Chattanooga,America/New_York
+37410,35.002,-85.31366,Chattanooga,America/New_York
+37411,35.02655,-85.23026,Chattanooga,America/New_York
+37412,34.9974,-85.22726,Chattanooga,America/New_York
+37415,35.12735,-85.27932,Chattanooga,America/New_York
+37416,35.09856,-85.15751,Chattanooga,America/New_York
+37419,35.04052,-85.41734,Chattanooga,America/Chicago
+37421,35.02915,-85.153,Chattanooga,America/New_York
+37450,35.04897,-85.31217,Chattanooga,America/New_York
+37601,36.32838,-82.31974,Johnson City,America/New_York
+37604,36.29923,-82.38302,Johnson City,America/New_York
+37614,36.30097,-82.36741,Johnson City,America/New_York
+37615,36.39771,-82.45246,Johnson City,America/New_York
+37616,36.22619,-82.7498,Afton,America/New_York
+37617,36.53155,-82.37248,Blountville,America/New_York
+37618,36.46555,-82.20833,Bluff City,America/New_York
+37620,36.55124,-82.09867,Bristol,America/New_York
+37640,36.33023,-81.9773,Butler,America/New_York
+37641,36.20015,-82.66306,Chuckey,America/New_York
+37642,36.53261,-82.7267,Church Hill,America/New_York
+37643,36.37513,-82.13729,Elizabethton,America/New_York
+37645,36.56275,-82.66243,Mount Carmel,America/New_York
+37650,36.10416,-82.45938,Erwin,America/New_York
+37656,36.39997,-82.63075,Fall Branch,America/New_York
+37657,36.01725,-82.56057,Flag Pond,America/New_York
+37658,36.26352,-82.1535,Hampton,America/New_York
+37659,36.28074,-82.4938,Jonesborough,America/New_York
+37660,36.52938,-82.57339,Kingsport,America/New_York
+37663,36.46466,-82.48525,Kingsport,America/New_York
+37664,36.51163,-82.50729,Kingsport,America/New_York
+37665,36.57951,-82.57304,Kingsport,America/New_York
+37680,36.57462,-81.72556,Laurel Bloomery,America/New_York
+37681,36.25465,-82.62672,Limestone,America/New_York
+37682,36.30035,-82.29169,Milligan College,America/New_York
+37683,36.45303,-81.82233,Mountain City,America/New_York
+37686,36.44175,-82.34639,Piney Flats,America/New_York
+37687,36.18667,-82.09667,Roan Mountain,America/New_York
+37688,36.54548,-81.88281,Shady Valley,America/New_York
+37690,36.25124,-82.55895,Telford,America/New_York
+37691,36.36792,-81.75519,Trade,America/New_York
+37692,36.18456,-82.30413,Unicoi,America/New_York
+37694,36.3849,-82.27588,Watauga,America/New_York
+37701,35.79393,-83.98461,Alcoa,America/New_York
+37705,36.22862,-84.00947,Andersonville,America/New_York
+37708,36.32312,-83.33588,Bean Station,America/New_York
+37709,36.16798,-83.66479,Blaine,America/New_York
+37710,36.15802,-84.3177,Briceville,America/New_York
+37711,36.28102,-83.03885,Bulls Gap,America/New_York
+37713,36.09073,-83.13373,Bybee,America/New_York
+37714,36.26656,-84.25277,Caryville,America/New_York
+37715,36.55323,-83.95894,Clairfield,America/New_York
+37716,36.09919,-84.16822,Clinton,America/New_York
+37719,36.02196,-84.42815,Coalfield,America/New_York
+37721,36.13155,-83.80829,Corryton,America/New_York
+37722,35.80611,-83.23339,Cosby,America/New_York
+37723,35.96044,-84.82171,Crab Orchard,America/Chicago
+37724,36.54457,-83.69328,Cumberland Gap,America/New_York
+37725,35.99778,-83.39678,Dandridge,America/New_York
+37726,36.20464,-84.8386,Deer Lodge,America/New_York
+37727,35.88885,-83.00651,Del Rio,America/New_York
+37729,36.51412,-84.03276,Duff,America/New_York
+37730,36.56837,-83.97357,Eagan,America/New_York
+37731,36.54383,-83.00873,Eidson,America/New_York
+37732,36.32792,-84.6282,Elgin,America/New_York
+37733,36.35676,-84.69497,Rugby,America/New_York
+37737,35.75778,-84.11913,Friendsville,America/New_York
+37738,35.67125,-83.47641,Gatlinburg,America/New_York
+37742,35.67548,-84.18049,Greenback,America/New_York
+37743,36.06663,-82.85659,Greeneville,America/New_York
+37745,36.2784,-82.82631,Greeneville,America/New_York
+37748,35.94797,-84.51413,Harriman,America/New_York
+37752,36.56735,-83.55422,Harrogate,America/New_York
+37753,35.82276,-83.098,Hartford,America/New_York
+37754,36.13059,-84.03305,Heiskell,America/New_York
+37755,36.42249,-84.53166,Helenwood,America/New_York
+37756,36.30165,-84.40704,Huntsville,America/New_York
+37757,36.30182,-84.14371,Jacksboro,America/New_York
+37760,36.10773,-83.46443,Jefferson City,America/New_York
+37762,36.57657,-84.12323,Jellico,America/New_York
+37763,35.82344,-84.49356,Kingston,America/New_York
+37764,35.97074,-83.61585,Kodak,America/New_York
+37765,36.57219,-83.06534,Kyles Ford,America/New_York
+37766,36.39958,-84.07275,La Follette,America/New_York
+37769,36.21799,-84.15532,Rocky Top,America/New_York
+37770,36.15239,-84.6418,Lancing,America/New_York
+37771,35.8382,-84.31748,Lenoir City,America/New_York
+37772,35.78775,-84.21876,Lenoir City,America/New_York
+37774,35.7317,-84.35526,Loudon,America/New_York
+37777,35.82742,-84.05186,Louisville,America/New_York
+37779,36.21093,-83.75793,Luttrell,America/New_York
+37801,35.67134,-84.08453,Maryville,America/New_York
+37803,35.67115,-83.97761,Maryville,America/New_York
+37804,35.79228,-83.89311,Maryville,America/New_York
+37806,36.08645,-83.72368,Mascot,America/New_York
+37807,36.25955,-83.82702,Maynardville,America/New_York
+37809,36.15431,-83.03611,Midway,America/New_York
+37810,36.17984,-83.10296,Mohawk,America/New_York
+37811,36.35558,-83.2144,Mooresburg,America/New_York
+37813,36.17644,-83.26542,Morristown,America/New_York
+37814,36.23604,-83.3317,Morristown,America/New_York
+37818,36.18581,-82.97233,Mosheim,America/New_York
+37819,36.55649,-84.21169,Newcomb,America/New_York
+37820,36.08364,-83.56715,New Market,America/New_York
+37821,35.97688,-83.19506,Newport,America/New_York
+37825,36.41221,-83.68196,New Tazewell,America/New_York
+37826,35.55825,-84.58984,Niota,America/New_York
+37828,36.19788,-84.06889,Norris,America/New_York
+37829,36.00094,-84.61331,Oakdale,America/New_York
+37830,35.96431,-84.29221,Oak Ridge,America/New_York
+37840,36.05849,-84.37047,Oliver Springs,America/New_York
+37841,36.5088,-84.54665,Oneida,America/New_York
+37843,36.01137,-83.04979,Parrottsville,America/New_York
+37845,36.10369,-84.45022,Petros,America/New_York
+37846,35.68008,-84.48505,Philadelphia,America/New_York
+37847,36.43156,-84.27346,Pioneer,America/New_York
+37848,36.23701,-83.68179,Powder Springs,America/New_York
+37849,36.0578,-84.04476,Powell,America/New_York
+37851,36.56558,-83.79244,Pruden,America/New_York
+37852,36.32365,-84.57454,Robbins,America/New_York
+37853,35.83723,-83.90854,Rockford,America/New_York
+37854,35.88004,-84.71454,Rockwood,America/Chicago
+37857,36.42145,-82.94269,Rogersville,America/New_York
+37860,36.24492,-83.18441,Russellville,America/New_York
+37861,36.24516,-83.51421,Rutledge,America/New_York
+37862,35.78314,-83.61232,Sevierville,America/New_York
+37863,35.7864,-83.56367,Pigeon Forge,America/New_York
+37865,35.84609,-83.73974,Seymour,America/New_York
+37866,36.35017,-83.8517,Sharps Chapel,America/New_York
+37869,36.51555,-83.24579,Sneedville,America/New_York
+37870,36.46319,-83.83562,Speedwell,America/New_York
+37871,36.04693,-83.67932,Strawberry Plains,America/New_York
+37872,36.26869,-84.68119,Sunbright,America/New_York
+37873,36.52446,-82.84754,Surgoinsville,America/New_York
+37874,35.59749,-84.45823,Sweetwater,America/New_York
+37876,35.8645,-83.47876,Sevierville,America/New_York
+37877,36.15176,-83.40503,Talbott,America/New_York
+37878,35.59406,-83.98358,Tallassee,America/New_York
+37879,36.48403,-83.48705,Tazewell,America/New_York
+37880,35.7012,-84.66453,Ten Mile,America/New_York
+37881,36.39861,-83.34393,Thorn Hill,America/New_York
+37882,35.60335,-83.82118,Townsend,America/New_York
+37885,35.50392,-84.12539,Vonore,America/New_York
+37886,35.74142,-83.80747,Walland,America/New_York
+37887,36.0772,-84.61573,Wartburg,America/New_York
+37888,36.31063,-83.61266,Washburn,America/New_York
+37890,36.08144,-83.29299,White Pine,America/New_York
+37891,36.29172,-83.13992,Whitesburg,America/New_York
+37892,36.55666,-84.37132,Winfield,America/New_York
+37902,35.96203,-83.92039,Knoxville,America/New_York
+37909,35.94716,-84.02275,Knoxville,America/New_York
+37912,36.00849,-83.98465,Knoxville,America/New_York
+37914,35.97988,-83.79937,Knoxville,America/New_York
+37915,35.97057,-83.90002,Knoxville,America/New_York
+37916,35.95309,-83.9335,Knoxville,America/New_York
+37917,36.00156,-83.91265,Knoxville,America/New_York
+37918,36.0599,-83.91082,Knoxville,America/New_York
+37919,35.91429,-84.00106,Knoxville,America/New_York
+37920,35.91084,-83.85909,Knoxville,America/New_York
+37921,35.97877,-84.00028,Knoxville,America/New_York
+37922,35.86124,-84.10127,Knoxville,America/New_York
+37923,35.92697,-84.08076,Knoxville,America/New_York
+37924,36.03554,-83.80211,Knoxville,America/New_York
+37929,35.96241,-83.91597,Knoxville,America/New_York
+37931,35.97611,-84.12496,Knoxville,America/New_York
+37932,35.92273,-84.19562,Knoxville,America/New_York
+37934,35.87338,-84.17882,Farragut,America/New_York
+37938,36.12499,-83.93815,Knoxville,America/New_York
+38001,35.81323,-89.15505,Alamo,America/Chicago
+38002,35.28854,-89.70926,Arlington,America/Chicago
+38004,35.41909,-89.76687,Atoka,America/Chicago
+38006,35.69507,-89.09761,Bells,America/Chicago
+38007,36.16422,-89.43925,Bogota,America/Chicago
+38008,35.24455,-88.99879,Bolivar,America/Chicago
+38011,35.47266,-89.71415,Brighton,America/Chicago
+38012,35.60959,-89.27085,Brownsville,America/Chicago
+38015,35.55948,-89.82436,Burlison,America/Chicago
+38016,35.17956,-89.76046,Cordova,America/Chicago
+38017,35.06722,-89.65347,Collierville,America/Chicago
+38018,35.13781,-89.76647,Cordova,America/Chicago
+38019,35.56114,-89.6304,Covington,America/Chicago
+38021,35.87042,-89.18411,Crockett Mills,America/Chicago
+38023,35.47468,-89.95114,Drummonds,America/Chicago
+38024,36.03743,-89.38511,Dyersburg,America/Chicago
+38028,35.18486,-89.63474,Eads,America/Chicago
+38029,35.24205,-89.82351,Ellendale,America/Chicago
+38030,35.99942,-89.59981,Finley,America/Chicago
+38034,35.91273,-89.236,Friendship,America/Chicago
+38036,35.32715,-89.61941,Gallaway,America/Chicago
+38037,35.79433,-89.39232,Gates,America/Chicago
+38039,35.0571,-89.18545,Grand Junction,America/Chicago
+38040,35.88185,-89.48065,Halls,America/Chicago
+38041,35.64397,-89.70204,Henning,America/Chicago
+38042,35.15059,-89.13848,Hickory Valley,America/Chicago
+38044,35.20736,-88.80244,Hornsby,America/Chicago
+38046,35.04598,-89.24408,La Grange,America/Chicago
+38047,36.06499,-89.55569,Lenox,America/Chicago
+38049,35.38689,-89.544,Mason,America/Chicago
+38050,35.81635,-89.22712,Maury City,America/Chicago
+38052,35.08574,-88.91308,Middleton,America/Chicago
+38053,35.33583,-89.95,Millington,America/Chicago
+38054,35.3358,-89.8744,Millington,America/Chicago
+38057,35.05381,-89.36772,Moscow,America/Chicago
+38058,35.45861,-89.81933,Munford,America/Chicago
+38059,36.11132,-89.24113,Newbern,America/Chicago
+38060,35.21214,-89.50468,Oakland,America/Chicago
+38061,35.06704,-88.7647,Pocahontas,America/Chicago
+38063,35.74598,-89.63412,Ripley,America/Chicago
+38066,35.07421,-89.53944,Rossville,America/Chicago
+38067,35.08561,-89.04804,Saulsbury,America/Chicago
+38068,35.25972,-89.3349,Somerville,America/Chicago
+38069,35.46209,-89.37151,Stanton,America/Chicago
+38070,35.94045,-89.24915,Tigrett,America/Chicago
+38075,35.37197,-89.15569,Whiteville,America/Chicago
+38076,35.12301,-89.45633,Williston,America/Chicago
+38077,36.32852,-89.4744,Wynnburg,America/Chicago
+38079,36.41378,-89.47032,Tiptonville,America/Chicago
+38080,36.20295,-89.52142,Ridgely,America/Chicago
+38103,35.15308,-90.05518,Memphis,America/Chicago
+38104,35.13253,-90.00435,Memphis,America/Chicago
+38105,35.1512,-90.03541,Memphis,America/Chicago
+38106,35.10067,-90.0375,Memphis,America/Chicago
+38107,35.17054,-90.02397,Memphis,America/Chicago
+38108,35.1763,-89.96382,Memphis,America/Chicago
+38109,35.0341,-90.13533,Memphis,America/Chicago
+38111,35.11014,-89.94429,Memphis,America/Chicago
+38112,35.14791,-89.97661,Memphis,America/Chicago
+38113,35.10198,-90.13285,Memphis,America/Chicago
+38114,35.09648,-89.98596,Memphis,America/Chicago
+38115,35.05499,-89.86362,Memphis,America/Chicago
+38116,35.03213,-90.01001,Memphis,America/Chicago
+38117,35.11504,-89.90551,Memphis,America/Chicago
+38118,35.03655,-89.93021,Memphis,America/Chicago
+38119,35.07986,-89.84593,Memphis,America/Chicago
+38120,35.12344,-89.85237,Memphis,America/Chicago
+38122,35.1571,-89.92247,Memphis,America/Chicago
+38125,35.02537,-89.78936,Memphis,America/Chicago
+38126,35.12695,-90.04378,Memphis,America/Chicago
+38127,35.23795,-90.01753,Memphis,America/Chicago
+38128,35.22623,-89.92612,Memphis,America/Chicago
+38131,35.06603,-89.99266,Memphis,America/Chicago
+38132,35.07069,-90.00033,Memphis,America/Chicago
+38133,35.21292,-89.79474,Memphis,America/Chicago
+38134,35.17674,-89.85992,Memphis,America/Chicago
+38135,35.23876,-89.8497,Memphis,America/Chicago
+38138,35.08477,-89.7993,Germantown,America/Chicago
+38139,35.08615,-89.75581,Germantown,America/Chicago
+38141,35.01599,-89.85472,Memphis,America/Chicago
+38152,35.11843,-89.93743,Memphis,America/Chicago
+38201,36.12335,-88.53131,McKenzie,America/Chicago
+38220,35.98836,-88.673,Atwood,America/Chicago
+38221,36.24552,-88.03685,Big Sandy,America/Chicago
+38222,36.44512,-88.16288,Buchanan,America/Chicago
+38224,36.39172,-88.48774,Cottage Grove,America/Chicago
+38225,36.31764,-88.67937,Dresden,America/Chicago
+38226,36.47722,-88.66382,Dukedom,America/Chicago
+38229,36.22108,-88.60939,Gleason,America/Chicago
+38230,36.15592,-88.77154,Greenfield,America/Chicago
+38231,36.21277,-88.42442,Henry,America/Chicago
+38232,36.34828,-89.32295,Hornbeak,America/Chicago
+38233,36.20411,-89.04622,Kenton,America/Chicago
+38235,35.99116,-88.58109,McLemoresville,America/Chicago
+38236,36.17572,-88.26463,Mansfield,America/Chicago
+38237,36.36406,-88.83162,Martin,America/Chicago
+38240,36.25091,-89.32045,Obion,America/Chicago
+38241,36.42852,-88.58964,Palmersville,America/Chicago
+38242,36.3076,-88.33244,Paris,America/Chicago
+38251,36.44636,-88.3539,Puryear,America/Chicago
+38253,36.29821,-89.05822,Rives,America/Chicago
+38254,36.37444,-89.34662,Samburg,America/Chicago
+38255,36.23954,-88.86483,Sharon,America/Chicago
+38256,36.31388,-88.12539,Springville,America/Chicago
+38257,36.46386,-88.88397,South Fulton,America/Chicago
+38258,36.02094,-88.61188,Trezevant,America/Chicago
+38259,36.20204,-89.18439,Trimble,America/Chicago
+38260,36.36961,-89.21128,Troy,America/Chicago
+38261,36.43214,-89.11583,Union City,America/Chicago
+38301,35.5908,-88.8531,Jackson,America/Chicago
+38305,35.70108,-88.76779,Jackson,America/Chicago
+38310,35.26175,-88.39832,Adamsville,America/Chicago
+38311,35.43842,-88.09737,Bath Springs,America/Chicago
+38313,35.60107,-88.62541,Beech Bluff,America/Chicago
+38315,35.26918,-88.6241,Bethel Springs,America/Chicago
+38316,36.06873,-88.81547,Bradford,America/Chicago
+38317,36.05425,-88.26965,Bruceton,America/Chicago
+38318,35.95687,-88.26189,Buena Vista,America/Chicago
+38320,36.04764,-88.1095,Camden,America/Chicago
+38321,35.83341,-88.53013,Cedar Grove,America/Chicago
+38326,35.04419,-88.27514,Counce,America/Chicago
+38327,35.22348,-88.30085,Crump,America/Chicago
+38328,35.67601,-88.21222,Darden,America/Chicago
+38329,35.54541,-88.11283,Decaturville,America/Chicago
+38330,36.0675,-89.03316,Dyer,America/Chicago
+38332,35.41978,-88.42934,Enville,America/Chicago
+38333,36.12236,-87.9709,Eva,America/Chicago
+38334,35.35342,-88.58977,Finger,America/Chicago
+38337,35.78515,-89.01149,Gadsden,America/Chicago
+38338,35.87483,-88.84863,Gibson,America/Chicago
+38339,35.0524,-88.5147,Guys,America/Chicago
+38340,35.40021,-88.68226,Henderson,America/Chicago
+38341,35.87677,-88.08888,Holladay,America/Chicago
+38342,36.10766,-88.29024,Hollow Rock,America/Chicago
+38343,35.82727,-88.92819,Humboldt,America/Chicago
+38344,35.97716,-88.43066,Huntingdon,America/Chicago
+38345,35.59109,-88.51163,Huron,America/Chicago
+38347,35.47632,-88.49846,Jacks Creek,America/Chicago
+38348,35.86893,-88.65198,Lavinia,America/Chicago
+38351,35.66324,-88.40401,Lexington,America/Chicago
+38352,35.53037,-88.53308,Luray,America/Chicago
+38355,35.78637,-88.76942,Medina,America/Chicago
+38356,35.43877,-88.89029,Medon,America/Chicago
+38357,35.04888,-88.4112,Michie,America/Chicago
+38358,35.91661,-88.75934,Milan,America/Chicago
+38359,35.37222,-88.35109,Milledgeville,America/Chicago
+38361,35.31897,-88.29232,Morris Chapel,America/Chicago
+38362,35.72696,-88.78508,Oakfield,America/Chicago
+38363,35.68625,-88.11051,Parsons,America/Chicago
+38365,35.05383,-88.23627,Pickwick Dam,America/Chicago
+38366,35.47797,-88.74461,Pinson,America/Chicago
+38367,35.05266,-88.62728,Ramer,America/Chicago
+38368,35.50191,-88.35659,Reagan,America/Chicago
+38369,36.13253,-88.9652,Rutherford,America/Chicago
+38370,35.38942,-88.2465,Saltillo,America/Chicago
+38371,35.42346,-88.2967,Sardis,America/Chicago
+38372,35.16516,-88.14523,Savannah,America/Chicago
+38374,35.51192,-88.23469,Scotts Hill,America/Chicago
+38375,35.16142,-88.58811,Selmer,America/Chicago
+38376,35.12974,-88.34447,Shiloh,America/Chicago
+38379,35.16388,-88.42825,Stantonville,America/Chicago
+38380,35.79114,-88.03263,Sugar Tree,America/Chicago
+38381,35.35144,-88.96205,Toone,America/Chicago
+38382,35.96925,-88.99186,Trenton,America/Chicago
+38387,35.86573,-88.26968,Westport,America/Chicago
+38388,35.77672,-88.31535,Wildersville,America/Chicago
+38389,36.10315,-89.12134,Yorkville,America/Chicago
+38390,35.83845,-88.37797,Yuma,America/Chicago
+38391,35.55026,-88.99033,Denmark,America/Chicago
+38392,35.45908,-89.03709,Mercer,America/Chicago
+38401,35.62955,-87.02097,Columbia,America/Chicago
+38425,35.40706,-87.96588,Clifton,America/Chicago
+38449,35.05231,-86.82954,Ardmore,America/Chicago
+38450,35.18523,-87.80143,Collinwood,America/Chicago
+38451,35.46706,-86.99573,Culleoka,America/Chicago
+38452,35.07898,-87.79239,Cypress Inn,America/Chicago
+38453,35.11923,-86.81472,Dellrose,America/Chicago
+38454,35.72334,-87.35538,Duck River,America/Chicago
+38455,35.06199,-86.89366,Elkton,America/Chicago
+38456,35.33464,-87.26559,Ethridge,America/Chicago
+38457,35.0297,-87.28482,Five Points,America/Chicago
+38459,35.19135,-86.80219,Frankewing,America/Chicago
+38460,35.10116,-87.15937,Goodspring,America/Chicago
+38461,35.59514,-87.33987,Hampshire,America/Chicago
+38462,35.53142,-87.54869,Hohenwald,America/Chicago
+38463,35.06802,-87.64494,Iron City,America/Chicago
+38464,35.29035,-87.42845,Lawrenceburg,America/Chicago
+38468,35.13083,-87.29072,Leoma,America/Chicago
+38469,35.0741,-87.42765,Loretto,America/Chicago
+38471,35.0771,-87.92134,Lutts,America/Chicago
+38472,35.3773,-87.03873,Lynnville,America/Chicago
+38473,35.02775,-87.17057,Minor Hill,America/Chicago
+38474,35.51848,-87.22966,Mount Pleasant,America/Chicago
+38475,35.2624,-88.02336,Olivehill,America/Chicago
+38476,35.84341,-87.20984,Primm Springs,America/Chicago
+38477,35.05075,-87.00932,Prospect,America/Chicago
+38478,35.21565,-87.01329,Pulaski,America/Chicago
+38481,35.02813,-87.48863,Saint Joseph,America/Chicago
+38482,35.76792,-87.14574,Santa Fe,America/Chicago
+38483,35.43411,-87.33476,Summertown,America/Chicago
+38485,35.33281,-87.77659,Waynesboro,America/Chicago
+38486,35.17306,-87.54029,Westpoint,America/Chicago
+38487,35.72163,-87.23589,Williamsport,America/Chicago
+38488,35.03906,-86.68569,Taft,America/Chicago
+38501,36.22682,-85.53841,Cookeville,America/Chicago
+38503,36.16333,-85.50588,Cookeville,America/Chicago
+38504,36.39314,-84.73528,Allardt,America/Chicago
+38505,36.17316,-85.50559,Cookeville,America/Chicago
+38506,36.18334,-85.44246,Cookeville,America/Chicago
+38541,36.52903,-85.33767,Allons,America/Chicago
+38542,36.31576,-85.20113,Allred,America/Chicago
+38543,36.37514,-85.15931,Alpine,America/Chicago
+38544,36.11605,-85.66238,Baxter,America/Chicago
+38545,36.23133,-85.65964,Bloomington Springs,America/Chicago
+38547,36.14954,-86.00833,Brush Creek,America/Chicago
+38548,36.17252,-85.79197,Buffalo Valley,America/Chicago
+38549,36.5617,-85.15243,Byrdstown,America/Chicago
+38550,35.76982,-85.63268,Campaign,America/Chicago
+38551,36.55804,-85.48699,Celina,America/Chicago
+38552,36.2166,-85.81195,Chestnut Mound,America/Chicago
+38553,36.20322,-85.00442,Clarkrange,America/Chicago
+38554,36.25131,-85.16095,Crawford,America/Chicago
+38555,35.88956,-84.97537,Crossville,America/Chicago
+38556,36.41016,-84.9249,Jamestown,America/Chicago
+38558,36.00532,-84.87374,Crossville,America/Chicago
+38559,35.80692,-85.51334,Doyle,America/Chicago
+38560,36.23458,-85.8713,Elmwood,America/Chicago
+38562,36.35173,-85.65932,Gainesboro,America/Chicago
+38563,36.19658,-86.0147,Gordonsville,America/Chicago
+38564,36.27144,-85.75364,Granville,America/Chicago
+38565,36.26296,-85.00992,Grimsley,America/Chicago
+38567,36.13392,-85.91518,Hickman,America/Chicago
+38568,36.43594,-85.46907,Hilham,America/Chicago
+38569,36.10887,-85.85647,Lancaster,America/Chicago
+38570,36.37678,-85.31983,Livingston,America/Chicago
+38571,36.0513,-85.01374,Crossville,America/Chicago
+38572,35.84764,-85.12778,Crossville,America/Chicago
+38573,36.48945,-85.21931,Monroe,America/Chicago
+38574,36.141,-85.22498,Monterey,America/Chicago
+38575,36.55848,-85.63515,Moss,America/Chicago
+38577,36.56453,-84.94651,Pall Mall,America/Chicago
+38578,35.98031,-85.19886,Pleasant Hill,America/Chicago
+38579,35.83218,-85.54919,Quebeck,America/Chicago
+38580,36.27729,-85.29522,Rickman,America/Chicago
+38581,35.73834,-85.62141,Rock Island,America/Chicago
+38582,36.09431,-85.75382,Silver Point,America/Chicago
+38583,35.94649,-85.43781,Sparta,America/Chicago
+38585,35.68995,-85.42274,Spencer,America/Chicago
+38587,35.8677,-85.61723,Walling,America/Chicago
+38588,36.45613,-85.7189,Whitleyville,America/Chicago
+38589,36.28551,-85.07624,Wilder,America/Chicago
+38601,34.48146,-89.45166,Abbeville,America/Chicago
+38603,34.83949,-89.14163,Ashland,America/Chicago
+38606,34.30375,-89.9581,Batesville,America/Chicago
+38610,34.65357,-89.02637,Blue Mountain,America/Chicago
+38611,34.85467,-89.67116,Byhalia,America/Chicago
+38614,34.15914,-90.60747,Clarksdale,America/Chicago
+38617,34.36261,-90.49342,Coahoma,America/Chicago
+38618,34.70203,-89.93415,Coldwater,America/Chicago
+38619,34.51288,-89.82678,Como,America/Chicago
+38620,34.23206,-89.9156,Courtland,America/Chicago
+38621,34.4528,-90.1731,Crenshaw,America/Chicago
+38622,34.16944,-90.13448,Crowder,America/Chicago
+38623,34.36131,-90.29692,Darling,America/Chicago
+38625,34.61866,-88.8334,Dumas,America/Chicago
+38626,34.5182,-90.43966,Dundee,America/Chicago
+38627,34.44503,-89.24563,Etta,America/Chicago
+38629,34.86914,-88.99421,Falkner,America/Chicago
+38631,34.35891,-90.62765,Friars Point,America/Chicago
+38632,34.79973,-90.00629,Hernando,America/Chicago
+38633,34.64206,-89.19671,Hickory Flat,America/Chicago
+38635,34.7677,-89.47896,Holly Springs,America/Chicago
+38637,34.95105,-90.05004,Horn Lake,America/Chicago
+38639,34.30909,-90.4285,Jonestown,America/Chicago
+38641,34.90616,-90.1857,Lake Cormorant,America/Chicago
+38642,34.91861,-89.33901,Lamar,America/Chicago
+38643,34.15082,-90.26281,Lambert,America/Chicago
+38644,34.45899,-90.47576,Lula,America/Chicago
+38645,34.2469,-90.47663,Lyon,America/Chicago
+38646,34.28141,-90.29673,Marks,America/Chicago
+38647,34.95851,-89.21746,Michigan City,America/Chicago
+38650,34.52776,-89.14165,Myrtle,America/Chicago
+38651,34.89172,-90.00359,Nesbit,America/Chicago
+38652,34.48545,-88.99652,New Albany,America/Chicago
+38654,34.93635,-89.82409,Olive Branch,America/Chicago
+38655,34.33114,-89.4825,Oxford,America/Chicago
+38658,34.19011,-89.89906,Pope,America/Chicago
+38659,34.62073,-89.32065,Potts Camp,America/Chicago
+38661,34.89009,-89.55918,Red Banks,America/Chicago
+38663,34.74111,-88.89718,Ripley,America/Chicago
+38664,34.80434,-90.33217,Robinsonville,America/Chicago
+38665,34.58165,-90.16693,Sarah,America/Chicago
+38666,34.42007,-89.92708,Sardis,America/Chicago
+38668,34.60109,-89.92505,Senatobia,America/Chicago
+38670,34.42815,-90.28899,Sledge,America/Chicago
+38671,34.96376,-89.99567,Southaven,America/Chicago
+38672,34.93727,-89.94943,Southaven,America/Chicago
+38673,34.29607,-89.62485,Taylor,America/Chicago
+38674,34.8718,-88.89549,Tiplersville,America/Chicago
+38676,34.67274,-90.3682,Tunica,America/Chicago
+38677,34.36402,-89.53859,University,America/Chicago
+38680,34.96152,-90.14463,Walls,America/Chicago
+38683,34.93504,-88.85997,Walnut,America/Chicago
+38685,34.5953,-89.48827,Waterford,America/Chicago
+38701,33.30621,-91.03346,Greenville,America/Chicago
+38703,33.47081,-91.04775,Greenville,America/Chicago
+38720,34.11907,-90.78741,Alligator,America/Chicago
+38721,32.96598,-90.75876,Anguilla,America/Chicago
+38722,33.26116,-90.88304,Arcola,America/Chicago
+38723,33.22967,-91.03845,Avon,America/Chicago
+38725,33.63834,-91.05543,Benoit,America/Chicago
+38726,33.75207,-90.97664,Beulah,America/Chicago
+38730,33.6883,-90.79932,Boyle,America/Chicago
+38731,33.11524,-91.13829,Chatham,America/Chicago
+38732,33.75556,-90.72558,Cleveland,America/Chicago
+38733,33.74463,-90.73504,Cleveland,America/Chicago
+38736,33.64389,-90.54173,Doddsville,America/Chicago
+38737,33.85683,-90.4928,Drew,America/Chicago
+38738,33.93049,-90.53653,Parchman,America/Chicago
+38740,34.04825,-90.79039,Duncan,America/Chicago
+38744,33.03066,-91.05371,Glen Allan,America/Chicago
+38745,32.98592,-91.00499,Grace,America/Chicago
+38746,33.95677,-90.94112,Gunnison,America/Chicago
+38748,33.15787,-90.87964,Hollandale,America/Chicago
+38751,33.45326,-90.67469,Indianola,America/Chicago
+38753,33.34845,-90.58583,Inverness,America/Chicago
+38754,33.24816,-90.62066,Isola,America/Chicago
+38756,33.39326,-90.85827,Leland,America/Chicago
+38759,33.82495,-90.73501,Merigold,America/Chicago
+38760,33.4535,-90.99394,Metcalfe,America/Chicago
+38761,33.42507,-90.47658,Moorhead,America/Chicago
+38762,33.8885,-90.72681,Mound Bayou,America/Chicago
+38764,33.79878,-90.87965,Pace,America/Chicago
+38765,33.0493,-90.8896,Panther Burn,America/Chicago
+38767,34.12809,-90.80552,Rena Lara,America/Chicago
+38768,33.96576,-90.48036,Rome,America/Chicago
+38769,33.84255,-90.97678,Rosedale,America/Chicago
+38771,33.73914,-90.5243,Ruleville,America/Chicago
+38772,33.56254,-91.08769,Scott,America/Chicago
+38773,33.60455,-90.77388,Shaw,America/Chicago
+38774,33.9659,-90.76695,Shelby,America/Chicago
+38776,33.42466,-90.92752,Stoneville,America/Chicago
+38778,33.54564,-90.51832,Sunflower,America/Chicago
+38781,33.90876,-90.75684,Winstonville,America/Chicago
+38801,34.22256,-88.7762,Tupelo,America/Chicago
+38804,34.28094,-88.67246,Tupelo,America/Chicago
+38821,33.97503,-88.43918,Amory,America/Chicago
+38824,34.52303,-88.64334,Baldwyn,America/Chicago
+38826,34.30164,-88.84655,Belden,America/Chicago
+38827,34.53,-88.20244,Belmont,America/Chicago
+38828,34.42365,-88.86789,Blue Springs,America/Chicago
+38829,34.65229,-88.53639,Booneville,America/Chicago
+38833,34.82259,-88.34274,Burnsville,America/Chicago
+38834,34.91627,-88.56027,Corinth,America/Chicago
+38838,34.5448,-88.2643,Dennis,America/Chicago
+38839,33.8558,-89.28404,Derma,America/Chicago
+38841,34.34943,-89.02237,Ecru,America/Chicago
+38843,34.26753,-88.37437,Fulton,America/Chicago
+38844,33.839,-88.25593,Gattman,America/Chicago
+38846,34.85135,-88.39501,Glen,America/Chicago
+38847,34.40772,-88.24074,Golden,America/Chicago
+38848,33.94523,-88.27797,Greenwood Springs,America/Chicago
+38849,34.45442,-88.69319,Guntown,America/Chicago
+38850,34.04792,-89.06705,Houlka,America/Chicago
+38851,33.90763,-88.9637,Houston,America/Chicago
+38852,34.84484,-88.21598,Iuka,America/Chicago
+38855,34.32646,-88.48659,Mantachie,America/Chicago
+38856,34.46835,-88.44553,Marietta,America/Chicago
+38857,34.28004,-88.57808,Mooreville,America/Chicago
+38858,34.10145,-88.53726,Nettleton,America/Chicago
+38859,34.52865,-88.37548,New Site,America/Chicago
+38860,33.97649,-88.75879,Okolona,America/Chicago
+38862,34.16871,-88.62048,Plantersville,America/Chicago
+38863,34.2167,-89.02738,Pontotoc,America/Chicago
+38864,34.14325,-89.20167,Randolph,America/Chicago
+38865,34.78003,-88.58821,Rienzi,America/Chicago
+38866,34.36644,-88.68187,Saltillo,America/Chicago
+38868,34.12168,-88.74692,Shannon,America/Chicago
+38869,34.35627,-88.83635,Sherman,America/Chicago
+38870,34.06886,-88.34125,Smithville,America/Chicago
+38871,34.33582,-89.2055,Thaxton,America/Chicago
+38873,34.66169,-88.25141,Tishomingo,America/Chicago
+38876,34.21457,-88.23112,Tremont,America/Chicago
+38878,33.88179,-89.19231,Vardaman,America/Chicago
+38879,34.19519,-88.71209,Verona,America/Chicago
+38901,33.76275,-89.79799,Grenada,America/Chicago
+38913,34.13774,-89.37836,Banner,America/Chicago
+38914,33.86466,-89.46453,Big Creek,America/Chicago
+38915,34.02807,-89.38957,Bruce,America/Chicago
+38916,33.81815,-89.35158,Calhoun City,America/Chicago
+38917,33.54902,-89.95501,Carrollton,America/Chicago
+38920,33.8823,-90.05018,Cascilla,America/Chicago
+38921,33.98328,-90.1425,Charleston,America/Chicago
+38922,33.93641,-89.64878,Coffeeville,America/Chicago
+38923,33.37829,-89.99354,Coila,America/Chicago
+38924,33.29342,-90.22392,Cruger,America/Chicago
+38925,33.62917,-89.61961,Duck Hill,America/Chicago
+38927,34.13394,-90.01827,Enid,America/Chicago
+38928,33.85405,-90.28731,Glendora,America/Chicago
+38929,33.74014,-89.52425,Gore Springs,America/Chicago
+38930,33.52845,-90.14245,Greenwood,America/Chicago
+38940,33.75145,-90.03505,Holcomb,America/Chicago
+38941,33.48655,-90.35909,Itta Bena,America/Chicago
+38943,33.52033,-89.84525,McCarley,America/Chicago
+38944,33.76106,-90.34242,Minter City,America/Chicago
+38946,33.37701,-90.35591,Morgan City,America/Chicago
+38947,33.51718,-89.92128,North Carrollton,America/Chicago
+38948,34.07635,-89.89364,Oakland,America/Chicago
+38949,34.18542,-89.4151,Paris,America/Chicago
+38950,33.74281,-90.19758,Philipp,America/Chicago
+38951,33.97605,-89.28802,Pittsboro,America/Chicago
+38952,33.63041,-90.33711,Schlater,America/Chicago
+38953,33.91821,-89.92325,Scobey,America/Chicago
+38954,33.41301,-90.21536,Sidon,America/Chicago
+38957,33.98747,-90.37296,Sumner,America/Chicago
+38961,33.96463,-89.8859,Tillatoba,America/Chicago
+38962,33.87201,-90.18465,Tippo,America/Chicago
+38963,34.00442,-90.40598,Tutwiler,America/Chicago
+38964,34.11035,-90.38868,Vance,America/Chicago
+38965,34.13486,-89.59257,Water Valley,America/Chicago
+38966,33.9202,-90.31828,Webb,America/Chicago
+38967,33.45832,-89.72026,Winona,America/Chicago
+39038,33.20179,-90.47023,Belzoni,America/Chicago
+39039,32.82216,-90.22757,Benton,America/Chicago
+39040,32.63907,-90.41314,Bentonia,America/Chicago
+39041,32.41757,-90.47273,Bolton,America/Chicago
+39042,32.2135,-89.88966,Brandon,America/Chicago
+39044,32.02869,-89.97161,Braxton,America/Chicago
+39045,32.78735,-89.8173,Camden,America/Chicago
+39046,32.62834,-89.99634,Canton,America/Chicago
+39047,32.43356,-89.95011,Brandon,America/Chicago
+39051,32.7868,-89.50718,Carthage,America/Chicago
+39054,32.79855,-90.93525,Cary,America/Chicago
+39056,32.37384,-90.35083,Clinton,America/Chicago
+39057,32.49268,-89.28381,Conehatta,America/Chicago
+39058,32.33571,-90.33143,Clinton,America/Chicago
+39059,31.98194,-90.35141,Crystal Springs,America/Chicago
+39061,33.08597,-90.80324,Delta City,America/Chicago
+39062,31.98479,-89.89815,D Lo,America/Chicago
+39063,33.11698,-89.89975,Durant,America/Chicago
+39066,32.30188,-90.60502,Edwards,America/Chicago
+39067,33.11574,-89.44853,Ethel,America/Chicago
+39069,31.6836,-91.04038,Fayette,America/Chicago
+39071,32.54887,-90.3185,Flora,America/Chicago
+39073,32.10269,-90.13049,Florence,America/Chicago
+39074,32.3872,-89.47398,Forest,America/Chicago
+39078,31.87901,-90.19596,Georgetown,America/Chicago
+39079,32.93178,-89.88449,Goodman,America/Chicago
+39082,31.94663,-90.12369,Harrisville,America/Chicago
+39083,31.83467,-90.46997,Hazlehurst,America/Chicago
+39086,31.96275,-90.75964,Hermanville,America/Chicago
+39088,32.73287,-90.7545,Holly Bluff,America/Chicago
+39090,33.00775,-89.54503,Kosciusko,America/Chicago
+39092,32.31489,-89.36833,Lake,America/Chicago
+39094,32.57497,-89.67591,Lena,America/Chicago
+39095,33.11929,-90.09452,Lexington,America/Chicago
+39096,31.82508,-91.11672,Lorman,America/Chicago
+39097,32.99105,-90.59478,Louise,America/Chicago
+39108,33.15684,-89.33033,McCool,America/Chicago
+39110,32.50325,-90.13791,Madison,America/Chicago
+39111,31.89536,-89.71816,Magee,America/Chicago
+39113,32.82707,-91.06476,Mayersville,America/Chicago
+39114,31.95331,-89.83257,Mendenhall,America/Chicago
+39115,33.04679,-90.56133,Midnight,America/Chicago
+39116,31.89165,-89.54925,Mize,America/Chicago
+39117,32.31096,-89.66413,Morton,America/Chicago
+39119,31.75236,-89.67509,Mount Olive,America/Chicago
+39120,31.51148,-91.35206,Natchez,America/Chicago
+39140,31.75211,-90.00512,Newhebron,America/Chicago
+39144,31.82971,-90.80155,Pattison,America/Chicago
+39145,32.33862,-89.79819,Pelahatchie,America/Chicago
+39146,32.88078,-89.99316,Pickens,America/Chicago
+39148,32.06159,-89.99459,Piney Woods,America/Chicago
+39149,31.83354,-90.00985,Pinola,America/Chicago
+39150,31.99264,-90.98487,Port Gibson,America/Chicago
+39152,32.2011,-89.57779,Pulaski,America/Chicago
+39153,32.05133,-89.50159,Raleigh,America/Chicago
+39154,32.22695,-90.44762,Raymond,America/Chicago
+39156,32.53901,-90.77056,Redwood,America/Chicago
+39157,32.42537,-90.16685,Ridgeland,America/Chicago
+39159,32.82894,-90.92476,Rolling Fork,America/Chicago
+39160,32.99756,-89.75336,Sallis,America/Chicago
+39162,32.62627,-90.63395,Satartia,America/Chicago
+39166,33.05161,-90.48208,Silver City,America/Chicago
+39167,32.09316,-90.04003,Star,America/Chicago
+39168,31.82994,-89.40974,Taylorsville,America/Chicago
+39169,33.13515,-90.29371,Tchula,America/Chicago
+39170,32.11182,-90.3377,Terry,America/Chicago
+39173,32.74247,-90.47219,Tinsley,America/Chicago
+39174,32.4009,-90.16018,Tougaloo,America/Chicago
+39175,32.09238,-90.62097,Utica,America/Chicago
+39176,33.30398,-89.74859,Vaiden,America/Chicago
+39177,32.61286,-90.84546,Valley Park,America/Chicago
+39179,32.80873,-90.0984,Vaughan,America/Chicago
+39180,32.223,-90.90225,Vicksburg,America/Chicago
+39183,32.4554,-90.83307,Vicksburg,America/Chicago
+39189,32.60412,-89.4003,Walnut Grove,America/Chicago
+39191,31.71492,-90.40764,Wesson,America/Chicago
+39192,33.19153,-89.75324,West,America/Chicago
+39193,32.23625,-90.07681,Whitfield,America/Chicago
+39194,32.83423,-90.49856,Yazoo City,America/Chicago
+39201,32.28981,-90.18398,Jackson,America/Chicago
+39202,32.31105,-90.16956,Jackson,America/Chicago
+39203,32.30928,-90.20042,Jackson,America/Chicago
+39204,32.28313,-90.23689,Jackson,America/Chicago
+39206,32.37237,-90.17268,Jackson,America/Chicago
+39208,32.25827,-90.08908,Pearl,America/Chicago
+39209,32.39498,-90.30168,Jackson,America/Chicago
+39210,32.32255,-90.17997,Jackson,America/Chicago
+39211,32.37176,-90.12219,Jackson,America/Chicago
+39212,32.24081,-90.26174,Jackson,America/Chicago
+39213,32.39384,-90.23007,Jackson,America/Chicago
+39216,32.33463,-90.1606,Jackson,America/Chicago
+39217,32.29754,-90.20963,Jackson,America/Chicago
+39218,32.22825,-90.15857,Richland,America/Chicago
+39232,32.3361,-90.08693,Flowood,America/Chicago
+39269,32.30114,-90.1889,Jackson,America/Chicago
+39272,32.18838,-90.26335,Byram,America/Chicago
+39301,32.27289,-88.59226,Meridian,America/Chicago
+39305,32.46392,-88.72465,Meridian,America/Chicago
+39307,32.33847,-88.79217,Meridian,America/Chicago
+39309,32.55417,-88.57422,Meridian,America/Chicago
+39320,32.56169,-88.74507,Bailey,America/Chicago
+39322,31.58344,-88.53203,Buckatunna,America/Chicago
+39323,32.34971,-88.92624,Chunky,America/Chicago
+39324,31.58032,-88.69755,Clara,America/Chicago
+39325,32.56198,-88.87362,Collinsville,America/Chicago
+39326,32.59814,-88.67904,Daleville,America/Chicago
+39327,32.44563,-89.12173,Decatur,America/Chicago
+39328,32.75012,-88.69564,De Kalb,America/Chicago
+39330,32.19385,-88.85689,Enterprise,America/Chicago
+39332,32.30399,-89.0046,Hickory,America/Chicago
+39335,32.53214,-88.49263,Lauderdale,America/Chicago
+39336,32.29081,-89.27253,Lawrence,America/Chicago
+39337,32.51447,-88.98528,Little Rock,America/Chicago
+39338,32.11034,-89.23274,Louin,America/Chicago
+39339,33.10417,-89.00259,Louisville,America/Chicago
+39341,33.0998,-88.55702,Macon,America/Chicago
+39342,32.42566,-88.64968,Marion,America/Chicago
+39345,32.28717,-89.12974,Newton,America/Chicago
+39346,32.96171,-89.089,Noxapater,America/Chicago
+39347,32.05507,-88.93419,Pachuta,America/Chicago
+39348,32.00007,-89.03475,Paulding,America/Chicago
+39350,32.79674,-89.12984,Philadelphia,America/Chicago
+39352,32.66834,-88.47808,Porterville,America/Chicago
+39354,32.87945,-88.83625,Preston,America/Chicago
+39355,32.05808,-88.61965,Quitman,America/Chicago
+39356,32.13632,-89.0283,Rose Hill,America/Chicago
+39358,32.83317,-88.45605,Scooba,America/Chicago
+39359,32.56852,-89.33206,Sebastopol,America/Chicago
+39360,31.86357,-88.7409,Shubuta,America/Chicago
+39361,32.97952,-88.61234,Shuqualak,America/Chicago
+39362,31.39326,-88.53988,State Line,America/Chicago
+39363,32.11918,-88.77628,Stonewall,America/Chicago
+39364,32.40597,-88.49617,Toomsuba,America/Chicago
+39365,32.60486,-89.12225,Union,America/Chicago
+39366,31.93795,-88.90057,Vossburg,America/Chicago
+39367,31.68219,-88.6644,Waynesboro,America/Chicago
+39401,31.23496,-89.26912,Hattiesburg,America/Chicago
+39402,31.33446,-89.4132,Hattiesburg,America/Chicago
+39406,31.32895,-89.33515,Hattiesburg,America/Chicago
+39421,31.48411,-89.71179,Bassfield,America/Chicago
+39422,31.95953,-89.26745,Bay Springs,America/Chicago
+39423,31.17553,-88.91103,Beaumont,America/Chicago
+39425,31.05633,-89.06322,Brooklyn,America/Chicago
+39426,30.65375,-89.65709,Carriere,America/Chicago
+39427,31.48693,-89.82701,Carson,America/Chicago
+39428,31.65017,-89.57215,Collins,America/Chicago
+39429,31.25052,-89.76337,Columbia,America/Chicago
+39437,31.57883,-89.21981,Ellisville,America/Chicago
+39439,31.85865,-89.00227,Heidelberg,America/Chicago
+39440,31.694,-89.14791,Laurel,America/Chicago
+39443,31.71932,-89.07376,Laurel,America/Chicago
+39451,31.16722,-88.61757,Leakesville,America/Chicago
+39452,30.88002,-88.59097,Lucedale,America/Chicago
+39455,31.01084,-89.46931,Lumberton,America/Chicago
+39456,31.0282,-88.81819,McLain,America/Chicago
+39459,31.49021,-89.30216,Moselle,America/Chicago
+39461,31.18703,-88.73992,Neely,America/Chicago
+39462,31.22105,-89.05738,New Augusta,America/Chicago
+39464,31.49268,-89.06129,Ovett,America/Chicago
+39465,31.34456,-89.18751,Petal,America/Chicago
+39466,30.53328,-89.63424,Picayune,America/Chicago
+39470,30.81602,-89.57581,Poplarville,America/Chicago
+39474,31.61739,-89.85458,Prentiss,America/Chicago
+39475,31.15496,-89.4129,Purvis,America/Chicago
+39476,31.37855,-88.86764,Richton,America/Chicago
+39477,31.79291,-89.03579,Sandersville,America/Chicago
+39478,31.05306,-89.85768,Sandy Hook,America/Chicago
+39479,31.53775,-89.46065,Seminary,America/Chicago
+39480,31.70889,-89.31529,Soso,America/Chicago
+39481,31.86738,-89.24457,Stringer,America/Chicago
+39482,31.37271,-89.57966,Sumrall,America/Chicago
+39483,31.23515,-89.92674,Foxworth,America/Chicago
+39501,30.3857,-89.10309,Gulfport,America/Chicago
+39503,30.47432,-89.14752,Gulfport,America/Chicago
+39507,30.39945,-89.03628,Gulfport,America/Chicago
+39520,30.26885,-89.47132,Bay Saint Louis,America/Chicago
+39525,30.38123,-89.37065,Diamondhead,America/Chicago
+39529,30.37734,-89.60211,Stennis Space Center,America/Chicago
+39530,30.40344,-88.89165,Biloxi,America/Chicago
+39531,30.40459,-88.96735,Biloxi,America/Chicago
+39532,30.50155,-88.97454,Biloxi,America/Chicago
+39534,30.40856,-88.92122,Biloxi,America/Chicago
+39540,30.47108,-88.90088,Diberville,America/Chicago
+39553,30.41625,-88.64848,Gautier,America/Chicago
+39556,30.44457,-89.42747,Kiln,America/Chicago
+39560,30.37356,-89.17356,Long Beach,America/Chicago
+39561,30.70633,-89.16049,McHenry,America/Chicago
+39562,30.54573,-88.49039,Moss Point,America/Chicago
+39563,30.42449,-88.52601,Moss Point,America/Chicago
+39564,30.40518,-88.75471,Ocean Springs,America/Chicago
+39565,30.5759,-88.75207,Vancleave,America/Chicago
+39567,30.36192,-88.55254,Pascagoula,America/Chicago
+39571,30.41662,-89.28125,Pass Christian,America/Chicago
+39572,30.25089,-89.60127,Pearlington,America/Chicago
+39573,30.72692,-89.08271,Perkinston,America/Chicago
+39574,30.60912,-89.10489,Saucier,America/Chicago
+39576,30.28699,-89.38511,Waveland,America/Chicago
+39577,30.90213,-89.07971,Wiggins,America/Chicago
+39581,30.35048,-88.49324,Pascagoula,America/Chicago
+39595,30.33448,-88.57587,Pascagoula,America/Chicago
+39601,31.56548,-90.47762,Brookhaven,America/Chicago
+39629,31.43729,-90.45737,Bogue Chitto,America/Chicago
+39630,31.45939,-90.84544,Bude,America/Chicago
+39631,31.07321,-91.09581,Centreville,America/Chicago
+39633,31.287,-91.16663,Crosby,America/Chicago
+39635,31.18432,-90.44859,Fernwood,America/Chicago
+39638,31.22378,-90.99747,Gloster,America/Chicago
+39641,31.35717,-90.17042,Jayess,America/Chicago
+39643,31.24575,-90.01368,Kokomo,America/Chicago
+39645,31.1485,-90.79399,Liberty,America/Chicago
+39647,31.51498,-90.7143,McCall Creek,America/Chicago
+39648,31.18611,-90.38804,Mccomb,America/Chicago
+39652,31.11034,-90.46701,Magnolia,America/Chicago
+39653,31.46055,-90.86727,Meadville,America/Chicago
+39654,31.53716,-90.13831,Monticello,America/Chicago
+39656,31.45055,-89.92843,Oak Vale,America/Chicago
+39657,31.02727,-90.50334,Osyka,America/Chicago
+39661,31.48704,-91.07952,Roxie,America/Chicago
+39662,31.38778,-90.29838,Ruth,America/Chicago
+39663,31.58615,-90.02955,Silver Creek,America/Chicago
+39664,31.32894,-90.68252,Smithdale,America/Chicago
+39665,31.64125,-90.21404,Sontag,America/Chicago
+39666,31.2853,-90.48857,Summit,America/Chicago
+39667,31.1298,-90.12656,Tylertown,America/Chicago
+39668,31.69126,-90.79126,Union Church,America/Chicago
+39669,31.14966,-91.39547,Woodville,America/Chicago
+39701,33.41091,-88.50807,Columbus,America/Chicago
+39702,33.43876,-88.34493,Columbus,America/Chicago
+39705,33.58669,-88.43705,Columbus,America/Chicago
+39730,33.83926,-88.56267,Aberdeen,America/Chicago
+39735,33.34511,-89.18998,Ackerman,America/Chicago
+39736,33.4169,-88.64178,Artesia,America/Chicago
+39737,33.65211,-89.33573,Bellefontaine,America/Chicago
+39739,33.23843,-88.57855,Brooksville,America/Chicago
+39740,33.71668,-88.31287,Caledonia,America/Chicago
+39741,33.65254,-88.85536,Cedarbluff,America/Chicago
+39743,33.31913,-88.61308,Crawford,America/Chicago
+39744,33.58344,-89.30374,Eupora,America/Chicago
+39745,33.29984,-89.46277,French Camp,America/Chicago
+39746,33.74697,-88.41544,Hamilton,America/Chicago
+39747,33.42283,-89.5538,Kilmichael,America/Chicago
+39750,33.56331,-89.05751,Maben,America/Chicago
+39751,33.70444,-89.10004,Mantee,America/Chicago
+39752,33.5198,-89.15427,Mathiston,America/Chicago
+39753,33.48441,-88.63052,Mayhew,America/Chicago
+39755,33.61275,-88.95138,Pheba,America/Chicago
+39756,33.78356,-88.74266,Prairie,America/Chicago
+39759,33.43491,-88.82631,Starkville,America/Chicago
+39762,33.44648,-88.79576,Mississippi State,America/Chicago
+39766,33.5876,-88.31598,Steens,America/Chicago
+39767,33.47263,-89.45001,Stewart,America/Chicago
+39769,33.31867,-89.01136,Sturgis,America/Chicago
+39771,33.60694,-89.27873,Walthall,America/Chicago
+39772,33.30509,-89.29893,Weir,America/Chicago
+39773,33.63892,-88.67558,West Point,America/Chicago
+39776,33.78517,-89.03239,Woodland,America/Chicago
+39813,31.42631,-84.68361,Arlington,America/New_York
+39815,30.74138,-84.4935,Attapulgus,America/New_York
+39817,30.93953,-84.59132,Bainbridge,America/New_York
+39819,30.78485,-84.64297,Bainbridge,America/New_York
+39823,31.34004,-84.94641,Blakely,America/New_York
+39824,31.52882,-84.86552,Bluffton,America/New_York
+39825,30.92359,-84.73496,Brinson,America/New_York
+39826,31.82092,-84.32423,Bronwood,America/New_York
+39827,30.94911,-84.21674,Cairo,America/New_York
+39828,30.79741,-84.22444,Cairo,America/New_York
+39832,31.19304,-85.0257,Cedar Springs,America/New_York
+39834,30.89298,-84.42749,Climax,America/New_York
+39836,31.66293,-84.87726,Coleman,America/New_York
+39837,31.15321,-84.67283,Colquitt,America/New_York
+39840,31.78874,-84.75986,Cuthbert,America/New_York
+39841,31.29031,-84.69124,Damascus,America/New_York
+39842,31.75837,-84.44314,Dawson,America/New_York
+39845,30.95011,-84.89329,Donalsonville,America/New_York
+39846,31.56841,-84.74271,Edison,America/New_York
+39851,31.63432,-85.00086,Fort Gaines,America/New_York
+39854,31.86713,-85.04881,Georgetown,America/New_York
+39859,30.99493,-84.80731,Iron City,America/New_York
+39861,31.13635,-84.9884,Jakin,America/New_York
+39862,31.45694,-84.51615,Leary,America/New_York
+39866,31.55954,-84.60553,Morgan,America/New_York
+39867,31.84076,-84.93684,Morris,America/New_York
+39870,31.31944,-84.41071,Newton,America/New_York
+39877,31.9183,-84.50647,Parrott,America/New_York
+39885,31.72189,-84.34304,Sasser,America/New_York
+39886,31.73469,-84.61554,Shellman,America/New_York
+39897,30.91234,-84.33297,Whigham,America/New_York
