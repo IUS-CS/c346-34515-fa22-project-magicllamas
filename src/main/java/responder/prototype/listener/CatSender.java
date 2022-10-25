@@ -10,7 +10,7 @@ public class CatSender extends ListenerAdapter {
 
     @Override
     public void onSlashCommandInteraction(@NotNull SlashCommandInteractionEvent event) {
-    if(event.getName().equals("Cat Launcher")){
+    if(event.getName().equals("CatLauncher")){
         event.reply("https://purepng.com/public/uploads/large/purepng.com-catcat-animal-981524644802hvred.png");
 
     }
