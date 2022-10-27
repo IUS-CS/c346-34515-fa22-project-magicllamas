@@ -5,7 +5,7 @@ import net.dv8tion.jda.api.hooks.ListenerAdapter;
 
 
 /**
- * This is the insult genetator. It has 3 insults so far.
+ * This is the insult genetator.
  * This class is tested in the Test directory
  */
 public class InsultGenerator extends ListenerAdapter {
@@ -30,6 +30,17 @@ public class InsultGenerator extends ListenerAdapter {
             //respond well
             channel.sendMessage("Pull harder, You Silly Wiener Wizard!").queue(); // Important to call .queue() on the RestAction returned by sendMessage(...)
         }
+        else if (content.contains("md")) {
+            MessageChannel channel = event.getChannel();//get whatever you say
+            //respond well
+            channel.sendMessage("Ok nut doctor!").queue(); // Important to call .queue() on the RestAction returned by sendMessage(...)
+        }
+        else if (content.contains("request")) {
+            MessageChannel channel = event.getChannel();//get whatever you say
+            //respond well
+            channel.sendMessage("You are a request and I will not merge you").queue(); // Important to call .queue() on the RestAction returned by sendMessage(...)
+        }
+
     }
 }
 
