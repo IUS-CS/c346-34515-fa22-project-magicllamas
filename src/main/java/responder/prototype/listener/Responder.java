@@ -19,13 +19,12 @@ public class Responder {
         String token = config.get("TOKEN");
         DefaultShardManagerBuilder builder= DefaultShardManagerBuilder.createDefault(token);
         builder.setStatus(OnlineStatus.ONLINE);
-        builder.setActivity(Activity.listening("to your conversation"));
+        builder.setActivity(Activity.listening(" your conversation"));
         builder.enableIntents(GatewayIntent.GUILD_MESSAGES, GatewayIntent.MESSAGE_CONTENT, GatewayIntent.DIRECT_MESSAGES);
         shardManager = builder.build();
 
         shardManager.addEventListener(new InsultGenerator(), new RickRoll(), new CurrentTime(), new CatSender());
 
-    main
     }
 
     public Dotenv getConfig() {

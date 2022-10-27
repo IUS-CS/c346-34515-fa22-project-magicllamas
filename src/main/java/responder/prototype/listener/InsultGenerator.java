@@ -1,5 +1,4 @@
 package responder.prototype.listener;
-
 import net.dv8tion.jda.api.entities.channel.middleman.MessageChannel;
 import net.dv8tion.jda.api.events.message.MessageReceivedEvent;
 import net.dv8tion.jda.api.hooks.ListenerAdapter;
@@ -18,7 +17,7 @@ public class InsultGenerator extends ListenerAdapter {
         String content = event.getMessage().getContentRaw();
 
         //your message contains "!"?
-        if (content.contains("!")) {
+        if (content.equals("!")) {
             MessageChannel channel = event.getChannel();//get whatever you say
             //respond well
             channel.sendMessage("I can't hear ye! Scream a bit louder ye old salt!").queue(); // Important to call .queue() on the RestAction returned by sendMessage(...)
