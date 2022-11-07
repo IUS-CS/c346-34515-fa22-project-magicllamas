@@ -21,13 +21,21 @@ class InsultGeneratorTest {
         MessageReceivedEvent event = mock(MessageReceivedEvent.class);
         Message getMessage= mock(Message.class);
         User user = mock(User.class); // mocking the user object
-        when(user.isBot()).thenReturn(true); // setting up what each method should return
         when(event.getAuthor()).thenReturn(user);
-        when(getMessage.toString()).thenReturn(getMessage.getContentRaw());
+        when(event.getMessage()).thenReturn(getMessage);
 
 
         return event;
     }
+
+    private MessageReceivedEvent scEventBIT() {
+        MessageReceivedEvent event = mock(MessageReceivedEvent.class);
+        User user = mock(User.class); // mocking the user object
+        when(event.getAuthor()).thenReturn(user);
+
+        return event;
+    }
+
     @Test
     public void botIgnoredTest() { //can tell if person with event is bot
         insultGenerator = new InsultGenerator();

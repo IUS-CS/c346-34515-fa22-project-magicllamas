@@ -5,14 +5,14 @@ import net.dv8tion.jda.api.hooks.ListenerAdapter;
 
 
 /**
- * This is the insult genetator.
+ * This is the insult generator.
  * This class is tested in the Test directory
  */
 public class InsultGenerator extends ListenerAdapter {
     @Override
     public void onMessageReceived(MessageReceivedEvent event) {
         //do not respond to other bots
-        if (event.getAuthor().isBot()) return;
+        if (event.getAuthor().isBot()) {return;};
         //get message as string
         String content = event.getMessage().getContentRaw();
 
@@ -21,11 +21,13 @@ public class InsultGenerator extends ListenerAdapter {
             MessageChannel channel = event.getChannel();//get whatever you say
             //respond well
             channel.sendMessage("I can't hear ye! Scream a bit louder ye old salt!").queue(); // Important to call .queue() on the RestAction returned by sendMessage(...)
-        } else if (content.contains("try")) {
+        }
+        else if (content.contains("try")) {
             MessageChannel channel = event.getChannel();//get whatever you say
             //respond well
             channel.sendMessage("You Crusty Nut Explorer!").queue(); // Important to call .queue() on the RestAction returned by sendMessage(...)
-        }else if (content.contains("pull")) {
+        }
+        else if (content.contains("pull")) {
             MessageChannel channel = event.getChannel();//get whatever you say
             //respond well
             channel.sendMessage("Pull harder, You Silly Wiener Wizard!").queue(); // Important to call .queue() on the RestAction returned by sendMessage(...)
