@@ -13,7 +13,6 @@ class RickRollTest {
         ReplyCallbackAction callback = mock(ReplyCallbackAction.class);
         when(event.getName()).thenReturn("icecream");
         String content = "TikToks that are straight bussin.\n<https://www.youtube.com/watch?v=dQw4w9WgXcQ>";
-        //callback = event.reply(content);
         when(event.reply(content)).thenReturn(callback);
         return event;
     }
@@ -23,5 +22,6 @@ class RickRollTest {
         slashCommand = new RickRoll();
         var event = scEvent();
         slashCommand.onSlashCommandInteraction(event);
+        verify(event).reply("TikToks that are straight bussin.\n<https://www.youtube.com/watch?v=dQw4w9WgXcQ>");
     }
 }
