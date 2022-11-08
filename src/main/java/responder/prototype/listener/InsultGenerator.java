@@ -12,7 +12,7 @@ public class InsultGenerator extends ListenerAdapter {
     @Override
     public void onMessageReceived(MessageReceivedEvent event) {
         //do not respond to other bots
-        if (event.getAuthor().isBot()) return;
+        if (event.getAuthor().isBot()) {return;};
         //get message as string
         String content = event.getMessage().getContentRaw();
 
