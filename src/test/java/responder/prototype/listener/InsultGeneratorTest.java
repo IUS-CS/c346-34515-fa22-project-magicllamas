@@ -107,7 +107,6 @@ class InsultGeneratorTest {
         when(getMessage.getContentRaw()).thenReturn("md");
         when(event.getChannel()).thenReturn(channel);
         when(channel.sendMessage("Ok nut doctor!")).thenReturn(callback);
-
         return event;
     }
     @Test

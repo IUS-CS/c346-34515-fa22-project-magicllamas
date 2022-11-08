@@ -41,6 +41,6 @@ public class InsultGenerator extends ListenerAdapter {
             channel.sendMessage("You are a request and I will not merge you").queue(); // Important to call .queue() on the RestAction returned by sendMessage(...)
         }
 
-    }
+    }//
 }
 
