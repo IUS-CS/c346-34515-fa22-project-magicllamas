@@ -22,5 +22,6 @@ class RickRollTest {
         slashCommand = new RickRoll();
         var event = scEvent();
         slashCommand.onSlashCommandInteraction(event);
+        verify(event).reply("TikToks that are straight bussin.\n<https://www.youtube.com/watch?v=dQw4w9WgXcQ>");
     }
 }
