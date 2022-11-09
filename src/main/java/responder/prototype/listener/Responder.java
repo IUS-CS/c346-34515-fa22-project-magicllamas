@@ -22,6 +22,7 @@ public class Responder {
         shardManager = builder.build();
         shardManager.addEventListener(new InsultGenerator());
         shardManager.addEventListener(new CatSender());
+        jda.upsertCommand("CatLauncher", "Launch the cat").queue();
 
     }
 
