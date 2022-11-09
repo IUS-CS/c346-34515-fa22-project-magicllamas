@@ -9,11 +9,18 @@ import net.dv8tion.jda.api.sharding.ShardManager;
 
 import javax.security.auth.login.LoginException;
 
+/**
+ * This is similar to the main class. This is the executable run file for the bot
+ */
 public class Responder {
     private final Dotenv config;
     private final ShardManager shardManager;
 
 
+    /**
+     * This method holds permissions and token information for the specific bot.
+     * @throws LoginException
+     */
     public Responder() throws LoginException{
         config = Dotenv.configure().load();
         String token = config.get("TOKEN");
@@ -27,23 +34,28 @@ public class Responder {
 
     }
 
+    /**
+     * @return the configuration information of the bot
+     */
     public Dotenv getConfig() {
         return config;
     }
 
+    /**
+     * @return takes care of shard
+     */
     public ShardManager getShardManager() {
         return shardManager;
     }
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
 
-        try{
+        try {
             Responder bot = new Responder();
 
-        }catch (LoginException e){
+        } catch (LoginException e) {
             System.out.println("UH, invalid bot token");
         }
-
     }
 }
 
