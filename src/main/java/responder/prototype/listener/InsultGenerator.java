@@ -5,7 +5,7 @@ import net.dv8tion.jda.api.hooks.ListenerAdapter;
 
 
 /**
- * This is the insult genetator.
+ * This is the insult generator.
  * This class is tested in the Test directory
  */
 public class InsultGenerator extends ListenerAdapter {
