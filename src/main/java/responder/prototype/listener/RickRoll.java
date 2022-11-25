@@ -41,6 +41,17 @@ public class RickRoll extends ListenerAdapter {
                         .queue();
             }
         }
+        else if(command.equals("picture")){
+            User user = event.getOption("username").getAsUser();
+            String link = event.getOption("link").getAsString();
+            event.reply(event.getOption("username").getAsUser().getName()
+                    + ", have you seen this before?").queue();
+            for(int i = 0; i < 10; i ++){
+                user.openPrivateChannel()
+                        .flatMap(channel -> channel.sendMessage(link))
+                        .queue();
+            }
+        }
     }
 
 
@@ -53,6 +64,12 @@ public class RickRoll extends ListenerAdapter {
         OptionData option = new OptionData(OptionType.USER, "username", "Select the user to monkey with."
                 , true);
         commandData.add(Commands.slash("monkey", "Choose a user to monkey with.").addOptions(option));
+        OptionData pictureOption1 = new OptionData(OptionType.USER, "username"
+                , "Select the user to monkey with.", true);
+        OptionData pictureOption2 = new OptionData(OptionType.STRING, "link"
+                , "Paste photo link here.", true);
+        commandData.add(Commands.slash("picture", "Send a friend a funny photo.")
+                .addOptions(pictureOption1, pictureOption2));
         event.getGuild().updateCommands().addCommands(commandData).queue();
     }
 }
