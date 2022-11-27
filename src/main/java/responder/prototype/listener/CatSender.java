@@ -23,7 +23,7 @@ public class CatSender extends ListenerAdapter {
         File f = new File("image.png");
 
 
-        if (command.equals("catlauncher")) {
+        if (command.equals("cat launcher")) {
             event.getChannel().sendMessage("https://i0.wp.com/katzenworld.co.uk/wp-content/uploads/2019/06/funny-cat.jpeg?fit=1920%2C1920&ssl=1")
                     .queue();
             ReplyCallbackAction action = event.reply(content);
@@ -34,7 +34,7 @@ public class CatSender extends ListenerAdapter {
     @Override
     public void onGuildReady(@NotNull GuildReadyEvent event) {
         List<CommandData> commandData = new ArrayList<>();
-        commandData.add(Commands.slash("catlauncher", "Launch a cat at friends"));
+        commandData.add(Commands.slash("cat launcher", "Launch a cat at friends"));
         event.getGuild().updateCommands().addCommands(commandData).queue();
     }
 }
