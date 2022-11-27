@@ -2,7 +2,6 @@ package responder.prototype.listener;
 
 import com.opencsv.CSVReader;
 import com.opencsv.CSVReaderBuilder;
-import net.dv8tion.jda.api.events.Event;
 import net.dv8tion.jda.api.events.message.MessageReceivedEvent;
 import net.dv8tion.jda.api.hooks.ListenerAdapter;
 import org.jetbrains.annotations.NotNull;
