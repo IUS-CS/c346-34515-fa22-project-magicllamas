@@ -9,6 +9,7 @@ import net.dv8tion.jda.api.interactions.commands.OptionType;
 import net.dv8tion.jda.api.interactions.commands.build.CommandData;
 import net.dv8tion.jda.api.interactions.commands.build.Commands;
 import net.dv8tion.jda.api.interactions.commands.build.OptionData;
+import net.dv8tion.jda.api.requests.RestAction;
 import net.dv8tion.jda.api.requests.restaction.interactions.ReplyCallbackAction;
 import org.jetbrains.annotations.NotNull;
 
@@ -29,7 +30,7 @@ public class RickRoll extends ListenerAdapter {
         }
         else if(command.equals("nickname")){
             String nickname = event.getOption("newname").getAsString();
-            Objects.requireNonNull(event.getMember()).modifyNickname(nickname).queue();
+            event.getMember().modifyNickname(nickname).queue();
             event.reply("Your nickname on this server has been changed to: " + nickname).queue();
         }
         else if(command.equals("monkey")) {
