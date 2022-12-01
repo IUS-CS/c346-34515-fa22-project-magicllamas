@@ -1,7 +1,6 @@
 package responder.prototype.listener;
 
 
-import net.dv8tion.jda.api.entities.channel.concrete.TextChannel;
 import net.dv8tion.jda.api.events.guild.GuildReadyEvent;
 import net.dv8tion.jda.api.events.interaction.command.SlashCommandInteractionEvent;
 import net.dv8tion.jda.api.hooks.ListenerAdapter;
@@ -21,11 +20,12 @@ public class CatSender extends ListenerAdapter {
     public void onSlashCommandInteraction(@NotNull SlashCommandInteractionEvent event) {
         String command = event.getName();
         String content = "Meow";
-      //  File f = new File("image.png");
+        File f = new File("image.png");
 
 
-        if (command.equals("Cat Launcher")) {
-            //TextChannel.sendFile(f).queue();
+        if (command.equals("cat launcher")) {
+            event.getChannel().sendMessage("https://i0.wp.com/katzenworld.co.uk/wp-content/uploads/2019/06/funny-cat.jpeg?fit=1920%2C1920&ssl=1")
+                    .queue();
             ReplyCallbackAction action = event.reply(content);
             action.queue();
         }
@@ -34,7 +34,7 @@ public class CatSender extends ListenerAdapter {
     @Override
     public void onGuildReady(@NotNull GuildReadyEvent event) {
         List<CommandData> commandData = new ArrayList<>();
-        commandData.add(Commands.slash("Cat Launcher", "Launch a cat at friends"));
+        commandData.add(Commands.slash("cat launcher", "Launch a cat at friends"));
         event.getGuild().updateCommands().addCommands(commandData).queue();
     }
 }
