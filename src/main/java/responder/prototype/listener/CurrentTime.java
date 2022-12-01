@@ -15,37 +15,52 @@ import java.util.TimeZone;
 
 public class CurrentTime extends ListenerAdapter {
     //Used to find Zipcode in one of CSV files and their TimeZone with a binary search
-    public static String binarySearch(List<String[]> stringList, int first, int last, int key){
-        int mid = (first + last)/2;
+    private static String[] returnArray = new String[4];
+    private static String file = "";
+
+    public static String getFile() {
+        return file;
+    }
+
+    public static String[] getReturnArray() {
+        return returnArray;
+    }
+
+    public static String[] binarySearch(List<String[]> stringList, int first, int last, int key){
+        double double_Mid = Math.ceil((Double.valueOf(first) + Double.valueOf(last))/2.0);
+        int mid = (int)double_Mid;
         String[] temp;
+        String[] errorArray = {"Error"};
         try {
             while (first <= last) {
-                temp = stringList.get(mid);
+                temp = stringList.get(mid-2);//reduce mid by 2 cause of how the size of the Zipcode file and first zipcode in that file are sent to method and how the math works out
                 if (Integer.parseInt(temp[0]) < key) {
                     first = mid + 1;
                 } else if (Integer.parseInt(temp[0]) == key) {
-                    String location = temp[4];
-                    return location;
+                    returnArray[0] = temp[1];
+                    returnArray[1] = temp[2];
+                    returnArray[2] = temp[3];
+                    returnArray[3] = temp[4];
+                    return returnArray;
                 } else {
                     last = mid - 1;
                 }
                 mid = (first + last) / 2;
             }
             if (first > last) {
-                return "Error"; //Sends Error back so code and can send proper response to user
+                return errorArray; //Sends Error back so code and can send proper response to user
             }
         } catch (Exception ex){
-            return "Error";//Sends Error back so code and can send proper response to user
+            return errorArray;//Sends Error back so code and can send proper response to user
         }
-        return "Error";//Sends Error back so code and can send proper response to user
+        return errorArray;//Sends Error back so code and can send proper response to user
     }
     //CurrentTime will find the current time and date for the timezone you ask for, but it is limited
     public static String CurrentTime(String Zipcode){
         /**String variables for the location(Area for which the time zone is being looked up),
          * localtime (time to be returned), file (file to be searched) */
-        String location = "";
+        String[] location;
         String localTime;
-        String file = "";
         //List of Arrays for Zipcode CSV file
         List<String[]> ZipcodeFile;
         //Removes whitespace if needed
@@ -98,9 +113,13 @@ public class CurrentTime extends ListenerAdapter {
             //Temp zipcode to be sent to binary Search cause Zipcode is a String in List
             int tempZipcode = Integer.parseInt(Zipcode);
             //location is TimeZone location from Zipcode (Example: America/New_York)
-            location = binarySearch(ZipcodeFile, 2, ZipcodeFile.size(), tempZipcode);
+            location = binarySearch(ZipcodeFile, 2, (ZipcodeFile.size()+1), tempZipcode);
+            //If error don't try to do stuff and actually cause an error
+            if (location[0] == "Error"){
+                return "Error";
+            }
             //Uses TimeZone Library to get time of variable location and sets it to variable df
-            df.setTimeZone(TimeZone.getTimeZone(location));
+            df.setTimeZone(TimeZone.getTimeZone(location[3]));
             //Sets localTime to date and time of searched timeZone with format date
             localTime = df.format(date);
             //Returns localTime
